@@ -1,0 +1,12 @@
+flex:Flexbox specifies how flex items are set inside a flex container. It sets the flex items inside a flex container along a flex line. By default, there is only one flex line per flex container. Everything outside a flex container and inside a flex item is considered as usual. 
+-----------------------------property:
+1.display:flex
+2.flex-direction: row | row-reverse | column | column-reverse;
+3.justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly |
+4.align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline 
+5.flex-wrap:	it specifies whether the flex items should wrap or not,
+6.align-content:	it is used to modify the behavior of the flex-wrap property. 
+7.flex:	it specifies the length of a flex item,
+8.align-content: flex-start | flex-end | center | space-between | space-around | space-evenly
+9.order:	it specifies the order of a flexible item relative to the rest of the flex items inside the same container.
+10.gap: 10px 20px; /* row-gap column gap */
