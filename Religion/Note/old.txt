@@ -1,0 +1,394 @@
+
+function print(val){
+    console.log(val || this)
+}
+
+HTMLElement.prototype.print = print
+
+function get(el, child) {
+    const parentNode = this instanceof HTMLElement ? this : (child ? el : document);
+    return parentNode.querySelector(child || el);
+}
+HTMLElement.prototype.get = get;
+
+function getAll(el,child) {
+    const parentNode = this instanceof HTMLElement ? this : (child ? el : document);
+    return parentNode.querySelectorAll(child || el);
+}
+HTMLElement.prototype.getAll = getAll;
+
+
+function trigger(El,callback){
+    let el = typeof El === 'string' ? get(El) : El
+    el.addEventListener('click',(e)=>callback(e,el))        
+}
+
+function Trigger(El,event,callback){
+    let el = typeof El === 'string' ? get(El) : El
+    el.addEventListener(`${event}`,(e)=>callback(e,el))        
+}
+
+function text(e,t,j){
+    let nodeEl = this instanceof HTMLElement ? this : (typeof e === 'string' ? get(e) : e)
+    let nodeText = nodeEl === this ? e : t
+    let join = nodeEl === this ? t : j
+    if(nodeText || nodeText === '') nodeEl.innerText = join ? nodeEl.innerText + nodeText : nodeText
+    else return nodeEl.innerText
+}
+HTMLElement.prototype.text = text
+
+
+function Text(e,t,j){
+    let nodeEl = this instanceof HTMLElement ? this : (typeof e === 'string' ? get(e) : e)
+    let nodeText = nodeEl === this ? e : t
+    let join = nodeEl === this ? t : j
+    if(nodeText || nodeText === '') nodeEl.textContent = join ? nodeEl.textContent + nodeText : nodeText
+    else return nodeEl.textContent
+}
+HTMLElement.prototype.Text = Text
+
+
+function html(e, h, j) {
+    let nodeEl = this instanceof HTMLElement ? this : (typeof e === 'string' ? get(e) : e);
+    let nodeHtml = nodeEl === this ? e : h;
+    let join = nodeEl === this ? h : j
+    if (nodeHtml || nodeHtml === '') nodeEl.innerHTML = join ? nodeEl.innerHTML + nodeHtml : nodeHtml;
+    else return nodeEl.innerHTML;
+}
+HTMLElement.prototype.html = html
+
+
+function Html(e, h, j) {
+    let nodeEl = this instanceof HTMLElement ? this : (typeof e === 'string' ? get(e) : e);
+    let nodeHtml = nodeEl === this ? e : h;
+    let join = nodeEl === this ? h : j
+    if (nodeHtml || nodeHtml === '') nodeEl.outerHTML = join ? nodeEl.outerHTML + nodeHtml : nodeHtml;
+    else return nodeEl.outerHTML;
+}
+HTMLElement.prototype.Html = Html
+
+
+function attr(e,a,v){
+    let nodeEl = this instanceof HTMLElement ? this : (typeof e === 'string' ? get(e) : e);
+    let attr = nodeEl === this ? e : a
+    let value = nodeEl === this ? a : v    
+    if(value) nodeEl.setAttribute(attr,value)
+    else return nodeEl.getAttribute(attr)    
+}
+HTMLElement.prototype.attr = attr
+
+
+function rattr(El,attr_name){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El);        
+    el.removeAttribute(attr_name || El)
+}
+HTMLElement.prototype.rattr = rattr
+
+
+function remove(El){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El);    
+    el.parentNode.removeChild(el)
+}
+HTMLElement.prototype.remove = remove
+
+
+function create(type, config, El) {
+    let newEl = document.createElement(type);
+    if (!config || !El) return newEl;
+
+    const {class: cls, attr: attrs,html: innerHtml,Html:outerHtml,Text:text_content,text: innerText, id, src,height,width,focus } = config;
+
+    if (cls) stdText(cls).split(' ').forEach(c => elClass(newEl, 'add', c));
+    if (attrs) stdText(attrs).split(' ').forEach(a => {
+        let [key, val] = a.split('=');
+        newEl.attr(key, val);
+    });
+
+    if (innerHtml) newEl.html(innerHtml)
+    if (outerHtml) newEl.Html(outerHtml)        
+    if (innerText) newEl.text(innerText)
+    if (text_content) newEl.Text(text_content)        
+    if (id) newEl.attr('id', id)
+    if (src) newEl.attr('src', src)
+    if(height){newEl.style.height = `${height}px`}    
+    if(width){newEl.style.width = `${width}px`}    
+    if(focus)newEl.focus()    
+
+    if (parent || this instanceof HTMLElement) {
+        let parentEl = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El);
+        parentEl.appendChild(newEl);
+    }
+    return newEl;
+}
+HTMLElement.prototype.create = create
+
+
+
+function elClass(El,method,class_name,replace_class){
+    let el = typeof El === 'string' ?  get(El) : El
+    if(method === 'add'){
+        if(!el.classList.contains(class_name)){
+            el.classList.add(class_name)
+        }
+    }else if(method === 'remove'){
+        if(el.classList.contains(class_name)){
+            el.classList.remove(class_name)
+        }
+    }else if(method === 'toggle'){
+        el.classList.toggle(class_name)
+    }else if(method === 'has' || method === 'check'){
+        return el.classList.contains(class_name)
+    }else if(method === 'replace'){
+       el.classList.remove(class_name)
+       el.classList.add(replace_class)       
+    }
+
+}
+
+
+function lastChild(El){
+    let el = typeof El === 'string' ?  getAll(El) : El    
+    if(!el.length === 0) return ;
+    return el[el.length-1]
+}
+
+
+function stdText(str) {
+    let text = this instanceof String ? this.toString() : str;
+    return text.replace(/\s+/g, ' ').trim();
+}
+
+String.prototype.stdText = stdText;
+
+function removeSymbol(str){
+    let text = this instanceof String ? this.toString() : str;    
+    return text.replace(/[^a-zA-Z0-9. ]/g, '')
+}
+String.prototype.removeSymbol = removeSymbol;
+
+function redirectTo(El){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ?  get(El) : El)        
+    let link = create('a')
+    link.href = `#${el.id}`
+    click(link)
+}
+
+function hide(El){
+    if(El){
+    let el = typeof El === 'string' ?  get(El) : El        
+    elClass(el,'add','d-none')
+    return ;     
+    }
+    if(this instanceof HTMLElement) elClass(this,'add','d-none')            
+}
+
+HTMLElement.prototype.hide = hide
+
+function show(El){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ?  get(El) : El)        
+    elClass(el,'remove','d-none')
+}
+HTMLElement.prototype.show = show
+
+function toggleView(El){
+    let el = typeof El === 'string' ?  get(El) : El
+    elClass(el,'toggle','d-none')    
+}
+
+function click(El){
+    let el = typeof El === 'string' ?  get(El) : El        
+    el.click()
+}
+
+function addSpinner(El,join){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El )       
+    let _join = el === this ? El : join
+    attr(el,'disabled','true')
+    if(_join){
+        el.html(`<span class="mx-1 spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>`,true)
+    }else{
+        el.html(`<button class='btn w-100' disabled><span class="mx-1 spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span></button>`)        
+    }
+}
+HTMLElement.prototype.addSpinner = addSpinner
+
+function removeSpinner(El){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El )       
+    el.removeAttribute('disabled')
+    el.get('.spinner-grow').remove()
+}
+HTMLElement.prototype.removeSpinner = removeSpinner
+
+function addBottomLoading(El,loading_type){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El )       
+    let loading_class = loading_type === 'once' ? 'load-once' : 'load-infinite' 
+    el.classList.add('loading',loading_class)
+}
+HTMLElement.prototype.addBottomLoading = addBottomLoading
+
+function removeBottomLoading(El){
+    let el = this instanceof HTMLElement ? this : (typeof El === 'string' ? get(El) : El )       
+    el.classList.remove('loading','load-once','load-infinite')
+}
+HTMLElement.prototype.removeBottomLoading = removeBottomLoading
+
+
+function getTimeGap(dateFrom){
+let d1 = new Date(dateFrom)
+if(isNaN(d1.getTime())) return ; 
+let d2 = new Date()
+let df_ms = Math.abs(d2-d1)//gap in mili second
+let df_s = Math.floor(df_ms/1000)//gap in second
+let df_mn = Math.floor(df_s/60) //gap in minute
+let df_hr = Math.floor(df_mn/60) //gap in hour
+let df_d = Math.floor(df_hr/24) //gap in day
+let df_yr = d2.getFullYear() - d1.getFullYear()
+let df_mo = (df_yr*12)+(d2.getMonth()-d1.getMonth())
+if(d2.getDate() < d1.getDate()){
+    df_mo--
+}
+df_mo = df_mo < 0 ? 0 : df_mo
+let df_gap = 
+df_yr >= 1 ? `${df_yr}yr` :
+df_mo >= 1 ? `${df_mo}mon`:
+df_d  >= 1 ? `${df_d}d`   :
+df_hr >= 1 ? `${df_hr}hr` :
+df_mn >= 1 ? `${df_mn}min`: 'just now'
+return df_gap
+}
+// end function
+
+
+
+function  updatePageAddress(title, url) {
+        if (!title) return;
+        document.title = title;
+        if (!url) return;
+        updateUrl(url);
+    }
+
+
+function updateUrl(urlText){
+    if(urlText){
+       let defaultUrl = window.location.origin
+       let newUrl = defaultUrl + urlText
+       window.history.pushState({path:newUrl},'',newUrl)
+   }
+}
+
+
+
+function formatFileSize(bytes){
+    const KB = 1024;
+    const MB = KB * 1024;
+    const GB = MB * 1024;
+    return bytes < MB 
+        ? (bytes / KB).toFixed(2) + ' KB' 
+        : bytes < GB 
+        ? (bytes / MB).toFixed(2) + ' MB' 
+        : (bytes / GB).toFixed(2) + ' GB';
+}
+
+
+
+function getFileType(file_name) {
+    const file_ext = file_name.split('.').pop().toLowerCase();
+    const fileExtension = {
+        image: ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'webp', 'svg'],
+        video: ['mp4', 'webm', 'ogg'],
+        audio: ['mp3', 'wav', 'ogg', 'aac', 'm4a'],
+        pdf: ['pdf'],
+        text: ['c', 'h', 'cpp', 'hpp', 'cc', 'cxx', 'hxx', 'java', 'class', 'jar', 'py', 'pyc', 'pyo', 'pyw', 'js', 'mjs', 'jsx', 'ts', 'tsx', 'html', 'htm', 'css', 'php', 'phtml', 'php3', 'php4', 'php5', 'phps', 'rb', 'erb', 'pl', 'pm', 'sh', 'bash', 'zsh', 'r', 'rdata', 'rds', 'sql', 'swift', 'kt', 'kts', 'go', 'rs', 'scala', 'hs', 'lhs', 'cs', 'vb', 'fs', 'm', 'mm', 'f', 'for', 'f90', 'asm', 's', 'pas', 'adb', 'ads', 'vhdl', 'vhd', 'v', 'vh', 'lua', 'tcl', 'dart', 'ex', 'exs', 'erl', 'hrl', 'pl', 'pro', 'cob', 'cbl', 'rkt', 'ji', 'lisp', 'lsp', 'cl', 'scm', 'd', 'groovy', 'rexx', 'rex', 'st', 'vbs', 'ps1', 'coffee', 'ipynb', 'tex', 'sty', 'cls', 'json', 'txt', 'sas', 'scss', 'xml']
+    };
+
+    return Object.entries(fileExtension).find(([, extensions]) => extensions.includes(file_ext))?.[0];
+}
+
+
+function htmlToPdf(El,filename) {
+    const nodeEl = this instanceof HTMLElement ? this : typeof El === 'string' ? get(El) : El;
+    if (!nodeEl) return;
+    let file_name = nodeEl === this ? El : (typeof filename === 'string' && filename.trim() ? filename : 'pdf-file');
+    const options = {
+        margin: 0.5,
+        filename: `${file_name}.pdf`,
+        image: { type: 'jpeg', quality: 1.0 },
+        html2canvas: { 
+            scale: 4, 
+            dpi: 300, 
+            letterRendering: true, 
+            useCORS: true,
+            backgroundColor: null 
+        },
+        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
+    };
+
+    // Check if html2pdf exists and run the methods if it does
+    html2pdf?.()
+        ?.set(options)
+        ?.from(nodeEl)
+        ?.save();
+}
+
+HTMLElement.prototype.htmlToPdf = htmlToPdf;
+
+
+function downloadTextFile(content,fileExt='txt',fileName='TextFile'){
+    const blob = new Blob([content], { type: 'text/plain' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = `${fileName}.${fileExt}`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
+
+
+async function downloadFile(url, filename = 'downloaded file') {
+    try {
+        let response = await fetch(this instanceof String ? this.toString() : url);
+        if (response.ok) {
+            let blob = await response.blob();
+            let downloadUrl = window.URL.createObjectURL(blob);
+            let link = create('a', { attr: `href=${downloadUrl} download=${filename}` },document.body);
+            link.click();
+            link.remove();
+            window.URL.revokeObjectURL(downloadUrl);
+            return { status: true };
+        }
+    } catch (error) {
+        return { error, status: false };
+    }
+}
+String.prototype.downloadFile = downloadFile
+
+
+function readFileContent(file){
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = (event) => resolve(event.target.result);
+        reader.onerror = (error) => reject(error);
+        reader.readAsText(this instanceof File ? this : file);
+    });
+}
+File.prototype.readFileContent = readFileContent
+
+
+function purifyURL(input){return encodeURI(input.trim());}
+String.prototype.purifyURL = purifyURL
+
+async function getFetchData(url, options, callback) {
+    try {
+        let response = await fetch(url, options || {});
+        if (!response.ok) {
+            callback?.(response);
+            return false;
+        }
+        return await response.json() || false;
+    } catch {
+        return false;
+    }
+}
+
+
+
