@@ -1,0 +1,39 @@
+﻿[UpArrow]
+Path=Laser Beam  Alternate (White Beam).cur
+
+[Help]
+Path=Laser Beam Help.cur
+
+[AppStarting]
+Path=Laser Beam Working.ani
+
+[Wait]
+Path=Laser Beam Busy.ani
+
+[Crosshair]
+Path=Laser Beam Precision.cur
+
+[IBeam]
+Path=Laser Beam Text.ani
+
+[No]
+Path=Laser Beam Unavailable.ani
+
+[NWPen]
+Path=Laser Pen Handwriting.ani
+
+[SizeNWSE]
+Path=Laser Pen Diagonal Resize 1.ani
+
+[SizeNESW]
+Path=Laser Pen Diagonal Resize 2.ani
+
+[SizeWE]
+Path=Laser Pen Horizonntal.ani
+
+[SizeNS]
+Path=Laser Pen Vertical.ani
+
+[SizeAll]
+Path=Laser Beam Move.ani
+
