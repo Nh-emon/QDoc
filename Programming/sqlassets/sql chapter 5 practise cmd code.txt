@@ -1,0 +1,513 @@
+Microsoft Windows [Version 10.0.19045.5608]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>mysql -u root -p
+Enter password: *************
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 9
+Server version: 8.0.33 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2023, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| auto_shop          |
+| employees          |
+| friends            |
+| imdb               |
+| information_schema |
+| mysql              |
+| node_project       |
+| office             |
+| performance_schema |
+| practise           |
+| sqlpro             |
+| student_info       |
+| sys                |
++--------------------+
+13 rows in set (0.09 sec)
+
+mysql> use auto_shop;
+Database changed
+mysql> show tables;
++---------------------+
+| Tables_in_auto_shop |
++---------------------+
+| customers           |
+| departments         |
+| employees           |
++---------------------+
+3 rows in set (0.01 sec)
+
+mysql> desc customers;
++------------------+--------------+------+-----+---------+----------------+
+| Field            | Type         | Null | Key | Default | Extra          |
++------------------+--------------+------+-----+---------+----------------+
+| Id               | int          | NO   | PRI | NULL    | auto_increment |
+| FName            | varchar(35)  | NO   |     | NULL    |                |
+| LName            | varchar(35)  | NO   |     | NULL    |                |
+| Email            | varchar(100) | NO   |     | NULL    |                |
+| PhoneNumber      | varchar(11)  | YES  |     | NULL    |                |
+| PreferredContact | varchar(5)   | NO   |     | NULL    |                |
++------------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.01 sec)
+
+mysql> INSERT INTO customers (Id,Fname,Lname,Email,PhoneNumber,PreferredContact)
+    -> VALUES
+    -> (1,'William','Jones','william.jones@example.com','3347927472','PHONE');
+Query OK, 1 row affected (0.04 sec)
+
+mysql> table customers;
++----+---------+-------+---------------------------+-------------+------------------+
+| Id | FName   | LName | Email                     | PhoneNumber | PreferredContact |
++----+---------+-------+---------------------------+-------------+------------------+
+|  1 | William | Jones | william.jones@example.com | 3347927472  | PHONE            |
++----+---------+-------+---------------------------+-------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> INSERT INTO customers (Id,Fname,Lname,Email,PhoneNumber,PreferredContact)
+    -> VALUES
+    -> (2,'David','Miller','dmiller@example.net','2137921892','EMAIL'),
+    -> (3,'Richard','Davis','richard291@example.com',NULL,'EMAIL');
+Query OK, 2 rows affected (0.04 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> table customers;
++----+---------+--------+---------------------------+-------------+------------------+
+| Id | FName   | LName  | Email                     | PhoneNumber | PreferredContact |
++----+---------+--------+---------------------------+-------------+------------------+
+|  1 | William | Jones  | william.jones@example.com | 3347927472  | PHONE            |
+|  2 | David   | Miller | dmiller@example.net       | 2137921892  | EMAIL            |
+|  3 | Richard | Davis  | richard291@example.com    | NULL        | EMAIL            |
++----+---------+--------+---------------------------+-------------+------------------+
+3 rows in set (0.00 sec)
+
+mysql> CREATE TABLE cars (
+    -> Id INT NOT NULL AUTO_INCREMENT,
+    -> CustomerId INT NOT NULL,
+    -> EmployeeId INT NOT NULL,
+    -> Model VARCHAR(50) NOT NULL,
+    -> Status VARCHAR(25) NOT NULL,
+    -> TotalCoast INT NOT NULL,
+    -> PRIMARY KEY(Id),
+    -> FOREIGN KEY(Id),
+    -> \c
+mysql> CREATE TABLE cars (
+    -> Id INT NOT NULL AUTO_INCREMENT,
+    -> CustomerId INT NOT NULL,
+    -> EmployeeId INT NOT NULL,
+    -> Model VARCHAR(50) NOT NULL,
+    -> Status VARCHAR(25) NOT NULL,
+    -> TotalCoast INT NOT NULL,
+    -> PRIMARY KEY(Id),
+    -> FOREIGN KEY(CustomerId) REFERENCES  Customers(Id),
+    -> FOREIGN KEY (EmployeeId) REFERENCES Employees(Id)
+    -> );
+Query OK, 0 rows affected (0.16 sec)
+
+mysql> show tables;
++---------------------+
+| Tables_in_auto_shop |
++---------------------+
+| cars                |
+| customers           |
+| departments         |
+| employees           |
++---------------------+
+4 rows in set (0.01 sec)
+
+mysql> desc cars;
++------------+-------------+------+-----+---------+----------------+
+| Field      | Type        | Null | Key | Default | Extra          |
++------------+-------------+------+-----+---------+----------------+
+| Id         | int         | NO   | PRI | NULL    | auto_increment |
+| CustomerId | int         | NO   | MUL | NULL    |                |
+| EmployeeId | int         | NO   | MUL | NULL    |                |
+| Model      | varchar(50) | NO   |     | NULL    |                |
+| Status     | varchar(25) | NO   |     | NULL    |                |
+| TotalCoast | int         | NO   |     | NULL    |                |
++------------+-------------+------+-----+---------+----------------+
+6 rows in set (0.01 sec)
+
+mysql> INSER INTO cars
+    -> VALUES
+    -> (1,1,1,'Ford F-150','Ready',230);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSER INTO cars
+VALUES
+(1,1,1,'Ford F-150','Ready',230)' at line 1
+mysql> INSERT INTO cars (Id,CustomerId,EmployeeId,Model,Status,TotalCoast)
+    -> VALUES
+    -> (1,1,2,'Ford F-150','Ready',230);
+Query OK, 1 row affected (0.03 sec)
+
+mysql> table cars;
++----+------------+------------+------------+--------+------------+
+| Id | CustomerId | EmployeeId | Model      | Status | TotalCoast |
++----+------------+------------+------------+--------+------------+
+|  1 |          1 |          2 | Ford F-150 | Ready  |        230 |
++----+------------+------------+------------+--------+------------+
+1 row in set (0.00 sec)
+
+mysql> INSERT INTO cars (Id,CustomerId,EmployeeId,Model,Status,TotalCoast)
+    -> VALUES
+    -> (2,1,2,'Ford F-150','Ready',200),
+    -> (3,2,1,'Ford Mustang','WAITING',100),
+    -> (4,3,3,'Toyota Prius','WORKING',1254);
+Query OK, 3 rows affected (0.05 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> table cars;
++----+------------+------------+--------------+---------+------------+
+| Id | CustomerId | EmployeeId | Model        | Status  | TotalCoast |
++----+------------+------------+--------------+---------+------------+
+|  1 |          1 |          2 | Ford F-150   | Ready   |        230 |
+|  2 |          1 |          2 | Ford F-150   | Ready   |        200 |
+|  3 |          2 |          1 | Ford Mustang | WAITING |        100 |
+|  4 |          3 |          3 | Toyota Prius | WORKING |       1254 |
++----+------------+------------+--------------+---------+------------+
+4 rows in set (0.00 sec)
+
+mysql> CREATE DATABASE library;
+Query OK, 1 row affected (0.04 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| auto_shop          |
+| employees          |
+| friends            |
+| imdb               |
+| information_schema |
+| library            |
+| mysql              |
+| node_project       |
+| office             |
+| performance_schema |
+| practise           |
+| sqlpro             |
+| student_info       |
+| sys                |
++--------------------+
+14 rows in set (0.00 sec)
+
+mysql> use libarary;
+ERROR 1049 (42000): Unknown database 'libarary'
+mysql> use library;
+Database changed
+mysql> CREATE TABLE Authors(
+    -> Id INT NOT NULL AUTO_INCREMENT,
+    -> Name VARCHAR(70) NOT NULL,
+    -> Country VARCHAR(100) NOT NULL,
+    -> PRIMARY KEY(Id)
+    -> );
+Query OK, 0 rows affected (0.76 sec)
+
+mysql> show tables;
++-------------------+
+| Tables_in_library |
++-------------------+
+| authors           |
++-------------------+
+1 row in set (0.01 sec)
+
+mysql> desc authors;
++---------+--------------+------+-----+---------+----------------+
+| Field   | Type         | Null | Key | Default | Extra          |
++---------+--------------+------+-----+---------+----------------+
+| Id      | int          | NO   | PRI | NULL    | auto_increment |
+| Name    | varchar(70)  | NO   |     | NULL    |                |
+| Country | varchar(100) | NO   |     | NULL    |                |
++---------+--------------+------+-----+---------+----------------+
+3 rows in set (0.01 sec)
+
+mysql> INSERT INTO authors (Name,Country)
+    -> VALUES
+    -> ('J.D Salinger','USA');
+Query OK, 1 row affected (0.04 sec)
+
+mysql> table authors;
++----+--------------+---------+
+| Id | Name         | Country |
++----+--------------+---------+
+|  1 | J.D Salinger | USA     |
++----+--------------+---------+
+1 row in set (0.00 sec)
+
+mysql> INSERT INTO authors (Name,Country)
+    -> VALUES
+    -> ('F. Scott Fitzgerald','USA'),
+    -> ('Jane Austen','UK'),
+    -> ('Scott Hanselman','USA'),
+    -> ('Jason N.Gaylord','USA'),
+    -> ('Pranav Rastogi','India'),
+    -> ('Todd Miranda','USA'),
+    -> ('Chiristian Wenz','USA');
+Query OK, 7 rows affected (0.08 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+mysql> table authors;
++----+---------------------+---------+
+| Id | Name                | Country |
++----+---------------------+---------+
+|  1 | J.D Salinger        | USA     |
+|  2 | F. Scott Fitzgerald | USA     |
+|  3 | Jane Austen         | UK      |
+|  4 | Scott Hanselman     | USA     |
+|  5 | Jason N.Gaylord     | USA     |
+|  6 | Pranav Rastogi      | India   |
+|  7 | Todd Miranda        | USA     |
+|  8 | Chiristian Wenz     | USA     |
++----+---------------------+---------+
+8 rows in set (0.00 sec)
+
+mysql> CREATE TABLE Books (
+    -> Id INT NOT NULL AUTO_INCREMENT,
+    -> Title VARCHAR(50) NOT NULL,
+    -> PRIMARY KEY(Id)
+    -> );
+Query OK, 0 rows affected (0.35 sec)
+
+mysql> show tables;
++-------------------+
+| Tables_in_library |
++-------------------+
+| authors           |
+| books             |
++-------------------+
+2 rows in set (0.00 sec)
+
+mysql> desc books;
++-------+-------------+------+-----+---------+----------------+
+| Field | Type        | Null | Key | Default | Extra          |
++-------+-------------+------+-----+---------+----------------+
+| Id    | int         | NO   | PRI | NULL    | auto_increment |
+| Title | varchar(50) | NO   |     | NULL    |                |
++-------+-------------+------+-----+---------+----------------+
+2 rows in set (0.01 sec)
+
+mysql> INSERT INTO books (Id,Title)
+    -> VALUES
+    -> (1,'The Catcher in the Rye');
+Query OK, 1 row affected (0.11 sec)
+
+mysql> table books;
++----+------------------------+
+| Id | Title                  |
++----+------------------------+
+|  1 | The Catcher in the Rye |
++----+------------------------+
+1 row in set (0.00 sec)
+
+mysql> INSERT INTO books (Id,Title)
+    -> VALUES
+    -> (2,'Nine Stories'),
+    -> (3,'Franny and Zooey'),
+    -> (4,'The Great Gatsbay'),
+    -> (5,'Tender is the Night'),
+    -> (6,'Pride and Prejudice'),
+    -> (7,'Professional ASP.net 4.5 in C# and VB');
+Query OK, 6 rows affected (0.10 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+mysql> table books;
++----+---------------------------------------+
+| Id | Title                                 |
++----+---------------------------------------+
+|  1 | The Catcher in the Rye                |
+|  2 | Nine Stories                          |
+|  3 | Franny and Zooey                      |
+|  4 | The Great Gatsbay                     |
+|  5 | Tender is the Night                   |
+|  6 | Pride and Prejudice                   |
+|  7 | Professional ASP.net 4.5 in C# and VB |
++----+---------------------------------------+
+7 rows in set (0.00 sec)
+
+mysql> CREATE TABLE BooksAuthors(
+    -> AuthorId INT NOT NULL,
+    -> BookId INT NOT NULL,
+    -> FOREIGN KEY(AuthorId) REFERENCES Authors(Id),
+    -> FOREIGN KEY(BookId) REFERENCES Books(Id)
+    -> );
+Query OK, 0 rows affected (0.36 sec)
+
+mysql> show tables;
++-------------------+
+| Tables_in_library |
++-------------------+
+| authors           |
+| books             |
+| booksauthors      |
++-------------------+
+3 rows in set (0.00 sec)
+
+mysql> desc booksauthors;
++----------+------+------+-----+---------+-------+
+| Field    | Type | Null | Key | Default | Extra |
++----------+------+------+-----+---------+-------+
+| AuthorId | int  | NO   | MUL | NULL    |       |
+| BookId   | int  | NO   | MUL | NULL    |       |
++----------+------+------+-----+---------+-------+
+2 rows in set (0.01 sec)
+
+mysql> INSERT INTO booksauthors(BookId,AuthorId)
+    -> Values
+    -> (1,1),(2,1),(3,1),(4,2),(5,2),(6,3),(7,4),(7,5),(7,6),(7,7),(7,8);
+Query OK, 11 rows affected (0.09 sec)
+Records: 11  Duplicates: 0  Warnings: 0
+
+mysql> table booksauthors;
++----------+--------+
+| AuthorId | BookId |
++----------+--------+
+|        1 |      1 |
+|        1 |      2 |
+|        1 |      3 |
+|        2 |      4 |
+|        2 |      5 |
+|        3 |      6 |
+|        4 |      7 |
+|        5 |      7 |
+|        6 |      7 |
+|        7 |      7 |
+|        8 |      7 |
++----------+--------+
+11 rows in set (0.00 sec)
+
+mysql> SELECT * FROM authors;
++----+---------------------+---------+
+| Id | Name                | Country |
++----+---------------------+---------+
+|  1 | J.D Salinger        | USA     |
+|  2 | F. Scott Fitzgerald | USA     |
+|  3 | Jane Austen         | UK      |
+|  4 | Scott Hanselman     | USA     |
+|  5 | Jason N.Gaylord     | USA     |
+|  6 | Pranav Rastogi      | India   |
+|  7 | Todd Miranda        | USA     |
+|  8 | Chiristian Wenz     | USA     |
++----+---------------------+---------+
+8 rows in set (0.01 sec)
+
+mysql> SELECT * FROM books;
++----+---------------------------------------+
+| Id | Title                                 |
++----+---------------------------------------+
+|  1 | The Catcher in the Rye                |
+|  2 | Nine Stories                          |
+|  3 | Franny and Zooey                      |
+|  4 | The Great Gatsbay                     |
+|  5 | Tender is the Night                   |
+|  6 | Pride and Prejudice                   |
+|  7 | Professional ASP.net 4.5 in C# and VB |
++----+---------------------------------------+
+7 rows in set (0.00 sec)
+
+mysql> SELECT
+    -> ba.AuthorId AS AuthorName,
+    -> \c
+mysql> SELECT
+    -> ba.AuthorId,
+    -> a.Name AS AuthorName,
+    -> ba.BookId,
+    -> b.Title AS BookTitle
+    -> FROM BooksAuthors ba
+    -> INNER JOIN Authors a ON a.Id = ba.AuthorId
+    -> INNER JOIN Books b ON b.Id = ba.BookId;
++----------+---------------------+--------+---------------------------------------+
+| AuthorId | AuthorName          | BookId | BookTitle                             |
++----------+---------------------+--------+---------------------------------------+
+|        1 | J.D Salinger        |      1 | The Catcher in the Rye                |
+|        1 | J.D Salinger        |      2 | Nine Stories                          |
+|        1 | J.D Salinger        |      3 | Franny and Zooey                      |
+|        2 | F. Scott Fitzgerald |      4 | The Great Gatsbay                     |
+|        2 | F. Scott Fitzgerald |      5 | Tender is the Night                   |
+|        3 | Jane Austen         |      6 | Pride and Prejudice                   |
+|        4 | Scott Hanselman     |      7 | Professional ASP.net 4.5 in C# and VB |
+|        5 | Jason N.Gaylord     |      7 | Professional ASP.net 4.5 in C# and VB |
+|        6 | Pranav Rastogi      |      7 | Professional ASP.net 4.5 in C# and VB |
+|        7 | Todd Miranda        |      7 | Professional ASP.net 4.5 in C# and VB |
+|        8 | Chiristian Wenz     |      7 | Professional ASP.net 4.5 in C# and VB |
++----------+---------------------+--------+---------------------------------------+
+11 rows in set (0.00 sec)
+
+mysql> CREATAE DATABASE Country;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATAE DATABASE Country' at line 1
+mysql> CREATE DATABASE Country;
+Query OK, 1 row affected (0.10 sec)
+
+mysql> use country;
+Database changed
+mysql> show tables;
+Empty set (0.01 sec)
+
+mysql> CREATE TABLE Countries(
+    -> Id INT NOT NULL AUTO_INCREMENT,
+    -> ISO VARCHAR(2) NOT NULL,
+    -> ISO3 VARCHAR(3) NOT NULL,
+    -> ISONumeric INT NOT NULL,
+    -> CountryName VARCHAR(64) NOT NULL,
+    -> Capital VARCHAR(64) NOT NULL,
+    -> ContinentCode  VARCHAR(2) NOT NULL,
+    -> CurrencyCode VARCHAR(3) NOT NULL,
+    -> PRIMARY KEY(Id)
+    -> );
+Query OK, 0 rows affected (0.20 sec)
+
+mysql> show tables;
++-------------------+
+| Tables_in_country |
++-------------------+
+| countries         |
++-------------------+
+1 row in set (0.00 sec)
+
+mysql> desc countries;
++---------------+-------------+------+-----+---------+----------------+
+| Field         | Type        | Null | Key | Default | Extra          |
++---------------+-------------+------+-----+---------+----------------+
+| Id            | int         | NO   | PRI | NULL    | auto_increment |
+| ISO           | varchar(2)  | NO   |     | NULL    |                |
+| ISO3          | varchar(3)  | NO   |     | NULL    |                |
+| ISONumeric    | int         | NO   |     | NULL    |                |
+| CountryName   | varchar(64) | NO   |     | NULL    |                |
+| Capital       | varchar(64) | NO   |     | NULL    |                |
+| ContinentCode | varchar(2)  | NO   |     | NULL    |                |
+| CurrencyCode  | varchar(3)  | NO   |     | NULL    |                |
++---------------+-------------+------+-----+---------+----------------+
+8 rows in set (0.03 sec)
+
+mysql> INSERT INTO Countries (ISO, ISO3, ISONumeric, CountryName, Capital, ContinentCode, CurrencyCode)
+    -> VALUES
+    ->     ('AU', 'AUS', 36, 'Australia', 'Canberra', 'OC', 'AUD'),
+    ->     ('DE', 'DEU', 276, 'Germany', 'Berlin', 'EU', 'EUR'),
+    ->     ('IN', 'IND', 356, 'India', 'New Delhi', 'AS', 'INR'),
+    ->     ('LA', 'LAO', 418, 'Laos', 'Vientiane', 'AS', 'LAK'),
+    ->     ('US', 'USA', 840, 'United States', 'Washington', 'NA', 'USD'),
+    ->     ('ZW', 'ZWE', 716, 'Zimbabwe', 'Harare', 'AF', 'ZWL');
+Query OK, 6 rows affected (0.10 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+mysql> table countries;
++----+-----+------+------------+---------------+------------+---------------+--------------+
+| Id | ISO | ISO3 | ISONumeric | CountryName   | Capital    | ContinentCode | CurrencyCode |
++----+-----+------+------------+---------------+------------+---------------+--------------+
+|  1 | AU  | AUS  |         36 | Australia     | Canberra   | OC            | AUD          |
+|  2 | DE  | DEU  |        276 | Germany       | Berlin     | EU            | EUR          |
+|  3 | IN  | IND  |        356 | India         | New Delhi  | AS            | INR          |
+|  4 | LA  | LAO  |        418 | Laos          | Vientiane  | AS            | LAK          |
+|  5 | US  | USA  |        840 | United States | Washington | NA            | USD          |
+|  6 | ZW  | ZWE  |        716 | Zimbabwe      | Harare     | AF            | ZWL          |
++----+-----+------+------------+---------------+------------+---------------+--------------+
+6 rows in set (0.00 sec)
+
+mysql>
