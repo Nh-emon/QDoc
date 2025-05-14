@@ -1,4 +1,4 @@
-<sn><hr><md>### 📘 `Object.assign()` in JavaScript
+<sn><md>### 📘 `Object.assign()` in JavaScript
 
 `Object.assign()` is used to **copy properties** from one or more source objects into a **target object**. It returns the **modified target object**.
 
