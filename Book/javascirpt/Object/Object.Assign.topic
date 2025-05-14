@@ -1,1 +1,89 @@
-<sn><h3><strong>Heading ....</strong></h3><hr></sn>
+<sn><h3><strong>Heading ....</strong></h3><hr><md>### 📘 `Object.assign()` in JavaScript
+
+`Object.assign()` is used to **copy properties** from one or more source objects into a **target object**. It returns the **modified target object**.
+
+---
+
+### ✅ Syntax
+
+```js
+Object.assign(target, ...sources)
+```
+
+* `target`: The object to receive properties.
+* `sources`: One or more source objects whose properties will be copied.
+
+---
+
+### 📦 Basic Example
+
+```js
+const target = { a: 1 };
+const source = { b: 2 };
+
+const result = Object.assign(target, source);
+console.log(result); // 👉 { a: 1, b: 2 }
+```
+
+&gt; `target` is modified and returned.
+
+---
+
+### 🧠 Key Notes
+
+1. **Shallow copy only** — nested objects are not deeply cloned.
+2. **Later sources override earlier ones** if keys conflict.
+3. Can be used to **clone** or **merge** objects.
+
+---
+
+### 🔁 Overwrite Example
+
+```js
+const a = { x: 1, y: 2 };
+const b = { y: 10, z: 3 };
+
+const merged = Object.assign({}, a, b);
+console.log(merged); // 👉 { x: 1, y: 10, z: 3 }
+```
+
+&gt; `b.y` overrides `a.y` because `b` comes after `a`.
+
+---
+
+### ⚠️ Shallow Copy Example
+
+```js
+const obj1 = { nested: { a: 1 } };
+const clone = Object.assign({}, obj1);
+
+clone.nested.a = 99;
+console.log(obj1.nested.a); // 👉 99 (same reference!)
+```
+
+&gt; Only the top-level is copied; nested structures are **shared**.
+
+---
+
+### ✅ Use Cases
+
+| Use Case                            | Example                                |
+| ----------------------------------- | -------------------------------------- |
+| Merge objects                       | `Object.assign({}, obj1, obj2)`        |
+| Add properties                      | `Object.assign(obj, { newProp: 123 })` |
+| Clone object (shallow)              | `Object.assign({}, originalObj)`       |
+| Polyfill for `Object.fromEntries()` | By custom assignment                   |
+
+---
+
+### ✅ Summary
+
+| Feature          | Description                    |
+| ---------------- | ------------------------------ |
+| Function name    | `Object.assign()`              |
+| Copies from      | One or more source objects     |
+| Target modified? | ✅ Yes                          |
+| Deep copy?       | ❌ No (only shallow)            |
+| Returns          | The modified **target** object |
+
+</md></sn>
