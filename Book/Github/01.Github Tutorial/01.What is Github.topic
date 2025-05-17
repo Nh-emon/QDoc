@@ -1,1 +1,35 @@
-<sn></sn><config style='display:none'><tags>#01.what is github</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 21:20:30 GMT+0600 (Bangladesh Standard Time)</udate><id>article-gZR8uVk6Kr</id><duration></duration></config>
+ <sn><md>**GitHub** is a cloud-based platform for developers to **store, manage, track, and collaborate** on software projects using **Git**, a version control system. It is widely used for **code sharing**, **collaborative development**, and **open-source projects**.
+
+---
+
+### ⚙️ How GitHub Works (Step-by-Step):
+
+1. **Repository (Repo)**: A container for your project (code, files, documentation).
+2. **Git**: A tool installed locally to track changes (version control).
+3. **Clone**: Copy a GitHub repo to your computer.
+4. **Commit**: Save changes locally with a message.
+5. **Push**: Send local changes to GitHub.
+6. **Pull**: Bring changes from GitHub to your local machine.
+7. **Branches**: Create separate lines of development.
+8. **Merge**: Combine branches together.
+9. **Pull Requests**: Request to merge code into another branch (often main).
+10. **Collaborate**: Others can review, suggest changes, and contribute.
+
+---
+
+### 📊 GitHub: 10 Key Facts Table
+
+| 🔢 No. | 🧾 Fact                  | 📌 Description                                                               |
+| ------ | ------------------------ | ---------------------------------------------------------------------------- |
+| 1      | Founded                  | GitHub was founded in 2008                                                   |
+| 2      | Owned by                 | Microsoft acquired GitHub in 2018                                            |
+| 3      | Version Control          | GitHub uses Git, a distributed version control system                        |
+| 4      | Public &amp; Private Repos   | Users can create both public and private repositories                        |
+| 5      | Pull Request System      | Central feature for code review and collaboration                            |
+| 6      | GitHub Actions           | Automate workflows (CI/CD, testing, deployment)                              |
+| 7      | Issues &amp; Discussions     | Used for bug tracking, enhancements, and community interaction               |
+| 8      | GitHub Pages             | Host static websites directly from a repository                              |
+| 9      | Integration              | Integrates with tools like VS Code, Slack, Jira, and more                    |
+| 10     | Open-source Contribution | Largest platform for open-source collaboration with millions of public repos |
+
+</md></sn><config style="display:none"><tags>#01.what is github</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 21:23:34 GMT+0600 (Bangladesh Standard Time)</udate><id>article-gZR8uVk6Kr</id><duration></duration></config>
