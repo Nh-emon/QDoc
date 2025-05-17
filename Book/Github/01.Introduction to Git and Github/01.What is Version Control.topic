@@ -1,1 +1,32 @@
-<sn></sn><config style='display:none'><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 21:58:14 GMT+0600 (Bangladesh Standard Time)</udate><id>article-3OYsu0ckNW</id><duration></duration></config>
+<sn><md>### 🧠 What is Version Control?
+
+**Version Control** is a system that helps you **track changes to files over time**, especially source code. It allows multiple people to **collaborate**, **revert to previous versions**, and **manage updates** without overwriting each other’s work.
+
+---
+
+### 🔧 Key Features:
+
+* 📜 **Track History**: Every change is recorded—who made it, when, and what was changed.
+* 👥 **Collaboration**: Multiple people can work on the same project simultaneously.
+* 🔁 **Rollback Capability**: Restore previous versions of your files at any time.
+* 🌱 **Branching**: Work on new features or experiments without affecting the main code.
+* ⚔️ **Merge and Conflict Resolution**: Integrate changes from different contributors.
+
+---
+
+### 📦 Two Main Types:
+
+| Type                | Description                               | Example Tools  |
+| ------------------- | ----------------------------------------- | -------------- |
+| **Centralized VCS** | Single central server stores all versions | SVN, CVS       |
+| **Distributed VCS** | Each developer has a full repo copy       | Git, Mercurial |
+
+---
+
+### ✅ Why Use Version Control?
+
+* Prevents accidental file loss or overwriting
+* Enhances teamwork and accountability
+* Maintains a clean development history
+* Makes software development safer and faster
+</md></sn><config style="display:none"><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 22:04:38 GMT+0600 (Bangladesh Standard Time)</udate><id>article-3OYsu0ckNW</id><duration></duration></config>
