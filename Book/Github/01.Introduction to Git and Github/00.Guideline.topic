@@ -1,1 +1,106 @@
-<sn></sn><config style='display:none'><tags>#00.guideline</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 21:58:55 GMT+0600 (Bangladesh Standard Time)</udate><id>article-5uwh4cc1se</id><duration></duration></config>
+<sn><md>
+
+### 📘 **Chapter 1: Introduction to Git and GitHub**
+
+* What is Version Control?
+* Difference between Git and GitHub
+* Installing Git and Setting up GitHub
+* Creating your GitHub account
+
+---
+
+### 📗 **Chapter 2: Git Basics**
+
+* Git configuration and setup (`git config`)
+* Creating a new repository
+* Understanding the Git lifecycle: `init`, `add`, `commit`, `status`
+* Viewing commit history (`log`, `diff`, `show`)
+
+---
+
+### 📙 **Chapter 3: Remote Repositories with GitHub**
+
+* Cloning repositories
+* Adding/removing remotes
+* Pushing and pulling changes
+* Understanding origin and upstream
+
+---
+
+### 📕 **Chapter 4: Branching and Merging**
+
+* Creating and switching branches
+* Merging branches and resolving conflicts
+* Rebase vs Merge
+* Deleting branches locally and remotely
+
+---
+
+### 📒 **Chapter 5: GitHub Collaboration**
+
+* Forking repositories
+* Opening and reviewing Pull Requests
+* Code reviews and comments
+* Assigning reviewers and handling merge conflicts
+
+---
+
+### 📔 **Chapter 6: GitHub Project Management**
+
+* Creating and managing issues
+* Using labels, milestones, and assignees
+* Using GitHub Projects (kanban boards)
+* Wiki and Documentation on GitHub
+
+---
+
+### 📓 **Chapter 7: Advanced Git Concepts**
+
+* Stashing and cleaning changes
+* Cherry-pick and revert
+* Tags and releases
+* Hooks and custom Git aliases
+
+---
+
+### 📚 **Chapter 8: GitHub Actions &amp; CI/CD**
+
+* Introduction to GitHub Actions
+* Writing workflow files (`.yml`)
+* Automating tests, builds, and deployments
+* Marketplace actions and reusable workflows
+
+---
+
+### 📒 **Chapter 9: Security and Access Control**
+
+* Managing SSH keys and personal access tokens (PATs)
+* Branch protection rules
+* Collaborators and teams
+* Secrets and environment variables
+
+---
+
+### 📙 **Chapter 10: Open Source &amp; Community Contributions**
+
+* Best practices for open-source contribution
+* Understanding licenses (MIT, GPL, etc.)
+* Maintaining your repo: README, CONTRIBUTING.md
+* Engaging with the community and handling PRs
+
+---
+
+### 📋 Summary
+
+| Chapter | Title                        | Focus Area                                 |
+| ------- | ---------------------------- | ------------------------------------------ |
+| 1       | Introduction to Git &amp; GitHub | Basics and setup                           |
+| 2       | Git Basics                   | Core Git commands and workflow             |
+| 3       | Remote Repositories          | Working with GitHub remotes                |
+| 4       | Branching &amp; Merging          | Multi-version development                  |
+| 5       | GitHub Collaboration         | Working with teams and PRs                 |
+| 6       | Project Management           | Issues, Projects, and Wiki                 |
+| 7       | Advanced Git                 | Deeper Git functionality                   |
+| 8       | GitHub Actions               | Automation and CI/CD                       |
+| 9       | Security &amp; Access Control    | Tokens, permissions, and secrets           |
+| 10      | Open Source Contributions    | Community involvement and repo maintenance |</md></sn><config style="display:none"><tags>#00.guideline</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 17 2025 22:00:25 GMT+0600 (Bangladesh Standard Time)</udate><id>article-5uwh4cc1se</id><duration></duration></config>
