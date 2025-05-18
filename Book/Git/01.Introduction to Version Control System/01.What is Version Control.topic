@@ -94,4 +94,86 @@ Version control is not just a tool—it’s a **best practice** for managing dig
 * Git is the most widely used DVCS.
 * Benefits include history tracking, collaboration, and safe rollback.
 * Essential for modern software development workflows.
-</md></sn><config style="display:none"><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:12:47 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9bgjHzBNA8</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:36:56 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9bgjHzBNA8</id><duration></duration></config><sn><md>### 🕰️ **History of Version Control Systems**
+---
+
+#### 1. **The Origin (1970s–1980s)**
+
+The concept of version control began with simple tools developed by individuals or teams to keep track of code changes:
+
+* **SCCS (Source Code Control System)**
+
+  * Developed by **Marc J. Rochkind** in **1972 at Bell Labs** for UNIX systems.
+  * It was the first VCS, focused on maintaining versions of files in a central location.
+
+* **RCS (Revision Control System)**
+
+  * Created by **Walter F. Tichy** in **1982**.
+  * Enhanced efficiency and allowed branching, but still operated on a **single-user model** and worked on individual files.
+
+#### 2. **Centralized Version Control (1990s–early 2000s)**
+
+These systems introduced a central repository concept, improving team collaboration:
+
+* **CVS (Concurrent Versions System)**
+
+  * An advancement over RCS; supported multiple users and allowed concurrent file editing.
+
+* **Subversion (SVN)**
+
+  * Released in **2000** by **CollabNet** as a successor to CVS.
+  * Provided **atomic commits, better directory versioning**, and **network support**.
+
+#### 3. **The Rise of Distributed Version Control Systems (2005–Present)**
+
+The limitations of centralized systems (e.g., dependency on a central server) led to the development of distributed systems:
+
+* **BitKeeper**
+
+  * One of the first distributed VCSs.
+  * Used by the Linux kernel team but led to controversy due to licensing.
+
+* **Git**
+
+  * **Created by Linus Torvalds in April 2005** after the fallout with BitKeeper.
+  * Designed to be **fast, distributed, secure, and support non-linear development (branching and merging)**.
+
+---
+
+### 🎯 Why Version Control Systems Were Developed
+
+* To **track changes** in code over time.
+* To **collaborate** on software projects without overwriting each other’s work.
+* To **maintain a history** of project evolution, aiding in bug fixing and audits.
+* To **experiment with features** safely through branching and merging.
+* To **recover lost data** due to errors or system crashes.
+
+---
+
+### 📊 Current Version Control System Statistics (2025)
+
+| VCS Tool          | Popularity % | Primary Use              | Notable Users                  |
+| ----------------- | ------------ | ------------------------ | ------------------------------ |
+| Git               | 92%+         | Open source &amp; enterprise | GitHub, GitLab, Bitbucket      |
+| Subversion        | \~4%         | Legacy systems           | Apache Foundation, TortoiseSVN |
+| Mercurial         | \~2%         | Specific projects        | Python (past), Mozilla (past)  |
+| Others (CVS etc.) | \~2%         | Educational, legacy      | Various legacy systems         |
+
+&gt; 🔍 Git is the **dominant** VCS globally, with platforms like GitHub hosting **over 330 million repositories** as of 2025.
+
+---
+
+### 🔍 Git Overview
+
+**What is Git?**
+Git is a **free and open-source distributed VCS** designed to handle everything from small to very large projects with speed and efficiency.
+
+### 🧾 Summary Points
+
+* VCS started with **SCCS (1972)** and evolved through **RCS, CVS, SVN** to **distributed systems like Git**.
+* **Marc Rochkind**, **Walter F. Tichy**, and **Linus Torvalds** played major roles in VCS development.
+* Git was created in **2005 by Linus Torvalds** due to licensing conflicts with BitKeeper.
+* Main reasons for VCS: **tracking, collaboration, recovery, branching**, and **code history**.
+* As of 2025, **Git dominates with over 92% usage**, primarily through **GitHub, GitLab, and Bitbucket**.
+* Git is **fast, secure, scalable**, and essential in modern development workflows.
+</md></sn>
