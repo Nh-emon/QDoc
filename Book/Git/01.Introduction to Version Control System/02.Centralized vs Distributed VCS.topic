@@ -1,1 +1,111 @@
-<sn></sn><config style='display:none'><tags>#02.centralized vs distributed vcs</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:39:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9Svo0lpZk3</id><duration></duration></config>
+<sn><md>### **Article: Centralized vs Distributed Version Control Systems (VCS)**
+
+Version Control Systems (VCS) are tools that help developers track, manage, and collaborate on changes to source code. They are primarily categorized into two types: **Centralized** and **Distributed**. Each type has distinct architectures, advantages, and drawbacks that suit different development environments.
+
+---
+
+### 🏢 What is a Centralized Version Control System (CVCS)?
+
+A **Centralized VCS** relies on a **single central server** that holds all the versioned files. Developers access this server to pull the latest changes or push their updates.
+
+#### 🧩 Key Features:
+
+* Single point of control (central repository)
+* Simple and easy to understand
+* Better suited for smaller teams or companies with strict control
+
+#### 📍 Examples:
+
+* CVS (Concurrent Versions System)
+* Subversion (SVN)
+* Perforce
+
+#### ✅ Advantages:
+
+* Easier to manage access control
+* Centralized backups
+* Simple workflow
+
+#### ❌ Disadvantages:
+
+* Single point of failure (if the server goes down, no one can commit changes)
+* Limited offline capabilities
+* Slower performance for remote teams
+
+---
+
+### 🌐 What is a Distributed Version Control System (DVCS)?
+
+A **Distributed VCS** allows every developer to **have a full copy of the entire repository**, including the complete history. Changes can be committed locally and later pushed to a central server.
+
+#### 🧩 Key Features:
+
+* Every user has their own local repository
+* Allows offline work and commits
+* Facilitates branching and merging
+
+#### 📍 Examples:
+
+* Git
+* Mercurial
+* Bazaar
+
+#### ✅ Advantages:
+
+* No single point of failure
+* Full version history available offline
+* Better performance for large and remote teams
+* Easier branching and merging
+
+#### ❌ Disadvantages:
+
+* Steeper learning curve
+* Larger disk usage due to full repository copies
+* Complex initial setup for beginners
+
+---
+
+### ⚖️ Centralized vs Distributed: A Side-by-Side Comparison
+
+| Feature                | Centralized VCS            | Distributed VCS              |
+| ---------------------- | -------------------------- | ---------------------------- |
+| Repository Location    | Central server             | Local + optional central     |
+| Offline Work           | Limited                    | Full functionality offline   |
+| Speed                  | Slower for remote access   | Fast due to local operations |
+| Branching/Merging      | Complex                    | Simple and efficient         |
+| Risk of Data Loss      | High (if server fails)     | Low (multiple copies exist)  |
+| Setup &amp; Learning Curve | Easier                     | More complex                 |
+| Popular Tools          | SVN, CVS                   | Git, Mercurial               |
+| Collaboration Model    | Centralized team structure | Distributed team structure   |
+
+---
+
+### 🔍 Use Case Scenarios
+
+#### 🛠️ Use Centralized VCS When:
+
+* You have a small or tightly controlled team
+* You require simple workflows
+* You need centralized administrative control
+
+#### 🛠️ Use Distributed VCS When:
+
+* Your team is large or geographically dispersed
+* You prioritize offline development capabilities
+* You need robust branching and merging features
+* You are contributing to open-source or agile projects
+
+---
+
+### 📌 Conclusion
+
+Both centralized and distributed version control systems have their place in software development. While centralized systems are simple and suitable for controlled environments, distributed systems like Git offer greater flexibility, scalability, and reliability — making them the industry standard for modern software teams.
+
+---
+
+### 🧾 Summary Points
+
+* **Centralized VCS** uses one central repository, ideal for smaller or tightly-managed teams.
+* **Distributed VCS** gives every user a full copy of the repository, enabling offline work and faster collaboration.
+* Git, a DVCS, has become the most widely used tool due to its flexibility, speed, and robust features.
+* Choose CVCS for simplicity and central control; DVCS for scalability and distributed development.</md></sn><config style="display:none"><tags>#02.centralized vs distributed vcs</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:46:01 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9Svo0lpZk3</id><duration></duration></config>
