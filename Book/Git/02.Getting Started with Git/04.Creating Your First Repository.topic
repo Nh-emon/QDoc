@@ -34,7 +34,6 @@ Start by creating a folder for your project.
 mkdir my-first-repo
 cd my-first-repo
 ```
-
 ---
 
 #### 🥈 Step 2: Initialize the Repository
@@ -45,7 +44,13 @@ This step tells Git to start tracking your project.
 git init
 ```
 
-📌 This creates a hidden `.git/` directory, which holds all the metadata and version history.
+This creates a hidden `.git/` directory, which holds all the metadata and version history.
+
+```bash
+cd .git/
+ls
+```
+will output this : `HEAD  config  description  hooks/  info/  objects/  refs/`
 
 ---
 
@@ -139,4 +144,4 @@ Use these commands to check:
 * Optionally connect to GitHub with `git remote add`
 * Push your code online with `git push`
 
-</md></sn><config style="display:none"><tags>#04.creating your first repository</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 21:27:52 GMT+0600 (Bangladesh Standard Time)</udate><id>article-HxJb6JhCx9</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#04.creating your first repository</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 21:35:11 GMT+0600 (Bangladesh Standard Time)</udate><id>article-HxJb6JhCx9</id><duration></duration></config>
