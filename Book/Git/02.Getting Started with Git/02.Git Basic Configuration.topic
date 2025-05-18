@@ -1,1 +1,113 @@
-<sn></sn><config style='display:none'><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:48:49 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config>
+<sn><md>## **Git Basic Configuration**
+
+---
+
+After installing Git, it's essential to configure basic settings to ensure smooth and personalized usage. These configurations tell Git who you are and how you prefer to interact with it. Setting these up early helps avoid issues when making commits or pushing to repositories.
+
+---
+
+### ⚙️ Why Basic Configuration Matters
+
+* Identifies **you** as the author of commits
+* Sets preferred **text editor** for writing commit messages
+* Configures **line endings** for cross-platform development
+* Customizes **Git behavior** to suit your workflow
+
+---
+
+### 🧩 Basic Git Configuration Commands
+
+Below are the key configuration commands you’ll commonly set up after installing Git.
+
+---
+
+#### 1️⃣ Set Your Identity
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+📌 This sets your name and email globally for all Git projects.
+
+---
+
+#### 2️⃣ Set Default Text Editor
+
+```bash
+git config --global core.editor "nano"        # or "code --wait", "subl -n -w", "vim"
+```
+
+Choose your preferred editor for writing commit messages.
+
+---
+
+#### 3️⃣ Set Default Branch Name
+
+```bash
+git config --global init.defaultBranch main
+```
+
+Ensures new repositories use `main` instead of `master` by default.
+
+---
+
+#### 4️⃣ Enable Colored Output (Optional but Helpful)
+
+```bash
+git config --global color.ui auto
+```
+
+---
+
+#### 5️⃣ Line Ending Handling (Especially for Windows Users)
+
+```bash
+git config --global core.autocrlf true    # Windows
+git config --global core.autocrlf input   # macOS/Linux
+```
+
+---
+
+#### 6️⃣ Check Your Configuration
+
+```bash
+git config --list
+```
+
+✅ This shows all active configuration settings.
+
+---
+
+#### 7️⃣ Set Git to Cache Credentials (HTTPS login)
+
+```bash
+git config --global credential.helper cache
+```
+
+For longer sessions, use:
+
+```bash
+git config --global credential.helper 'cache --timeout=3600'
+```
+
+---
+
+### 📁 Configuration Scope
+
+| Scope       | Description                                    | Example                             |
+| ----------- | ---------------------------------------------- | ----------------------------------- |
+| `--system`  | Applies to all users and all repositories      | `git config --system`               |
+| `--global`  | Applies to the current user (most common)      | `git config --global`               |
+| *(default)* | Applies only to the current repository (local) | `git config` *(without `--global`)* |
+
+---
+
+### 🧾 Summary Points
+
+* Use `--global` to set identity and preferences once for all repos
+* Customize your default editor and branch name
+* Windows users should configure line ending behavior (`core.autocrlf`)
+* View current settings with `git config --list`
+
+</md></sn><config style="display:none"><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:53:58 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config>
