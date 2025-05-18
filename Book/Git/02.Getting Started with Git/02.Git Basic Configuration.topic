@@ -110,4 +110,75 @@ git config --global credential.helper 'cache --timeout=3600'
 * Windows users should configure line ending behavior (`core.autocrlf`)
 * View current settings with `git config --list`
 
-</md></sn><config style="display:none"><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:53:58 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 21:02:18 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config><sn><md>###  **Git Config File Locations**
+---
+
+Git uses **three levels** of config files:
+
+| Scope  | Location                                     | Priority |
+| ------ | -------------------------------------------- | -------- |
+| System | `/etc/gitconfig`                             | Lowest   |
+| Global | `~/.gitconfig` or `~/.config/git/config`     | Medium   |
+| Local  | `.git/config` *(inside your project folder)* | Highest  |
+
+&gt; ✅ **Local config overrides** global/system settings.
+
+---
+
+### 🔧 Modify the Local Config File
+
+#### 🛠️ Method 1: Using Git Command
+
+```bash
+git config user.name "Local Username"
+git config user.email "local@example.com"
+```
+
+📌 This only affects the current repo (writes to `.git/config`).
+
+---
+
+#### 🛠️ Method 2: Open &amp; Edit File Directly
+
+1. Navigate to your project directory:
+
+   ```bash
+   cd your-project-folder
+   ```
+
+2. Open the file:
+
+   ```bash
+   nano .git/config
+   ```
+
+3. Edit the `[user]` section or add new ones:
+
+   ```ini
+   [user]
+       name = Local Username
+       email = local@example.com
+   ```
+
+4. Save and exit (`Ctrl+O`, `Enter`, `Ctrl+X` in nano)
+
+---
+
+### 🧪 Check the Result
+
+```bash
+git config --local --list
+```
+
+This shows all settings for the current repository.
+
+---
+
+### 🧾 Summary Points
+
+* Local config file: `.git/config` inside your repo
+* Local settings override global/system settings
+* You can edit config via command line or directly in the file
+* Always use `git config --local` to apply settings to just one repo
+
+</md></sn>
