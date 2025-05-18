@@ -1,1 +1,109 @@
-<sn></sn><config style='display:none'><tags>#01.1.git in sublime ide</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:10:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-ZqAg4iBkcE</id><duration></duration></config>
+<sn><md>### **Setting Up Git in Sublime Text Editor**
+
+---
+
+While Sublime Text is primarily a lightweight and fast code editor, you can extend its capabilities to include **Git integration**. This setup allows you to manage Git repositories, view diffs, commit changes, and more — all from within the Sublime Text interface.
+
+---
+
+### 🛠️ Prerequisites
+
+* ✅ Git must be installed on your system
+* ✅ Sublime Text 3 or later installed
+* ✅ Package Control installed (Sublime’s plugin manager)
+
+---
+
+### 🧩 Step-by-Step Setup
+
+---
+
+### 1. ⚙️ **Install Git on Your System**
+
+If Git isn’t already installed, follow this command to verify:
+
+```bash
+git --version
+```
+
+If it’s not found, install it using your OS guide:
+
+* [Windows](https://git-scm.com/download/win)
+* [macOS](https://git-scm.com/download/mac)
+* [Linux](https://git-scm.com/download/linux)
+
+---
+
+### 2. 📦 **Install Package Control in Sublime Text**
+
+If not already installed:
+
+* Go to `Tools` → `Install Package Control`
+* Restart Sublime Text after installation
+
+---
+
+### 3. 🧰 **Install Git Plugin via Package Control**
+
+1. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
+2. Type: `Install Package` → Press `Enter`
+3. Type: `Git` → Select the one named **"Git"** by **Will Bond**
+
+✔ This plugin allows basic Git commands inside Sublime like `add`, `commit`, `push`, `pull`, etc.
+
+---
+
+### 4. 🧪 **Using Git Plugin Inside Sublime**
+
+* Press `Ctrl+Shift+P` or `Cmd+Shift+P`
+* Type `Git:` and see available commands:
+
+  * `Git: Init`
+  * `Git: Add`
+  * `Git: Commit`
+  * `Git: Push`
+  * `Git: Pull`
+  * `Git: Log`
+  * `Git: Checkout`
+
+🔁 You can interact with Git directly without leaving the editor.
+
+---
+
+### 5. 📝 **Optional: GitGutter Plugin (Visual Git Diff)**
+
+Install **GitGutter** to show added/modified/deleted lines visually in the gutter.
+
+Steps:
+
+1. Open Command Palette → `Install Package`
+2. Search for `GitGutter` → Install it
+
+🎯 GitGutter provides live diff preview against the last commit.
+
+---
+
+### 🧰 Bonus: Configure External Git Tool (Optional)
+
+If you prefer using Sublime as Git’s default editor:
+
+```bash
+git config --global core.editor "subl -n -w"
+```
+
+---
+
+### 📌 Conclusion
+
+By integrating Git into Sublime Text using plugins like **Git** and **GitGutter**, you gain powerful version control functionality without leaving your coding environment. This makes development more efficient and centralized.
+
+---
+
+### 🧾 Summary Points
+
+* Install Git and Package Control before setup
+* Use **Package Control** to install the `Git` plugin
+* Use **GitGutter** to visualize diffs within the editor
+* Access Git commands through the Command Palette
+* Optional: set Sublime as Git’s default commit editor
+</md></sn><config style="display:none"><tags>#01.1.git in sublime ide</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:11:11 GMT+0600 (Bangladesh Standard Time)</udate><id>article-ZqAg4iBkcE</id><duration></duration></config>
