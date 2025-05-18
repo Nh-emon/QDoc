@@ -1,1 +1,160 @@
-<sn></sn><config style='display:none'><tags>#01.git guideline</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:00:11 GMT+0600 (Bangladesh Standard Time)</udate><id>article-IHamyjbTZ4</id><duration></duration></config>
+<sn><md>###  **Chapter 1: Introduction to Version Control Systems**
+---
+
+* What is Version Control?
+* Types: Centralized vs Distributed
+* Benefits of Using Git
+
+---
+
+###  **Chapter 2: Getting Started with Git**
+
+* Installing Git (Windows, macOS, Linux)
+* Basic Configuration (`git config`)
+* Git Workflow Overview
+* Creating Your First Repository
+
+---
+
+###  **Chapter 3: Git Basics**
+
+* `git init`, `git clone`
+* `git add`, `git commit`
+* `git status`, `git log`
+* Viewing Differences: `git diff`
+
+---
+
+###  **Chapter 4: Branching and Merging**
+
+* Creating Branches (`git branch`)
+* Switching Branches (`git checkout`)
+* Merging Branches (`git merge`)
+* Resolving Merge Conflicts
+
+---
+
+###  **Chapter 5: Remote Repositories**
+
+* Adding a Remote (`git remote add`)
+* `git push`, `git pull`, `git fetch`
+* Cloning from Remote
+* Working with GitHub / GitLab
+
+---
+
+###  **Chapter 6: Undoing Changes**
+
+* Undoing Local Changes (`git checkout`, `git restore`)
+* Reverting Commits (`git revert`)
+* Resetting Commits (`git reset`)
+* Stashing Changes (`git stash`)
+
+---
+
+###  **Chapter 7: Tagging and Releases**
+
+* Creating Tags (`git tag`)
+* Annotated vs Lightweight Tags
+* Pushing Tags to Remote
+* Using Tags for Release Management
+
+---
+
+### 📘 **Chapter 8: Advanced Branching Strategies**
+
+* Git Flow
+* GitHub Flow
+* Trunk-Based Development
+* Feature Branching
+
+---
+
+### 📘 **Chapter 9: Rewriting History**
+
+* Amending Commits (`git commit --amend`)
+* Rebase vs Merge (`git rebase`)
+* Interactive Rebase (`git rebase -i`)
+* Squashing Commits
+
+---
+
+### 📘 **Chapter 10: Git Internals**
+
+* The `.git` Directory
+* Objects: Blob, Tree, Commit
+* Understanding the Git DAG (Directed Acyclic Graph)
+* SHA-1 and Object Hashing
+
+---
+
+### 📘 **Chapter 11: Git Hooks and Automation**
+
+* Client-side Hooks
+* Server-side Hooks
+* Using Hooks for CI/CD and Linting
+* Creating Custom Hooks
+
+---
+
+### 📘 **Chapter 12: Collaboration and Code Review**
+
+* Forking Repositories
+* Pull Requests / Merge Requests
+* Code Review Best Practices
+* Using GitHub Projects &amp; Issues
+
+---
+
+### 📘 **Chapter 13: Git Tools and GUI Clients**
+
+* GUI Tools (GitKraken, SourceTree, GitHub Desktop)
+* Integrating Git in IDEs (VSCode, IntelliJ)
+* Visualization Tools (`gitk`, `tig`)
+
+---
+
+### 📘 **Chapter 14: Troubleshooting and Recovery**
+
+* Diagnosing Common Errors
+* Recovering Lost Commits
+* Cleaning Up (`git clean`, `git gc`)
+* Using `reflog`
+
+---
+
+### 📘 **Chapter 15: Performance and Optimization**
+
+* Large Repositories Handling
+* Shallow Clones
+* Sparse Checkout
+* Git LFS (Large File Storage)
+
+---
+
+### 📘 **Chapter 16: Security and Best Practices**
+
+* Signing Commits (GPG)
+* Managing SSH Keys
+* Avoiding Sensitive Data in Repos
+* .gitignore and .gitattributes
+
+---
+
+### 📘 **Chapter 17: Advanced Git Commands**
+
+* `git cherry-pick`
+* `git bisect`
+* `git blame`
+* `git submodule` and `git subtree`
+
+---
+
+### 📘 **Chapter 18: Real-World Project Workflow**
+
+* Setting Up a Team Repository
+* Branch Policies and Protected Branches
+* Managing Releases and Hotfixes
+* Continuous Integration with Git
+
+</md></sn><config style="display:none"><tags>#01.git guideline</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 19:03:41 GMT+0600 (Bangladesh Standard Time)</udate><id>article-IHamyjbTZ4</id><duration></duration></config>
