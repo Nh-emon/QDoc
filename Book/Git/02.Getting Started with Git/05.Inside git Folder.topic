@@ -1,1 +1,89 @@
-<sn></sn><config style='display:none'><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 07:56:49 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
+<sn><md>## 📁 **`.git`Folders**
+
+---
+
+#### 1. `hooks/`
+
+* Stores **client-side or server-side scripts**.
+* These scripts run **automatically** on Git events like `commit`, `push`, etc.
+* Examples:
+
+  * `pre-commit`: Run tests or lint before committing.
+  * `post-merge`: Notify or clean up after a merge.
+
+#### 2. `info/`
+
+* Contains **miscellaneous local information**.
+* Common file: `exclude` – similar to `.gitignore`, but **only for this repo &amp; local**.
+
+#### 3. `logs/`
+
+* Tracks **history of updates** to refs (branches, HEAD).
+* Example: It logs when `HEAD` or a branch pointer is changed.
+
+#### 4. `objects/`
+
+* The **heart of Git**: contains all data as compressed objects.
+* Types of objects:
+
+  * `blob`: file data
+  * `tree`: directories
+  * `commit`: snapshot
+  * `tag`: annotated tag
+
+#### 5. `refs/`
+
+* Contains **references** to commits:
+
+  * `refs/heads/`: branches
+  * `refs/tags/`: tags
+  * `refs/remotes/`: remotes
+
+---
+
+## 📄 **Files**
+
+#### 6. `COMMIT_EDITMSG`
+
+* Stores the **most recent commit message** you wrote.
+* Git uses this for re-editing or reusing messages (e.g., during amend).
+
+#### 7. `config`
+
+* Stores **repository-level Git configuration**.
+* Like `user.name`, `user.email`, remote URLs, etc.
+
+### 8. `description`
+
+* Used only in **bare repositories**.
+* It’s shown in web interfaces like GitWeb.
+* Has **no effect in normal repos**.
+
+### 9. `HEAD`
+
+* A **pointer to the current branch or commit**.
+* Typically points to `refs/heads/main` (or any current branch).
+
+### 10. `index`
+
+* Also known as the **staging area**.
+* Keeps track of what will go into your next commit.
+
+---
+
+## 🔍 Summary Table
+
+| Name             | Type   | Purpose                                                   |
+| ---------------- | ------ | --------------------------------------------------------- |
+| `hooks/`         | Folder | Scripts triggered by Git actions                          |
+| `info/`          | Folder | Local settings (e.g., ignored files)                      |
+| `logs/`          | Folder | Logs of changes to references                             |
+| `objects/`       | Folder | Stores all Git data (blobs, commits, trees)               |
+| `refs/`          | Folder | References to branches, tags, remotes                     |
+| `COMMIT_EDITMSG` | File   | Stores last commit message                                |
+| `config`         | File   | Repository-specific Git configuration                     |
+| `description`    | File   | Description for bare repos (optional)                     |
+| `HEAD`           | File   | Points to the current branch or commit                    |
+| `index`          | File   | Represents the staging area (what’s to be committed next) |
+
+</md></sn><config style="display:none"><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 08:02:20 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
