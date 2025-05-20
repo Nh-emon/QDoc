@@ -1,1 +1,190 @@
-<sn></sn><config style='display:none'><tags>#06.git log</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 13:45:52 GMT+0600 (Bangladesh Standard Time)</udate><id>article-mMiRZSltkL</id><duration></duration></config>
+<sn><md>## **Article: Understanding `git log` in Git**
+---
+
+#### **Introduction**
+
+`git log` is a fundamental Git command used to view the history of commits in a repository. It helps developers trace the evolution of a project, track down bugs, and understand contributions over time. This article explores how to use `git log` effectively with various options and customizations.
+
+---
+
+#### **Basic Usage**
+
+```bash
+git log
+```
+
+This command displays the commit history in reverse chronological order (latest commit first).
+
+![basic git log](https://i.imgur.com/IoFJvMd.png)
+
+**Output Includes:**
+
+* **commit hash**: Unique ID of the commit
+* **Author**: Name and email
+* **Date**: Commit timestamp
+* **Message**: Description of the change
+
+---
+
+### **Common Options**
+
+#### **1. `--oneline`**
+
+Displays each commit in a single line.
+
+```bash
+git log --oneline
+```
+
+👉 Helpful for a quick overview
+
+![git log oneline](https://i.imgur.com/o2ZbPBd.png)
+
+#### **2. `--graph`**
+
+Shows a text-based graphical representation of the commit history.
+
+```bash
+git log --graph
+```
+
+👉 Useful for visualizing branches and merges
+
+![git log graph](https://i.imgur.com/u2LX0Wl.png)
+
+#### **3. `--decorate`**
+
+Adds branch and tag names to the log output.
+
+```bash
+git log --decorate
+```
+
+#### **4. `--all`**
+
+Includes logs from all branches.
+
+```bash
+git log --all
+```
+
+#### **5. `--stat`**
+
+Shows what files were changed and how many lines were added or removed.
+
+```bash
+git log --stat
+```
+![git log stat](https://i.imgur.com/yprpAKK.png)
+
+#### **6. `-p`**
+
+Displays the actual diff introduced in each commit.
+
+```bash
+git log -p
+```
+
+---
+
+### **Filtering Options**
+
+#### **1. `--author`**
+
+Filter by author name.
+
+```bash
+git log --author="Emon"
+```
+
+#### **2. `--since` and `--until`**
+
+Filter commits by date.
+
+```bash
+git log --since="2024-01-01" --until="2024-12-31"
+```
+
+#### **3. `--grep`**
+
+Search commits by message keyword.
+
+```bash
+git log --grep="fix"
+```
+
+#### **4. Path-specific log**
+
+Shows commits that affected a specific file or directory.
+
+```bash
+git log -- path/to/file
+```
+
+### **Advanced Customizations**
+
+#### **1. Pretty Format**
+
+Customize the log output.
+
+```bash
+git log --pretty=format:"%h - %an, %ar : %s"
+```
+
+**Placeholders:**
+
+* `%h`: Abbreviated hash
+* `%an`: Author name
+* `%ar`: Relative date
+* `%s`: Commit message
+
+#### **2. Combining Flags**
+
+```bash
+git log --oneline --graph --decorate --all
+```
+
+👉 A powerful way to get a clear view of the repo’s structure
+
+#### **3. Limit Number of Commits**
+
+```bash
+git log -n 5
+```
+
+👉 Show the latest 5 commits
+
+---
+
+#### **Aliases for Convenience**
+
+Set up an alias for a better view:
+
+```bash
+git config --global alias.lg "log --oneline --graph --decorate --all"
+```
+
+Then use:
+
+```bash
+git lg
+```
+
+---
+
+#### **Summary Points**
+
+| Feature           | Description                     |
+| ----------------- | ------------------------------- |
+| `git log`         | Shows commit history            |
+| `--oneline`       | One-line summary of each commit |
+| `--graph`         | ASCII graph of branches         |
+| `--decorate`      | Show branch and tag names       |
+| `--all`           | Include all refs                |
+| `--stat`          | Summary of file changes         |
+| `-p`              | Full diff of each commit        |
+| `--author`        | Filter by author                |
+| `--since/--until` | Filter by date                  |
+| `--grep`          | Filter by commit message        |
+| `--pretty`        | Custom log formats              |
+</md></sn><config style="display:none"><tags>#06.git log</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 14:19:55 GMT+0600 (Bangladesh Standard Time)</udate><id>article-mMiRZSltkL</id><duration></duration></config>
