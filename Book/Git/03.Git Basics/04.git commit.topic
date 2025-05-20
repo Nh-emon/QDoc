@@ -65,6 +65,7 @@ echo "feature" &gt; feature.txt       # Create a file
 git add feature.txt               # Stage it
 git commit -m "Add feature file"  # Commit the change
 ```
+![git commit code](https://i.imgur.com/Nr8Fz3B.png)
 
 ---
 
@@ -92,6 +93,8 @@ Or a simplified version:
 git log --oneline
 ```
 
+![git log result](https://i.imgur.com/1s7Blyw.png)
+
 ---
 
 ## **Undoing Commits**
@@ -117,4 +120,4 @@ Use `--hard` with caution.
 | Amend       | Edits the last commit                    |
 | Undo        | Use `reset` for various rollback levels  |
 | Importance  | Key for tracking and documenting changes |
-</md></sn><config style="display:none"><tags>#04.git commit</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 11:14:53 GMT+0600 (Bangladesh Standard Time)</udate><id>article-AJGyPD7Vcz</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#04.git commit</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 11:24:55 GMT+0600 (Bangladesh Standard Time)</udate><id>article-AJGyPD7Vcz</id><duration></duration></config>
