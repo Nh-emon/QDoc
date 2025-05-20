@@ -1,4 +1,4 @@
-<sn><md>## **Introduction to `git init`**
+<sn class="bar teal"><md>## **Introduction to `git init`**
 
 ---
 
@@ -113,7 +113,7 @@ You generally **should not manually edit** files inside `.git`.
 | Syntax       | `git init [directory-name]`                             |
 | Next steps   | Add and commit files, then optionally add remote origin |
 | Not for      | Cloning – use `git clone` for that                      |
-</md></sn><config style="display:none"><tags>#01.git init</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 09:19:51 GMT+0600 (Bangladesh Standard Time)</udate><id>article-6jkpnXczLn</id><duration></duration></config><sn><md>## 🚀 **Ways to Create a Git Repository**
+</md></sn><config style="display:none"><tags>#01.git init</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 14:57:11 GMT+0600 (Bangladesh Standard Time)</udate><id>article-6jkpnXczLn</id><duration></duration></config><sn class="bar indigo"><md>## 🚀 **Ways to Create a Git Repository**
 
 Creating a Git repository can be done in multiple ways depending on your project requirements. Below are the most common methods:
 
