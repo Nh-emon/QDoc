@@ -1,1 +1,90 @@
-<sn></sn><config style='display:none'><tags>#03.git add</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 10:31:49 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Ta9u4dLPmd</id><duration></duration></config>
+<sn><md>
+## 🧠 **Git `add`: What It Is and How It Works**
+
+
+#### **Introduction**
+
+`git add` is a fundamental command in Git that plays a key role in the version control process. It stages changes made in your working directory so they can be committed later. Without `git add`, Git won’t recognize any file changes when you try to commit.
+
+---
+
+####  **What Does `git add` Do?**
+
+The `git add` command adds changes from the **working directory** to the **staging area** (also called the **index**). The staging area holds a snapshot of the changes that will be included in the next commit.
+
+#### **Think of it this way:**
+
+* **Working Directory** 🛠️: Where you make changes.
+* **Staging Area** 🗂️: Where you select what you want to commit.
+* **Repository** 📦: Where committed changes are stored permanently.
+
+---
+
+####  **Basic Syntax**
+
+```bash
+git add [options] [file-pattern]
+```
+
+---
+
+####  **Common Use Cases**
+
+| Command                | Description                                             |
+| ---------------------- | ------------------------------------------------------- |
+| `git add filename.txt` | Adds a specific file to the staging area                |
+| `git add .`            | Adds all changes in the current directory (recursively) |
+| `git add -A`           | Stages all changes (including deletions)                |
+| `git add -u`           | Adds updated and deleted files only                     |
+| `git add *.js`         | Adds all `.js` files in the directory                   |
+
+---
+
+#### ⚠️ **Important Notes**
+
+* `git add` **does not** commit changes; it just prepares them.
+* If you forget to run `git add`, your `git commit` will **not include** those changes.
+* You can repeatedly use `git add` to stage multiple files before committing them all at once.
+
+---
+
+####  **Example Workflow**
+
+```bash
+echo "Hello, Git" &gt; hello.txt     # Create a new file
+git status                        # Shows hello.txt as untracked
+git add hello.txt                 # Stages hello.txt
+git commit -m "Add hello.txt"     # Commits the staged file
+```
+
+---
+
+####  **When to Use `git add`**
+
+* After modifying or creating new files.
+* When you want full control over which changes to commit.
+* When resolving merge conflicts (you must `add` the resolved files).
+
+---
+
+####  **Undo `git add`**
+
+You can unstage files using:
+
+```bash
+git restore --staged filename.txt
+```
+
+This removes the file from the staging area but keeps your changes in the working directory.
+
+---
+
+#### **Summary**
+
+| Key Point      | Description                                          |
+| -------------- | ---------------------------------------------------- |
+| Purpose        | Stages changes for the next commit                   |
+| Scope          | Can stage individual files, patterns, or all changes |
+| Common Mistake | Forgetting to add changes before commit              |
+| Undo           | Use `git restore --staged` to unstage files          |
+</md></sn><config style="display:none"><tags>#03.git add</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 10:45:19 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Ta9u4dLPmd</id><duration></duration></config>
