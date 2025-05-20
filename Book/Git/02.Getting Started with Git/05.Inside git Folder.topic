@@ -2,6 +2,8 @@
 
 ---
 
+![git folder](https://i.imgur.com/4XKCUlM.png)
+
 #### 1. `hooks/`
 
 * Stores **client-side or server-side scripts**.
@@ -86,4 +88,4 @@
 | `HEAD`           | File   | Points to the current branch or commit                    |
 | `index`          | File   | Represents the staging area (what’s to be committed next) |
 
-</md></sn><config style="display:none"><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 08:02:20 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 08:10:14 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
