@@ -1,1 +1,59 @@
-<sn></sn><config style='display:none'><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Fri May 23 2025 11:17:01 GMT+0600 (Bangladesh Standard Time)</udate><id>article-a5xOYD3Ry9</id><duration></duration></config>
+<sn class="border-0"><md>## Getting Started With Bootstrap
+---
+
+
+### Quick start
+
+Get started by including Bootstrap’s production-ready CSS and JavaScript via CDN without the need for any build steps. See it in practice with this [Bootstrap CodePen demo](https://codepen.io/team/bootstrap/pen/qBamdLj).
+
+<br>
+
+1. **Create a new `index.html` file in your project root.** Include the `<meta name="viewport">` tag as well for [proper responsive behavior](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag) in mobile devices.
+
+   ```html
+   
+   
+     
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <title>Bootstrap demo</title>
+     
+     
+       <h1>Hello, world!</h1>
+     
+   
+   ```
+
+2. **Include Bootstrap’s CSS and JS.** Place the `<link>` tag in the `` for our CSS, and the `
+     
+   
+   ```
+
+   You can also include [Popper](https://popper.js.org/docs/v2/) and our JS separately. If you don’t plan to use dropdowns, popovers, or tooltips, save some kilobytes by not including Popper.
+
+   ```html
+   
+   
+   ```
+
+3. **Hello, world!** Open the page in your browser of choice to see your Bootstrapped page. Now you can start building with Bootstrap by creating your own [layout]([[docsref:/layout/grid]]), adding dozens of [components]([[docsref:/components/buttons]]), and utilizing [our official examples]([[docsref:/examples]]).
+
+## CDN links
+
+As reference, here are our primary CDN links.
+
+<bstable>
+| Description | URL |
+| --- | --- |
+| CSS | `[[config:cdn.css]]` |
+| JS | `[[config:cdn.js_bundle]]` |
+</bstable>
+
+You can also use the CDN to fetch any of our [additional builds listed in the Contents page]([[docsref:/getting-started/contents]]).
+
+## Next steps
+
+- Read a bit more about some [important global environment settings](#important-globals) that Bootstrap utilizes.
+- Read about what’s included in Bootstrap in our [contents section]([[docsref:/getting-started/contents/]]) and the list of [components that require JavaScript](#js-components) below.
+- Need a little more power? Consider building with Bootstrap by [including the source files via package manager]([[docsref:/getting-started/download#package-managers]]).
+- Looking to use Bootstrap as a module with `</md></sn><config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Fri May 23 2025 11:30:48 GMT+0600 (Bangladesh Standard Time)</udate><id>article-a5xOYD3Ry9</id><duration></duration></config>
