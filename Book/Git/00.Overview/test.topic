@@ -1,1 +1,30 @@
-<config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Fri May 23 2025 20:53:01 GMT+0600 (Bangladesh Standard Time)</udate><id>article-uUx65UcD0g</id><duration></duration></config><im>https://i.imgur.com/ykbMYPt.png</im>
+<config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 24 2025 22:14:30 GMT+0600 (Bangladesh Standard Time)</udate><id>article-uUx65UcD0g</id><duration></duration></config><sn><md>Here are the **best fonts for writing or displaying code**, all available for free and designed for clarity, ligature support, and smooth developer experience:
+
+### ✅ Top Fonts for Code
+
+| Font Name           | Style               | Highlights                                      |
+| ------------------- | ------------------- | ----------------------------------------------- |
+| **JetBrains Mono**  | Monospaced, modern  | Ligatures, IDE-optimized, very readable         |
+| **Fira Code**       | Monospaced, clean   | Font ligatures (e.g., `=&gt;`, `!=`), smooth       |
+| **Cascadia Code**   | Developer-friendly  | Microsoft's modern coding font with ligatures   |
+| **IBM Plex Mono**   | Elegant, legible    | Professional look, ideal for terminals          |
+| **Source Code Pro** | Adobe's monospaced  | Balanced, no ligatures, highly legible          |
+| **Recursive Mono**  | Variable, flexible  | Customizable weights and styles                 |
+| **Inconsolata**     | Minimalistic        | Great for text-heavy codebases                  |
+| **Monaspace**       | Versatile monospace | Highly legible, modern, just released by GitHub |
+
+---
+
+### 🔤 Recommended Pick:
+
+```css
+font-family: 'JetBrains Mono', monospace;
+```
+
+### 🌐 Google Fonts (for web use):
+
+* **Fira Code** and **Source Code Pro** are available via Google Fonts.
+* JetBrains Mono can be self-hosted or linked via CDN (not on Google Fonts yet).
+
+Would you like a CSS import snippet or live preview styling for any of these?
+</md></sn>
