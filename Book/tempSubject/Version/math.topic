@@ -1,1 +1,81 @@
-<sn></sn><config style='display:none'><tags>#math</tags><thumbnail></thumbnail><heading></heading><udate>Wed May 28 2025 15:51:50 GMT+0600 (Bangladesh Standard Time)</udate><id>article-WExGhthx7h</id><duration></duration></config>
+<sn><md data-e="true">## Tylor Series
+---
+
+![tylor image](https://galileo-unbound.blog/wp-content/uploads/2020/07/image.png?w=673)
+
+
+The **Taylor series** is a mathematical tool used to approximate functions using an infinite sum of terms calculated from the values of a function's derivatives at a single point. It's especially useful in calculus and analysis for approximating complicated functions with polynomials.
+
+---
+
+### 🔍 Definition
+
+The **Taylor series** of a function $f(x)$ about a point $a$ is:
+
+$$
+f(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \frac{f'''(a)}{3!}(x-a)^3 + \cdots
+$$
+
+In general:
+
+$$
+f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x - a)^n
+$$
+
+Where:
+
+* $f^{(n)}(a)$ is the $n$-th derivative of $f$ evaluated at $a$
+* $n!$ is $n$ factorial
+* $x$ is the variable
+
+---
+
+### ✅ Conditions
+
+The function must be:
+
+* **Infinitely differentiable** at the point $a$
+* The series must **converge** to the function in some interval around $a$
+
+---
+
+### 🎯 Special Case: Maclaurin Series
+
+When $a = 0$, the Taylor series becomes the **Maclaurin series**:
+
+$$
+f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3 + \cdots
+$$
+
+---
+
+### 🧠 Examples
+
+1. **Exponential function** $e^x$:
+
+$$
+e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots
+$$
+
+2. **Sine function** $\sin(x)$:
+
+$$
+\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \cdots
+$$
+
+3. **Cosine function** $\cos(x)$:
+
+$$
+\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \cdots
+$$
+
+---
+
+### 🛠️ Uses
+
+* Approximating functions
+* Solving differential equations
+* Numerical methods
+* Physics and engineering modeling
+
+</md></sn><config style="display:none"><tags>#math</tags><thumbnail></thumbnail><heading></heading><udate>Wed May 28 2025 16:01:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-WExGhthx7h</id><duration></duration></config>
