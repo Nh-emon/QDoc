@@ -1,8 +1,8 @@
-<sn class="shadow"><md>## **Git `commit`: Storing Changes Permanently in Git**
+<sn class="shadow col-lg-8"><md>## **Git `commit`: Storing Changes Permanently in Git**
 
 #### **Introduction**
 
-The `git commit` command is one of the core functions of Git. After you've used `git add` to stage changes, `git commit` captures a snapshot of the project's currently staged changes and saves it to the Git repository history.
+The `git commit` command is one of the core functions of **Git**. After you've used `git add` to stage changes, `git commit` captures a snapshot of the project's currently staged changes and saves it to the Git repository history.
 
 ---
 
@@ -120,4 +120,4 @@ Use `--hard` with caution.
 | Amend       | Edits the last commit                    |
 | Undo        | Use `reset` for various rollback levels  |
 | Importance  | Key for tracking and documenting changes |
-</md></sn><config style="display:none"><tags>#04.git commit</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 27 2025 09:35:05 GMT+0600 (Bangladesh Standard Time)</udate><id>article-AJGyPD7Vcz</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#04.git commit</tags><thumbnail></thumbnail><heading></heading><udate>Thu May 29 2025 21:02:52 GMT+0600 (Bangladesh Standard Time)</udate><id>article-AJGyPD7Vcz</id><duration></duration></config>
