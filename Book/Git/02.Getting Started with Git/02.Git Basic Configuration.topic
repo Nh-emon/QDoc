@@ -1,4 +1,4 @@
-<sn><md>## **Git Basic Configuration**
+<sn class="border-0"><md>## **Git Basic Configuration**
 
 ---
 
@@ -110,7 +110,7 @@ git config --global credential.helper 'cache --timeout=3600'
 * Windows users should configure line ending behavior (`core.autocrlf`)
 * View current settings with `git config --list`
 
-</md></sn><config style="display:none"><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 21:02:18 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config><sn><md>###  **Git Config File Locations**
+</md></sn><config style="display:none"><tags>#02.git basic configuration</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 31 2025 10:03:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XINmmSCrUw</id><duration></duration></config><sn><md>###  **Git Config File Locations**
 ---
 
 Git uses **three levels** of config files:
