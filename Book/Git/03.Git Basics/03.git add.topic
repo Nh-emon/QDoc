@@ -1,5 +1,4 @@
-<sn><md>
-## 🧠 **Git `add`: What It Is and How It Works**
+<sn><md>## 🧠 **Git `add`: What It Is and How It Works**
 
 
 #### **Introduction**
@@ -88,4 +87,4 @@ This removes the file from the staging area but keeps your changes in the workin
 | Scope          | Can stage individual files, patterns, or all changes |
 | Common Mistake | Forgetting to add changes before commit              |
 | Undo           | Use `git restore --staged` to unstage files          |
-</md></sn><config style="display:none"><tags>#03.git add</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 11:01:13 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Ta9u4dLPmd</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#03.git add</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 31 2025 19:53:48 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Ta9u4dLPmd</id><duration></duration></config>
