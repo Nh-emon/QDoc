@@ -1,4 +1,4 @@
-<sn class="border-0"><h2>Getting user device Type :</h2><pre data-v="javascript">export function userDeviceType() {
+<sn class="border-0"><h2>Getting user device Type&nbsp;</h2><pre data-v="javascript">export function userDeviceType() {
   const ua = navigator.userAgent;
   // Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
   return /Mobi|Android|iPhone|BlackBerry|IEMobile|Opera Mini/i.test(ua)
@@ -7,4 +7,4 @@
     ? "TABLET"
     : "DESKTOP";
 }
-</pre></sn><config style="display:none"><tags>ecmascript,ecmascript</tags><thumbnail></thumbnail><title>ecmascript</title><desc></desc><udate>Sun Jun 01 2025 08:57:37 GMT+0600 (Bangladesh Standard Time)</udate><id>#topic-4F2AN82L4N</id></config>
+</pre></sn><config style="display:none"><tags>ecmascript,ecmascript</tags><thumbnail></thumbnail><title>ecmascript</title><desc></desc><udate>Sun Jun 01 2025 08:59:08 GMT+0600 (Bangladesh Standard Time)</udate><id>#topic-4F2AN82L4N</id></config>
