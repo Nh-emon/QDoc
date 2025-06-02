@@ -1,4 +1,5 @@
-<sn class="fs-08"><md>### **Article: Centralized vs Distributed Version Control Systems (VCS)**
+<sn>
+  <md>### **Article: Centralized vs Distributed Version Control Systems (VCS)**
 
 Version Control Systems (VCS) are tools that help developers track, manage, and collaborate on changes to source code. They are primarily categorized into two types: **Centralized** and **Distributed**. Each type has distinct architectures, advantages, and drawbacks that suit different development environments.
 
@@ -108,4 +109,5 @@ Both centralized and distributed version control systems have their place in sof
 * **Centralized VCS** uses one central repository, ideal for smaller or tightly-managed teams.
 * **Distributed VCS** gives every user a full copy of the repository, enabling offline work and faster collaboration.
 * Git, a DVCS, has become the most widely used tool due to its flexibility, speed, and robust features.
-* Choose CVCS for simplicity and central control; DVCS for scalability and distributed development.</md></sn><config style="display:none"><tags>#02.centralized vs distributed vcs</tags><thumbnail></thumbnail><heading></heading><udate>Sat May 31 2025 10:54:07 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9Svo0lpZk3</id><duration></duration></config>
+* Choose CVCS for simplicity and central control; DVCS for scalability and distributed development.</md>
+</sn><config style="display:none"><tags>#02.centralized vs distributed vcs</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 02 2025 20:17:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9Svo0lpZk3</id><duration></duration></config>
