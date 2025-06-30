@@ -1,1 +1,70 @@
-<sn></sn><config style='display:none'><tags>#06.enzyme cofactors</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 10:37:14 GMT+0600 (Bangladesh Standard Time)</udate><id>article-THqKssoJAM</id><duration></duration></config>
+<sn class="p-lg-5"><md>### **Enzyme Cofactor and Related Terms**
+
+![image](https://www.shutterstock.com/image-illustration/apoenzyme-inactive-enzyme-that-requires-600w-2288435787.jpg)
+
+![image]()
+
+---
+
+### 1. **Cofactor**
+
+* **Definition:** A non-protein component required by some enzymes for activity.
+* **Types:**
+
+  * **Inorganic:** Metal ions like Mg²⁺, Zn²⁺, Fe²⁺
+  * **Organic:** Coenzymes and prosthetic groups
+* **Example:**
+
+  * **Mg²⁺** for DNA polymerase
+  * **Zn²⁺** for carbonic anhydrase
+
+---
+
+### 2. **Apoenzyme**
+
+* **Definition:** The **inactive protein part** of an enzyme, without its cofactor.
+* **It becomes active only after the cofactor binds.**
+* **Example:** Apo-carbonic anhydrase (inactive without Zn²⁺)
+
+---
+
+### 3. **Holoenzyme**
+
+* **Definition:** The **complete, active enzyme** formed when an apoenzyme is combined with its cofactor.
+* **Apoenzyme + Cofactor = Holoenzyme**
+* **Example:** Carbonic anhydrase (apoenzyme + Zn²⁺)
+
+---
+
+### 4. **Coenzyme**
+
+* **Definition:** A **small organic molecule**, often vitamin-derived, that acts as a **transient carrier** of specific atoms or functional groups.
+* **Loosely bound to enzyme** and participates in reaction.
+* **Example:**
+
+  * **NAD⁺** (from Vitamin B3) in oxidation-reduction
+  * **Coenzyme A** (from Vitamin B5) in fatty acid metabolism
+
+---
+
+### 5. **Prosthetic Group**
+
+* **Definition:** A **tightly or permanently bound cofactor** to the enzyme's active site.
+* Unlike coenzymes, it doesn’t detach during the reaction.
+* **Example:**
+
+  * **FAD** (derived from Vitamin B2) in succinate dehydrogenase
+  * **Heme group** in cytochrome enzymes
+
+---
+
+### **Summary Table**
+
+| **Term**             | **Definition**                       | **Bound Type**              | **Example**               |
+| -------------------- | ------------------------------------ | --------------------------- | ------------------------- |
+| **Cofactor**         | Non-protein helper of enzyme         | Can be organic or inorganic | Mg²⁺, NAD⁺                |
+| **Apoenzyme**        | Inactive protein part of enzyme      | —                           | Apo-carbonic anhydrase    |
+| **Holoenzyme**       | Active enzyme (apoenzyme + cofactor) | —                           | Active carbonic anhydrase |
+| **Coenzyme**         | Organic, loosely bound cofactor      | Loosely bound               | NAD⁺, Coenzyme A          |
+| **Prosthetic Group** | Organic, tightly bound cofactor      | Tightly/permanently bound   | FAD, heme                 |
+</md></sn><config style="display:none"><tags>#06.enzyme cofactors</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 10:43:28 GMT+0600 (Bangladesh Standard Time)</udate><id>article-THqKssoJAM</id><duration></duration></config>
