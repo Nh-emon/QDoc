@@ -1,1 +1,23 @@
-<sn></sn><config style='display:none'><tags>#01.enzyme basics</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 09:26:24 GMT+0600 (Bangladesh Standard Time)</udate><id>article-DsPaZyuYMH</id><duration></duration></config>
+<sn class="p-lg-5"><h2>Enzyme</h2><p>- An <strong data-start="29" data-end="39">enzyme</strong> is a <strong data-start="45" data-end="68">biological catalyst,</strong>typically a protein that speeds up the rate of biochemical reactions <strong data-start="138" data-end="164">without being consumed</strong> in the process.&nbsp;</p></sn><config style="display:none"><tags>#01.enzyme basics</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 09:43:54 GMT+0600 (Bangladesh Standard Time)</udate><id>article-DsPaZyuYMH</id><duration></duration></config><sn class="p-lg-5"><md>### Metabolism
+
+Metabolism is the sum of all chemical reactions that occur within a living organism to maintain life.
+
+![image](https://assets.lybrate.com/imgs/tic/enadp/image-of-the-metabolism.jpg)
+
+Metabolism is divided into two main types:
+
+##### Comparison Table: Catabolic vs Anabolic Reactions
+
+| Feature                | **Catabolic Reactions**                          | **Anabolic Reactions**                           |
+| ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| **Definition**         | Breakdown of complex molecules into simpler ones | Synthesis of complex molecules from simpler ones |
+| **Energy**             | Releases energy (exergonic)                      | Requires energy input (endergonic)               |
+| **Purpose**            | Provides energy and raw materials                | Builds cell structures and stores energy         |
+| **Examples**           | Cellular respiration, digestion of food          | Photosynthesis, protein synthesis                |
+| **Type of Reaction**   | Degradative                                      | Biosynthetic                                     |
+| **Molecules Involved** | Large → small (e.g., proteins → amino acids)     | Small → large (e.g., amino acids → proteins)     |
+| **ATP Role**           | Produces ATP                                     | Consumes ATP                                     |
+
+##### Real Example
+-  **Catabolic Reaction** : C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy (ATP)
+- **Anabolic Reaction**: 6CO₂ + 6H₂O + Light energy → C₆H₁₂O₆ + 6O₂</md></sn><sn></sn>
