@@ -1,4 +1,4 @@
-<sn><md>## **Python class explanation**
+<sn class="p-lg-5"><md>## **Python class explanation**
 
 A **class** in Python is a blueprint for creating objects. It defines a set of attributes and methods that the created objects (instances) will have. Classes help in organizing code and implementing **Object-Oriented Programming (OOP)** concepts like **encapsulation**, **inheritance**, and **polymorphism**.
 
@@ -60,4 +60,4 @@ Hello, my name is Emon and I am 22 years old.
 * It uses `__init__()` to initialize object attributes.
 * The `self` keyword refers to the object instance.
 * Classes promote code reuse and logical structure in large programs.
-</md></sn><config style="display:none"><tags>#check</tags><thumbnail></thumbnail><heading>Python <m>Class</m></heading><udate>Wed May 28 2025 11:04:44 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XxQBxJBLks</id><duration>8</duration></config>
+</md></sn><config style="display:none"><tags>#check</tags><thumbnail></thumbnail><heading>Python <m>Class</m></heading><udate>Tue Jul 01 2025 20:21:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XxQBxJBLks</id><duration>8</duration></config>
