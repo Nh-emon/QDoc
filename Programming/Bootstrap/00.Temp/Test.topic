@@ -1,1 +1,7 @@
-<sn></sn><config style='display:none'><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Fri May 23 2025 11:09:21 GMT+0600 (Bangladesh Standard Time)</udate><id>article-S7eFGxgfzO</id><duration></duration></config>
+<sn><pre data-v="javascript">function $(el,child){
+    return (this instanceof HTMLElement ? this : (child ? el : document))?.querySelector(child || el)
+}
+HTMLElement.prototype.$ = $;
+window.$ = $
+document.$ = $
+</pre></sn><config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Thu Jul 03 2025 17:58:41 GMT+0600 (Bangladesh Standard Time)</udate><id>article-S7eFGxgfzO</id><duration></duration></config>
