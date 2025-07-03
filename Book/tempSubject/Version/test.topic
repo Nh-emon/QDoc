@@ -1,1 +1,61 @@
-<config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 02:49:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-3mCPDjnIGL</id><duration></duration></config><sn></sn>
+<config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 04:49:20 GMT+0600 (Bangladesh Standard Time)</udate><id>article-3mCPDjnIGL</id><duration></duration></config><sn><md data-e="true">### Difference Between Circle and Oval in Mathematics
+
+#### 1. **Definition**
+
+| Property     | Circle                                                          | Oval (Ellipse)                                                     |
+| ------------ | --------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Shape**    | A round shape where all points are equidistant from the center. | An elongated circle; a closed curve resembling a stretched circle. |
+| **Symmetry** | Infinite lines of symmetry through the center.                  | Two lines of symmetry: major and minor axes.                       |
+| **Foci**     | Has one focus (the center).                                     | Has two foci.                                                      |
+
+---
+
+#### 2. **Equation**
+
+##### Circle (Standard Equation):
+
+$$
+(x - h)^2 + (y - k)^2 = r^2
+$$
+
+* $(h, k)$: center of the circle
+* $r$: radius
+
+**If centered at origin:**
+
+$$
+x^2 + y^2 = r^2
+$$
+
+---
+
+##### Oval (Ellipse) Equation (Standard Form):
+
+**Horizontal major axis:**
+
+$$
+\frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1 \quad \text{(where } a &gt; b\text{)}
+$$
+
+**Vertical major axis:**
+
+$$
+\frac{(x - h)^2}{b^2} + \frac{(y - k)^2}{a^2} = 1 \quad \text{(where } a &gt; b\text{)}
+$$
+
+* $(h, k)$: center of the ellipse
+* $a$: semi-major axis
+* $b$: semi-minor axis
+
+**If $a = b$**, the ellipse becomes a **circle**.
+
+---
+
+#### Summary
+
+* A **circle** is a special case of an **ellipse** where the two axes are equal.
+* A **circle** has one constant radius; an **ellipse** has two radii (major and minor).
+* The **equation of a circle** is simpler and symmetric in both $x$ and $y$, while the **ellipse equation** has different denominators reflecting two axes.
+
+Let me know if you want graphical comparison or real-world examples.
+</md></sn>
