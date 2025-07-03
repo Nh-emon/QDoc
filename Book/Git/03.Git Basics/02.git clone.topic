@@ -13,12 +13,12 @@
 #### **Syntax**
 
 ```bash
-git clone &lt;repository-url&gt; [directory-name]
+git clone <repository-url> [directory-name]
 ```
 
 #### **Parameters:**
 
-* `&lt;repository-url&gt;` – Required. The URL of the remote Git repository (HTTPS, SSH, or Git protocol).
+* `<repository-url>` – Required. The URL of the remote Git repository (HTTPS, SSH, or Git protocol).
 * `[directory-name]` – Optional. The name of the folder where the repository will be cloned. If omitted, it uses the repo name as the folder.
 
 ---
@@ -109,7 +109,7 @@ This saves time and space by cloning only the latest snapshot.
 | -------------------------------------- | -------------------------------------------------------- |
 | Typo in URL                            | Double-check the repository link                         |
 | No access permission (SSH error)       | Make sure SSH key is added to your GitHub/GitLab account |
-| Forgetting to navigate into the folder | Use `cd &lt;repo-name&gt;` after cloning                       |
+| Forgetting to navigate into the folder | Use `cd <repo-name>` after cloning                       |
 | Cloning a private repo without auth    | Use SSH or include username/token in HTTPS URL           |
 
 ---
@@ -121,7 +121,7 @@ This saves time and space by cloning only the latest snapshot.
 | --------- | ---------------------------------------------------------------------- |
 | Purpose   | Copies a remote Git repository to your local system                    |
 | Includes  | Files, branches, history, remote (`origin`)                            |
-| Syntax    | `git clone &lt;repo-url&gt; [directory-name]`                                |
+| Syntax    | `git clone <repo-url> [directory-name]`                                |
 | Use cases | Contributing to open source, syncing with a team, backing up a project |
 | Extras    | Clone specific branches or shallow copies with flags                   |
-</md></sn><config style="display:none"><tags>#02.git clone</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 10:16:03 GMT+0600 (Bangladesh Standard Time)</udate><id>article-foFJYFn0dS</id><duration></duration></config>
+</repo-url></repo-name></repository-url></repository-url></md></sn><config style="display:none"><tags>#02.git clone</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 02:49:07 GMT+0600 (Bangladesh Standard Time)</udate><id>article-foFJYFn0dS</id><duration></duration></config>
