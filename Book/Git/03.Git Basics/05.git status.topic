@@ -53,7 +53,7 @@ git status
 
 ```
 Untracked files:
-  (use "git add &lt;file&gt;..." to include in what will be committed)
+  (use "git add <file class="undefined d-none">..." to include in what will be committed)
     test.txt
 ```
 
@@ -68,7 +68,7 @@ git status
 
 ```
 Changes to be committed:
-  (use "git restore --staged &lt;file&gt;..." to unstage)
+  (use "git restore --staged <file class="undefined d-none">..." to unstage)
     new file:   test.txt
 ```
 
@@ -110,7 +110,7 @@ Pair `git status` with:
 | Syntax      | Simple: `git status`                         |
 | Side Effect | Safe and read-only (doesn’t change anything) |
 
-</md></sn><config style="display:none"><tags>#05.git status</tags><thumbnail></thumbnail><heading></heading><udate>Tue Jul 01 2025 20:48:41 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Yf85aO7TQQ</id><duration></duration></config><sn><md>## **Git `status -s`: The Short Status View**
+</file></file></md></sn><config style="display:none"><tags>#05.git status</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 20:03:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Yf85aO7TQQ</id><duration></duration></config><sn><md>## **Git `status -s`: The Short Status View**
 ---
 
 #### **Introduction**
