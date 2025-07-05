@@ -13,15 +13,25 @@ Predator–prey interactions are typically of `short duration`.
 2. `Predatory Bacteria`
 
    `Vampirococcus,Daptobacter`, and similar bacteria are examples of predators that can feed on a wide range of bacterial species.
-</md></sn><config style="display:none"><tags>#03.negative interactions</tags><thumbnail></thumbnail><heading></heading><udate>Sat Jul 05 2025 21:08:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-H60XCvfi9X</id><duration></duration></config><sn><md>## Amensalism (Antagonism)
+</md></sn><config style="display:none"><tags>#03.negative interactions</tags><thumbnail></thumbnail><heading></heading><udate>Sat Jul 05 2025 21:43:56 GMT+0600 (Bangladesh Standard Time)</udate><id>article-H60XCvfi9X</id><duration></duration></config><sn><md>## Parasitism
 
-When one microbial population `produces substances that are inhibitory to another microbial population`, this interpopulation relationship is known as Amensalism or `Antagonism`.It is a negative relationship.
+![image](https://images.examples.com/wp-content/uploads/2024/02/Parasitism-Examples.png)
 
-`Mechanism`: The microbial population that produces inhibitory substances remains `unaffected` or may even gain a competitive advantage and survive in the habitat.The other microbial populations are `inhibited` by these substances.This type of chemical inhibition is referred to as `antibiosis`.
+**Definition** : Parasitism is a relationship in which one population, called the `parasite  benefits and derives its nutrition from another population`, the host, which is harmed in the process.
 
-#### Example of Antagonism
+**Nature of Interaction** : The host-parasite relationship typically involves a `long period of contact`, which may be either physical or metabolic.
 
-`Thiobacillus thiooxidans`:This microorganism oxidizes `sulfur` to produce `sulfuric acid`, which lowers the `pH` of the culture medium.The acidic environment `inhibits the growth` of most other bacteria.
+---
+##### Types of Parasites :
+
+  * `Ectoparasites`: Parasites that live `outside` the host's cells.
+  * `Endoparasites`: Parasites that live `inside` the host's cells.
+
+---
+##### Example of Parasitism
+
+  * Viruses are `obligate intracellular parasites` with high **host specificity**.
+  * Many viruses parasitize a variety of organisms including **bacteria (bacteriophages)**, **fungi**, **algae**, and **protozoa**.
 </md></sn><sn><md>## Competition
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20230803172903/Competition-.webp)
@@ -38,9 +48,18 @@ When one microbial population `produces substances that are inhibitory to anothe
   * Vitamins
   * Growth factors
 
-**Outcome**:Competition  prevents both populations from occupying the same ecological niche simultaneously. Eventually, `one population outcompetes` the other, leading to the elimination of the less competitive one.
+**Outcome** : Competition  prevents both populations from occupying the same ecological niche simultaneously. Eventually, `one population outcompetes` the other, leading to the elimination of the less competitive one.
 
 ##### Example of Competition
 
 `Paramecium caudatum vs. Paramecium aurelia`:Both protozoan species feed on the **same bacterial population**.When placed together, they **compete** for food, negatively impacting the growth of both.
+</md></sn><sn><md>## Amensalism (Antagonism)
+
+When one microbial population `produces substances that are inhibitory to another microbial population`, this interpopulation relationship is known as Amensalism or `Antagonism`.It is a negative relationship.
+
+`Mechanism`: The microbial population that produces inhibitory substances remains `unaffected` or may even gain a competitive advantage and survive in the habitat.The other microbial populations are `inhibited` by these substances.This type of chemical inhibition is referred to as `antibiosis`.
+
+#### Example of Antagonism
+
+`Thiobacillus thiooxidans`:This microorganism oxidizes `sulfur` to produce `sulfuric acid`, which lowers the `pH` of the culture medium.The acidic environment `inhibits the growth` of most other bacteria.
 </md></sn>
