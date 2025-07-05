@@ -13,13 +13,34 @@ Predator–prey interactions are typically of `short duration`.
 2. `Predatory Bacteria`
 
    `Vampirococcus,Daptobacter`, and similar bacteria are examples of predators that can feed on a wide range of bacterial species.
-</md></sn><config style="display:none"><tags>#03.negative interactions</tags><thumbnail></thumbnail><heading></heading><udate>Sat Jul 05 2025 20:44:28 GMT+0600 (Bangladesh Standard Time)</udate><id>article-H60XCvfi9X</id><duration></duration></config><sn><md>## Amensalism (Antagonism)
+</md></sn><config style="display:none"><tags>#03.negative interactions</tags><thumbnail></thumbnail><heading></heading><udate>Sat Jul 05 2025 21:08:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-H60XCvfi9X</id><duration></duration></config><sn><md>## Amensalism (Antagonism)
 
-When one microbial population `produces substances that are inhibitory to another microbial population`, this interpopulation relationship is known as Amensalism** or `Antagonism`.It is a negative relationship.
+When one microbial population `produces substances that are inhibitory to another microbial population`, this interpopulation relationship is known as Amensalism or `Antagonism`.It is a negative relationship.
 
-* `Mechanism`: The microbial population that produces inhibitory substances remains `unaffected` or may even gain a competitive advantage and survive in the habitat.The other microbial populations are `inhibited` by these substances.This type of chemical inhibition is referred to as `antibiosis`.
+`Mechanism`: The microbial population that produces inhibitory substances remains `unaffected` or may even gain a competitive advantage and survive in the habitat.The other microbial populations are `inhibited` by these substances.This type of chemical inhibition is referred to as `antibiosis`.
 
 #### Example of Antagonism
 
-* `Thiobacillus thiooxidans`:This microorganism oxidizes `sulfur` to produce `sulfuric acid`, which lowers the `pH` of the culture medium.The acidic environment `inhibits the growth` of most other bacteria.
+`Thiobacillus thiooxidans`:This microorganism oxidizes `sulfur` to produce `sulfuric acid`, which lowers the `pH` of the culture medium.The acidic environment `inhibits the growth` of most other bacteria.
+</md></sn><sn><md>## Competition
+
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20230803172903/Competition-.webp)
+
+**Definition** : Competition is a negative interaction between two microbial populations, where `both populations are adversely affected` in terms of their survival and growth.
+
+**Cause** : It occurs when both populations utilize the `same resources`, such as space or nutrients. This results in `reduced growth rate` or `lower maximum population density` for both groups.
+
+**Resources for Competition** : Microbial populations compete for `growth-limiting resources` like:
+
+  * Carbon sources
+  * Nitrogen sources
+  * Phosphorus
+  * Vitamins
+  * Growth factors
+
+**Outcome**:Competition  prevents both populations from occupying the same ecological niche simultaneously. Eventually, `one population outcompetes` the other, leading to the elimination of the less competitive one.
+
+##### Example of Competition
+
+`Paramecium caudatum vs. Paramecium aurelia`:Both protozoan species feed on the **same bacterial population**.When placed together, they **compete** for food, negatively impacting the growth of both.
 </md></sn>
