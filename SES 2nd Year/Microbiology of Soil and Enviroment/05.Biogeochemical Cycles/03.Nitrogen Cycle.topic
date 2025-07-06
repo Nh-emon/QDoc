@@ -13,7 +13,7 @@
   4. `Nitrification`
   5. `Denitrification`
   6. `Sedimentation`
-</md></sn><config style="display:none"><tags>#03.nitrogen cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 18:52:16 GMT+0600 (Bangladesh Standard Time)</udate><id>article-N35jBdPFzb</id><duration></duration></config><sn class="bar bar-orange"><md>## 1. N₂ Fixation
+</md></sn><config style="display:none"><tags>#03.nitrogen cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 18:55:16 GMT+0600 (Bangladesh Standard Time)</udate><id>article-N35jBdPFzb</id><duration></duration></config><sn class="bar bar-orange"><md>## 1. N₂ Fixation
 
 ![image](https://sciencenotes.org/wp-content/uploads/2023/08/Nitrogen-Fixation-Definition-and-Examples.png)
 
@@ -67,4 +67,35 @@ Through this process, **organic nitrogen** is converted into **inorganic ammonia
 
 **Examples of ammonifying microorganisms:**
 `Bacillus , Proteus,  Clostridium , Pseudomonas , and Streptomyces`.
+</md></sn><sn><md>## 4. Nitrification
+
+
+![image](https://www.sciencefacts.net/wp-content/uploads/2022/02/Nitrification.jpg)
+
+Nitrification is the **aerobic biological oxidation** of **ammonia (NH₃)** or **ammonium ions (NH₄⁺)** into **nitrate (NO₃⁻)**. It occurs in two distinct steps:
+
+### Steps of Nitrification:
+
+1. **Oxidation of ammonium (NH₄⁺) to nitrite (NO₂⁻)**
+
+   * Carried out by *nitrosifying* or *ammonia-oxidizing bacteria*
+   * Example organisms: *Nitrosomonas*, *Nitrococcus*
+
+2. **Oxidation of nitrite (NO₂⁻) to nitrate (NO₃⁻)**
+
+   * Carried out by *nitrite-oxidizing bacteria*
+   * Example organisms: *Nitrobacter*, *Nitrospina*
+
+### Nature of the Process:
+
+* Nitrification is performed by **small groups of autotrophic bacteria and archaea**.
+* It is an **aerobic process** (requires oxygen).
+* The oxidation reactions are **energetically poor**, resulting in **slow growth rates** for the involved organisms.
+
+### Chemical Reactions:
+
+* **NH₄⁺ + 3 O₂ → 2 NO₂⁻ + 2 H₂O + 4 H⁺** (*Nitrosomonas*, *Nitrococcus*)
+* **NO₂⁻ + O₂ → 2 NO₃⁻** (*Nitrobacter*, *Nitrospina*)
+
+These reactions represent the oxidation (loss of electrons) of nitrogen compounds, enabling the nitrogen to progress further in the nitrogen cycle.
 </md></sn>
