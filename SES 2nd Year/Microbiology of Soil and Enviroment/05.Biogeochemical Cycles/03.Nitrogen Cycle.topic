@@ -1,1 +1,70 @@
-<sn></sn><config style='display:none'><tags>#03.nitrogen cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 12:41:02 GMT+0600 (Bangladesh Standard Time)</udate><id>article-N35jBdPFzb</id><duration></duration></config>
+<sn class="bar bar-teal"><md>## The Nitrogen Cycle
+
+![images](https://www.sciencefacts.net/wp-content/uploads/2020/02/Nitrogen-Cycle-Diagram.jpg)
+
+* Nitrogen is the key component of `essential biomolecules` like amino acids, proteins, vitamins, enzymes, and hormones.
+* The `nitrogen cycle` is the continuous process of circulation and exchange of nitrogen (N₂) between the atmosphere, lithosphere, biosphere, and living organisms.
+* The ultimate source of N₂ to all living organisms is atmospheric nitrogen, which constitutes about `78%` of the air.
+* The steps of the nitrogen cycle are:
+
+  1. `Nitrogen Fixation`
+  2. `Nitrogen Assimilation`
+  3. `Ammonification`
+  4. `Nitrification`
+  5. `Denitrification`
+  6. `Sedimentation`
+</md></sn><config style="display:none"><tags>#03.nitrogen cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 18:52:16 GMT+0600 (Bangladesh Standard Time)</udate><id>article-N35jBdPFzb</id><duration></duration></config><sn class="bar bar-orange"><md>## 1. N₂ Fixation
+
+![image](https://sciencenotes.org/wp-content/uploads/2023/08/Nitrogen-Fixation-Definition-and-Examples.png)
+
+**Definition:**
+`Nitrogen fixation` is the process of converting atmospheric nitrogen into ammonia or other usable nitrogenous compounds.
+
+There are two types of nitrogen fixation processes:
+
+### (i) Physico-Chemical Nitrogen Fixation
+
+* Atmospheric nitrogen combines with oxygen during `thunderstorms, lightning, or electrical discharges` in the clouds and produces a series of nitrogen oxides:
+
+  * N₂ + 2(O) → 2NO
+  * 2NO + 2(O) → 2NO₂
+  * 2NO₂ + (O) → N₂O₅
+* These nitrogen oxides dissolve in rainwater and form `nitric acid`, which reaches the ground and reacts with various `mineral compounds` to form nitrates and other compounds:
+
+  * N₂O₅ + H₂O → 2HNO₃
+  * 2HNO₃ + CaCO₃ → Ca(NO₃)₂ + CO₂ + H₂O
+
+### (ii) Biological Nitrogen Fixation
+
+This process is carried out by certain prokaryotic microorganisms, categorized into two groups:
+
+* **Symbiotic N₂ Fixers:**
+
+  * Bacteria and fungi, mainly of the genus `Rhizobium`
+  * These bacteria `enter the root cells of leguminous plants` (e.g., peas, groundnuts, beans, clovers) by breaking down the cell wall.
+  * They multiply and form an enlargement called `legume nodules`, where nitrogen fixation occurs.
+
+* **Free-living N₂ Fixers:**
+
+  * **Aerobic bacteria:** `Azotobacter`
+  * **Anaerobic bacteria:** `Clostridium`
+  * **Blue-green algae:** `Anabaena`
+  * These organisms combine atmospheric N₂ with hydrogen (obtained from the transpiratory pathway) to form **ammonia (`NH₃`)**, which then reacts with organic acids to produce `amino acids`.
+</md></sn><sn class="bar bar-indigo"><md>## 2. N₂ Assimilation
+
+![image](https://images.my.labster.com/v2/THE/1b8e1e2c-a849-42c7-85d7-6f29786b8f02/CYN_Assimilation.en.x512.png)
+
+`Nitrites, nitrates, and ammonia` formed during nitrogen fixation are `absorbed` by green plants and converted into nitrogenous organic compounds such as `amino acids, nucleic acids, proteins, enzymes, and hormones`.
+</md></sn><sn class="bar bar-green"><md>## 3. Ammonification (Mineralization)
+
+![image](https://i.ytimg.com/vi/kdVTdzi2js8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLBWRHNF2lYyI1qE8WNGxz0D8KXqFQ)
+
+Through this process, **organic nitrogen** is converted into **inorganic ammonia (NH₃)** or **ammonium ions (NH₄⁺)**.
+
+* Ammonification plays a crucial role by providing `nitrogen to the soil in a usable form` for plants, enabling the transfer of nitrogen through the food chain.
+* For many plant species growing in **acidic soils**, ammonification is the most effective method of obtaining nitrogen.
+* However, adding `excessive fertilizers` to increase ammonia levels can lead to `algal overgrowth`, resulting in `soil toxicity` and `ecosystem imbalance`.
+
+**Examples of ammonifying microorganisms:**
+`Bacillus , Proteus,  Clostridium , Pseudomonas , and Streptomyces`.
+</md></sn>
