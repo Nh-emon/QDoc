@@ -1,1 +1,62 @@
-<sn></sn><config style='display:none'><tags>#02.carbon cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 08:36:38 GMT+0600 (Bangladesh Standard Time)</udate><id>article-c93PfZlNkP</id><duration></duration></config>
+<sn class="bar bar-teal"><md>## The Carbon Cycle
+
+* Carbon is critical for life because it is the essential `building block` of all organic compounds.
+* Plants and animals utilize carbon to produce `carbohydrates, fats, and proteins`, which can then be used to build their internal structures or to obtain energy.
+* The transformative process by which carbon dioxide is taken up from the atmospheric reservoir and “fixed” into organic substances is called `carbon fixation`.
+* The best known example of carbon fixation is `photosynthesis`, a process by which energy derived from sunlight is harnessed to form organic compounds.
+* Photosynthesis depends on the activity of microorganisms such as `cyanobacteria`.
+* In the end, the carbon atoms are released as **CO₂** in **respiration**.
+* Some human activities, such as `burning of fossil fuels` and `deforestation`, increase atmospheric CO₂ and affect Earth's **climate** and **oceans**.
+
+#### The Carbon Cycle as Two Interconnected Subcycles
+- Rapid Carbon Exchange Among Living Organisms
+- Long-Term Cycling of Carbon Through Geologic Processes</md></sn><config style="display:none"><tags>#02.carbon cycle</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 06 2025 09:27:15 GMT+0600 (Bangladesh Standard Time)</udate><id>article-c93PfZlNkP</id><duration></duration></config><sn class="bar bar-purple"><md data-e="true">### Rapid Carbon Exchange Among Living Organisms
+---
+
+* Carbon exists in the air largely as **carbon dioxide (CO₂)** gas, which `dissolves in water` and reacts with water molecules to produce `bicarbonate (HCO₃⁻)`.
+* `Photosynthesis` by land plants, bacteria, and algae converts carbon dioxide or bicarbonate into organic molecules. The equation is as follows:
+  `CO₂ + H₂O + energy → (CH₂O)ₙ + O₂`
+* `Organic molecules` made by photosynthesizers are `passed through` food chains from the `producers to consumers`.
+* `Cellular respiration` converts the organic carbon back into **carbon dioxide gas**.
+* The role of `decomposers` is to consume dead organisms and return the carbon from their bodies back into the atmosphere. The equation for this process is:
+  `(CH₂O)ₙ + O₂ → CO₂ + H₂O`
+
+**Reminder** :  `Create - Distribute - Revert`</md></sn><sn class="bar bar-orange"><md>### Long-Term Cycling of Carbon Through Geologic Processes
+---
+
+* Long-term storage of organic carbon occurs when matter from living organisms is **buried underground** or sinks to the **ocean floor**, forming `sedimentary rock`.
+* The **ocean** plays a critical role in carbon storage, holding about `50 times more carbon` than the atmosphere.
+* `Marine animals` convert carbon to calcium carbonate (`CaCO₃`), which is used to form `hard shells`.
+* When these organisms die, their **bodies decompose**, leaving behind shells that `accumulate on the seafloor`. These are eventually `broken down by waves` and **compacted under pressure** to form `limestone`.
+* When `limestone rocks are exposed to air`, they undergo `weathering`, releasing carbon back into the atmosphere as **carbon dioxide (CO₂)**.
+* `Volcanic activity` and human burning of `fossil fuels` also return this **stored carbon** to the carbon cycle.
+* The formation of `fossil fuels` happens on a `slow`, geologic timescale, but **human release of CO₂** occurs on a very `fast` timescale.
+</md></sn><sn class="bar bar-red"><md>### Carbon Cycling in Soil and Microbial Role in Decomposition of Soil Carbon
+
+* There are two main routes of input for **plant organic carbon** into the soil system:
+
+  1. **Above-ground plant litter and its leachates** – dissolved organic carbon washed into the soil from plant material by infiltrating rainfall.
+  2. **Below-ground root litter and exudation** – collectively known as **rhizodeposition**.
+
+* **Rhizodeposition** involves a continuous flow of carbon-containing compounds from roots to soil.
+
+* Root exudates include a wide range of compounds such as:
+
+  * Simple molecules: **sugars, amino acids, sugar alcohols, organic acids**
+  * Structurally complex **secondary metabolites**
+  * These can be rapidly **respired** (within hours to days) after being deposited in the soil.
+
+* In contrast, **polymers** such as **lignin, cellulose, and hemicellulose** (structural plant cell components) must first undergo **depolymerisation** by **extracellular enzymes** before microbes can metabolize them.
+
+* `Soil carbon cycling` is significantly influenced by `mycorrhizal fungi`, which include:
+
+  * **Arbuscular mycorrhizal fungi (`AMF`)** – obligate symbionts that obtain carbon only from host plants.
+  * **Ectomycorrhizal fungi (`ECM`)** – facultative symbionts capable of **mineralizing organic carbon** in addition to obtaining carbon from hosts.
+</md></sn><sn class="bar bar-blue"><md>## Blue Carbon
+
+* **Blue carbon** refers to the carbon captured and `stored` by the world’s `ocean and coastal ecosystems`.
+* Coastal systems such as `seagrasses, mangroves, salt marshes`, and others are **highly efficient at storing CO₂**.
+* These ecosystems `absorb and store carbon at a much faster rate` than terrestrial ecosystems like forests and can continue this storage for **millions of years**.
+* The **carbon stored in coastal soils** is often `thousands of years old`.
+* When these ecosystems are **damaged or disrupted** by **human activity**, large amounts of `stored carbon are released` back into the atmosphere, significantly `contributing to climate change`.
+</md></sn>
