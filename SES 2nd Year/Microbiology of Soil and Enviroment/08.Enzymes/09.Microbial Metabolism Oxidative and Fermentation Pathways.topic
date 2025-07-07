@@ -1,1 +1,107 @@
-<sn></sn><config style='display:none'><tags>#09.microbial metabolism oxidative and fermentation pathways</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 06:56:22 GMT+0600 (Bangladesh Standard Time)</udate><id>article-4fX36VPtIF</id><duration></duration></config>
+<sn><md>## Microbial Metabolism: Oxidative and Fermentation Pathways
+
+Microbial metabolism refers to all the chemical reactions that occur within microorganisms to maintain life. These reactions involve the breakdown of nutrients (catabolism) to release energy and the building of cellular components (anabolism). Two major pathways of microbial energy production are **oxidative (respiratory) pathways** and **fermentation pathways**.
+
+
+### **Oxidative Pathways (Cellular Respiration)**
+
+#### Definition:
+
+Oxidative pathways involve the complete oxidation of substrates (usually glucose) into carbon dioxide and water using an **electron transport chain (ETC)** and a **terminal electron acceptor** (usually oxygen in aerobic respiration).
+
+---
+
+#### Types:
+
+##### A. **Aerobic Respiration**
+
+* **Final electron acceptor**: Oxygen (O₂)
+* **End products**: CO₂, H₂O, and ATP
+* **ATP yield**: Up to 38 ATP per glucose molecule (in prokaryotes)
+
+##### B. **Anaerobic Respiration**
+
+* **Final electron acceptor**: Inorganic compounds other than oxygen (e.g., nitrate, sulfate)
+* **End products**: CO₂ and reduced forms of acceptors (e.g., NO₂⁻, H₂S)
+* **ATP yield**: Less than aerobic respiration but more than fermentation
+
+---
+
+#### Main Stages:
+
+##### i. **Glycolysis**
+
+* Glucose → Pyruvate
+* Net gain: 2 ATP and 2 NADH
+
+##### ii. **Krebs Cycle (Citric Acid Cycle)**
+
+* Pyruvate is further oxidized
+* Produces NADH, FADH₂, and CO₂
+
+##### iii. **Electron Transport Chain (ETC)**
+
+* NADH and FADH₂ donate electrons to the ETC
+* Electrons flow through membrane-bound carriers
+* Generates a **proton gradient** used by ATP synthase to produce ATP (**oxidative phosphorylation**)
+
+</md></sn><sn><md>## **Fermentation Pathways**
+
+### Definition:
+
+Fermentation is the **partial oxidation** of glucose (or other organic molecules) in the **absence of an electron transport chain**. Energy is obtained through **substrate-level phosphorylation**, and organic molecules act as both electron donors and acceptors.
+
+---
+
+### Characteristics:
+
+* **Anaerobic process** (does not require oxygen)
+* **Low energy yield**: 2 ATP per glucose
+* **Regenerates NAD⁺** from NADH to allow glycolysis to continue
+* **End products** vary depending on the organism
+
+---
+
+### Types of Fermentation:
+
+#### A. **Lactic Acid Fermentation**
+
+* Pyruvate → Lactic acid
+* Occurs in *Lactobacillus*, *Streptococcus*, and muscle cells under oxygen deficit
+
+#### B. **Alcoholic Fermentation**
+
+* Pyruvate → Ethanol + CO₂
+* Occurs in *Saccharomyces cerevisiae* (yeast)
+
+#### C. **Mixed Acid Fermentation**
+
+* Produces multiple products: lactic acid, ethanol, acetate, CO₂, H₂
+* Found in *E. coli* and other enteric bacteria
+
+#### D. **Butyric Acid Fermentation**
+
+* Produces butyric acid, acetone, isopropanol
+* Found in *Clostridium* species
+
+---
+
+### Comparison Table: Oxidative vs. Fermentation Pathways
+
+| Feature                  | Oxidative Pathways (Respiration)            | Fermentation Pathways              |
+| ------------------------ | ------------------------------------------- | ---------------------------------- |
+| Oxygen Requirement       | Required (aerobic) or optional (anaerobic)  | Not required                       |
+| Electron Transport Chain | Present                                     | Absent                             |
+| Final Electron Acceptor  | Oxygen or other inorganic compound          | Organic compounds (e.g., pyruvate) |
+| ATP Yield (per glucose)  | 30–38 ATP (aerobic); &lt;30 (anaerobic)        | 2 ATP                              |
+| End Products             | CO₂, H₂O, other reduced inorganic molecules | Lactic acid, ethanol, etc.         |
+| Energy Efficiency        | High                                        | Low                                |
+
+---
+
+### Summary
+
+* **Oxidative pathways** are more energy-efficient and used when oxygen or other electron acceptors are available.
+* **Fermentation** is less efficient but allows energy production in anaerobic conditions.
+* Microbes adapt their metabolism based on environmental oxygen levels and nutrient availability.
+</md></sn><config style="display:none"><tags>#09.microbial metabolism oxidative and fermentation pathways</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 06:59:59 GMT+0600 (Bangladesh Standard Time)</udate><id>article-4fX36VPtIF</id><duration></duration></config>
