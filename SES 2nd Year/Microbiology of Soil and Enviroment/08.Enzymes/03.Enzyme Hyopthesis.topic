@@ -1,10 +1,10 @@
-<sn class="p-lg-5"><md>### **Lock and Key Hypothesis of Enzyme Action**
+<sn><md>### **Lock and Key Hypothesis of Enzyme Action**
 
 ![image](https://www.researchgate.net/publication/344298011/figure/fig4/AS:937063008452608@1600424639959/Lock-and-key-model-that-explains-the-selectivity-of-enzymes-Picture-is-taken-from-2.jpg)
 
 ##### **Definition:**
 
-The **Lock and Key Hypothesis** explains how enzymes and substrates interact. It proposes that the **enzyme's active site** has a specific shape that exactly **matches the shape of its substrate**, like a key fits into a lock.
+The **Lock and Key Hypothesis** explains how enzymes and substrates interact. It proposes that the `enzyme's active site` has a specific shape that exactly **matches the `shape of its substrate`**, like a key fits into a lock.
 
 ---
 
@@ -13,7 +13,7 @@ The **Lock and Key Hypothesis** explains how enzymes and substrates interact. It
 | **Aspect**             | **Description**                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
 | **Specificity**        | The enzyme will only bind to a substrate with the correct shape.                            |
-| **No Change in Shape** | The enzyme’s active site is **rigid and unchanging** in this model.                         |
+| **No Change in Shape** | The enzyme’s active site is `rigid and unchanging` in this model.                         |
 | **Temporary Binding**  | The substrate temporarily binds to the active site to form an **enzyme-substrate complex**. |
 | **Reaction Occurs**    | The enzyme catalyzes the reaction, converting the substrate into products.                  |
 | **Product Released**   | After the reaction, the product is released, and the enzyme remains unchanged.              |
@@ -22,22 +22,22 @@ The **Lock and Key Hypothesis** explains how enzymes and substrates interact. It
 
 ### **Example:**
 
-* **Sucrase enzyme** binds specifically with **sucrose** (not lactose or maltose) to break it into glucose and fructose.
+* `Sucrase` enzyme binds specifically with `sucrose` (not lactose or maltose) to break it into glucose and fructose.
 
 ---
 
 ### **Limitations:**
 
-* The Lock and Key model does not explain the flexibility seen in many enzymes.
-* It has been improved by the **Induced Fit Model**, which suggests the enzyme changes shape slightly to fit the substrate better.
+* The Lock and Key model does not explain the `flexibility` seen in many enzymes.
+* It has been improved by the **Induced Fit Model**, which suggests the `enzyme changes shape slightly` to fit the substrate better.
 
-</md></sn><sn class="p-lg-5"><md>### **Induced Fit Model of Enzyme Action**
+</md></sn><sn><md>### **Induced Fit Model of Enzyme Action**
 
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM6XLtgrmYlqiaE1R0P9KC-JinGYGkeVdaYXosfws18NDvUotcZnVynBHj-zDyrAoJf0oxwr-stOFIg05tMIOvasn8xpOppMkY2dr5cfkVknv5dDuyUDz9v8Qk8NzQWfx5ZL0KlE-bv2k/s915/induced-fit-model-of-enzyme-action.PNG)
 
 ##### **Definition:**
 
-The **Induced Fit Model** suggests that the **enzyme's active site is flexible**, not rigid. When the **substrate approaches**, the enzyme undergoes a **conformational change** to mold around the substrate—**improving the fit** and facilitating the reaction.
+The **Induced Fit Model** suggests that the `enzyme's active site is flexible`, not rigid. When the **substrate approaches**, the enzyme undergoes a`conformational change` to `mold around the substrate`—**improving the fit** and facilitating the reaction.
 
 ---
 
@@ -54,7 +54,7 @@ The **Induced Fit Model** suggests that the **enzyme's active site is flexible**
 
 ### **Example:**
 
-* **Hexokinase**, an enzyme that adds a phosphate group to glucose, changes its shape when glucose binds, aligning the active site perfectly for the reaction.
+* `Hexokinase`, an enzyme that adds a phosphate group to glucose, changes its shape when glucose binds, aligning the active site perfectly for the reaction.
 
 ---
 
@@ -68,5 +68,5 @@ The **Induced Fit Model** suggests that the **enzyme's active site is flexible**
 
 ---
 
-The **Induced Fit Model** better explains the enzyme's high specificity, flexibility, and how some enzymes can bind to multiple related substrates.
-</md></sn><config style="display:none"><tags>#03.enzyme hyopthesis</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 10:20:13 GMT+0600 (Bangladesh Standard Time)</udate><id>article-eUN28Aadak</id><duration></duration></config>
+The **Induced Fit Model** better explains the `enzyme's high specificity`, `flexibility`, and how some enzymes can `bind to` multiple `related substrates`.
+</md></sn><config style="display:none"><tags>#03.enzyme hyopthesis</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 09:01:07 GMT+0600 (Bangladesh Standard Time)</udate><id>article-eUN28Aadak</id><duration></duration></config>
