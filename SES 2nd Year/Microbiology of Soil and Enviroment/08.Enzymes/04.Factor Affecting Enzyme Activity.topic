@@ -1,70 +1,117 @@
-<sn class="p-lg-5"><md>### **Factors Affecting Enzyme Activity** 
+<sn><md>## Factors Affecting Enzyme Activity
 
-![image](https://media.geeksforgeeks.org/wp-content/uploads/20240328172456/Factors-affecting-ENZYME-activity.png)
-
----
-
-1. **Temperature**
-
-   * Activity increases with temperature up to an optimum point.
-   * High temperatures may denature enzymes and reduce activity.
-
-2. **pH**
-
-   * Each enzyme has an optimum pH.
-   * Too high or too low pH alters enzyme structure and reduces activity.
-
-3. **Substrate Concentration**
-
-   * Increasing substrate increases activity until enzymes are saturated.
-   * Beyond saturation, the rate remains constant.
-
-4. **Enzyme Concentration**
-
-   * More enzymes increase reaction rate if substrate is available.
-
-5. **Inhibitors**
-
-   * **Competitive inhibitors** block the active site.
-   * **Non-competitive inhibitors** bind elsewhere and change the enzyme's shape.
-
-6. **Cofactors and Coenzymes**
-
-   * Some enzymes require metal ions or coenzymes for activation.
-   * Without them, enzyme activity is reduced or halted.
-
-7. **Time**
-
-   * Over time, enzymes can lose activity due to denaturation or substrate depletion.
-</md></sn><config style="display:none"><tags>#04.factor affecting enzyme activity</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 10:27:27 GMT+0600 (Bangladesh Standard Time)</udate><id>article-yLC40vxubI</id><duration></duration></config><sn class="p-lg-5"><md>### **Real-Life Examples of Factors Affecting Enzyme Activity**
+Enzymes are highly sensitive to changes in their environment. The rate of enzyme-catalyzed reactions depends on several internal and external factors. These factors can influence the structure of the enzyme, the binding of the substrate, and the overall efficiency of the reaction.
 
 ---
 
-1. **Temperature**
+### 1. **Temperature**
 
-   * *Example:* **Human amylase** (in saliva) works best around **37°C**.
-     If the temperature rises to **60°C**, the enzyme **denatures** and stops breaking down starch.
+#### Effect:
 
-2. **pH**
+* Increases in temperature generally increase the rate of enzyme activity up to an optimal point (usually 35–40°C for human enzymes).
+* Beyond the optimal temperature, enzyme activity rapidly decreases due to **denaturation** (loss of 3D structure).
 
-   * *Example:* **Pepsin**, a digestive enzyme in the stomach, works best at **pH 2**.
-     At **neutral or basic pH**, pepsin loses activity due to **change in structure**.
+#### Example:
 
-3. **Substrate Concentration**
+* Human enzymes like **pepsin** (active in the stomach) function best around 37°C.
 
-   * *Example:* In a lab, increasing the amount of **hydrogen peroxide** increases the activity of **catalase**—until the enzyme becomes saturated.
+#### Graph:
 
-4. **Enzyme Concentration**
+A bell-shaped curve showing optimal activity at moderate temperatures and a decline at high temperatures.
 
-   * *Example:* In milk industry, increasing **rennin enzyme** speeds up milk coagulation—if there’s enough casein substrate present.
+---
 
-5. **Inhibitors**
+### 2. **pH Level**
 
-   * *Example:* **Penicillin** is a competitive inhibitor that blocks bacterial enzyme activity used for cell wall synthesis.
+#### Effect:
 
-6. **Cofactors**
+* Each enzyme has an **optimum pH** at which its activity is maximal.
+* Changes in pH can alter the ionization of amino acid residues at the active site, disrupting enzyme-substrate binding.
+* Extreme pH values may lead to enzyme denaturation.
 
-   * *Example:* **DNA polymerase** requires **magnesium ions (Mg²⁺)** as a cofactor to synthesize DNA.
-     Without Mg²⁺, the enzyme cannot function properly.
+#### Examples:
 
-</md></sn>
+* **Pepsin** (stomach enzyme): Optimum pH \~2.
+* **Trypsin** (intestinal enzyme): Optimum pH \~8.
+
+---
+
+### 3. **Substrate Concentration**
+
+#### Effect:
+
+* At low substrate concentrations, increasing the amount of substrate increases the reaction rate.
+* Eventually, the rate **plateaus** when the enzyme becomes saturated (maximum velocity or **Vmax**).
+
+#### Explanation:
+
+* When all enzyme active sites are occupied, adding more substrate doesn’t increase the rate further.
+
+---
+
+### 4. **Enzyme Concentration**
+
+#### Effect:
+
+* Increasing enzyme concentration increases the reaction rate **only if substrate is in excess**.
+* If substrate is limited, increasing enzymes has no further effect.
+
+---
+
+### 5. **Inhibitors**
+
+Inhibitors are substances that reduce enzyme activity. They are of two major types:
+
+#### A. **Competitive Inhibitors**
+
+* Resemble the substrate and **compete** for the active site.
+* Can be overcome by increasing substrate concentration.
+
+#### B. **Non-Competitive Inhibitors**
+
+* Bind to an enzyme **away from the active site** and change the enzyme’s shape.
+* Cannot be overcome by increasing substrate concentration.
+
+---
+
+### 6. **Cofactors and Coenzymes**
+
+* Some enzymes require **non-protein helpers** for activity:
+
+  * **Cofactors**: Inorganic ions (e.g., Zn²⁺, Mg²⁺).
+  * **Coenzymes**: Organic molecules (e.g., NAD⁺, FAD, vitamins).
+* Their absence can reduce or stop enzyme function.
+
+---
+
+### 7. **Presence of Activators**
+
+* Some substances (e.g., ions or small molecules) enhance enzyme activity.
+* These **activators** may change the enzyme’s shape or help bind the substrate more effectively.
+
+---
+
+### 8. **Time and Reaction Duration**
+
+* Enzyme activity may change over time due to:
+
+  * Product inhibition
+  * Enzyme degradation
+  * Limited substrate availability
+
+---
+
+### Summary Table
+
+| Factor                  | Effect on Enzyme Activity                             |
+| ----------------------- | ----------------------------------------------------- |
+| Temperature             | Increases rate until optimum; denatures at high temps |
+| pH                      | Optimum pH needed; extremes cause denaturation        |
+| Substrate Concentration | Increases rate until enzyme saturation (Vmax)         |
+| Enzyme Concentration    | Increases rate if substrate is not limiting           |
+| Inhibitors              | Reduce or block enzyme activity                       |
+| Cofactors/Coenzymes     | Required for full activity in some enzymes            |
+| Activators              | Enhance enzyme performance                            |
+| Time                    | Activity may decrease over prolonged duration         |
+
+</md></sn><config style="display:none"><tags>#04.factor affecting enzyme activity</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 09:02:53 GMT+0600 (Bangladesh Standard Time)</udate><id>article-yLC40vxubI</id><duration></duration></config>
