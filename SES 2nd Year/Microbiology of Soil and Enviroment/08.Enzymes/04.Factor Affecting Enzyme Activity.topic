@@ -2,7 +2,7 @@
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20240328172456/Factors-affecting-ENZYME-activity.png)
 
-Enzymes are highly sensitive to changes in their environment. The rate of enzyme-catalyzed reactions depends on several internal and external factors. These factors can influence the structure of the enzyme, the binding of the substrate, and the overall efficiency of the reaction.
+Enzymes are highly `sensitive` to changes in their environment. The `rate of enzyme-catalyzed reactions` depends on several internal and external factors. These factors can influence the `structure of the enzyme`, the `binding of the substrate`, and the overall `efficiency` of the reaction.
 
 ---
 
@@ -10,12 +10,12 @@ Enzymes are highly sensitive to changes in their environment. The rate of enzyme
 
 #### Effect:
 
-* Increases in temperature generally increase the rate of enzyme activity up to an optimal point (usually 35–40°C for human enzymes).
-* Beyond the optimal temperature, enzyme activity rapidly decreases due to **denaturation** (loss of 3D structure).
+* Increases in temperature generally increase the `rate of enzyme activity` up to an optimal point (usually 35–40°C for human enzymes).
+* Beyond the optimal temperature, enzyme activity rapidly decreases due to `denaturation` (loss of 3D structure).
 
 #### Example:
 
-* Human enzymes like **pepsin** (active in the stomach) function best around 37°C.
+* Human enzymes like `pepsin` (active in the stomach) function best `around 37°C`.
 
 #### Graph:
 
@@ -27,9 +27,9 @@ A bell-shaped curve showing optimal activity at moderate temperatures and a decl
 
 #### Effect:
 
-* Each enzyme has an **optimum pH** at which its activity is maximal.
-* Changes in pH can alter the ionization of amino acid residues at the active site, disrupting enzyme-substrate binding.
-* Extreme pH values may lead to enzyme denaturation.
+* Each enzyme has an **optimum pH** at which `its activity is maximal`.
+* Changes in pH can `alter the ionization of amino acid` residues at the active site, disrupting enzyme-substrate binding.
+* Extreme pH values may lead to enzyme `denaturation`.
 
 #### Examples:
 
@@ -42,12 +42,12 @@ A bell-shaped curve showing optimal activity at moderate temperatures and a decl
 
 #### Effect:
 
-* At low substrate concentrations, increasing the amount of substrate increases the reaction rate.
-* Eventually, the rate **plateaus** when the enzyme becomes saturated (maximum velocity or **Vmax**).
+* At `low substrate concentrations`, increasing the amount of substrate increases the reaction rate.
+* Eventually, the rate `plateaus` when the `enzyme becomes saturated` (maximum velocity or **Vmax**).
 
 #### Explanation:
 
-* When all enzyme active sites are occupied, adding more substrate doesn’t increase the rate further.
+* When `all enzyme active sites are occupied`, adding more substrate doesn’t increase the rate further.
 
 ---
 
@@ -55,41 +55,41 @@ A bell-shaped curve showing optimal activity at moderate temperatures and a decl
 
 #### Effect:
 
-* Increasing enzyme concentration increases the reaction rate **only if substrate is in excess**.
+* Increasing enzyme concentration increases the reaction rate `only if substrate is in excess`.
 * If substrate is limited, increasing enzymes has no further effect.
 
 ---
 
 ### 5. **Inhibitors**
 
-Inhibitors are substances that reduce enzyme activity. They are of two major types:
+Inhibitors are substances that `reduce enzyme activity`. They are of two major types:
 
 #### A. **Competitive Inhibitors**
 
-* Resemble the substrate and **compete** for the active site.
-* Can be overcome by increasing substrate concentration.
+* `Resemble the substrate` and compete for the `active site`.
+* Can be `overcome` by increasing substrate concentration.
 
 #### B. **Non-Competitive Inhibitors**
 
-* Bind to an enzyme **away from the active site** and change the enzyme’s shape.
-* Cannot be overcome by increasing substrate concentration.
+* Bind to an enzyme **away from the active site** and change the `enzyme’s shape`.
+* `Cannot be overcome` by increasing substrate concentration.
 
 ---
 
 ### 6. **Cofactors and Coenzymes**
 
-* Some enzymes require **non-protein helpers** for activity:
+* Some enzymes require `non-protein helpers` for activity:
 
   * **Cofactors**: Inorganic ions (e.g., Zn²⁺, Mg²⁺).
   * **Coenzymes**: Organic molecules (e.g., NAD⁺, FAD, vitamins).
-* Their absence can reduce or stop enzyme function.
+* Their absence can `reduce or stop` enzyme function.
 
 ---
 
 ### 7. **Presence of Activators**
 
-* Some substances (e.g., ions or small molecules) enhance enzyme activity.
-* These **activators** may change the enzyme’s shape or help bind the substrate more effectively.
+* Some substances `enhance enzyme activity`.
+* These **activators** may `change the enzyme’s shape` or help bind the substrate more `effectively`.
 
 ---
 
@@ -116,4 +116,4 @@ Inhibitors are substances that reduce enzyme activity. They are of two major typ
 | Activators              | Enhance enzyme performance                            |
 | Time                    | Activity may decrease over prolonged duration         |
 
-</md></sn><config style="display:none"><tags>#04.factor affecting enzyme activity</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 09:09:38 GMT+0600 (Bangladesh Standard Time)</udate><id>article-yLC40vxubI</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#04.factor affecting enzyme activity</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 09:59:40 GMT+0600 (Bangladesh Standard Time)</udate><id>article-yLC40vxubI</id><duration></duration></config>
