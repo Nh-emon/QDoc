@@ -1,39 +1,49 @@
 <sn><md>## Types of Enzymes
+
+![image](https://www.labtestsguide.com/wp-content/uploads/2023/07/Enzymes.webp)
+
 ---
 
-Enzymes are biological catalysts that speed up biochemical reactions without undergoing permanent changes themselves. They are categorized based on the types of reactions they catalyze. According to the International Union of Biochemistry and Molecular Biology (IUBMB), enzymes are broadly classified into six major types:
+Enzymes are biological catalysts that speed up biochemical reactions without undergoing permanent changes themselves. They are `categorized based on the types of reactions` they catalyze. According to the International Union of Biochemistry and Molecular Biology (IUBMB), enzymes are broadly classified into `six` major types:
 
 #### 1. **Oxidoreductases**
 
-* **Function**: Catalyze oxidation-reduction reactions (transfer of electrons or hydrogen atoms).
-* **Example**: *Lactate dehydrogenase* – converts lactate to pyruvate.
+`L  -LD-  P`
+
+* **Function**: Catalyze `oxidation-reduction` reactions (transfer of electrons or hydrogen atoms).
+* **Example**: `Lactate dehydrogenase` – converts lactate to pyruvate.
 
 #### 2. **Transferases**
 
-* **Function**: Transfer functional groups (e.g., methyl, phosphate) from one molecule to another.
-* **Example**: *Alanine transaminase* – transfers amino groups.
+`AT`
+
+* **Function**: Transfer `functional groups` (e.g., methyl, phosphate) from one molecule to another.
+* **Example**: `Alanine transaminase` – transfers amino groups.
 
 #### 3. **Hydrolases**
 
-* **Function**: Catalyze hydrolysis reactions (addition of water to break bonds).
-* **Example**: *Amylase* – breaks down starch into sugars.
+`St -Am- Sg`
+
+* **Function**: Catalyze `hydrolysis reactions` (addition of water to break bonds).
+* **Example**: `Amylase` – breaks down starch into sugars.
 
 #### 4. **Lyases**
 
-* **Function**: Catalyze the addition or removal of groups to form double bonds without hydrolysis or oxidation.
-* **Example**: *Fumarase* – acts on fumarate in the Krebs cycle.
+`Fs - Ft`
+
+* **Function**: Catalyze the `addition or removal of groups` to form double bonds without hydrolysis or oxidation.
+* **Example**: `Fumarase` – acts on fumarate in the Krebs cycle.
 
 #### 5. **Isomerases**
 
-* **Function**: Catalyze structural rearrangements within a molecule (isomerization).
-* **Example**: *Phosphoglucose isomerase* – converts glucose-6-phosphate to fructose-6-phosphate.
+* **Function**: Catalyze `structural rearrangements` within a molecule (isomerization).
+* **Example**: `Phosphoglucose isomerase` – converts `glucose`-6-phosphate to `fructose`-6-phosphate.
 
 #### 6. **Ligases**
 
-* **Function**: Catalyze the joining of two molecules with the help of energy (usually from ATP).
-* **Example**: *DNA ligase* – joins DNA fragments.
+* **Function**: Catalyze the `joining of two molecules` with the help of energy (usually from ATP).
+* **Example**: `DNA ligase` – joins DNA fragments.
 
--
 ### Summary Table
 
 | Enzyme Class   | Reaction Catalyzed               | Example Enzyme           |
@@ -45,4 +55,4 @@ Enzymes are biological catalysts that speed up biochemical reactions without und
 | Isomerase      | Isomerization                    | Phosphoglucose isomerase |
 | Ligase         | Bond formation with ATP          | DNA ligase               |
 
-</md></sn><config style="display:none"><tags>#07.types of enzyme</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 07:03:06 GMT+0600 (Bangladesh Standard Time)</udate><id>article-sKCQJkoEOH</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#07.types of enzyme</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 11:09:54 GMT+0600 (Bangladesh Standard Time)</udate><id>article-sKCQJkoEOH</id><duration></duration></config>
