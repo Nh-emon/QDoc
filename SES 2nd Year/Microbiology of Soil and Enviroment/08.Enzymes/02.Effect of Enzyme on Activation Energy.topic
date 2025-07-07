@@ -4,8 +4,8 @@
 
 | **Term**                      | **Definition**                                                                                                                              |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Activation Energy**         | The minimum amount of energy required to start a chemical reaction by converting reactants into an activated (unstable) state.              |
-| **Transition State (Energy)** | A high-energy, unstable state of the reactants during a chemical reaction; it represents the point at which bonds are breaking and forming. |
+| **Activation Energy**         | The `minimum amount of energy` required to start a chemical reaction by converting reactants into an activated (unstable) state.              |
+| **Transition State (Energy)** |  It represents the point at which `bonds are breaking` and forming. |
 
 ---
 
@@ -15,12 +15,12 @@
 
 Enzymes reduce activation energy by:
 
-* Binding the substrate at the **active site**, which correctly orients the molecules.
+* Binding the substrate at the **active site**, which correctly `orients the molecules`.
 * **Stabilizing the transition state**, lowering the energy barrier.
-* Inducing **strain** or favorable changes in the substrate to make bond-breaking/forming easier.
-* **Creating a favorable microenvironment** (e.g., excluding water, donating/accepting protons).
+* Inducing **strain** or `favorable changes in the substrate` to make bond-breaking/forming easier.
+* Creating a `favorable microenvironment` (e.g., excluding water, donating/accepting protons).
 
-As a result, the reaction occurs **faster and at lower energy input** than it would without the enzyme.
+As a result, the reaction occurs `faster and at lower energy input` than it would without the enzyme.
 
 ---
 
@@ -39,4 +39,4 @@ As a result, the reaction occurs **faster and at lower energy input** than it wo
 
 * **Catalase** reduces the activation energy from \~75 kJ/mol to \~23 kJ/mol.
 * This is why **bubbling** is seen when catalase (from liver or potato) is added to hydrogen peroxide.
-</md></sn><config style="display:none"><tags>#02.effect of enzyme on activation energy</tags><thumbnail></thumbnail><heading></heading><udate>Thu Jul 03 2025 09:41:42 GMT+0600 (Bangladesh Standard Time)</udate><id>article-ETeiXRKFn6</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#02.effect of enzyme on activation energy</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 08:31:26 GMT+0600 (Bangladesh Standard Time)</udate><id>article-ETeiXRKFn6</id><duration></duration></config>
