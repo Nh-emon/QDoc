@@ -1,9 +1,9 @@
-<sn class="p-lg-5"><md>### Enzyme Inhibitors
+<sn><md>### Enzyme Inhibitors
 ---
 
 ![image](https://study.com/cimages/videopreview/c4zz15kb94.jpg)
 
-**Enzyme inhibitors** are molecules that reduce or stop the activity of enzymes by interfering with substrate binding or enzyme function.
+**Enzyme inhibitors** are molecules that `reduce or stop` the activity of enzymes by interfering with `substrate binding` or enzyme function.
 
 ---
 
@@ -11,9 +11,9 @@
 
 | **Type**                       | **Description**                                                                                                                                                      | **Example**                                                                            |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Competitive Inhibitors**     | Bind to the **active site**, competing with the substrate for binding. They can be overcome by increasing substrate concentration.                                   | *Methotrexate* inhibits dihydrofolate reductase (used in cancer treatment).            |
-| **Non-Competitive Inhibitors** | Bind to an **allosteric site** (different from active site), causing a change in enzyme shape and function, reducing activity regardless of substrate concentration. | *Lead* inhibits enzymes by binding to sites other than active site.                    |
-| **Feedback Inhibitors**        | End products of metabolic pathways bind to an enzyme early in the pathway (often allosterically) to inhibit its activity, regulating the pathway.                    | *Threonine* inhibits the enzyme *threonine deaminase* in its own biosynthetic pathway. |
+| **Competitive Inhibitors**     | Bind to the **active site**, competing with the substrate for binding. They can be overcome by increasing substrate concentration.                                   | `Methotrexate` inhibits `dihydrofolate` reductase (used in cancer treatment).            |
+| **Non-Competitive Inhibitors** | Bind to an **allosteric site** (different from active site), causing a change in enzyme shape and function, reducing activity regardless of substrate concentration. | `Lead` inhibits enzymes by binding to sites other than active site.                    |
+| **Feedback Inhibitors**        | End products of metabolic pathways bind to an enzyme early in the pathway (often allosterically) to inhibit its activity, regulating the pathway.                    | `Threonine` inhibits the enzyme `threonine deaminase` in its own biosynthetic pathway. |
 
 ---
 
@@ -23,4 +23,4 @@
 | --------------------- | --------------- | ------------------------------------------ | --------------------------------- | -------------------------------- |
 | Competitive           | Active site     | Blocks substrate binding                   | Yes                               | Methotrexate                     |
 | Non-Competitive       | Allosteric site | Alters enzyme shape and function           | No                                | Lead                             |
-| Feedback (Allosteric) | Allosteric site | Regulates metabolic pathways by inhibition | No                                | Threonine on threonine deaminase |</md></sn><config style="display:none"><tags>#05.enzyme inhibitors</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jun 30 2025 10:36:22 GMT+0600 (Bangladesh Standard Time)</udate><id>article-hHaHCvZnA7</id><duration></duration></config>
+| Feedback (Allosteric) | Allosteric site | Regulates metabolic pathways by inhibition | No                                | Threonine on threonine deaminase |</md></sn><config style="display:none"><tags>#05.enzyme inhibitors</tags><thumbnail></thumbnail><heading></heading><udate>Mon Jul 07 2025 11:27:26 GMT+0600 (Bangladesh Standard Time)</udate><id>article-hHaHCvZnA7</id><duration></duration></config>
