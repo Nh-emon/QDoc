@@ -1,1 +1,21 @@
-<sn></sn><config style='display:none'><tags>#04.summary</tags><thumbnail></thumbnail><heading></heading><udate>Tue Jul 08 2025 08:22:20 GMT+0600 (Bangladesh Standard Time)</udate><id>article-HG8y89n94N</id><duration></duration></config>
+<sn><md>## Summary of all Symbiotic Relation
+---
+
+**Key to Symbols**:
+
+* `+` = Benefit
+* `-` = Harm
+* `0` = No significant effect
+* `A` and `B` = Organism A and Organism B respectively
+
+| **Relationship Name** | **Short Description**                    | **Symbolic Representation** |
+| --------------------- | ---------------------------------------- | --------------------------- |
+| **Mutualism**         | Both organisms benefit                   | `+A +B`                   |
+| **Syntrophism**       | Both benefit by metabolizing together    | `+A +B`                   |
+| **Commensalism**      | One benefits, the other is unaffected    | `+A 0B`                   |
+| **Cooperation**       | Both benefit, but not obligatory         | `+A +B`                   |
+| **Predation**         | One benefits, the other is killed        | `+A -B`                 |
+| **Parasitism**        | One benefits, the other is harmed        | `+A -B`                   |
+| **Competition**       | Both are harmed due to resource conflict | `-A -B`                   |
+| **Amensalism**        | One is harmed, the other is unaffected   | `-A 0B`                   |
+</md></sn><config style="display:none"><tags>#04.summary</tags><thumbnail></thumbnail><heading></heading><udate>Tue Jul 08 2025 08:29:23 GMT+0600 (Bangladesh Standard Time)</udate><id>article-HG8y89n94N</id><duration></duration></config>
