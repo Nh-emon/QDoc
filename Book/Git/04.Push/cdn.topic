@@ -1,5 +1,17 @@
 
-	<sn></sn>		
+	<sn class=""><md class="">### JsDeliverNet with Github
+
+**Github File**
+
+```bash
+https://raw.githubusercontent.com/Nh-emon/QDoc/main/media/test.js
+```
+
+**JSDeliVR**
+
+```bash
+https://cdn.jsdelivr.net/gh/Nh-emon/QDoc@main/media/test.js
+```</md></sn>		
 	<config>
 		<tags>#cdn</tags>
 		<thumbnail></thumbnail>
