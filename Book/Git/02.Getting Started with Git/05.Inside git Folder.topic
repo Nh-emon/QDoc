@@ -1,6 +1,8 @@
-<sn class="p-lg-5"><md>## 📁 **`.git`Folders**
+<sn class="border"><md>## 📁 **`.git`Folders**
 
 ---
+
+<p class="bar">Though many do not obey it , but it is important</p>
 
 ![git folder](https://i.imgur.com/4XKCUlM.png)
 
@@ -88,4 +90,4 @@
 | `HEAD`           | File   | Points to the current branch or commit                    |
 | `index`          | File   | Represents the staging area (what’s to be committed next) |
 
-</md></sn><config style="display:none"><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Tue Jul 01 2025 21:11:04 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
+</md></sn><config style="display:none"><tags>#05.inside git folder</tags><thumbnail></thumbnail><heading></heading><udate>Thu Jul 24 2025 14:16:32 GMT+0600 (Bangladesh Standard Time)</udate><id>article-8eLZAoSmLM</id><duration></duration></config>
