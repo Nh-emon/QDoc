@@ -1,5 +1,5 @@
 
-	<sn><md>## **Python Threading**
+	<sn class="border-0"><md>## **Python Threading**
 
 Python **threading** allows programs to run multiple operations concurrently within the same process. A **thread** is the smallest unit of execution, and threading helps improve performance when tasks are I/O-bound (like file operations or network requests).
 
@@ -140,7 +140,7 @@ print("Counter:", counter)
 		<tags>#threading</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Jul 25 2025 17:27:56 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Jul 25 2025 18:42:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RsMHOzQ56E</id>
 		<duration></duration>
 	</config>
