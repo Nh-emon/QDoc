@@ -1,10 +1,133 @@
 
-	<sn></sn>		
+	<sn><md>## Isolation and Application of Inert Gases
+---
+
+
+### Introduction
+
+Inert gases, also called noble gases, are a group of chemically nonreactive elements found in Group 18 of the periodic table. These include **Helium (He)**, **Neon (Ne)**, **Argon (Ar)**, **Krypton (Kr)**, **Xenon (Xe)**, and **Radon (Rn)**. Their full valence electron shells render them highly stable and unreactive, making them valuable for various scientific, industrial, and medical applications. This article explores how inert gases are **isolated from natural sources** and discusses their **diverse applications** across sectors.
+
+---
+
+### Isolation of Inert Gases
+
+The isolation of noble gases depends on their **natural occurrence**—either in the atmosphere, underground gas fields, or radioactive decay.
+
+#### 1. **Isolation from Air**
+
+Air is the **primary source** for most noble gases, especially **Neon, Argon, Krypton, and Xenon**. They are separated by the **fractional distillation of liquid air**, which exploits differences in boiling points.
+
+**Steps:**
+
+* **Compression and cooling of air** to liquefy it.
+* **Fractional distillation** in a low-temperature column.
+* Gases are separated based on boiling points:
+
+  * Argon (\~−186°C)
+  * Neon (\~−246°C)
+  * Krypton (\~−153°C)
+  * Xenon (\~−108°C)
+
+Each gas is collected at different stages of the distillation column.
+
+#### 2. **Isolation of Helium**
+
+Helium is rare in air but found in **natural gas fields** (especially in the USA, Qatar, and Algeria) at concentrations of up to 7%.
+
+**Extraction Process:**
+
+* **Removal of other gases** (methane, nitrogen, CO₂) from natural gas.
+* **Cryogenic separation** of helium due to its low boiling point (−269°C).
+* **Pressure swing adsorption (PSA)** or **membrane separation** may also be used.
+
+#### 3. **Isolation of Radon**
+
+Radon is a **radioactive gas** that originates from the decay of **radium-226** in uranium-rich rocks and soils.
+
+**Isolation Method:**
+
+* Radon is collected from **radium salts or rocks** in laboratory settings.
+* Due to its radioactivity and health risks, its isolation is limited to controlled research or medical use.
+
+---
+
+### Applications of Inert Gases
+
+Though chemically inert, noble gases have **important physical properties**—such as low reactivity, high thermal stability, and light emission under electric discharge—that make them highly useful in multiple domains.
+
+#### 1. **Helium (He)**
+
+| Application Area       | Description                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| **Cryogenics**         | Used as a coolant for superconducting magnets, MRI machines (due to low boiling point). |
+| **Ballooning**         | Safe lifting gas for balloons and airships (non-flammable).                             |
+| **Leak detection**     | Used in high-precision leak testing for vacuum and pressurized systems.                 |
+| **Gas chromatography** | Acts as a carrier gas for analytical instruments.                                       |
+
+#### 2. **Neon (Ne)**
+
+| Application Area           | Description                                      |
+| -------------------------- | ------------------------------------------------ |
+| **Lighting**               | Red-orange glow in neon signage and indicators.  |
+| **High-voltage equipment** | Used in wave meter tubes and voltage indicators. |
+
+#### 3. **Argon (Ar)**
+
+| Application Area        | Description                                                                 |
+| ----------------------- | --------------------------------------------------------------------------- |
+| **Welding**             | Provides an inert atmosphere in arc welding (prevents oxidation of metals). |
+| **Light bulbs**         | Prevents filament oxidation in incandescent lamps.                          |
+| **Metal manufacturing** | Used in metallurgy for creating oxygen-free environments.                   |
+
+#### 4. **Krypton (Kr)**
+
+| Application Area | Description                                            |
+| ---------------- | ------------------------------------------------------ |
+| **Photography**  | Employed in high-intensity flash lamps.                |
+| **Lasers**       | Used in krypton lasers for eye surgeries and research. |
+| **Illumination** | Mixed with argon in fluorescent lamps.                 |
+
+#### 5. **Xenon (Xe)**
+
+| Application Area       | Description                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| **Medical anesthesia** | Used as a general anesthetic with fewer side effects.                         |
+| **Xenon flash lamps**  | Provide intense light bursts for photography and scientific imaging.          |
+| **Ion propulsion**     | Used in ion thrusters for deep space missions (e.g., NASA's Dawn spacecraft). |
+
+#### 6. **Radon (Rn)**
+
+| Application Area       | Description                                                 |
+| ---------------------- | ----------------------------------------------------------- |
+| **Radiotherapy**       | Formerly used in cancer treatment via sealed radon sources. |
+| **Geological surveys** | Used to detect radioactive zones and earthquake activity.   |
+
+&gt; Note: Due to its radioactivity, **radon usage is highly restricted** and monitored for safety.
+
+---
+
+### Summary Table of Isolation and Uses
+
+| Gas     | Primary Isolation Source   | Key Uses                                      |
+| ------- | -------------------------- | --------------------------------------------- |
+| Helium  | Natural gas wells          | Cryogenics, balloons, leak detection          |
+| Neon    | Atmospheric air            | Neon lights, voltage testers                  |
+| Argon   | Atmospheric air            | Welding, lighting, inert atmospheres          |
+| Krypton | Atmospheric air            | Flash lamps, lasers                           |
+| Xenon   | Atmospheric air            | Anesthesia, lighting, ion propulsion          |
+| Radon   | Radium decay (rocks, soil) | Radiotherapy (limited), geological monitoring |
+
+---
+
+### Conclusion
+
+The isolation and application of inert gases reflect how even chemically unreactive elements can play critical roles in modern technology and science. From lighting up streets and signs to enabling space exploration and medical diagnostics, noble gases have carved out indispensable niches in human civilization. As technology advances, further innovative uses of these stable elements continue to emerge, reinforcing the importance of efficient extraction and responsible usage.
+</md></sn>		
 	<config>
 		<tags>#03.isolation and application of inert gases</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Jul 26 2025 11:46:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Jul 26 2025 11:47:27 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-CdgJeH6Rss</id>
 		<duration></duration>
 	</config>
