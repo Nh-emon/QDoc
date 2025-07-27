@@ -1,4 +1,4 @@
-<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 13:06:37 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md>## Metallurgy: Extraction of Metal from Minerals
+<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 13:11:48 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md>## Metallurgy: Extraction of Metal from Minerals
 
 ### Introduction
 
@@ -47,14 +47,44 @@ Metallurgy is a structured process involving multiple steps, beginning with raw 
 </ul><p><strong>Conditions:</strong></p><ul>
 <li>Used for sulphide ores like galena (PbS), zinc blende (ZnS), copper pyrites (CuFeS₂).</li>
 <li>Requires water, air, frother, and collector.</li>
-</ul></cl><cl class="col-12 col-md-5"><p><img src="https://static.vecteezy.com/system/resources/thumbnails/038/147/349/small_2x/froth-flotation-a-mineral-separation-technique-relies-on-the-selective-attachment-of-air-bubbles-to-hydrophobic-particles-lifting-them-to-the-surface-for-collection-metallurgy-concept-vector.jpg" alt="image"></p></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">2.4 Chemical Solvent(Leaching)</h4><row class="row"><cl class="col-12 col-md-7"><p><strong>Principle:</strong> Based on the solubility of ore in a suitable chemical solvent.</p><p><strong>Process:</strong></p><ul>
-<li>Ore is treated with a solvent that dissolves the metal, leaving impurities behind.</li>
-<li>The metal is then recovered from the solution via precipitation or electrolysis.</li>
-</ul><p><strong>Examples:</strong></p><ul>
-<li><strong>Bauxite (Al₂O₃)</strong> with NaOH in the Bayer process.</li>
-<li><strong>Gold</strong> with NaCN in cyanide leaching.</li>
-</ul><p><strong>Conditions:</strong></p><ul>
-<li>Ore must be chemically reactive.</li>
-<li>Selective solvent availability.</li>
-<li>Controlled temperature and pH.</li>
-</ul></cl><cl class="col-12 col-md-5"><im>https://chemicalengineeringworld.com/wp-content/uploads/2020/06/collage45-1024x538.jpg^^Leaching Process</im></cl></row></sn>
+</ul></cl><cl class="col-12 col-md-5"><p><img src="https://static.vecteezy.com/system/resources/thumbnails/038/147/349/small_2x/froth-flotation-a-mineral-separation-technique-relies-on-the-selective-attachment-of-air-bubbles-to-hydrophobic-particles-lifting-them-to-the-surface-for-collection-metallurgy-concept-vector.jpg" alt="image"></p></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md data-e="true">## (3) Conversion of Ore to Metal Oxide
+
+### Introduction
+
+The **conversion of ore to metal oxide** is the third step in the metallurgical process. Since metals are easier to extract from their **oxide forms**, concentrated ores are converted into metal oxides through **thermal treatment**. This step is essential before the reduction process.
+
+---
+
+### Methods of Conversion
+
+There are two primary thermal methods used based on the type of ore:
+
+| Method          | Used For           | Process Description                                                                                                                         | Example                                |
+| --------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| **Roasting**    | **Sulfide ores**   | Ore is heated strongly in the presence of oxygen. Sulfide is oxidized to metal oxide.                                                       | **Zinc sulfide (ZnS)** → ZnO + SO₂     |
+| **Calcination** | **Carbonate ores** | Ore is heated in absence or limited supply of air. Carbonate decomposes to metal oxide and CO₂. Moisture is also driven off as water vapor. | **Zinc carbonate (ZnCO₃)** → ZnO + CO₂ |
+
+---
+
+### Chemical Reactions
+
+1. **Roasting (Zinc Sulfide):**
+
+   $$
+   2ZnS + 3O_2 \xrightarrow{\text{Heat}} 2ZnO + 2SO_2
+   $$
+
+2. **Calcination (Zinc Carbonate):**
+
+   $$
+   ZnCO_3 \xrightarrow{\text{Heat}} ZnO + CO_2
+   $$
+
+   * Water in ore, if present, is also converted into **water vapor** during heating.
+
+---
+
+### Conclusion
+
+Converting ores to their oxide forms by **roasting** or **calcination** is a crucial preparation step for metal extraction. The method used depends on the chemical nature of the ore—**sulfide ores** undergo roasting, while **carbonate ores** undergo calcination. This step ensures efficient and easier reduction of the metal in subsequent processes.
+</md></sn>
