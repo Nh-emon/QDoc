@@ -1,4 +1,4 @@
-<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 13:11:48 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md>## Metallurgy: Extraction of Metal from Minerals
+<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 13:19:47 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md>## Metallurgy: Extraction of Metal from Minerals
 
 ### Introduction
 
@@ -87,4 +87,100 @@ There are two primary thermal methods used based on the type of ore:
 ### Conclusion
 
 Converting ores to their oxide forms by **roasting** or **calcination** is a crucial preparation step for metal extraction. The method used depends on the chemical nature of the ore—**sulfide ores** undergo roasting, while **carbonate ores** undergo calcination. This step ensures efficient and easier reduction of the metal in subsequent processes.
+</md></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md data-e="true">## Step 4: Reduction of Metal Oxide
+
+### Introduction
+
+**Reduction of metal oxide** is the fourth step in the metallurgical process where **metal oxides are converted into pure metals** by removing the oxygen element. This step is achieved using suitable **reducing agents** or by applying electricity, depending on the metal’s reactivity.
+
+---
+
+### Part 1: Chemical Reduction Using Reducing Agents
+
+Less reactive metal oxides can be reduced using chemical reducing agents such as **carbon**, **carbon monoxide**, or **hydrogen**.
+
+#### Common Reduction Reactions:
+
+| Reaction                | Description                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------- |
+| `CuO`&nbsp;+&nbsp;`C`&nbsp;→&nbsp;Cu&nbsp;+&nbsp;CO   | **Carbon (`C`)** acts as the reducing agent, removing oxygen from **Copper oxide (`CuO`)**. |
+| `CuO`&nbsp;+&nbsp;`CO`&nbsp;→&nbsp;Cu&nbsp;+&nbsp;CO₂ | **Carbon monoxide (`CO`)** serves as the reducing agent.                                    |
+| `CuO`&nbsp;+&nbsp;H₂&nbsp;→&nbsp;Cu&nbsp;+&nbsp;`H₂O` | In this case, hydrogen reduces the oxide and forms **water vapor (`H₂O`)**.                 |
+
+&gt;  **Reducing agents** in the reactions: `C`, `CO`, and `H₂`
+&gt;  **Reduced substance**: `CuO` (Copper oxide)
+
+---
+
+### Part 2: Thermal Decomposition for Less Reactive Metals
+
+Some metal oxides, such as those of **silver (Ag₂O)** and **mercury (HgO)**, are so **unstable** that they decompose simply by heating, without needing any reducing agent.
+
+#### Examples:
+
+1. `2Ag₂O`&nbsp;→&nbsp;`4Ag`&nbsp;+&nbsp;O₂
+2. `2HgO`&nbsp;→&nbsp;`2Hg`&nbsp;+&nbsp;O₂
+
+&gt; These metals lie **low in the reactivity series**, so **heat alone** is sufficient for reduction.
+
+---
+
+### Part 3: Electrolytic Reduction for Highly Reactive Metals
+
+Metals that are **highly reactive**—such as **potassium (K)**, **sodium (Na)**, **calcium (Ca)**, **magnesium (Mg)**, and **aluminum (Al)**—**cannot be reduced by chemical agents**. Instead, they are extracted through **electrolysis** of their molten salts.
+
+#### Example:
+
+* Electrolysis of molten NaCl:
+
+  $$
+  \text{At cathode: } Na^+ + e^- \rightarrow Na
+  $$
+
+&gt; This process requires **high energy input** and is used for **very reactive metals** high in the reactivity series.
+
+---
+
+### Conclusion
+
+The method used to reduce metal oxides depends on the **position of the metal in the reactivity series**:
+
+* **Moderately reactive metals** use chemical reducing agents (`C`, `CO`, `H₂`).
+* **Low reactive metals** like Ag and Hg decompose by heat.
+* **Highly reactive metals** require **electrolysis** due to their strong bond with oxygen.
+</md></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md data-e="true">## Step 5: Refining of Metal
+
+### Introduction
+
+**Refining** is the final step in the metallurgical process. After reduction, the extracted metal often contains impurities like other metals, non-metals, or slag. Refining is done to obtain **pure, high-grade metal** suitable for industrial or commercial use.
+
+---
+
+### Common Refining Methods
+
+| Method                    | Description                                                                                                                                                                                           | Suitable For                                |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Electrolytic Refining** | Impure metal is used as the anode, and a pure metal sheet as the cathode. On passing electric current, pure metal deposits at the cathode, and impurities either dissolve or settle as **anode mud**. | Copper, Zinc, Gold, Silver                  |
+| **Distillation**          | Metals with low boiling points are vaporized and then condensed to separate them from non-volatile impurities.                                                                                        | Zinc, Mercury                               |
+| **Zone Refining**         | A movable heater passes through a metal rod, melting only a small zone. Impurities concentrate in the molten zone and are moved along the rod.                                                        | Silicon, Germanium (used in semiconductors) |
+| **Liquation**             | The metal is heated slightly above its melting point, allowing it to flow away from solid impurities.                                                                                                 | Tin, Lead                                   |
+| **Chemical Refining**     | Impurities are selectively removed through chemical reactions (e.g., poling of copper to remove oxygen).                                                                                              | Copper, Nickel                              |
+
+---
+
+### Example: Electrolytic Refining of Copper
+
+* **Anode**: Impure copper
+* **Cathode**: Pure copper sheet
+* **Electrolyte**: Acidified copper sulfate solution
+* **Reaction**:
+
+  * Anode: Cu → Cu²⁺ + 2e⁻
+  * Cathode: Cu²⁺ + 2e⁻ → Cu (pure copper deposits)
+
+---
+
+### Conclusion
+
+Refining ensures that the extracted metal reaches **commercial purity** and becomes suitable for specific applications. The choice of refining method depends on the **metal’s properties**, **economic considerations**, and **required purity level**.
 </md></sn>
