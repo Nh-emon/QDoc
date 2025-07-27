@@ -1,105 +1,60 @@
-<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 12:25:52 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn><h3>Metallurgy</h3><hr><p>Metal extracted from Minerals.</p><p><strong>Minerals</strong> : Mixture of metal,sand,slit and other particle.</p><p><strong>Ore</strong> : Special <code>Minerals</code> from which metal can be extracted by</p><ul>
-<li>cheaply</li>
-<li>Readily</li>
-</ul><h4>There are usually <code>5</code> step to extract Metal from Ore</h4><ul>
-<li class="bar bar-pink">Crushing/Grinding Metal</li>
-<li>Concentration of Metal</li>
-<li>Conversion of Ore to Metal Oxide</li>
-<li>Reduction of Metal Oxide</li>
-<li>Refining</li>
-</ul></sn><sn><md>## Concentration in Metallurgical Process
+<config style="display:none"><tags>#01.introduction</tags><thumbnail></thumbnail><heading></heading><udate>Sun Jul 27 2025 13:06:37 GMT+0600 (Bangladesh Standard Time)</udate><id>article-xXZtWgaVvm</id><duration></duration></config><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h2>Watch for Basics</h2><fr>https://www.youtube.com/embed/yEhrNelOACU?si=7Ofkw-WCryucE6mX</fr></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><md>## Metallurgy: Extraction of Metal from Minerals
 
 ### Introduction
 
-In metallurgy, **concentration** (also called **ore dressing** or **beneficiation**) is the process of `removing gangue` (unwanted impurities) from the ore to increase the percentage of the desired metal before extraction. Since ores are often found mixed with earthy materials, concentration becomes a crucial step to `ensure efficiency in the subsequent metallurgical operations`.
+**Metallurgy** is the process of extracting metals from minerals and preparing them for practical use. Metals are rarely found in their pure form in nature; instead, they occur as part of complex mixtures known as **minerals**.
 
 ---
 
-### Purpose of Concentration
+### Minerals and Ores
 
-* To increase metal content in the ore.
-* To reduce the volume of material for further processing.
-* To reduce energy and chemical consumption in extraction.
-* To enhance economic feasibility and environmental sustainability.
+* **Minerals**: These are natural substances composed of metals mixed with sand, silt, and other particles. Not all minerals are useful for metal extraction.
 
----
-
-### Types of Concentration Methods
-
-#### 1. `Gravity Separation`
-
-**Principle:** Based on differences in the specific gravity (density) of ore and gangue particles.
-
-![image](https://www.shutterstock.com/image-vector/structure-gravity-separation-method-260nw-2448730783.jpg)
-
-**Process:**
-
-* Crushed ore is washed with water on a sloping table (Wilfley table) or hydraulic classifier.
-* Heavier metal particles settle and are collected separately from the lighter gangue.
-
-**Conditions:**
-
-* Ore should be heavier than impurities.
-* Preferably used for oxide ores like hematite (Fe₂O₃), cassiterite (SnO₂).
+* **Ores**: A special class of minerals from which metals can be extracted **cheaply** and **readily**. Ores are selected based on economic viability and extraction efficiency.
 
 ---
 
-#### 2. **Magnetic Separation**
+### Steps of Metallurgical Process
 
-**Principle:** Based on magnetic properties of the ore and gangue.
+| Step No. | Process Name               | Description                                                                                                                                                                  |
+| -------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Crushing/Grinding of Metal | Breaking down large chunks of ore into fine particles to increase surface area for further processing.                                                                       |
+| 2        | Concentration of Metal     | Removing impurities (gangue) from the crushed ore using physical or chemical methods such as gravity separation, magnetic separation, froth flotation, or chemical leaching. |
+| 3        | Conversion to Metal Oxide  | Heating the concentrated ore (by calcination or roasting) to convert it into a metal oxide form.                                                                             |
+| 4        | Reduction of Metal Oxide   | Reducing the metal oxide to obtain the free metal using reducing agents like carbon or via electrolysis.                                                                     |
+| 5        | Refining                   | Purifying the extracted metal through methods such as electrorefining, distillation, or zone refining.                                                                       |
 
-**Process:**
-
-* Crushed ore is passed over a magnetic roller.
-* Magnetic particles are attracted and separated from non-magnetic impurities.
-
-**Conditions:**
-
-* Ore should be either magnetic (e.g., magnetite) or non-magnetic with magnetic gangue.
-* Used mainly for iron ores like magnetite (Fe₃O₄).
-
----
-
-#### 3. **Froth Flotation**
-
-**Principle:** Based on the difference in surface properties of the ore and gangue particles.
-
-**Process:**
-
-* Finely ground ore is mixed with water, frothing agent (pine oil), and collectors (e.g., xanthates).
-* Air is blown through the mixture.
-* Sulphide ore particles attach to air bubbles and float as froth, while gangue sinks.
-
-**Conditions:**
-
-* Used for sulphide ores like galena (PbS), zinc blende (ZnS), copper pyrites (CuFeS₂).
-* Requires water, air, frother, and collector.
-
----
-
-#### 4. **Chemical (Solvent) Leaching**
-
-**Principle:** Based on the solubility of ore in a suitable chemical solvent.
-
-**Process:**
-
-* Ore is treated with a solvent that dissolves the metal, leaving impurities behind.
-* The metal is then recovered from the solution via precipitation or electrolysis.
-
-**Examples:**
-
-* **Bauxite (Al₂O₃)** with NaOH in the Bayer process.
-* **Gold** with NaCN in cyanide leaching.
-
-**Conditions:**
-
-* Ore must be chemically reactive.
-* Selective solvent availability.
-* Controlled temperature and pH.
-
----
 
 ### Conclusion
 
-Concentration is an essential step in the metallurgical process that improves the purity and efficiency of metal extraction. The choice of method depends on the physical and chemical properties of the ore and gangue. Each technique—whether gravity-based, magnetic, froth flotation, or chemical—has its own set of conditions and applications in industrial metallurgy.
-</md></sn>
+Metallurgy is a structured process involving multiple steps, beginning with raw minerals and ending in refined metal. Understanding the distinction between minerals and ores is essential, as is applying the appropriate method at each stage for successful metal extraction.
+</md></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">1. Crushing / Grinding Metal</h4><row class="row"><cl class="col-12 col-md-7"><p>Breaking down large chunks of ore into fine particles to increase surface area for further processing.</p></cl><cl class="col-12 col-md-5"><im>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GG9vLuwSbwB2gccZ3eeULwIgkXlyCO5ecA&amp;s^^figure</im></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">2.1 Gravity Separation</h4><row class="row"><cl class="col-12 col-md-7"><p><strong>Principle:</strong> Based on differences in the specific gravity (density) of ore and gangue particles.</p><p><strong>Process:</strong></p><ul>
+<li>Crushed ore is washed with water on a sloping table (Wilfley table) or hydraulic classifier.</li>
+<li>Heavier metal particles settle and are collected separately from the lighter gangue.</li>
+</ul><p><strong>Conditions:</strong></p><ul>
+<li>Ore should be heavier than impurities.</li>
+<li>Preferably used for oxide ores like hematite (Fe₂O₃), cassiterite (SnO₂).</li>
+</ul></cl><cl class="col-12 col-md-5"><p><img src="https://www.shutterstock.com/image-vector/structure-gravity-separation-method-260nw-2448730783.jpg" alt="image"></p></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">2.2 MagneticSeparation</h4><row class="row"><cl class="col-12 col-md-7"><p><strong>Principle:</strong> Based on magnetic properties of the ore and gangue.</p><p><strong>Process:</strong></p><ul>
+<li>Crushed ore is passed over a magnetic roller.</li>
+<li>Magnetic particles are attracted and separated from non-magnetic impurities.</li>
+</ul><p><strong>Conditions:</strong></p><ul>
+<li>Ore should be either magnetic (e.g., magnetite) or non-magnetic with magnetic gangue.</li>
+<li>Used mainly for iron ores like magnetite (Fe₃O₄).</li>
+</ul></cl><cl class="col-12 col-md-5"><p><img src="https://www.vedantu.com/question-sets/e516da77-5439-4141-ae88-eff0c35405d85761229729674857743.png" alt="image"></p></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">2.3 Froth Floation</h4><row class="row"><cl class="col-12 col-md-7"><p><strong>Principle:</strong> Based on the difference in surface properties of the ore and gangue particles.</p><p><strong>Process:</strong></p><ul>
+<li>Finely ground ore is mixed with water, frothing agent (pine oil), and collectors (e.g., xanthates).</li>
+<li>Air is blown through the mixture.</li>
+<li>Sulphide ore particles attach to air bubbles and float as froth, while gangue sinks.</li>
+</ul><p><strong>Conditions:</strong></p><ul>
+<li>Used for sulphide ores like galena (PbS), zinc blende (ZnS), copper pyrites (CuFeS₂).</li>
+<li>Requires water, air, frother, and collector.</li>
+</ul></cl><cl class="col-12 col-md-5"><p><img src="https://static.vecteezy.com/system/resources/thumbnails/038/147/349/small_2x/froth-flotation-a-mineral-separation-technique-relies-on-the-selective-attachment-of-air-bubbles-to-hydrophobic-particles-lifting-them-to-the-surface-for-collection-metallurgy-concept-vector.jpg" alt="image"></p></cl></row></sn><sn class="col-12 col-md-10 ignore p-3 p-lg-5"><h4 class="text-end">2.4 Chemical Solvent(Leaching)</h4><row class="row"><cl class="col-12 col-md-7"><p><strong>Principle:</strong> Based on the solubility of ore in a suitable chemical solvent.</p><p><strong>Process:</strong></p><ul>
+<li>Ore is treated with a solvent that dissolves the metal, leaving impurities behind.</li>
+<li>The metal is then recovered from the solution via precipitation or electrolysis.</li>
+</ul><p><strong>Examples:</strong></p><ul>
+<li><strong>Bauxite (Al₂O₃)</strong> with NaOH in the Bayer process.</li>
+<li><strong>Gold</strong> with NaCN in cyanide leaching.</li>
+</ul><p><strong>Conditions:</strong></p><ul>
+<li>Ore must be chemically reactive.</li>
+<li>Selective solvent availability.</li>
+<li>Controlled temperature and pH.</li>
+</ul></cl><cl class="col-12 col-md-5"><im>https://chemicalengineeringworld.com/wp-content/uploads/2020/06/collage45-1024x538.jpg^^Leaching Process</im></cl></row></sn>
