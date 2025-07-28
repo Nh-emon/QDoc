@@ -1,10 +1,93 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Metallurgy of Copper in 5 Steps
+
+---
+
+1. **Crushing and Grinding:**
+   The copper ore (usually **chalcopyrite**, CuFeS₂) is crushed and ground into fine powder to prepare it for further processing.
+
+2. **Concentration of Ore:**
+   The powdered ore is concentrated by **froth flotation**, which separates copper-containing minerals from gangue (waste materials).
+
+3. **Conversion to Metal Oxide (Roasting):**
+   The concentrated sulfide ore is **roasted in air**, converting part of it to **copper oxide (Cu₂O)** and releasing **SO₂ gas**.
+   Example:
+
+   $$
+   2CuFeS_2 + O_2 → Cu_2S + 2FeS + SO_2
+   $$
+
+4. **Reduction of Metal Oxide (Smelting &amp; Self-Reduction):**
+   Copper oxide (Cu₂O) reacts with remaining copper sulfide (Cu₂S) in a **self-reduction** reaction to produce **blister copper** (\~98–99% pure).
+
+   $$
+   Cu_2O + Cu_2S → 6Cu + SO_2↑
+   $$
+
+5. **Refining of Copper:**
+   Blister copper is refined by **electrolysis**. Pure copper is deposited at the **cathode**, while impurities fall off as **anode mud**.
+
+   $$
+   Cu^{2+} + 2e^- → Cu \quad (\text{at cathode})
+   $$
+</md></sn><sn><md data-e="true">## **Occurrence of Copper**
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Copper_%28Element_-_29%29.jpg/640px-Copper_%28Element_-_29%29.jpg)
+
+Copper is a relatively abundant metal in the Earth’s crust (about **0.0068% by weight**) and occurs in both **native (free)** and **combined forms**. Due to its low reactivity, it is sometimes found in the **metallic state**, but more commonly in **combined ores**.
+
+---
+
+### **1. Forms of Occurrence**
+
+#### **a) Native Copper (Free State):**
+
+* Found in small quantities in **oxidized zones** of copper deposits.
+* Occurs in metallic form, especially in arid regions.
+* Example: Native copper (Cu)
+
+#### **b) Combined State (Ores):**
+
+| **Ore Name**      | **Chemical Formula** | **Ore Type** |
+| ----------------- | -------------------- | ------------ |
+| **Chalcopyrite**  | CuFeS₂               | Sulfide      |
+| **Copper Glance** | Cu₂S                 | Sulfide      |
+| **Cuprite**       | Cu₂O                 | Oxide        |
+| **Malachite**     | CuCO₃·Cu(OH)₂        | Carbonate    |
+| **Azurite**       | 2CuCO₃·Cu(OH)₂       | Carbonate    |
+
+---
+
+### **2. Geological Occurrence**
+
+* Copper ores are usually found in **igneous and sedimentary rocks**.
+* Often occurs in **vein deposits**, **porphyry copper deposits**, and **volcanogenic massive sulfide (VMS)** systems.
+* Commonly associated with **zinc, lead, gold, and silver**.
+
+---
+
+### **3. Major Producing Countries**
+
+| **Country**   | **Major Mining Regions**        |
+| ------------- | ------------------------------- |
+| **Chile**     | World’s largest copper producer |
+| **USA**       | Arizona, Utah                   |
+| **Peru**      | Andes Mountains                 |
+| **China**     | Jiangxi, Yunnan                 |
+| **Australia** | Mount Isa                       |
+| **India**     | Rajasthan (Khetri, Malanjkhand) |
+
+---
+
+### **Conclusion**
+
+Copper is found both in native form and more commonly in various chemical combinations. **Chalcopyrite (CuFeS₂)** is the **most important commercial ore**, and significant deposits are mined worldwide to meet the high industrial demand for this versatile metal.
+</md></sn>		
 	<config>
 		<tags>#04.cu</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 12:30:26 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Jul 28 2025 12:35:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-d3HRiucOK7</id>
 		<duration></duration>
 	</config>
