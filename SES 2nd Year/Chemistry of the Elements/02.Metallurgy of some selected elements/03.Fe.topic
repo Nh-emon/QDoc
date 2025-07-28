@@ -1,10 +1,146 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## **Metallurgy of Iron (Fe)**
+
+---
+
+The extraction of iron is carried out from its chief ore, **hematite (Fe₂O₃)** or **magnetite (Fe₃O₄)**, using a **blast furnace**. The process involves several key steps to convert the ore into **pig iron**, followed by further purification into **wrought iron** or **steel**.
+
+---
+
+### **1. Crushing and Grinding**
+
+* Iron ore is first **crushed** and **ground** into fine particles to increase surface area for chemical reactions.
+
+---
+
+### **2. Concentration of Ore**
+
+* Ore is concentrated using **gravity separation** or **magnetic separation** to remove impurities like sand and clay.
+
+---
+
+### **3. Conversion to Metal Oxide (Calcination or Roasting)**
+
+* Moisture and volatile impurities are removed by **heating the ore in limited air** (calcination).
+* If sulfides are present, they are oxidized during **roasting**.
+
+---
+
+### **4. Reduction of Metal Oxide in Blast Furnace**
+
+* **Fe₂O₃ or Fe₃O₄** is reduced to **metallic iron** in a **blast furnace** using **coke (carbon)** as a reducing agent.
+* **Main raw materials:**
+
+  * Iron ore (Fe₂O₃ or Fe₃O₄)
+  * Coke (C)
+  * Limestone (CaCO₃)
+
+#### **Key Reactions:**
+
+1. **Formation of reducing agent:**
+
+   $$
+   C + O_2 → CO_2
+   $$
+
+   $$
+   CO_2 + C → 2CO
+   $$
+
+2. **Reduction of iron oxide:**
+
+   $$
+   Fe_2O_3 + 3CO → 2Fe + 3CO_2
+   $$
+
+3. **Removal of gangue as slag:**
+
+   $$
+   CaCO_3 → CaO + CO_2
+   $$
+
+   $$
+   CaO + SiO_2 → CaSiO_3 (\text{slag})
+   $$
+
+---
+
+### **5. Refining of Iron**
+
+#### **a) Pig Iron:**
+
+* The iron obtained from the blast furnace is called **pig iron** (contains \~4% carbon and impurities).
+
+#### **b) Conversion to Wrought Iron or Steel:**
+
+* **Pig iron** is refined by:
+
+  * **Puddling process** (for wrought iron)
+  * **Basic Oxygen Process** or **Bessemer Process** (for steel)
+
+---
+
+### **Conclusion**
+
+The metallurgy of iron involves five key steps:
+**crushing**, **concentration**, **calcination/roasting**, **reduction in a blast furnace**, and **refining**.
+This process transforms iron ores into different forms of usable iron, such as **pig iron**, **wrought iron**, and **steel**, which are foundational to modern infrastructure and manufacturing.
+</md></sn><sn><md data-e="true">## **Occurrence of Iron (Fe)**
+
+Iron is the **second most abundant metal** in the Earth’s crust (after aluminium) and the **fourth most abundant element overall**, constituting about **5% by weight**. Due to its high reactivity, iron is **not found in the free state**; instead, it occurs in the form of various **oxides, carbonates, and sulfides**.
+
+---
+
+### **1. Common Ores of Iron**
+
+| **Ore Name**    | **Chemical Formula** | **Type**                                 |
+| --------------- | -------------------- | ---------------------------------------- |
+| **Hematite**    | Fe₂O₃                | Oxide                                    |
+| **Magnetite**   | Fe₃O₄                | Oxide                                    |
+| **Limonite**    | Fe₂O₃·xH₂O           | Hydrated oxide                           |
+| **Siderite**    | FeCO₃                | Carbonate                                |
+| **Iron Pyrite** | FeS₂                 | Sulfide *(not used for iron extraction)* |
+
+---
+
+### **2. Geological Occurrence**
+
+* Found mostly in **igneous and metamorphic rocks**.
+* Occurs in **veins**, **banded iron formations (BIFs)**, and **sedimentary deposits**.
+* Often associated with elements like manganese, titanium, and nickel.
+
+---
+
+### **3. Major Producing Countries**
+
+| **Country**   | **Major Mining Regions**                   |
+| ------------- | ------------------------------------------ |
+| **Australia** | Pilbara region                             |
+| **Brazil**    | Minas Gerais, Carajás                      |
+| **China**     | Hebei, Liaoning                            |
+| **India**     | Odisha, Chhattisgarh, Jharkhand, Karnataka |
+| **Russia**    | Kursk Magnetic Anomaly                     |
+| **USA**       | Michigan, Minnesota                        |
+
+---
+
+### **4. Forms of Occurrence**
+
+* **In oxide form:** Hematite and magnetite are the **main commercial ores** used in iron extraction.
+* **In hydrated form:** Limonite is found in bogs and marshy land.
+* **In carbonate form:** Siderite is less commonly used due to difficulty in reduction.
+
+---
+
+### **Conclusion**
+
+Iron is one of the most widely distributed and economically important metals in the Earth’s crust. It primarily occurs in the form of **oxides**, especially **hematite (Fe₂O₃)** and **magnetite (Fe₃O₄)**, which are the **main sources for iron extraction** in blast furnaces worldwide.
+</md></sn>		
 	<config>
 		<tags>#03.fe</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 13:56:14 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Jul 28 2025 14:25:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-A9iPelu0ka</id>
 		<duration></duration>
 	</config>
