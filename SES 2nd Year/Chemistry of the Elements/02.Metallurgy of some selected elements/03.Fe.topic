@@ -40,28 +40,9 @@ The extraction of iron is carried out from its chief ore, **hematite (Fe₂O₃)
 1. **Formation of reducing agent:**
 
    $$
-   C + O_2 → CO_2
+     Fe_2O_3 + CO → 2Fe_3O_4 + CO_2
    $$
 
-   $$
-   CO_2 + C → 2CO
-   $$
-
-2. **Reduction of iron oxide:**
-
-   $$
-   Fe_2O_3 + 3CO → 2Fe + 3CO_2
-   $$
-
-3. **Removal of gangue as slag:**
-
-   $$
-   CaCO_3 → CaO + CO_2
-   $$
-
-   $$
-   CaO + SiO_2 → CaSiO_3 (\text{slag})
-   $$
 
 ---
 
@@ -140,7 +121,7 @@ Iron is one of the most widely distributed and economically important metals in 
 		<tags>#03.fe</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 14:25:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Jul 28 2025 15:24:49 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-A9iPelu0ka</id>
 		<duration></duration>
 	</config>
