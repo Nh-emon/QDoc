@@ -13,9 +13,17 @@
    The concentrated sulfide ore is **roasted in air**, converting part of it to **copper oxide (Cu₂O)** and releasing **SO₂ gas**.
    Example:
 
-   $$
-   2CuFeS_2 + O_2 → Cu_2S + 2FeS + SO_2
-   $$
+$$
+   2CuFeS_2 + O_2 → Cu_2S + 2FeS + SO_2↑
+$$
+
+$$
+   2Cu_2S + 3O_2 → 2Cu_2O + 2SO_2↑
+$$
+
+ $$
+   2FeS + 3O_2 → 2FeO + 2SO_2↑
+$$
 
 4. **Reduction of Metal Oxide (Smelting &amp; Self-Reduction):**
    Copper oxide (Cu₂O) reacts with remaining copper sulfide (Cu₂S) in a **self-reduction** reaction to produce **blister copper** (\~98–99% pure).
@@ -87,7 +95,7 @@ Copper is found both in native form and more commonly in various chemical combin
 		<tags>#04.cu</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 12:35:02 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Jul 28 2025 12:51:19 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-d3HRiucOK7</id>
 		<duration></duration>
 	</config>
