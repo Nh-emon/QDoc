@@ -1,10 +1,88 @@
 
-	<sn></sn>		
+			
 	<config>
 		<tags>#qna</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 16:42:23 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 16:44:12 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-tW5wIhjPsB</id>
 		<duration></duration>
 	</config>
+<sn><md data-e="true">## Important Questions and Answers: *Inert Gases Chapter*
+
+---
+
+### 1. Describe the natural occurrence of noble gases in the atmosphere and Earth's crust. *(2 Marks)*
+
+**Answer:**
+Noble gases are found in trace amounts in the Earth’s atmosphere. The major atmospheric noble gases include:
+
+* **Argon (Ar):** \~0.93% by volume
+* **Neon (Ne), Helium (He), Krypton (Kr), and Xenon (Xe):** Present in very small quantities
+
+Helium is also found in natural gas deposits, especially in the U.S. Xenon and krypton occur in minute quantities in the air, while radon is produced from the radioactive decay of radium in rocks and soil.
+
+---
+
+### 2. Explain the isolation of noble gases by **fractional distillation of liquid air**. *(3 Marks)*
+
+**Answer:**
+Noble gases are isolated from air by **fractional distillation** of liquid air. The steps include:
+
+* Air is compressed and cooled to form liquid air.
+* It is then slowly warmed in a distillation column.
+* Different gases boil off at different temperatures due to their varying boiling points.
+* **Neon and helium**, with lowest boiling points, come off first.
+* **Argon**, **krypton**, and **xenon** are separated in later stages.
+
+This method exploits the inert gases' low reactivity and their physical properties like boiling point differences.
+
+---
+
+### 3. Discuss the preparation, properties, and structure of **Xenon hexafluoride (XeF₆)**. *(4 Marks)*
+
+**Answer:**
+**Preparation:**
+XeF₆ is prepared by heating xenon and fluorine gas under high pressure:
+$\text{Xe} + 3\text{F}_2 \xrightarrow{573K,~6atm} \text{XeF}_6$
+
+**Properties:**
+
+* XeF₆ is a white crystalline solid.
+* It is highly reactive and hydrolyzes violently with water.
+* Acts as a strong fluorinating agent.
+
+**Structure:**
+XeF₆ has a **distorted octahedral** structure due to the presence of one lone pair on xenon. Its geometry is better described as **monocapped octahedron**, caused by lone pair-bond pair repulsion.
+
+---
+
+### 4. Why are noble gases generally unreactive? Give reasons with reference to electronic configuration. *(3 Marks)*
+
+**Answer:**
+Noble gases are chemically inert because:
+
+* They have a **completely filled valence shell** (ns²np⁶ configuration, except helium: 1s²).
+* This stable configuration makes them energetically unfavorable to gain or lose electrons.
+* High **ionization energies** and **zero or near-zero electron affinity** further reduce reactivity.
+
+Due to these properties, noble gases show very limited tendency to form chemical compounds under normal conditions.
+
+---
+
+### 5. Write short notes on the uses of **helium** and **argon** in industrial and medical fields. *(2 Marks)*
+
+**Answer:**
+**Helium:**
+
+* Used in **cryogenics**, especially in MRI machines as a coolant.
+* Fills **weather balloons and airships** due to its low density and non-flammable nature.
+* Used in **gas chromatography** and as a protective gas in welding.
+
+**Argon:**
+
+* Used as an **inert atmosphere** in arc welding and metallurgy.
+* Employed in **electric bulbs** to prevent oxidation of filament.
+* Utilized in **argon lasers** and in preserving documents and artwork.
+
+</md></sn>
