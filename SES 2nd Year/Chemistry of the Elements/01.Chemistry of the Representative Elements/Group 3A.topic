@@ -1,10 +1,141 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Group 13 Elements with Emphasis on Boron and Aluminum
+
+---
+
+### Introduction
+
+Group 13 elements, also known as the **boron family**, include:
+**Boron (B), Aluminum (Al), Gallium (Ga), Indium (In),** and **Thallium (Tl)**.
+
+Among these, **boron and aluminum** are the most important due to their unique chemistry and wide range of applications. Boron is a metalloid with properties distinct from the metals in the group, while aluminum is the most abundant metal in the Earth's crust and extensively used industrially.
+
+This article focuses on the general chemistry of Group 13 elements, with special emphasis on **boron and aluminum**.
+
+---
+
+### Electronic Configuration and General Trends
+
+* Outer electronic configuration: **ns² np¹**
+* Common oxidation state: +3 (though thallium shows +1)
+* Boron is a metalloid; aluminum and the rest are metals.
+
+| Element  | Atomic Number | Electronic Configuration |
+| -------- | ------------- | ------------------------ |
+| Boron    | 5             | \[He] 2s² 2p¹            |
+| Aluminum | 13            | \[Ne] 3s² 3p¹            |
+
+**Trends Down the Group:**
+
+* Atomic and ionic size **increases**.
+* Metallic character **increases** from B to Tl.
+* Electronegativity decreases (B = 2.0, Al = 1.5).
+* Boron exhibits **covalent bonding** while aluminum forms mostly **ionic or metallic bonds**.
+* Stability of +3 oxidation state is common; however, Tl shows inert pair effect leading to +1 state.
+
+---
+
+### Occurrence and Physical Properties
+
+**Boron:**
+
+* Found mainly in borates like borax (Na₂B₄O₇·10H₂O) and kernite.
+* Rare and hard, with a high melting point.
+* Poor electrical conductor.
+
+**Aluminum:**
+
+* Third most abundant element in Earth's crust.
+* Found mainly as **bauxite ore** (Al₂O₃·2H₂O).
+* Light metal with good conductivity and corrosion resistance.
+
+---
+
+### Allotropes
+
+**Boron:**
+
+* Exists as amorphous and crystalline forms.
+* Crystalline boron has complex icosahedral structures.
+* Very hard and brittle.
+
+**Aluminum:**
+
+* Exists only in metallic form.
+* Soft, malleable, ductile metal with silvery-white appearance.
+
+---
+
+### Chemical Properties
+
+* Both form **+3 oxidation state** compounds.
+* Boron exhibits **electron-deficient bonding** (e.g., in boranes).
+* Aluminum reacts with oxygen forming a protective oxide layer.
+* Boron compounds are mostly covalent, aluminum compounds are ionic or amphoteric.
+
+---
+
+### Important Compounds
+
+**Boron's Compounds:**
+
+* **Boron hydrides (boranes):** B₂H₆ and other clusters with electron-deficient bonds.
+* **Boron halides:** BF₃, BCl₃, which are Lewis acids.
+* **Boric acid (H₃BO₃):** Weak acid used in antiseptics and glass making.
+
+**Aluminum's Compounds:**
+
+* **Aluminum oxide (Al₂O₃):** Amphoteric oxide used as abrasive and catalyst support.
+* **Aluminum chloride (AlCl₃):** Lewis acid used in Friedel-Crafts reactions.
+* **Aluminum hydroxide (Al(OH)₃):** Used as an antacid and in water purification.
+
+---
+
+### Hydrides
+
+* **Boranes (BxHy):** Unique electron-deficient compounds with cluster structures.
+* **Alane (AlH₃):** Less stable and less common, acts as a reducing agent.
+
+---
+
+### Applications
+
+**Boron:**
+
+* Used in borosilicate glass, detergents, and as a neutron absorber in nuclear reactors.
+* Boron fibers in advanced composite materials.
+
+**Aluminum:**
+
+* Widely used in aerospace, packaging, construction, and electrical industries.
+* Important for its lightweight, corrosion resistance, and recyclability.
+
+---
+
+### Summary of Differences Between Boron and Aluminum
+
+| Property                | Boron (B)                          | Aluminum (Al)                      |
+| ----------------------- | ---------------------------------- | ---------------------------------- |
+| Nature                  | Metalloid                          | Metal                              |
+| Atomic size             | Small                              | Larger                             |
+| Bonding                 | Covalent, electron-deficient       | Ionic/metallic                     |
+| Oxidation state         | +3 only                            | +3 primarily (also +1 in Tl)       |
+| Compounds               | Boranes, boric acid, halides       | Oxides, hydroxides, chlorides      |
+| Electrical conductivity | Poor conductor                     | Good conductor                     |
+| Occurrence              | Borates                            | Bauxite ore                        |
+| Industrial importance   | Glass, detergents, neutron control | Aerospace, packaging, construction |
+
+---
+
+### Conclusion
+
+Group 13 elements showcase diverse chemistry, with **boron** exhibiting unique electron-deficient covalent bonding and **aluminum** demonstrating typical metallic behavior with extensive industrial applications. Understanding the chemistry of these two elements provides a foundation for grasping the properties and uses of the entire group.
+</md></sn>		
 	<config>
 		<tags>#group 3a</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 17:14:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 17:22:38 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-YgLkjXUHKC</id>
 		<duration></duration>
 	</config>
