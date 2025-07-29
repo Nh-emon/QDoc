@@ -1,10 +1,158 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Group 14 Elements with Emphasis on Carbon and Silicon
+
+---
+
+### Introduction
+
+Group 14 elements, known as the **carbon family**, include:
+**Carbon (C), Silicon (Si), Germanium (Ge), Tin (Sn),** and **Lead (Pb)**.
+
+Among these, **carbon and silicon** are the most chemically significant due to their abundant occurrence and unique chemistry. Carbon is the foundation of organic chemistry and life, while silicon dominates the Earth's crust and forms the basis of modern electronics.
+
+This article focuses on the general chemistry of Group 14 elements with detailed emphasis on **carbon and silicon**.
+
+---
+
+### Electronic Configuration and General Trends
+
+* Outer electronic configuration: **ns² np²**
+* Valence electrons: 4
+* Common oxidation states: +2, +4 (though +4 is more common for lighter elements)
+
+| Element | Atomic Number | Electronic Configuration |
+| ------- | ------------- | ------------------------ |
+| Carbon  | 6             | \[He] 2s² 2p²            |
+| Silicon | 14            | \[Ne] 3s² 3p²            |
+
+**Trends Down the Group:**
+
+* Atomic and ionic size **increases** from C to Pb.
+* Electronegativity **decreases** (C = 2.5, Si = 1.8).
+* Metallic character **increases** down the group.
+* The **inert pair effect** becomes significant for heavier elements.
+* Carbon shows extensive **catenation** and forms strong multiple bonds; silicon forms fewer multiple bonds.
+
+---
+
+### Occurrence
+
+**Carbon:**
+
+* Present in all known life forms.
+* Found in elemental form as **diamond** and **graphite**.
+* Also found in fossil fuels, carbonates, and organic compounds.
+
+**Silicon:**
+
+* Second most abundant element in the Earth's crust (\~27.7% by weight).
+* Occurs mainly as **silica (SiO₂)** and silicates.
+* Found in sand, quartz, and clay minerals.
+
+---
+
+### Allotropes
+
+**Carbon:**
+
+* **Diamond:** Tetrahedral structure, hardest known natural substance, excellent insulator.
+* **Graphite:** Layered structure with hexagonal sheets, good conductor of electricity.
+* **Fullerenes, graphene, carbon nanotubes:** Novel allotropes with unique properties.
+
+**Silicon:**
+
+* Exists primarily in a **crystalline** form with a diamond cubic structure.
+* Amorphous silicon is used in thin-film solar cells.
+
+---
+
+### Bonding and Oxidation States
+
+* Carbon forms strong **covalent bonds** and can exhibit **+2 and +4 oxidation states**.
+* Silicon also predominantly shows **+4 oxidation state**, but +2 is less common.
+* Carbon forms **strong multiple bonds** (C=C, C≡C), while silicon generally does not form stable multiple bonds due to larger atomic size and poorer p-p overlap.
+
+---
+
+### Hydrides (Group 14 Hydrides)
+
+| Element | Hydride       | Stability               | Bond Angle | Nature   |
+| ------- | ------------- | ----------------------- | ---------- | -------- |
+| Carbon  | CH₄ (methane) | Very stable             | 109.5°     | Nonpolar |
+| Silicon | SiH₄ (silane) | Less stable, pyrophoric | \~109.5°   | Reactive |
+
+* Methane is a major natural gas component and a simple hydrocarbon.
+* Silane is highly reactive and used in semiconductor manufacturing.
+
+---
+
+### Oxides and Acids
+
+**Carbon Oxides:**
+
+* **CO:** Carbon monoxide, toxic gas, acts as a ligand.
+* **CO₂:** Carbon dioxide, a greenhouse gas, acidic oxide forming carbonic acid in water.
+
+**Silicon Oxides:**
+
+* **SiO₂:** Silicon dioxide, inert, network covalent solid with high melting point.
+* Does not form acids directly but silicates (SiO₄⁴⁻ units) form complex structures.
+
+---
+
+### Chemistry Highlights
+
+**Carbon:**
+
+* Basis of **organic chemistry** with vast diversity of compounds.
+* Forms strong covalent bonds with H, O, N, and itself.
+* Exhibits allotropy and ability to catenate extensively.
+
+**Silicon:**
+
+* Important in **materials science** (glass, ceramics, semiconductors).
+* Reacts with halogens and oxygen to form stable compounds.
+* Silanes and silicones are silicon analogs of hydrocarbons with wide industrial applications.
+
+---
+
+### Industrial and Biological Importance
+
+**Carbon:**
+
+* Present in all organic compounds essential for life.
+* Used in fuels, plastics, pharmaceuticals, and nanotechnology.
+
+**Silicon:**
+
+* Used in **electronics** (semiconductors), **glass production**, and **construction materials**.
+* Silicones used as lubricants, adhesives, and medical implants.
+
+---
+
+### Summary of Differences Between Carbon and Silicon
+
+| Property           | Carbon (C)                         | Silicon (Si)                             |
+| ------------------ | ---------------------------------- | ---------------------------------------- |
+| State at room temp | Solid (diamond, graphite)          | Solid (crystalline silicon)              |
+| Electronegativity  | 2.5                                | 1.8                                      |
+| Bonding            | Strong multiple bonds possible     | Mostly single bonds; weak multiple bonds |
+| Hydrides           | Methane (CH₄), very stable         | Silane (SiH₄), less stable, reactive     |
+| Oxides             | CO, CO₂ (molecular gases)          | SiO₂ (network solid)                     |
+| Occurrence         | In living organisms, fossil fuels  | Abundant in Earth's crust (silicates)    |
+| Industrial use     | Organic compounds, fuels, nanotech | Semiconductors, glass, silicones         |
+
+---
+
+### Conclusion
+
+The chemistry of **Group 14 elements** is richly diverse, but **carbon and silicon** are particularly crucial due to their unique structural and bonding properties. Carbon’s unparalleled ability to form stable multiple bonds and diverse organic compounds contrasts with silicon’s extensive role in inorganic materials and technology. Together, these two elements form the cornerstone of both biological systems and modern industry.
+</md></sn>		
 	<config>
 		<tags>#group 4a</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 17:14:59 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 17:21:22 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TZh6DzecIp</id>
 		<duration></duration>
 	</config>
