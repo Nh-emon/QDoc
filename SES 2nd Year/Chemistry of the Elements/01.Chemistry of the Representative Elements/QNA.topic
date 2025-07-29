@@ -1,10 +1,120 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Important Questions and Answers: *Chemistry of the Representative Elements*
+
+**Topics: Chemistry of Alkali &amp; Alkaline Earth Metals, Group 3A–7A Elements, Halogens**
+
+---
+
+### 1. Compare the chemical reactivities of alkali metals and alkaline earth metals with water. *(2 Marks)*
+
+**Answer:**
+
+* **Alkali metals (Group 1):** React vigorously with cold water to form **hydroxides** and **hydrogen gas**.
+  Example:
+  $2Na + 2H_2O \rightarrow 2NaOH + H_2 \uparrow$
+
+* **Alkaline earth metals (Group 2):** React **less vigorously**, and their reactivity increases down the group.
+  Example:
+  $Ca + 2H_2O \rightarrow Ca(OH)_2 + H_2 \uparrow$
+
+**Comparison:**
+
+* Alkali metals react more rapidly and violently than alkaline earth metals due to their **lower ionization energy** and **greater ease of losing one electron**.
+
+---
+
+### 2. Write a note on the anomalous properties of boron compared to other Group 3A elements. *(3 Marks)*
+
+**Answer:**
+Boron shows distinct behavior from other Group 3A elements due to its **small size**, **high ionization energy**, and **absence of d-orbitals**:
+
+* **Non-metallic nature:** Unlike metallic Al, Ga, In, and Tl, boron is a **metalloid**.
+* **Covalent bonding:** Boron forms **only covalent** compounds; others form ionic ones.
+* **Insolubility:** Boron compounds are generally **insoluble in water**, unlike Al compounds.
+* **Acidic oxides:** Boron oxide (B₂O₃) is acidic, while Al₂O₃ is amphoteric.
+
+These anomalous properties arise from its unique **electronic configuration (1s² 2s² 2p¹)** and **small atomic radius**.
+
+---
+
+### 3. Discuss the similarities and differences between carbon and silicon. *(3 Marks)*
+
+**Answer:**
+
+**Similarities:**
+
+* Both are **Group 4A (14)** elements.
+* Exhibit a **+4 oxidation state** in most of their compounds.
+* Form **tetrahedral covalent compounds**, e.g., CH₄ and SiH₄.
+* Both form **dioxides**: CO₂ and SiO₂.
+
+**Differences:**
+
+| Property   | Carbon (C)           | Silicon (Si)                    |
+| ---------- | -------------------- | ------------------------------- |
+| Bonding    | Forms strong π bonds | Does not form π bonds easily    |
+| Oxide      | CO₂ is gas           | SiO₂ is solid, network compound |
+| Allotropes | Diamond, graphite    | Crystalline and amorphous Si    |
+| Solubility | CO₂ soluble in water | SiO₂ insoluble in water         |
+
+Carbon shows **catenation and multiple bonding** more readily than silicon.
+
+---
+
+### 4. Explain the trends in acidity and oxidizing nature of oxoacids of halogens. *(4 Marks)*
+
+**Answer:**
+**Acidity:**
+
+* Oxoacids of halogens become **more acidic** with increasing **oxidation state** of the halogen.
+* Order of acidity:
+  $HOCl &lt; HClO_2 &lt; HClO_3 &lt; HClO_4$
+
+Reason: Higher oxidation state increases **electronegativity** of the central atom, pulling electron density and making **O–H bond more polar**, thus more acidic.
+
+**Oxidizing Nature:**
+
+* **Lower oxidation state oxoacids** (e.g., HOCl) are **stronger oxidizing agents** than higher ones.
+* This is because they can be more easily reduced (gain electrons), which is the basis of oxidizing behavior.
+
+**Trend Summary:**
+
+* Acidity **increases** with oxidation state.
+* Oxidizing power **decreases** with oxidation state.
+
+---
+
+### 5. How do nitrogen and phosphorus differ in their bonding and oxidation states? *(3 Marks)*
+
+**Answer:**
+
+**Bonding:**
+
+* **Nitrogen:**
+
+  * Forms **multiple bonds (π-bonds)** such as in N₂ (triple bond).
+  * Exists as diatomic molecule (N≡N).
+  * Cannot expand its octet due to absence of d-orbitals.
+
+* **Phosphorus:**
+
+  * Rarely forms multiple bonds.
+  * Exists as **P₄ molecules** (single bonds, tetrahedral).
+  * Can expand octet (has d-orbitals), forming compounds like PCl₅, P₂O₅.
+
+**Oxidation States:**
+
+* **Nitrogen:** –3 to +5 (e.g., NH₃, NO, NO₂, HNO₃)
+* **Phosphorus:** Also –3 to +5 (e.g., PH₃, PCl₃, PCl₅), but **+3 and +5** states are more stable than in nitrogen.
+
+**Conclusion:**
+Nitrogen favors **π-bonding** and **smaller coordination numbers**, while phosphorus shows **expanded valency** and prefers **σ-bonding**.
+</md></sn>		
 	<config>
 		<tags>#qna</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 16:51:16 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 16:51:41 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-rp8l6YOQeE</id>
 		<duration></duration>
 	</config>
