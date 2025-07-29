@@ -1,10 +1,161 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Halogens
+
+The **halogens** form `Group 17` (Group VIIA) of the modern periodic table and consist of the elements: **Fluorine (`F`), Chlorine (`Cl`), Bromine (`Br`), Iodine (`I`), and Astatine (`At`)**. The name "halogen" is derived from `Greek: halos` meaning `salt` and *genes* meaning "producing"—together meaning `salt producers`, since halogens readily form salts when they react with metals.
+
+---
+
+### 1. **General Characteristics of Halogens**
+
+| Property                    | Description                                 |
+| --------------------------- | ------------------------------------------- |
+| Group Number                | 17 (VIIA)                                   |
+| Valence Shell Configuration | ns² np⁵                                     |
+| Atomicity                   | `Diatomic` molecules (X₂)                     |
+| Oxidation States            | –1 (common), +1, +3, +5, +7 (in compounds)  |
+| Electronegativity           | Very high (especially Fluorine)             |
+| Physical States             | Vary from `gases` to solids                   |
+| Reactivity                  | Very high, especially Fluorine and Chlorine |
+
+---
+
+### 2. **Physical Properties**
+
+| Element  | State at Room Temp  | Color            | Boiling Point  | Solubility in Water |
+| -------- | ------------------- | ---------------- | -------------- | ------------------- |
+| Fluorine | Gas                 | Pale yellow      | –188°C         | Reacts with water   |
+| Chlorine | Gas                 | Greenish-yellow  | –34°C          | Moderately soluble  |
+| Bromine  | Liquid              | Reddish-brown    | 59°C           | Slightly soluble    |
+| Iodine   | Solid               | Violet-black     | 184°C          | Slightly soluble    |
+| Astatine | Solid (radioactive) | Unknown (black?) | \~337°C (est.) | Poorly studied      |
+
+---
+
+### 3. **Chemical Reactivity**
+
+* `Oxidizing Nature`: Halogens are strong oxidizing agents due to their high electron affinity.
+* `Trends in Reactivity` Reactivity **decreases** down the group.
+
+  * Fluorine &gt; Chlorine &gt; Bromine &gt; Iodine &gt; Astatine
+* `Displacement Reactions` A more reactive halogen displaces a less reactive one from its salts:
+
+  * Cl₂ + 2KBr → 2KCl + Br₂
+
+---
+
+### 4. **Reaction with Metals**
+
+Halogens react with metals to form **ionic halides**:
+
+* **Example Reactions:**
+
+  * 2Na + Cl₂ → 2NaCl
+  * Mg + Br₂ → MgBr₂
+  * Fe + 3I₂ → 2FeI₃
+
+These halides are generally `crystalline solids and soluble in water`.
+
+---
+
+### 5. **Reaction with Non-Metals**
+
+Halogens also react with many non-metals to form `covalent compounds`:
+
+* **With Hydrogen:** All halogens form hydrogen halides (HX).
+
+  * F₂ + H₂ → 2HF
+  * These are acidic in aqueous solution: HCl (hydrochloric acid), HBr, HI.
+
+* **With Phosphorus, Sulfur, Carbon:**
+
+  * P + 3Cl₂ → PCl₃
+  * S + 2F₂ → SF₄
+  * C + 2Cl₂ → CCl₄
+
+---
+
+### 6. **Hydrogen Halides and Their Acids**
+
+| Compound | Name              | Acid Strength in Aqueous Solution |
+| -------- | ----------------- | --------------------------------- |
+| HF       | Hydrofluoric Acid | Weak acid due to hydrogen bonding |
+| HCl      | Hydrochloric Acid | Strong acid                       |
+| HBr      | Hydrobromic Acid  | Strong acid                       |
+| HI       | Hydroiodic Acid   | Strongest among hydrogen halides  |
+
+---
+
+### 7. **Interhalogen Compounds**
+
+Halogens can `react with each other` to form `interhalogen compounds` (XY, XY₃, XY₅, XY₇):
+
+* Examples:
+
+  * ClF₃, BrF₅, IF₇
+* These compounds are `more reactive` than pure halogens due to `polar bonds`.
+
+---
+
+### 8. **Oxides and Oxyacids**
+
+Halogens form **oxides and oxyacids**, especially Cl, Br, and I:
+
+* **Oxyacids:**
+
+  * Hypochlorous acid (HOCl), Chloric acid (HClO₃), Perchloric acid (HClO₄)
+  * Analogous compounds for Br and I
+* **Oxidation states in oxyacids:** +1, +3, +5, +7
+
+---
+
+### 9. **Uses of Halogens**
+
+| Element      | Uses                                                            |
+| ------------ | --------------------------------------------------------------- |
+| **Fluorine** | Teflon production, uranium processing, toothpaste (as fluoride) |
+| **Chlorine** | Water purification, PVC manufacturing, bleach                   |
+| **Bromine**  | Flame retardants, photography (silver bromide)                  |
+| **Iodine**   | Antiseptics, nutrition (iodized salt), dyes                     |
+| **Astatine** | Radioactive tracer (medical research), very limited use         |
+
+---
+
+### 10. **Environmental and Health Aspects**
+
+* **Toxicity:** Halogens are toxic in high concentrations.
+
+  * Chlorine gas is `poisonous` and was used in `chemical warfare`.
+  * Fluorine is highly `reactive and corrosive`.
+* **Ozone Layer Depletion:**
+
+  * Chlorofluorocarbons (CFCs), which contain halogens, deplete ozone.
+* **Health Roles:**
+
+  * Iodine is essential for thyroid function.
+  * Fluoride in small amounts prevents tooth decay.
+
+---
+
+### 11. **Trends in the Group**
+
+| Property                 | Down the Group Trend |
+| ------------------------ | -------------------- |
+| Atomic size              | Increases            |
+| Electronegativity        | Decreases            |
+| Melting/Boiling Points   | Increase             |
+| Oxidizing Power          | Decreases            |
+| Bond Dissociation Energy | Decreases            |
+
+---
+
+### 12. **Conclusion**
+
+The chemistry of halogens is rich and varied due to their high reactivity and diverse oxidation states. They participate in a wide range of chemical reactions, form both ionic and covalent compounds, and have significant industrial, environmental, and biological importance. Fluorine and chlorine are particularly reactive, while iodine and astatine display more complex, often less predictable behavior.</md></sn>		
 	<config>
 		<tags>#chemistry of the halogens</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 11:49:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 11:59:39 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-blDYzwu015</id>
 		<duration></duration>
 	</config>
