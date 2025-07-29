@@ -6,10 +6,10 @@
    Zinc ore, primarily zinc blende (ZnS), is first crushed and ground into fine powder to increase the surface area for further processing.
 
 2. **Concentration of Ore:**
-   The powdered ore is subjected to **froth flotation**, where it is mixed with water and chemicals. Air is passed through the mixture, and zinc sulfide attaches to the bubbles and floats to the top, separating it from the gangue.
+   The powdered ore is subjected to `froth flotation`, where it is mixed with water and chemicals. Air is passed through the mixture, and zinc sulfide attaches to the bubbles and floats to the top, separating it from the gangue.
 
 3. **Conversion of Ore to Metal Oxide (Roasting):**
-   The concentrated zinc sulfide is then heated in the presence of excess air in a furnace. This converts the sulfide into **zinc oxide (ZnO)** and releases sulfur dioxide gas.
+   The concentrated zinc sulfide is then heated in the presence of excess air in a `furnace`. This converts the sulfide into **zinc oxide (ZnO)** and releases sulfur dioxide gas.
    **Reaction:**
 
    $$
@@ -17,7 +17,8 @@
    $$
 
 4. **Reduction of Metal Oxide to Zinc:**
-   The zinc oxide is mixed with **carbon (coke)** and heated in a furnace. Carbon acts as a reducing agent, converting ZnO into metallic zinc, which vaporizes and is condensed.
+   The zinc oxide is mixed with **carbon (coke)** and `heated in a furnace`. Carbon acts as a `reducing agent`, converting ZnO into metallic zinc, which `vaporizes and is condensed`
+.
    **Reaction:**
 
    $$
@@ -25,7 +26,7 @@
    $$
 
 5. **Refining of Zinc:**
-   The crude zinc obtained may contain impurities like lead, cadmium, and iron. It is purified using **fractional distillation** (since zinc has a relatively low boiling point) or **electrolytic refining**. In electrolysis, pure zinc is deposited at the cathode from a zinc sulfate solution.
+   The crude zinc obtained may contain impurities like lead, cadmium, and iron. It is purified using `fractional distillation` (since zinc has a `relatively low boiling point`) or `electrolytic refining`. In electrolysis, pure zinc is deposited at the cathode from a `zinc sulfate solution`.
    **Cathode Reaction:**
 
    $$
@@ -86,7 +87,7 @@ Zinc primarily occurs as **zinc blende (ZnS)** in nature and is mined extensivel
 		<tags>#05.zn</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 12:16:29 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 10:44:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-2sZxqfBy4y</id>
 		<duration></duration>
 	</config>
