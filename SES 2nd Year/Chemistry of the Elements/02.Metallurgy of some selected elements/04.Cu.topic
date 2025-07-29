@@ -1,17 +1,17 @@
 
-	<sn><md data-e="true">## Metallurgy of Copper in 5 Steps
+	<sn><md data-e="true">## Metallurgy of Copper
 
 ---
 
 1. **Crushing and Grinding:**
-   The copper ore (usually **chalcopyrite**, CuFeS₂) is crushed and ground into fine powder to prepare it for further processing.
+   The copper ore (usually `chalcopyrite`, CuFeS₂) is crushed and ground into fine powder to prepare it for further processing.
 
 2. **Concentration of Ore:**
-   The powdered ore is concentrated by **froth flotation**, which separates copper-containing minerals from gangue (waste materials).
+   The powdered ore is concentrated by `froth flotation`, which separates copper-containing minerals from gangue (waste materials).
 
 3. **Conversion to Metal Oxide (Roasting):**
 
- Smelting is a metallurgy technique to extract base metals from their ores with the help of heat and a chemical reducing agent. (Click here for extraction process). Copper Smelting means that the concentrated ore is heated strongly with silicon dioxide (silica), calcium carbonate (CaCO3) and air in a furnace. The major steps in the extraction of copper are
+ `Smelting` is a metallurgy technique to extract base metals from their ores with the help of heat and a chemical reducing agent. (Click here for extraction process). Copper Smelting means that the `concentrated ore is heated strongly with silicon dioxide (silica), calcium carbonate (CaCO3) and air in a furnace`. The major steps in the extraction of copper are
 The reaction of these processes can be written as:
 
 $$
@@ -20,22 +20,22 @@ $$
 
 4. **Reduction of Metal Oxide (Smelting &amp; Self-Reduction):**
 
-The copper extracted from this process is mixed with the slag and is called Matte Copper due to its texture and appearance. This mainly consists of Cu2S which is reduced to pure metal by blasting Matte Copper with air.
+The copper extracted from this process is mixed with the slag and is called Matte Copper due to its texture and appearance. This mainly consists of $Cu_2S$ which is reduced to pure metal by blasting Matte Copper with air.
 
    $$
    Cu_2S+O_2 → 2Cu+SO_2
    $$
 
-The sulphur dioxide escapes the copper and this causes bubbles to appear and burst as SO2 leaves. This causes the final product to have a very blistery appearance and hence it is called Blister Copper; 98 – 99.5 % pure.
+The sulphur dioxide escapes the copper and this causes bubbles to appear and burst as SO2 leaves. This causes the final product to have a very blistery appearance and hence it is called `Blister Copper`; 98 – 99.5 % pure.
 
 5. **Refining of Copper:**
-   Blister copper is refined by **electrolysis**. Pure copper is deposited at the **cathode**, while impurities fall off as **anode mud**.
+   Blister copper is refined by `electrolysis`. Pure copper is deposited at the **cathode**, while impurities fall off as **anode mud**.
 
    $$
    Cu^{2+} + 2e^- → Cu \quad (\text{at cathode})
    $$
 
-Copper is an outstanding conductor of electricity and combined with its ductility, it is the perfect metal to make electrical wiring, both domestic and industrial. The electronic Age would have been just a dream without this metal.
+Copper is an outstanding `conductor of electricity` and combined with its ductility, it is the perfect metal to make `electrical wiring`, both domestic and industrial. The electronic Age would have been just a dream without this metal.
 </md></sn><sn><md data-e="true">## **Occurrence of Copper**
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Copper_%28Element_-_29%29.jpg/640px-Copper_%28Element_-_29%29.jpg)
@@ -93,7 +93,7 @@ Copper is found both in native form and more commonly in various chemical combin
 		<tags>#04.cu</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Jul 28 2025 18:03:46 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 10:50:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-d3HRiucOK7</id>
 		<duration></duration>
 	</config>
