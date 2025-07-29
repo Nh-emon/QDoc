@@ -2,7 +2,7 @@
 	<sn><md data-e="true">## Chemistry of Xenon
 ---
 
-Xenon (Xe), with atomic number 54, is a noble gas that belongs to Group 18 (also called Group VIII-A or 0) of the periodic table. Discovered in 1898 by Sir William Ramsay and Morris Travers, xenon was once considered completely inert. However, advances in inorganic chemistry during the 20th century revealed its remarkable ability to form compounds under specific conditions, particularly with highly electronegative elements. This article explores the unique chemistry of xenon, including its physical and chemical properties, compounds, bonding theories, and applications.
+Xenon (Xe), with atomic number `54`, is a `noble gas` that belongs to `Group 18` (also called Group `VIII-A` or `0`) of the periodic table. Discovered in 1898 by Sir William Ramsay and Morris Travers, xenon was once `considered completely inert`. However, advances in inorganic chemistry during the 20th century revealed its remarkable ability `to form compounds under specific conditions`, particularly with `highly electronegative elements`. This article explores the unique chemistry of xenon, including its physical and chemical properties, compounds, bonding theories, and applications.
 
 ---
 
@@ -24,13 +24,13 @@ Xenon is present in the Earth’s atmosphere in trace amounts (\~0.087 ppm by vo
 
 ### 2. **Inert Nature and Breakthrough in Reactivity**
 
-Initially believed to be inert due to its full valence shell, xenon shocked the scientific community when it was discovered to form stable compounds. The breakthrough came in 1962 when Neil Bartlett demonstrated that xenon could react with platinum hexafluoride (PtF₆) to form **xenon hexafluoroplatinate (Xe⁺\[PtF₆]⁻)**. This seminal experiment disproved the notion of noble gas inertness and initiated the field of noble gas chemistry.
+Initially believed to be inert due to its full valence shell, xenon shocked the scientific community when it was discovered to form stable compounds. The breakthrough came `in 1962 when Neil Bartlett demonstrated that xenon could react with platinum hexafluoride (PtF₆) to form xenon hexafluoroplatinate (Xe⁺\[PtF₆]⁻)`. This seminal experiment disproved the notion of noble gas inertness and initiated the field of noble gas chemistry.
 
 ---
 
 ### 3. **Oxidation States of Xenon**
 
-Xenon can exhibit oxidation states ranging from 0 to +8, though the most common are +2, +4, +6, and +8. Unlike lighter noble gases, xenon’s large atomic size and lower ionization energy facilitate these oxidation states:
+Xenon can exhibit oxidation states ranging from `0 to +8`, though the most `common are +2, +4, +6, and +8`. Unlike lighter noble gases, xenon’s `large atomic size` and `lower ionization energy` facilitate these oxidation states:
 
 | Oxidation State | Common Compounds |
 | --------------- | ---------------- |
@@ -47,17 +47,17 @@ Xenon can exhibit oxidation states ranging from 0 to +8, though the most common 
 
 These are the most well-studied xenon compounds due to fluorine’s high electronegativity:
 
-* **Xenon Difluoride (XeF₂)**: A linear molecule, stable at room temperature. Prepared by heating xenon and fluorine in a 1:3 ratio at 400°C under pressure.
+* **Xenon Difluoride (XeF₂)**: A` linear` molecule, stable at room temperature. Prepared by heating xenon and fluorine in a `1:3` ratio at 400°C under pressure.
 
-* **Xenon Tetrafluoride (XeF₄)**: Square planar geometry. Synthesized by heating xenon and fluorine in a 1:5 ratio.
+* **Xenon Tetrafluoride (XeF₄)**: `Square planar` geometry. Synthesized by heating xenon and fluorine in a `1:5` ratio.
 
-* **Xenon Hexafluoride (XeF₆)**: Distorted octahedral geometry. Highly reactive and hydrolyzes in water.
+* **Xenon Hexafluoride (XeF₆)**: `Distorted octahedral` geometry. Highly reactive and hydrolyzes in water.
 
 #### 4.2 Xenon Oxides
 
-* **Xenon Trioxide (XeO₃)**: A powerful oxidizing agent, prepared by hydrolyzing XeF₆. It is explosive when dry.
+* **Xenon Trioxide (XeO₃)**: A powerful oxidizing agent, prepared by hydrolyzing XeF₆. It is `explosive when dry`.
 
-* **Xenon Tetroxide (XeO₄)**: Extremely unstable and highly explosive. Xenon exhibits its highest oxidation state (+8) in this compound.
+* **Xenon Tetroxide (XeO₄)**: Extremely unstable and `highly explosive`. Xenon exhibits its highest oxidation state (+8) in this compound.
 
 #### 4.3 Oxyfluorides and Salts
 
@@ -136,7 +136,7 @@ The chemistry of xenon stands as a cornerstone in the understanding of noble gas
 		<tags>#chemistry of xenon</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 09:21:01 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 09:49:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HRcvbnfxoW</id>
 		<duration></duration>
 	</config>
