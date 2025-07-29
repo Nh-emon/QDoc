@@ -1,10 +1,184 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Group 16 Elements with Emphasis on Oxygen and Sulfur
+
+---
+
+### Introduction
+
+Group 16 of the periodic table, known as the **chalcogens**, comprises the elements:
+**Oxygen (O), Sulfur (S), Selenium (Se), Tellurium (Te), Polonium (Po)**, and **Livermorium (Lv)**.
+Among these, **oxygen and sulfur** play the most significant roles in both inorganic and biological chemistry. Oxygen is vital for life and combustion, while sulfur is essential in industrial processes and biological systems.
+
+This article focuses on the **general chemistry of Group 16** with a detailed emphasis on **oxygen and sulfur**, covering their occurrence, physical and chemical properties, oxides, hydrides, and biological/industrial relevance.
+
+---
+
+### Electronic Configuration and General Trends
+
+* **Group Configuration**: ns²np⁴
+* **Common Oxidation States**: –2, +2, +4, +6
+
+| Element | Atomic Number | Electronic Configuration |
+| ------- | ------------- | ------------------------ |
+| O       | 8             | \[He] 2s² 2p⁴            |
+| S       | 16            | \[Ne] 3s² 3p⁴            |
+
+**Trends Down the Group:**
+
+* **Atomic and ionic size** increases
+* **Electronegativity** decreases (O = 3.5, S = 2.5)
+* **Metallic character** increases
+* **Stability of –2 oxidation state** decreases
+* **Tendency to catenate (form chains)**: High in S, not in O
+
+---
+
+### Occurrence
+
+**Oxygen:**
+
+* Most abundant element in the Earth’s crust (\~46% by mass)
+* Exists as **O₂ (dioxygen)** in air and **O₃ (ozone)** in the upper atmosphere
+* Found in water, silicates, oxides, and biological molecules
+
+**Sulfur:**
+
+* Found in elemental form near volcanoes and hot springs
+* Occurs as **sulfates (e.g., gypsum)** and **sulfides (e.g., galena, pyrite)**
+* Also found in proteins and amino acids (e.g., cysteine, methionine)
+
+---
+
+### Allotropes
+
+**Oxygen:**
+
+* **Dioxygen (O₂)**: Colorless, tasteless gas, essential for respiration
+* **Ozone (O₃)**: Triatomic molecule, strong oxidizer, present in the stratosphere
+
+**Sulfur:**
+
+* Exhibits extensive **allotropy**
+* Most stable form: **Rhombic sulfur (S₈)** — cyclic crown-shaped molecule
+* Also exists in monoclinic, plastic, and amorphous forms
+
+---
+
+### Oxidation States and Reactivity
+
+**Oxygen:**
+
+* Dominantly shows **–2 oxidation state**
+* In peroxides: –1 (e.g., H₂O₂)
+* In compounds like OF₂: +2
+* Highly electronegative and **strongly oxidizing**
+
+**Sulfur:**
+
+* Shows multiple oxidation states: **–2, +2, +4, +6**
+* Forms compounds like:
+
+  * **H₂S (–2)**
+  * **SO₂ (+4)**
+  * **SO₃, H₂SO₄ (+6)**
+* Sulfur exhibits **variable valency** due to availability of 3d orbitals
+
+---
+
+### Hydrides
+
+**General formula**: H₂E (E = group 16 element)
+
+| Hydride | Boiling Point | Bond Angle | Nature           |
+| ------- | ------------- | ---------- | ---------------- |
+| H₂O     | High (100°C)  | 104.5°     | Hydrogen bonding |
+| H₂S     | –60°C         | \~92°      | No H-bonding     |
+
+**Oxygen (H₂O):**
+
+* Strong **hydrogen bonding** leads to unusually high boiling point
+* Acts as a universal solvent and medium for biochemical reactions
+
+**Sulfur (H₂S):**
+
+* Weakly acidic and highly toxic gas
+* No hydrogen bonding; more volatile and less polar than water
+
+**Acid Strength Trend:**
+H₂O &lt; H₂S &lt; H₂Se &lt; H₂Te
+
+---
+
+### Oxides
+
+**Oxygen forms:**
+
+* **CO, CO₂, NO, NO₂, SO₂, SO₃**, etc.
+* Most oxides are **acidic or amphoteric**
+* **CO₂** is a linear molecule, **soluble in water** to form carbonic acid
+
+**Sulfur forms:**
+
+* **SO₂ (Sulfur dioxide):** Colorless gas, pungent smell, acidic oxide
+  $SO₂ + H₂O → H₂SO₃$
+* **SO₃ (Sulfur trioxide):** Forms **H₂SO₄**, a strong acid
+  $SO₃ + H₂O → H₂SO₄$
+
+Sulfur oxides are used in manufacturing of **sulfuric acid**, an industrially essential compound.
+
+---
+
+### Oxyacids of Sulfur
+
+| Acid              | Formula | Oxidation State of S | Notes                                     |
+| ----------------- | ------- | -------------------- | ----------------------------------------- |
+| Sulfurous acid    | H₂SO₃   | +4                   | Unstable; exists in solution              |
+| Sulfuric acid     | H₂SO₄   | +6                   | Strong dibasic acid                       |
+| Thiosulfuric acid | H₂S₂O₃  | +2, +6               | Contains one sulfur atom replacing oxygen |
+
+Oxygen does **not form oxyacids**, unlike sulfur which forms a range of stable and industrially important acids.
+
+---
+
+### Biological and Industrial Importance
+
+**Oxygen:**
+
+* Essential for **aerobic respiration**
+* Used in **welding**, **medicine**, **rocket fuels**
+* Involved in **oxidative metabolism** and **photosynthesis**
+
+**Sulfur:**
+
+* Present in **vitamins, amino acids**, and **coenzymes**
+* Used in **fertilizers**, **pharmaceuticals**, and **vulcanization of rubber**
+* Sulfuric acid is called the **“King of Chemicals”** due to its wide usage
+
+---
+
+### Summary of Differences Between Oxygen and Sulfur
+
+| Property           | Oxygen (O)              | Sulfur (S)                   |
+| ------------------ | ----------------------- | ---------------------------- |
+| State at room temp | Gas (O₂)                | Solid (S₈)                   |
+| Electronegativity  | 3.5                     | 2.5                          |
+| Oxidation states   | –2, –1, +2              | –2, +2, +4, +6               |
+| Hydride            | H₂O (strong H-bonding)  | H₂S (no H-bonding)           |
+| Oxides             | CO₂, NO₂, acidic        | SO₂, SO₃, strongly acidic    |
+| Biological role    | Respiration, metabolism | Amino acids, vitamins        |
+| Industrial role    | Welding, steel, medical | Sulfuric acid, rubber, drugs |
+
+---
+
+### Conclusion
+
+The chemistry of **Group 16 elements** is both diverse and essential, but **oxygen and sulfur** stand out due to their unique properties and widespread roles in both nature and industry. Oxygen's high electronegativity and hydrogen bonding capability make it vital to life processes, while sulfur’s versatile oxidation states and complex acid chemistry make it central to industrial applications. Understanding these two elements provides a foundation for grasping the broader chemistry of chalcogens.
+</md></sn>		
 	<config>
 		<tags>#group 6a</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 17:15:22 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 17:18:41 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-31bKEK3EtY</id>
 		<duration></duration>
 	</config>
