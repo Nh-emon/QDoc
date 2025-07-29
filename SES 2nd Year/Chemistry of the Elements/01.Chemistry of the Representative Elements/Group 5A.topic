@@ -1,10 +1,138 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Group 15 Elements with Emphasis on Nitrogen and Phosphorus
+
+---
+
+### Introduction
+
+Group 15 elements, also called the **pnictogens**, include:
+**Nitrogen (N), Phosphorus (P), Arsenic (As), Antimony (Sb),** and **Bismuth (Bi)**.
+
+Among these, **nitrogen and phosphorus** are the most significant due to their essential roles in the atmosphere, living organisms, and industry. This article highlights the general chemistry of Group 15 elements with detailed emphasis on the properties, compounds, and applications of **nitrogen and phosphorus**.
+
+---
+
+### Electronic Configuration and General Trends
+
+* Outer electronic configuration: **ns² np³**
+* Group valence electrons: 5
+* Common oxidation states: –3, +3, +5
+
+| Element    | Atomic Number | Electronic Configuration |
+| ---------- | ------------- | ------------------------ |
+| Nitrogen   | 7             | \[He] 2s² 2p³            |
+| Phosphorus | 15            | \[Ne] 3s² 3p³            |
+
+**Trends Down the Group:**
+
+* Atomic and ionic radii **increase** from N to Bi.
+* Electronegativity **decreases** (N = 3.0, P = 2.1).
+* Metallic character **increases**; nitrogen is non-metal, phosphorus is a non-metal but more metallic than nitrogen.
+* Stability of **+5 oxidation state** increases down the group due to inert pair effect.
+* Nitrogen shows limited catenation compared to phosphorus.
+
+---
+
+### Occurrence and Allotropes
+
+**Nitrogen:**
+
+* Constitutes about **78% of Earth's atmosphere** as N₂ gas.
+* Exists as a very stable, diatomic molecule (N≡N triple bond).
+* No stable allotropes other than N₂ gas.
+
+**Phosphorus:**
+
+* Not found free in nature, mainly in **phosphate minerals**.
+* Exhibits allotropy:
+
+  * **White phosphorus:** P₄ tetrahedral molecules, highly reactive and poisonous.
+  * **Red phosphorus:** Amorphous, polymeric, more stable and less reactive.
+  * **Black phosphorus:** Most stable allotrope, layered structure similar to graphite.
+
+---
+
+### Bonding and Oxidation States
+
+* Nitrogen forms a **strong triple bond (N≡N)**, making N₂ very inert.
+* Nitrogen commonly exhibits **–3, +3, and +5 oxidation states**.
+* Phosphorus exhibits **–3, +3, and +5 oxidation states**, with +5 more stable than in nitrogen.
+* Phosphorus can expand its octet using vacant 3d orbitals; nitrogen cannot.
+
+---
+
+### Hydrides (H₃E)
+
+| Element    | Hydride | Bond Angle | Stability                | Nature                   |
+| ---------- | ------- | ---------- | ------------------------ | ------------------------ |
+| Nitrogen   | NH₃     | 107°       | Stable, common in nature | Weak base                |
+| Phosphorus | PH₃     | 93.5°      | Less stable, toxic       | Weak base, less reactive |
+
+**Ammonia (NH₃):**
+
+* Pyramidal shape, forms hydrogen bonds.
+* Soluble in water, acts as a weak base.
+* Important in fertilizer production and nitrogen fixation.
+
+**Phosphine (PH₃):**
+
+* Less polar, no hydrogen bonding.
+* Highly toxic and flammable.
+* Used in semiconductor industry and as fumigant.
+
+---
+
+### Oxides and Oxyacids
+
+**Nitrogen Oxides:**
+
+* Multiple oxides with varying oxidation states: NO, NO₂, N₂O, N₂O₅.
+* Important in atmospheric chemistry and pollution.
+* **NO₂** and **N₂O₅** react with water to form nitric acid (HNO₃).
+
+**Phosphorus Oxides:**
+
+* **P₄O₆ (phosphorus trioxide):** Corresponds to +3 oxidation state, reacts with water to form phosphorous acid (H₃PO₃).
+* **P₄O₁₀ (phosphorus pentoxide):** Corresponds to +5 oxidation state, reacts vigorously with water to form phosphoric acid (H₃PO₄).
+
+---
+
+### Nitrogen Fixation and Industrial Importance
+
+* Nitrogen gas is inert and must be converted to reactive forms for biological use.
+* **Nitrogen fixation**: Conversion of N₂ to NH₃ by bacteria or industrially via the **Haber process**.
+* Ammonia is a key precursor to fertilizers, explosives, and chemicals.
+
+**Phosphorus:**
+
+* Essential in **DNA, RNA, ATP**, and bones as phosphate.
+* Used in matches (red phosphorus), fertilizers (phosphate salts), and detergents.
+
+---
+
+### Summary of Differences Between Nitrogen and Phosphorus
+
+| Property              | Nitrogen (N)                         | Phosphorus (P)                     |
+| --------------------- | ------------------------------------ | ---------------------------------- |
+| State at room temp    | Gas (N₂)                             | Solid (white, red, black forms)    |
+| Electronegativity     | 3.0                                  | 2.1                                |
+| Bonding               | Strong N≡N triple bond               | P–P single bonds, can expand octet |
+| Hydride               | NH₃, stable, hydrogen bonding        | PH₃, unstable, no hydrogen bonding |
+| Oxidation states      | –3, +3, +5                           | –3, +3, +5                         |
+| Biological role       | Protein, amino acids, nitrogen cycle | DNA, ATP, bones (phosphates)       |
+| Industrial importance | Fertilizers, explosives              | Matches, fertilizers, detergents   |
+
+---
+
+### Conclusion
+
+Group 15 elements exhibit diverse chemistry, but **nitrogen and phosphorus** are central due to their fundamental roles in life and technology. Nitrogen’s inert diatomic nature contrasts with phosphorus’s reactive allotropes and versatile bonding. Both elements form important hydrides, oxides, and acids with wide-ranging applications in agriculture, industry, and biochemistry. Understanding their properties and chemistry provides a solid foundation for the study of the entire group.
+</md></sn>		
 	<config>
 		<tags>#group 5a</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 17:15:11 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 17:19:58 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-jrcU8H2M61</id>
 		<duration></duration>
 	</config>
