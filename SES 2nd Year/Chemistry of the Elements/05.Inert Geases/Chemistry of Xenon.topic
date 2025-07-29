@@ -1,10 +1,142 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Xenon
+---
+
+Xenon (Xe), with atomic number 54, is a noble gas that belongs to Group 18 (also called Group VIII-A or 0) of the periodic table. Discovered in 1898 by Sir William Ramsay and Morris Travers, xenon was once considered completely inert. However, advances in inorganic chemistry during the 20th century revealed its remarkable ability to form compounds under specific conditions, particularly with highly electronegative elements. This article explores the unique chemistry of xenon, including its physical and chemical properties, compounds, bonding theories, and applications.
+
+---
+
+### 1. **Physical and Atomic Properties of Xenon**
+
+| Property                | Value                   |
+| ----------------------- | ----------------------- |
+| Atomic number           | 54                      |
+| Atomic mass             | 131.29 u                |
+| Electron configuration  | \[Kr] 4d¹⁰ 5s² 5p⁶      |
+| Melting point           | −111.8°C                |
+| Boiling point           | −108.1°C                |
+| Density (at 0°C, 1 atm) | 5.894 g/L               |
+| Appearance              | Colorless, odorless gas |
+
+Xenon is present in the Earth’s atmosphere in trace amounts (\~0.087 ppm by volume). It is colorless, tasteless, and chemically non-reactive under standard conditions, which is typical for noble gases.
+
+---
+
+### 2. **Inert Nature and Breakthrough in Reactivity**
+
+Initially believed to be inert due to its full valence shell, xenon shocked the scientific community when it was discovered to form stable compounds. The breakthrough came in 1962 when Neil Bartlett demonstrated that xenon could react with platinum hexafluoride (PtF₆) to form **xenon hexafluoroplatinate (Xe⁺\[PtF₆]⁻)**. This seminal experiment disproved the notion of noble gas inertness and initiated the field of noble gas chemistry.
+
+---
+
+### 3. **Oxidation States of Xenon**
+
+Xenon can exhibit oxidation states ranging from 0 to +8, though the most common are +2, +4, +6, and +8. Unlike lighter noble gases, xenon’s large atomic size and lower ionization energy facilitate these oxidation states:
+
+| Oxidation State | Common Compounds |
+| --------------- | ---------------- |
+| +2              | XeF₂             |
+| +4              | XeF₄             |
+| +6              | XeF₆, XeO₃       |
+| +8              | XeO₄             |
+
+---
+
+### 4. **Xenon Compounds**
+
+#### 4.1 Xenon Fluorides
+
+These are the most well-studied xenon compounds due to fluorine’s high electronegativity:
+
+* **Xenon Difluoride (XeF₂)**: A linear molecule, stable at room temperature. Prepared by heating xenon and fluorine in a 1:3 ratio at 400°C under pressure.
+
+* **Xenon Tetrafluoride (XeF₄)**: Square planar geometry. Synthesized by heating xenon and fluorine in a 1:5 ratio.
+
+* **Xenon Hexafluoride (XeF₆)**: Distorted octahedral geometry. Highly reactive and hydrolyzes in water.
+
+#### 4.2 Xenon Oxides
+
+* **Xenon Trioxide (XeO₃)**: A powerful oxidizing agent, prepared by hydrolyzing XeF₆. It is explosive when dry.
+
+* **Xenon Tetroxide (XeO₄)**: Extremely unstable and highly explosive. Xenon exhibits its highest oxidation state (+8) in this compound.
+
+#### 4.3 Oxyfluorides and Salts
+
+* Compounds such as **XeOF₄** and **XeO₂F₂** are known.
+* Ionic salts like **\[XeF₅]⁻**, **\[XeF₈]²⁻**, and **Xe₂F₁₁⁺** have been isolated and characterized using spectroscopic techniques.
+
+---
+
+### 5. **Bonding in Xenon Compounds**
+
+Xenon forms compounds through covalent bonding, primarily due to the involvement of its vacant 5d orbitals. Although the role of d-orbitals in main-group chemistry is controversial, they are often invoked in traditional descriptions of xenon bonding.
+
+* **Valence Shell Electron Pair Repulsion (VSEPR) Theory** explains the molecular geometries:
+
+  * XeF₂: Linear (AX₂E₃)
+  * XeF₄: Square planar (AX₄E₂)
+  * XeF₆: Distorted octahedral (AX₆E)
+
+* **Molecular Orbital Theory** also aids in understanding bonding, particularly in mixed-valence and ionic xenon species.
+
+---
+
+### 6. **Reactions of Xenon Compounds**
+
+Xenon fluorides and oxides are powerful **oxidizing agents** and react violently with water or organic materials.
+
+#### Hydrolysis reactions:
+
+* XeF₂ + H₂O → Xe + 2HF + ½O₂
+* XeF₄ + 2H₂O → Xe + 4HF + O₂
+* XeF₆ + 3H₂O → XeO₃ + 6HF
+
+---
+
+### 7. **Applications of Xenon and Its Compounds**
+
+* **Lighting**: Xenon gas is used in high-intensity discharge lamps, flash lamps for photography, and arc lamps in IMAX projectors.
+* **Anesthetics**: Xenon is a potent and non-toxic general anesthetic with neuroprotective properties.
+* **Propulsion**: Xenon is used in ion propulsion systems for spacecraft (e.g., NASA's Deep Space missions).
+* **Chemical synthesis**: Xenon fluorides are used as fluorinating agents in organic and inorganic synthesis.
+* **Medical imaging**: Xenon isotopes (like ¹³¹Xe) are used in NMR and lung ventilation studies.
+
+---
+
+### 8. **Environmental and Biological Aspects**
+
+Xenon is chemically inert in the biosphere and poses **no known biological hazard**. It is non-toxic, non-carcinogenic, and has minimal environmental impact. Due to its rarity and high cost, its industrial use is limited to specialized applications.
+
+---
+
+### 9. **Xenon Isotopes**
+
+Xenon has nine stable isotopes and over 30 unstable ones. Notably:
+
+* **⁵⁴Xe** is used in studies of nuclear structure.
+* **¹³¹Xe** and **¹²⁹Xe** are used in medical imaging and hyperpolarized MRI.
+* **¹³⁶Xe** is studied in neutrinoless double beta decay experiments in particle physics.
+
+---
+
+### 10. **Conclusion**
+
+The chemistry of xenon stands as a cornerstone in the understanding of noble gases and their capacity to defy long-standing assumptions of chemical inertness. Its ability to form stable, well-defined compounds has deepened our understanding of chemical bonding and reactivity. Though xenon compounds are rare and often expensive to produce, they have carved a niche in high-tech, medical, and research applications, proving that even "inert" elements can have rich and fascinating chemistries.
+
+---
+
+### References
+
+1. Greenwood, N. N., &amp; Earnshaw, A. (2012). *Chemistry of the Elements* (2nd ed.). Butterworth-Heinemann.
+2. Atkins, P., Overton, T., Rourke, J., Weller, M., &amp; Armstrong, F. (2010). *Shriver and Atkins’ Inorganic Chemistry* (5th ed.). Oxford University Press.
+3. Bartlett, N. (1962). “Xenon hexafluoroplatinate.” *Proceedings of the Chemical Society*, 218.
+4. Housecroft, C. E., &amp; Sharpe, A. G. (2018). *Inorganic Chemistry* (5th ed.). Pearson.
+5. Cotton, F. A., Wilkinson, G., Murillo, C. A., &amp; Bochmann, M. (1999). *Advanced Inorganic Chemistry* (6th ed.). Wiley-Interscience.
+</md></sn>		
 	<config>
 		<tags>#chemistry of xenon</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 09:20:12 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 09:21:01 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HRcvbnfxoW</id>
 		<duration></duration>
 	</config>
