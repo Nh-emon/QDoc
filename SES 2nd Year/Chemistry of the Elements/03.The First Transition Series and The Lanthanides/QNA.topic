@@ -1,10 +1,128 @@
 
-	<sn></sn>		
+			
 	<config>
 		<tags>#qna</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 16:53:55 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 16:59:21 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-nTKxlg1ztq</id>
 		<duration></duration>
 	</config>
+<sn><md data-e="true">## Important Questions and Answers: *Chapter 7 – The First Transition Series and the Lanthanides*
+
+---
+
+### 1. Explain the variable oxidation states shown by the first transition series elements. *(3 Marks)*
+
+**Answer:**
+Transition metals exhibit **variable oxidation states** due to the involvement of both **(n–1)d** and **ns** electrons in bonding.
+
+* The energy difference between **3d and 4s orbitals** is small, allowing electrons to be removed from both.
+* Early transition elements like **Sc (+3), Ti (+2 to +4), V (+2 to +5)** show a wide range of oxidation states.
+* The number of oxidation states decreases toward the end of the series due to increasing nuclear charge, which binds d-electrons more tightly.
+
+**Examples:**
+
+* **Cr:** +2, +3, +6
+* **Mn:** +2 to +7
+* **Fe:** +2, +3
+* **Cu:** +1, +2
+
+This variability allows them to form **complex ions, colored compounds, and catalysts**.
+
+---
+
+### 2. Compare the aqueous chemistry of titanium and iron ions. *(3 Marks)*
+
+**Answer:**
+
+| Property          | Titanium (Ti³⁺)              | Iron (Fe²⁺/Fe³⁺)                     |
+| ----------------- | ---------------------------- | ------------------------------------ |
+| Oxidation states  | +3 (common in solution)      | +2 and +3 (both stable in solution)  |
+| Color of ions     | Ti³⁺: purple                 | Fe²⁺: pale green, Fe³⁺: yellow/brown |
+| Hydrolysis        | Readily hydrolyzes           | Fe³⁺ hydrolyzes more than Fe²⁺       |
+| Redox behavior    | Ti³⁺ easily oxidized to Ti⁴⁺ | Fe²⁺ oxidized to Fe³⁺ in air         |
+| Complex formation | Forms complexes with ligands | Forms stable coordination compounds  |
+
+**Conclusion:**
+Fe shows more diverse aqueous chemistry due to its multiple stable oxidation states and stronger tendency to form complex ions.
+
+---
+
+### 3. Discuss the chemistry and structures of oxides and halides of vanadium. *(4 Marks)*
+
+**Answer:**
+
+**Vanadium Oxides:**
+
+* **V₂O₅** (vanadium pentoxide): Amphoteric, orange solid, used in **catalysis**.
+* **V₂O₃** (vanadium(III) oxide): Basic, black solid.
+* **VO₂**: Amphoteric, dark brown.
+* Oxides show oxidation states from +2 to +5.
+
+**Structures:**
+
+* V₂O₅: Layered structure with distorted VO₅ square pyramids.
+* Lower oxides have more ionic and less symmetrical structures.
+
+**Vanadium Halides:**
+
+* Common halides: **VCl₂, VCl₃, VCl₄, VF₅**.
+* **VCl₄**: Volatile liquid, covalent, tetrahedral structure.
+* **VF₅**: Pentagonal bipyramidal geometry.
+
+**Key Points:**
+
+* Vanadium forms halides in oxidation states +2 to +5.
+* Lower halides (e.g., VCl₂) are ionic; higher halides (VCl₄, VF₅) are molecular and volatile.
+
+---
+
+### 4. Write short notes on general features of lanthanides and their common oxidation states. *(2 Marks)*
+
+**Answer:**
+
+**General Features of Lanthanides:**
+
+* Elements from **La (57) to Lu (71)**.
+* All are **f-block elements** with partially filled 4f orbitals.
+* Exhibit similar chemical behavior due to **shielding effect** and **gradual contraction** (lanthanide contraction).
+
+**Oxidation States:**
+
+* **+3** is the most stable and common oxidation state.
+* Some elements like Ce (+4), Eu (+2), and Sm (+2) show other oxidation states, but less stable.
+
+**Note:**
+Lanthanides form **colorful salts**, and many are **paramagnetic** due to unpaired 4f electrons.
+
+---
+
+### 5. Describe the methods of isolation and properties of lanthanide oxides and hydroxides. *(3 Marks)*
+
+**Answer:**
+
+**Isolation of Lanthanides:**
+
+* Lanthanides occur together as **mixed oxides** in minerals like monazite.
+* Separated by:
+
+  * **Ion exchange** method (based on size differences).
+  * **Solvent extraction** using selective complexing agents.
+  * **Fractional crystallization** based on solubility differences.
+
+**Lanthanide Oxides (Ln₂O₃):**
+
+* White or pale-colored solids.
+* Insoluble in water but dissolve in acids to give Ln³⁺ ions.
+* Show **basic character**, which decreases from La₂O₃ to Lu₂O₃.
+
+**Hydroxides (Ln(OH)₃):**
+
+* Precipitated by adding alkali to lanthanide salt solution.
+* Generally **basic**, sparingly soluble in water.
+* React with acids to reform lanthanide salts.
+
+**Conclusion:**
+Lanthanide oxides and hydroxides show decreasing basicity across the series due to **lanthanide contraction**.
+</md></sn>
