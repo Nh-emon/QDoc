@@ -14,8 +14,8 @@
 
 | Group                     | Elements                                                                               | Valence Electron Configuration | Typical Oxidation State |
 | ------------------------- | -------------------------------------------------------------------------------------- | ------------------------------ | ----------------------- |
-| `Alkali Metals`         | Lithium (Li), Sodium (Na), Potassium (K), Rubidium (Rb), Cesium (Cs), Francium (Fr)    | ns¹                            | +1                      |
-| `Alkaline Earth Metals` | Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba), Radium (Ra) | ns²                            | +2                      |
+| `Alkali Metals`         | Lithium (`Li`), Sodium (`Na`), Potassium (`K`), Rubidium (`Rb`), Cesium (`Cs`), Francium (`Fr`)    | ns¹                            | +1                      |
+| `Alkaline Earth Metals` | Beryllium (`Be`), Magnesium (`Mg`), Calcium (`Ca`), Strontium (`Sr`), Barium (`Ba`), Radium (`Ra`) | ns²                            | +2                      |
 
 ---
 
@@ -23,11 +23,11 @@
 
 | Property                | Alkali Metals                  | Alkaline Earth Metals             |
 | ----------------------- | ------------------------------ | --------------------------------- |
-| Appearance              | Silvery-white, soft            | Silvery-white, harder than alkali |
-| Density                 | Low (e.g., Li floats on water) | Higher than alkali metals         |
-| Melting/Boiling Points  | Low                            | Higher than alkali metals         |
-| Electrical Conductivity | High                           | High                              |
-| Atomic &amp; Ionic Size     | Increases down the group       | Increases down the group          |
+| `Appearance`              | Silvery-white, soft            | Silvery-white, harder than alkali |
+| `Density`                 | Low (e.g., Li floats on water) | Higher than alkali metals         |
+| `Melting/Boiling Points`  | Low                            | Higher than alkali metals         |
+| `Electrical Conductivity` | High                           | High                              |
+| `Atomic &amp; Ionic Size`     | Increases down the group       | Increases down the group          |
 
 ---
 
@@ -164,7 +164,7 @@ Alkali and alkaline earth metals are chemically reactive, particularly with wate
 		<tags>#chemistry of alkali and alkaline earthmetals</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 14:07:59 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 14:46:59 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-2kZyLLBuDk</id>
 		<duration></duration>
 	</config>
