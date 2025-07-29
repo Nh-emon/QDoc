@@ -1,10 +1,100 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">## Chemistry of Noble Gases (Except Xenon)
+
+---
+
+Noble gases, also known as Group 18 elements in the periodic table, include **Helium (He), Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe), and Radon (Rn)**. This summary will focus on the **chemistry of noble gases excluding Xenon**, i.e., **He, Ne, Ar, Kr**, and **Rn**.
+
+---
+
+### 1. **General Characteristics of Noble Gases**
+
+| Property                 | Description                                                  |
+| ------------------------ | ------------------------------------------------------------ |
+| Electronic Configuration | ns² np⁶ (except He: 1s²)                                     |
+| Reactivity               | Very low (inert gases)                                       |
+| Atomicity                | Monatomic                                                    |
+| Physical State           | Colorless, odorless gases                                    |
+| Boiling Points           | Very low due to weak Van der Waals forces                    |
+| Solubility               | Slightly soluble in water                                    |
+| Occurrence               | Found in the atmosphere (He, Ne, Ar), radioactive decay (Rn) |
+
+---
+
+### 2. **Reasons for Inertness**
+
+* **Complete Octet:** Their outermost shell is completely filled (except He with 1s²), making them stable.
+* **High Ionization Energy:** Difficult to remove electrons.
+* **Zero Electronegativity (or very low):** Do not attract electrons.
+* **No tendency to form bonds.**
+
+---
+
+### 3. **Chemical Inertness – Observations**
+
+| Noble Gas   | Chemical Reactivity      | Observations                                                                      |
+| ----------- | ------------------------ | --------------------------------------------------------------------------------- |
+| **Helium**  | Chemically inert         | No known compounds                                                                |
+| **Neon**    | Chemically inert         | No known compounds                                                                |
+| **Argon**   | Extremely inert          | Some physical interactions (clathrates)                                           |
+| **Krypton** | Very slightly reactive   | Can form compounds with Fluorine under special conditions                         |
+| **Radon**   | Predicted to be reactive | Some unstable fluorides have been reported, but it's radioactive and less studied |
+
+---
+
+### 4. **Clathrate Compounds**
+
+Although noble gases do not form **true chemical compounds** (except Kr and Rn), some can form **clathrates**:
+
+* **Definition:** Physical compounds where gas atoms are trapped in cavities of water or hydrocarbon frameworks.
+* **Examples:**
+
+  * Argon, Krypton, and Xenon can form clathrates with water or quinol.
+  * Helium and Neon **do not form** clathrates due to their small size.
+
+---
+
+### 5. **Compounds of Krypton and Radon**
+
+Although rare and formed under extreme conditions:
+
+#### Krypton Compounds
+
+* **Krypton Difluoride (KrF₂)** – First compound of Krypton discovered.
+* Prepared by:
+
+  * Kr + F₂ → KrF₂ (under electric discharge or UV light at low temp)
+* Properties:
+
+  * Powerful oxidizing agent.
+  * Stable at room temperature.
+
+#### Radon Compounds
+
+* Some reports of **Radon Fluorides (RnF₂)**.
+* Highly radioactive, hence limited chemistry.
+* Likely exists in +2 oxidation state.
+
+---
+
+### 6. **Why Xenon is Different**
+
+* **Larger atomic size** and **lower ionization energy** make it more chemically reactive than other noble gases.
+* Forms a variety of compounds: XeF₂, XeF₄, XeF₆, XeO₃, etc.
+* Not covered in this answer as per the request.
+
+---
+
+### 7. **Conclusion**
+
+Noble gases (except Xenon) are mostly chemically **inert** due to their full valence shells, high ionization energies, and low polarizability. While **Helium, Neon, and Argon** are completely inert under standard conditions, **Krypton and Radon** show **limited reactivity** under extreme conditions, mostly forming **fluorides**.
+
+</md></sn>		
 	<config>
 		<tags>#chemistry of other noble gases</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Jul 29 2025 10:58:26 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Jul 29 2025 11:03:43 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-8YHMGwnYPP</id>
 		<duration></duration>
 	</config>
