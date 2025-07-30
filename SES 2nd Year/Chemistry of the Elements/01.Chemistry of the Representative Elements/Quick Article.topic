@@ -1,10 +1,77 @@
 
-	<sn></sn>		
+	<sn><md data-e="true">Here's a detailed comparison of the pairs **(B vs Al, C vs Si, N vs P, O vs S)** focusing specifically on differences arising from:
+
+* **Orbital Number (Shells / Energy levels)**
+* **Oxidation States**
+* **Electronegativity**
+
+---
+
+## **1. B (Boron) vs Al (Aluminum)**
+
+**Group 13 – Valence Electrons: 3**
+
+| Aspect            | **Boron (B)**                 | **Aluminum (Al)**                     | **Reason for Differences**                                                                   |
+| ----------------- | ----------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Orbital Number    | 2 energy levels (1s² 2s² 2p¹) | 3 energy levels (1s² 2s² 2p⁶ 3s² 3p¹) | Al has an extra shell → larger atomic radius and lower nuclear attraction on outer electrons |
+| Common Oxidation  | +3                            | +3                                    | Same group → same oxidation state; Al⁺³ is more ionic, B⁺³ is more covalent                  |
+| Electronegativity | 2.04                          | 1.61                                  | Boron is smaller and pulls electrons more strongly                                           |
+
+---
+
+## **2. C (Carbon) vs Si (Silicon)**
+
+**Group 14 – Valence Electrons: 4**
+
+| Aspect            | **Carbon (C)**                | **Silicon (Si)**                      | **Reason for Differences**                                                  |
+| ----------------- | ----------------------------- | ------------------------------------- | --------------------------------------------------------------------------- |
+| Orbital Number    | 2 energy levels (1s² 2s² 2p²) | 3 energy levels (1s² 2s² 2p⁶ 3s² 3p²) | Si has an additional shell → more shielding and less effective nuclear pull |
+| Common Oxidation  | +4, +2                        | +4, +2                                | Similar, but Si⁺⁴ is more stable due to lower electronegativity             |
+| Electronegativity | 2.55                          | 1.90                                  | C forms stronger covalent bonds; Si less so due to its larger size          |
+
+---
+
+## **3. N (Nitrogen) vs P (Phosphorus)**
+
+**Group 15 – Valence Electrons: 5**
+
+| Aspect            | **Nitrogen (N)**              | **Phosphorus (P)**           | **Reason for Differences**                                                   |
+| ----------------- | ----------------------------- | ---------------------------- | ---------------------------------------------------------------------------- |
+| Orbital Number    | 2 energy levels (1s² 2s² 2p³) | 3 energy levels (1s² to 3p³) | P has more shielding → lower ionization energy                               |
+| Common Oxidation  | -3, +3, +5                    | -3, +3, +5                   | Both show same states, but P can expand octet (3d orbitals) → more stable +5 |
+| Electronegativity | 3.04                          | 2.19                         | N attracts electrons more strongly due to smaller size and no d-orbitals     |
+
+---
+
+## **4. O (Oxygen) vs S (Sulfur)**
+
+**Group 16 – Valence Electrons: 6**
+
+| Aspect            | **Oxygen (O)**                | **Sulfur (S)**              | **Reason for Differences**                                                            |
+| ----------------- | ----------------------------- | --------------------------- | ------------------------------------------------------------------------------------- |
+| Orbital Number    | 2 energy levels (1s² 2s² 2p⁴) | 3 energy levels (up to 3p⁴) | Extra shell in S → more shielding → weaker nuclear attraction                         |
+| Common Oxidation  | -2                            | -2, +4, +6                  | S has access to empty 3d orbitals → can expand octet and form +4, +6 oxidation states |
+| Electronegativity | 3.44                          | 2.58                        | O is the 2nd most electronegative element; strongly attracts electrons                |
+
+---
+
+## **Trends Summary Across the Pairs (Down the Group)**
+
+| Property              | Trend                        | Explanation                                                                        |
+| --------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
+| **Orbital Number**    | Increases                    | Each period adds a new shell                                                       |
+| **Oxidation States**  | Expandable in lower elements | Heavier elements (Period 3) can use **d-orbitals** to show higher oxidation states |
+| **Electronegativity** | Decreases                    | Increased atomic size + shielding → lower nuclear pull on bonding electrons        |
+
+---
+
+Let me know if you want this in visual or chart form, or expanded to other properties (like ionization energy, bonding types, etc.).
+</md></sn>		
 	<config>
 		<tags>#quick article</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Jul 30 2025 08:26:54 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Jul 30 2025 08:27:12 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HtFvZno12Q</id>
 		<duration></duration>
 	</config>
