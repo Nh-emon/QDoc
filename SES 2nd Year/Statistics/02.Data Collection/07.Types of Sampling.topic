@@ -1,10 +1,134 @@
 
-	<sn></sn>		
+	<sn class="border-0"><md>### Sampling{.text-center}
+
+In statistics, **sampling** is the process of `selecting a subset` of individuals or observations `from a larger population` to draw conclusions about the whole group. Since ==studying an entire population is often impractical==, sampling provides a practical way to collect, analyze, and interpret data. The method used to select the sample is crucial, as it ==affects the reliability and accuracy of statistical results==.
+
+---
+
+### Definition of Sampling
+
+**Sampling** refers to the technique of `selecting a portion or subset of the population to represent the whole`. The goal is to `ensure` that the sample accurately `reflects the characteristics of the population`.
+
+---
+
+### Broad Categories of Sampling
+
+| Category                     | Description                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Probability Sampling**     | Each member of the population has a known, non-zero chance of being selected                        |
+| **Non-Probability Sampling** | The probability of selection is unknown; selection is based on factors like convenience or judgment |
+
+---
+
+## I. **Probability Sampling Methods**
+
+These methods ensure that every individual in the population has an equal or known chance of selection. They are preferred in scientific research for accuracy and reduced bias.
+
+### 1. **Simple Random Sampling**
+
+| Feature    | Description                                            |
+| ---------- | ------------------------------------------------------ |
+| Definition | Every individual has an equal chance of being selected |
+| Example    | Drawing names from a hat                               |
+| Tools Used | Lottery method, random number generator                |
+
+---
+
+### 2. **Systematic Sampling**
+
+| Feature    | Description                                                                     |
+| ---------- | ------------------------------------------------------------------------------- |
+| Definition | Selection of every *k-th* item from a list after a random start                 |
+| Example    | Choosing every 10th student from a register                                     |
+| Formula    | Sampling interval $k = \frac{N}{n}$, where N = population size, n = sample size |
+
+---
+
+### 3. **Stratified Sampling**
+
+| Feature    | Description                                                                           |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Definition | Population is divided into subgroups (strata), and random samples are taken from each |
+| Purpose    | Ensures representation of all subgroups                                               |
+| Example    | Sampling students by class grade (e.g., class 6, 7, 8)                                |
+
+---
+
+### 4. **Cluster Sampling**
+
+| Feature    | Description                                                                    |
+| ---------- | ------------------------------------------------------------------------------ |
+| Definition | Population is divided into clusters, and entire clusters are randomly selected |
+| When Used  | When the population is geographically spread                                   |
+| Example    | Selecting 5 schools randomly and surveying all students in them                |
+
+---
+
+## II. **Non-Probability Sampling Methods**
+
+These methods do not guarantee every individual has a known or equal chance of being selected. They are often quicker and more convenient but may introduce bias.
+
+### 1. **Convenience Sampling**
+
+| Feature    | Description                                              |
+| ---------- | -------------------------------------------------------- |
+| Definition | Sample is chosen based on ease of access or availability |
+| Example    | Surveying people in a nearby shopping mall               |
+| Risk       | High chance of selection bias                            |
+
+---
+
+### 2. **Judgmental (Purposive) Sampling**
+
+| Feature    | Description                                            |
+| ---------- | ------------------------------------------------------ |
+| Definition | Researcher selects individuals based on their judgment |
+| Use Case   | When specific knowledge or expertise is needed         |
+| Example    | Choosing expert doctors for a study                    |
+
+---
+
+### 3. **Quota Sampling**
+
+| Feature    | Description                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| Definition | Population is divided into categories; researcher chooses samples until a set quota is met |
+| Example    | Interviewing 50 males and 50 females for a survey                                          |
+
+---
+
+### 4. **Snowball Sampling**
+
+| Feature    | Description                                                             |
+| ---------- | ----------------------------------------------------------------------- |
+| Definition | Existing participants recruit future subjects among their acquaintances |
+| Use Case   | Useful for hidden or hard-to-reach populations                          |
+| Example    | Drug users, undocumented workers, etc.                                  |
+
+---
+
+### Comparison Table: Probability vs Non-Probability Sampling
+
+| Criteria           | Probability Sampling              | Non-Probability Sampling           |
+| ------------------ | --------------------------------- | ---------------------------------- |
+| Selection Method   | Random or systematic              | Based on accessibility or judgment |
+| Bias Risk          | Low                               | High                               |
+| Use in Research    | Scientific and academic research  | Exploratory or informal surveys    |
+| Representativeness | More representative of population | Less representative                |
+| Cost &amp; Time        | Higher                            | Lower                              |
+
+---
+
+### Conclusion
+
+Sampling plays a vital role in statistical studies. The choice of sampling method affects the quality and accuracy of the data collected. **Probability sampling** is ideal for `unbiased` and `reliable results`, while **non-probability sampling** may be used in cases of `limited resources` or `specific needs`. Understanding the various types of sampling enables researchers to design better studies and `make valid conclusions about populations`.
+
+</md></sn>		
 	<config>
 		<tags>#07.types of sampling</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 17:33:39 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 18:45:04 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3TSI6SNjIt</id>
 		<duration></duration>
 	</config>
