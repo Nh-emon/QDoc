@@ -13,7 +13,7 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 		<tags>#01.statistics bacics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 15:18:27 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 16:42:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ruG6Ljw7HI</id>
 		<duration></duration>
 	</config>
@@ -26,13 +26,13 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 
 | **Concept**            | **Explanation**                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------- |
-| **Population**         | The entire group about which information is desired (e.g., all students in a school). |
-| **Sample**             | A subset of the population used for analysis (e.g., 100 students from the school).    |
-| **Variable**           | A characteristic or attribute that can vary (e.g., height, age, test score).          |
+| **Population**         | The `entire group` about which information is desired (e.g., all students in a school). |
+| **Sample**             | A `subset` of the population used for analysis (e.g., 100 students from the school).    |
+| **Variable**           | A characteristic or `attribute` that can vary (e.g., height, age, test score).          |
 | **Mean (Average)**     | Sum of values divided by the number of values.                                        |
-| **Median**             | The middle value when data is arranged in order.                                      |
-| **Mode**               | The value that appears most frequently in a dataset.                                  |
-| **Standard Deviation** | A measure of how spread out the values are from the mean.                             |
+| **Median**             | The `middle value` when data is arranged `in order`.                                      |
+| **Mode**               | The value that `appears most frequently` in a dataset.                                  |
+| **Standard Deviation** | A measure of `how spread out the values are from the mean`.                             |
 | **Probability**        | The likelihood or chance that a particular event will occur.                          |</md></sn><sn><md>### Importance of Statistics{.text-center .fg-orange}
 
 | **Area**                 | **How Statistics Helps**                                                                     |
@@ -62,4 +62,6 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 | **Chi-Square Test**     | Testing associations between categorical variables.               |
 | **T-Test**              | Comparing the means of two groups.                                |
 | **Correlation**         | Measuring the strength and direction of a linear relationship.    |
-</md></sn><sn><h2>Conclusion</h2><div><span style="caret-color: rgb(0, 0, 0);">Statistics is a powerful tool that enables us to understand data, draw conclusions, and make decisions in an uncertain world. Whether in scientific discovery, economic planning, or everyday life, statistical thinking helps us see patterns, test ideas, and find evidence-based answers. As data continues to grow in size and importance, so too does the value of statistical literacy in the modern world.</span></div><p></p></sn>
+</md></sn><sn><md>## Conclusion{.text-end}
+
+Statistics is a powerful tool that enables us to `understand data`, `draw conclusions`, and `make decisions` in an uncertain world. Whether in scientific discovery, economic planning, or everyday life, statistical thinking helps us `see patterns`, `test ideas`, and `find evidence-based answers`. As data continues to grow in size and importance, so too does the value of statistical literacy in the modern world.</md></sn>
