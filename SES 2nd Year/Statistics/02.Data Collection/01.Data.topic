@@ -1,10 +1,46 @@
 
-	<sn></sn>		
+	<sn><md>## Data in Statistics{.text-center}
+
+In statistics, *data* refers to the pieces of information collected through observation, measurement, counting, or experimentation. It is the foundation upon which all statistical analysis is built. Understanding what data is, how it is classified, and how it is collected is essential for meaningful interpretation and analysis.
+
+---
+
+### Definition of Data
+
+**Data** is a collection of facts, such as numbers, words, measurements, observations, or even just descriptions of things.==In the context of statistics==, it specifically refers to `quantitative or qualitative values` that are collected to analyze *patterns, test hypotheses, or make decisions*.
+
+---
+
+### Types of Data
+
+| Type of Data          | Description                                                  | Examples                       |
+| --------------------- | ------------------------------------------------------------ | ------------------------------ |
+| `Qualitative` Data | Non-numerical information describing categories or qualities | Gender, color, religion        |
+| `Quantitative` Data | Numerical data that can be measured or counted               | Age, height, temperature       |
+| `Discrete` Data     | Countable, whole number values                               | Number of children, books sold |
+| `Continuous` Data   | Measurable quantities that can take any value within a range | Weight, distance, time         |
+
+
+---
+
+### Sources of Data
+
+| Source Type        | Description                                                     | Examples                          |
+| ------------------ | --------------------------------------------------------------- | --------------------------------- |
+| **Primary Data**   | Data collected directly from original sources by the researcher | Surveys, experiments, interviews  |
+| **Secondary Data** | Data already collected and available for use                    | Census reports, academic journals |
+
+
+### Conclusion
+
+Data is the backbone of statistical analysis. Without data, statistics cannot exist. The process of collecting, classifying, and analyzing data allows researchers and decision-makers to understand trends, identify problems, and implement effective solutions. A strong grasp of data and its characteristics is crucial in every field that uses statistics.
+
+</md></sn>		
 	<config>
 		<tags>#01.data</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 17:26:54 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 17:52:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ZFY5HbM62C</id>
 		<duration></duration>
 	</config>
