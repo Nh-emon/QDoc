@@ -13,7 +13,7 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 		<tags>#01.statistics bacics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 16:42:35 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 17:09:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ruG6Ljw7HI</id>
 		<duration></duration>
 	</config>
@@ -22,7 +22,7 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 | **Type**                   | **Description**                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Descriptive Statistics** | Summarizes and describes the main features of a dataset using numbers, tables, and graphs. E.g., mean, median, mode, standard deviation.   |
-| **Inferential Statistics** | Makes predictions or inferences about a population based on a sample. E.g., hypothesis testing, confidence intervals, regression analysis. |</md></sn><sn><md>### Key Concepts in Statistics{.text-center .fg-indigo}
+| **Inferential Statistics** | `Makes predictions` or inferences about a population based on a sample. E.g., `hypothesis testing`, `confidence intervals`, `regression analysis`. |</md></sn><sn><md>### Key Concepts in Statistics{.text-center .fg-indigo}
 
 | **Concept**            | **Explanation**                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------- |
