@@ -33,17 +33,17 @@ Statistics is essential in understanding natural systems like soil, water, and t
 
 | **Purpose**                    | **Statistical Role**                                                                   |
 | ------------------------------ | -------------------------------------------------------------------------------------- |
-| Analyzing Environmental Change | Trend analysis for climate change, temperature rise, biodiversity decline              |
-| Pollution Monitoring           | Use of inferential statistics to detect anomalies and pollution events                 |
-| Impact Assessment              | Pre- and post-intervention comparisons in EIAs using t-tests, ANOVA, regression        |
-| Ecological Studies             | Analysis of biodiversity, species abundance, and distribution using ecological indices |
+| 1. Analyzing Environmental Change | Trend analysis for climate change, temperature rise, biodiversity decline              |
+| 2. Pollution Monitoring           | Use of ==inferential statistics== to detect anomalies and pollution events                 |
+| 3. Impact Assessment              | Pre- and post-intervention comparisons in EIAs using t-tests, ANOVA, regression        |
+| 4. Ecological Studies             | Analysis of biodiversity, species abundance, and distribution using ecological indices |
 
 </md></sn>		
 	<config>
 		<tags>#02.importance of statistics in soil water and enviromental research</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 14:25:28 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 14:57:17 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-U6YkhB8kLv</id>
 		<duration></duration>
 	</config>
