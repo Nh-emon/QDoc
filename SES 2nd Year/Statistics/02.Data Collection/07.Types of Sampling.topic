@@ -84,7 +84,7 @@ These methods ensure that every individual in the population has an `equal or kn
 
 ## II. **Non-Probability Sampling Methods**
 
-These methods do not guarantee every individual has a known or equal chance of being selected. They are often quicker and more convenient but may introduce bias.
+These methods do not guarantee every individual has a known or equal chance of being selected. They are often `quicker and more convenient` but may introduce `bias`.
 
 ### 1. **Convenience Sampling**
 +++ see diagram
@@ -92,9 +92,9 @@ These methods do not guarantee every individual has a known or equal chance of b
 +++
 | Feature    | Description                                              |
 | ---------- | -------------------------------------------------------- |
-| Definition | Sample is chosen based on ease of access or availability |
-| Example    | Surveying people in a nearby shopping mall               |
-| Risk       | High chance of selection bias                            |
+| Definition | Sample is chosen based on `ease of access` or `availability` |
+| Example    | Surveying people in a *nearby shopping mall*               |
+| Risk       | `High` chance of selection `bias`                            |
 
 ---
 
@@ -104,9 +104,9 @@ These methods do not guarantee every individual has a known or equal chance of b
 +++
 | Feature    | Description                                            |
 | ---------- | ------------------------------------------------------ |
-| Definition | Researcher selects individuals based on their judgment |
-| Use Case   | When specific knowledge or expertise is needed         |
-| Example    | Choosing expert doctors for a study                    |
+| Definition | Researcher selects individuals `based on their judgment` |
+| Use Case   | When ==specific knowledge or expertise is needed==         |
+| Example    | Choosing *expert doctors* for a study                    |
 
 ---
 ### 3. **Quota Sampling**
@@ -115,7 +115,7 @@ These methods do not guarantee every individual has a known or equal chance of b
 +++
 | Feature    | Description                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------ |
-| Definition | Population is divided into categories; researcher chooses samples until a set quota is met |
+| Definition | Population is `divided into categories`; researcher chooses samples `until a set quota is met` |
 | Example    | Interviewing 50 males and 50 females for a survey                                          |
 
 ---
@@ -126,9 +126,9 @@ These methods do not guarantee every individual has a known or equal chance of b
 +++
 | Feature    | Description                                                             |
 | ---------- | ----------------------------------------------------------------------- |
-| Definition | Existing participants recruit future subjects among their acquaintances |
-| Use Case   | Useful for hidden or hard-to-reach populations                          |
-| Example    | Drug users, undocumented workers, etc.                                  |
+| Definition | ==Existing participants recruit future subjects among their acquaintances== |
+| Use Case   | Useful for `hidden or hard-to-reach populations`                          |
+| Example    | `Drug users`, *undocumented workers*, etc.                                  |
 
 ---
 
@@ -153,7 +153,7 @@ Sampling plays a vital role in statistical studies. The choice of sampling metho
 		<tags>#07.types of sampling</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 20:09:33 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 06 2025 20:26:48 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3TSI6SNjIt</id>
 		<duration></duration>
 	</config>
