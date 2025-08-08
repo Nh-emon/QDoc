@@ -1,0 +1,138 @@
+<config style="display:none"><tags>#check</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 08:26:32 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Adi6qEx3TD</id><duration></duration></config><sn><md>### Python `pandas` Library Explained
+
+`pandas` is a powerful and widely-used open-source Python library for **data analysis**, **data manipulation**, and **data cleaning**. It provides fast, flexible, and expressive data structures like **DataFrame** and **Series** that make working with structured (tabular) data easy and efficient.
+
+---
+
+## 1. **Key Features of `pandas`**
+
+| Feature                 | Description                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------- |
+| Tabular data structure  | Offers `DataFrame` and `Series` for handling rows and columns of data        |
+| Data cleaning           | Handle missing data, duplicates, filtering, replacing, etc.                  |
+| Data transformation     | Grouping, pivoting, reshaping, merging, and concatenating datasets           |
+| Input/output operations | Read/write from CSV, Excel, JSON, SQL, clipboard, etc.                       |
+| Time series support     | Powerful tools for time-based indexing, resampling, and frequency conversion |
+| Fast performance        | Built on top of NumPy for high performance with large datasets               |
+
+---
+
+## 2. **Core Data Structures**
+
+### a) `Series`
+
+A one-dimensional labeled array.
+
+```python
+import pandas as pd
+
+s = pd.Series([10, 20, 30], index=['a', 'b', 'c'])
+print(s)
+```
+
+```
+a    10
+b    20
+c    30
+dtype: int64
+```
+
+### b) `DataFrame`
+
+A two-dimensional labeled data structure like a table (rows and columns).
+
+```python
+data = {
+    'Name': ['Alice', 'Bob'],
+    'Age': [25, 30]
+}
+df = pd.DataFrame(data)
+print(df)
+```
+
+```
+    Name  Age
+0  Alice   25
+1    Bob   30
+```
+
+---
+
+## 3. **Common Operations**
+
+### a) **Read Data**
+
+```python
+df = pd.read_csv('data.csv')
+```
+
+### b) **Inspect Data**
+
+```python
+df.head()         # First 5 rows
+df.info()         # Info summary
+df.describe()     # Stats summary
+```
+
+### c) **Select Data**
+
+```python
+df['Age']           # Select column
+df.loc[0]           # Select row by label
+df.iloc[0]          # Select row by position
+```
+
+### d) **Filter Data**
+
+```python
+df[df['Age'] &gt; 25]  # Filter rows
+```
+
+### e) **Modify Data**
+
+```python
+df['Age'] += 1                 # Update column
+df['New'] = df['Age'] * 2      # Add new column
+```
+
+### f) **Handle Missing Data**
+
+```python
+df.fillna(0)       # Replace NaNs
+df.dropna()        # Drop rows with NaNs
+```
+
+### g) **Group &amp; Aggregate**
+
+```python
+df.groupby('Category').mean()
+```
+
+### h) **Merge/Join**
+
+```python
+pd.merge(df1, df2, on='id')
+```
+
+---
+
+## 4. **Use Cases**
+
+* Data cleaning and wrangling
+* Exploratory Data Analysis (EDA)
+* Time series analysis
+* Financial data manipulation
+* Machine learning preprocessing
+
+---
+
+## 5. **Installation**
+
+```bash
+pip install pandas
+```
+
+---
+
+Let me know if you want a **cheat sheet**, **real dataset example**, or explanation of specific functions like `groupby`, `pivot`, or time series handling.
+</md></sn>
