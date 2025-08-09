@@ -6,7 +6,7 @@
 ::: .row
 
 ::: .col-12 .col-md-8
-Microorganisms—tiny living entities such as bacteria, fungi, protozoa, and microscopic algae—are often invisible to the naked eye, yet they play an essential role in maintaining ecological balance. In the food chain, microorganisms are fundamental contributors at multiple levels, from primary production to decomposition. They influence nutrient cycling, energy transfer, and the survival of various life forms, making them indispensable for both natural ecosystems and human-managed environments like agriculture and aquaculture.
+Microorganisms—tiny living entities such as `bacteria`, `fungi`, `protozoa`, and `microscopic algae`—are often invisible to the naked eye, yet they play an essential role in maintaining ecological balance. In the food chain, microorganisms are fundamental contributors at multiple levels, ==from primary production to decomposition==. They influence ==nutrient cycling, energy transfer, and the survival of various life forms==, making them indispensable for both natural ecosystems and human-managed environments like agriculture and aquaculture.
 :::
 
 ::: .col-12 .col-md-4
@@ -19,23 +19,23 @@ Microorganisms—tiny living entities such as bacteria, fungi, protozoa, and mic
 
 ### Types of Microorganisms in the Food Chain
 
-Microorganisms in the food chain can be categorized based on their role and habitat:
+Microorganisms in the food chain can be categorized ==based on their role and habitat==:
 
-#### 1. **Producers (Primary Level)**
+#### 1. **Producers (Primary Level)** {.text-end}
 
-Some microorganisms, particularly photosynthetic bacteria and algae, produce organic matter using sunlight and inorganic nutrients.
+Some microorganisms, particularly `photosynthetic bacteria and algae`, produce ==organic matter== using sunlight and ==inorganic nutrients==.
 
-* **Examples:** Cyanobacteria, diatoms, green algae.
-* **Role:** They form the base of aquatic food chains by converting solar energy into chemical energy, which is consumed by primary consumers such as zooplankton.
+* **Examples:** *Cyanobacteria, diatoms, green algae*.
+* **Role:** They form the base of `aquatic food chains` by converting solar energy into chemical energy, which is consumed by primary consumers such as `zooplankton`.
 
-#### 2. **Consumers**
+#### 2. **Consumers** {.text-end}
 
-Heterotrophic microorganisms consume organic material produced by other organisms.
+`Heterotrophic` microorganisms `consume organic material` produced by other organisms.
 
-* **Examples:** Protozoa, certain bacteria, fungi.
-* **Role:** They feed on smaller microbes or organic matter, transferring energy to higher trophic levels.
+* **Examples:** *Protozoa, certain bacteria, fungi*.
+* **Role:** They feed on smaller microbes or organic matter, ==transferring energy to higher trophic levels==.
 
-#### 3. **Decomposers (Detritivores)**
+#### 3. **Decomposers (Detritivores)** {.text-end}
 
 These microorganisms break down complex organic matter from dead plants and animals into simpler substances.
 
@@ -112,7 +112,7 @@ Microorganisms are not just passive participants but active drivers of the food 
 		<tags>#micro organism in food chain</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 09 2025 12:31:20 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 09 2025 12:42:15 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-do5xXycVKp</id>
 		<duration></duration>
 	</config>
