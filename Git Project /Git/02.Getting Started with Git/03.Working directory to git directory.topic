@@ -1,0 +1,185 @@
+<sn><md>### **Working directory to Git directory**
+---
+
+In Git, every file change goes through **three core areas**, often referred to as **containers** in the lifecycle of version control:
+
+1. **Working Directory**
+2. **Staging Area** (also called: Index / Intermediate Stage)
+3. **Repository (Git Directory / Committed Area)**
+
+Understanding these three containers is crucial for mastering Git operations. Let’s explore them in depth.
+
+---
+
+## 🗂️ 1. **Working Directory (Workspace)**
+
+### 📌 What It Is:
+
+* The **Working Directory** is the actual **folder on your system** where you create, edit, delete, and manage files.
+* It reflects the **latest checked-out version** of your project from Git.
+
+### 🛠️ Activities:
+
+* You add new files (`touch`)
+* You make changes (`nano`, `vim`, editors)
+* You delete or move files
+
+```bash
+# Example
+echo "Hello Git" &gt; hello.txt
+```
+
+This file now exists in your **Working Directory**, but Git isn’t tracking it yet.
+
+---
+
+## 🧮 2. **Staging Area (Index / Intermediate Area)**
+
+### 📌 What It Is:
+
+* The **Staging Area** is a **temporary holding area** where you tell Git what changes you want to **include in the next commit**.
+* It allows **batching and controlling** what gets committed.
+* Only the file added into this stage area will comitted(modified) and other will remain same
+
+### 🔄 Think of It As:
+
+&gt; “I changed multiple files, but I only want to commit these two for now.”
+
+### 🛠️ Activities:
+
+* Files must be added using `git add` to move them here.
+
+```bash
+git add hello.txt
+```
+
+Now, `hello.txt` is **staged** for the next commit.
+
+🧠 **Note**: You can keep modifying a file even after staging it — those new modifications won't be part of the commit **unless** you re-stage the file.
+
+---
+
+## 🏛️ 3. **Repository (Git Directory / Committed Area)**
+
+### 📌 What It Is:
+
+* This is the **hidden `.git/` directory** that stores your **full project history** and metadata.
+* Once changes are committed, they become part of the project’s **permanent version history**.
+
+### 🛠️ Activities:
+
+* Files are committed using:
+
+```bash
+git commit -m "Add hello.txt"
+```
+
+Now the file is stored in the **repository (committed)** area and can be referenced, restored, or compared in the future.
+
+---
+
+## 🔄 Full Lifecycle of a File in Git
+
+Let’s visualize a change flowing through all three containers:
+
+```text
+             ┌────────────────────┐
+             │ Working Directory  │
+             │ (Edit/Create File) │
+             └────────┬───────────┘
+                      │ git add
+                      ▼
+             ┌────────────────────┐
+             │  Staging Area      │
+             │ (Index/Cache)      │
+             └────────┬───────────┘
+                      │ git commit
+                      ▼
+             ┌────────────────────┐
+             │ Git Repository     │
+             │ (.git/ directory)  │
+             └────────────────────┘
+```
+
+---
+
+## 🧪 Example Walkthrough
+
+### 🔸 Step 1: Modify/Add a File
+
+```bash
+echo "first line" &gt; notes.txt
+```
+
+📍 Status:
+
+* **Working Directory**: `notes.txt` is modified
+* **Staging Area**: empty
+* **Repository**: no record of `notes.txt`
+
+---
+
+### 🔸 Step 2: Stage It
+
+```bash
+git add notes.txt
+```
+
+📍 Status:
+
+* **Working Directory**: `notes.txt` exists
+* **Staging Area**: `notes.txt` is staged
+* **Repository**: still no record of `notes.txt`
+
+---
+
+### 🔸 Step 3: Commit It
+
+```bash
+git commit -m "Add notes.txt"
+```
+
+📍 Status:
+
+* **Working Directory**: `notes.txt` exists
+* **Staging Area**: empty
+* **Repository**: contains snapshot of `notes.txt`
+
+---
+
+### 🔸 Step 4: Modify Again
+
+```bash
+echo "second line" &gt;&gt; notes.txt
+```
+
+📍 Status:
+
+* **Working Directory**: modified
+* **Staging Area**: still contains old version
+* **Repository**: still has the version with only "first line"
+
+Now, you must **add + commit again** to update the repository.
+
+---
+
+## 📌 Git Status Commands
+
+Use these to track the current state of files in each container:
+
+| Command             | Shows...                                    |
+| ------------------- | ------------------------------------------- |
+| `git status`        | What’s staged, modified, or untracked       |
+| `git diff`          | Changes in working directory not yet staged |
+| `git diff --cached` | Changes staged but not yet committed        |
+
+---
+
+## 🧾 Summary Points
+
+* **Working Directory**: Where files are created or modified
+* **Staging Area (Index)**: Where changes are prepared before being committed
+* **Git Directory (Repository)**: Where committed versions are stored permanently
+* Changes **must pass through each stage** to be recorded in history
+* Git provides **flexibility** to control exactly what gets committed
+</md></sn><config style="display:none"><tags>#03.working directory to git directory</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 21:23:26 GMT+0600 (Bangladesh Standard Time)</udate><id>article-cMN6J5cXZu</id><duration></duration></config>
