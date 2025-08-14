@@ -1,0 +1,16 @@
+<config style="display:none"><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Sat Jun 28 2025 13:00:41 GMT+0600 (Bangladesh Standard Time)</udate><id>article-3OYsu0ckNW</id><duration></duration></config><sn class="col-lg-7 bg-white border-0"><h3 class="text-end"><x class="px-3 py-2 rounded-1 bg-teal-300 fg-white">What is Version Control?</x></h3><p class="bg-teal-100"><strong>Version Control</strong> is a system that helps you <strong>track changes to files over time</strong>, especially source code. It allows multiple people to <strong>collaborate</strong>, <strong>revert to previous versions</strong>, and <strong>manage updates</strong> without overwriting each other’s work.</p><hr><h3 class="text-end"><x class="px-3 py-2 rounded-1 bg-purple-300 fg-white">Key Features</x></h3><ul class="bg-indigo-100">
+<li>📜 <strong>Track History</strong>: Every change is recorded—who made it, when, and what was changed.</li>
+<li>👥 <strong>Collaboration</strong>: Multiple people can work on the same project simultaneously.</li>
+<li>🔁 <strong>Rollback Capability</strong>: Restore previous versions of your files at any time.</li>
+<li>🌱 <strong>Branching</strong>: Work on new features or experiments without affecting the main code.</li>
+<li>⚔️ <strong>Merge and Conflict Resolution</strong>: Integrate changes from different contributors.</li>
+</ul><hr><h3 class="text-end"><x class="px-3 py-2 rounded-1 bg-pink-300 fg-white">Table</x></h3><tb class="py-2 bg-pink-100"><pre>| Type | Description | Example Tools |
+| ---  | ---  | --- |
+| <strong>Centralized VCS</strong> | Single central server stores all versions | SVN, CVS |
+| <strong>Distributed VCS</strong> | Each developer has a full repo copy | Git, Mercurial |
+</pre></tb><hr><h3 class="text-end"><x class="px-3 py-2 rounded-1 bg-yellow-300 fg-white">Why Use Version Control ?</x></h3><ul class="bg-yellow-100">
+<li>Prevents accidental file loss or overwriting</li>
+<li>Enhances teamwork and accountability</li>
+<li>Maintains a clean development history</li>
+<li>Makes software development safer and faster</li>
+</ul></sn>
