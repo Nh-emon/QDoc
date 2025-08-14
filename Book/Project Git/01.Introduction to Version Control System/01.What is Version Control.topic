@@ -1,0 +1,179 @@
+<sn><md>###  **What is Version Control?**
+
+---
+
+**Version Control**, also known as **source control**, is a system that records changes to a file or set of files over time. This technology is essential in software development but is also used in other areas like content creation, technical writing, and data science to manage changes and collaborate effectively.
+
+---
+
+### 🔍 **Purpose of Version Control**
+
+The core objective of version control is to allow multiple users to work on a project simultaneously without overwriting each other’s work, while also preserving a full history of changes. This means every change, no matter how small, is tracked and can be reviewed, compared, or reverted.
+
+---
+
+### 🧩 **Types of Version Control Systems**
+
+#### 1. **Local Version Control System (LVCS)**
+
+* Stores versions of files on the local disk.
+* Simple but limited to a single user.
+* Example: RCS (Revision Control System).
+
+#### 2. **Centralized Version Control System (CVCS)**
+
+* Uses a central server to store all versions of files.
+* Developers pull files from and push changes to the server.
+* Limitation: Server downtime or data loss affects the entire team.
+* Examples: CVS, Subversion (SVN), Perforce.
+
+#### 3. **Distributed Version Control System (DVCS)**
+
+* Every user has a complete copy of the repository.
+* Changes can be shared between repositories.
+* Highly flexible and resilient to server failure.
+* Examples: **Git**, Mercurial, Bazaar.
+
+---
+
+### 🔧 **Core Features of Version Control**
+
+| Feature                       | Description                                                     |
+| ----------------------------- | --------------------------------------------------------------- |
+| 🔄 **Change Tracking**        | Tracks each modification with timestamp and author details.     |
+| 🧪 **Reversibility**          | Revert files to a previous state if necessary.                  |
+| 🌿 **Branching and Merging**  | Work on multiple features or experiments simultaneously.        |
+| 👥 **Collaboration**          | Multiple people can work on the same project without conflicts. |
+| 📊 **History and Audit**      | View the timeline of who changed what and why.                  |
+| 🔐 **Security and Integrity** | Protects against accidental loss and unauthorized changes.      |
+
+---
+
+### 🚀 **Why Developers Use Version Control**
+
+* **Team Collaboration**: Allows teams to work in parallel without data loss.
+* **Backup**: Each change is saved and can be recovered.
+* **Accountability**: Developers’ changes are attributed by username and timestamp.
+* **Experimentation**: Try new ideas in branches without affecting the main codebase.
+* **Continuous Integration/Delivery (CI/CD)**: Integrates well with automated deployment pipelines.
+
+---
+
+### 🌐 **Popular Version Control Systems**
+
+| System        | Type        | Key Feature                                 |
+| ------------- | ----------- | ------------------------------------------- |
+| **Git**       | Distributed | Fast, powerful, supports branching/merging  |
+| **SVN**       | Centralized | Simple to use, good for binary files        |
+| **Mercurial** | Distributed | Similar to Git but with a simpler interface |
+| **Perforce**  | Centralized | Enterprise-level scalability and speed      |
+
+---
+
+### 🧪 **Real-world Example**
+
+Imagine a team working on a mobile app:
+
+* Developer A works on the login screen.
+* Developer B works on the dashboard UI.
+* Developer C finds and fixes a security bug.
+  Using version control (e.g., Git), each developer can work in a separate branch and merge their changes into the main project after review. If a mistake is made, they can revert to a previous version.
+
+---
+
+### 🧠 **Conclusion**
+
+Version control is not just a tool—it’s a **best practice** for managing digital work. Whether you're a solo developer or part of a global team, version control provides the **structure, safety, and scalability** needed to build and maintain modern software. Among various systems, **Git** stands out as the most popular due to its flexibility and widespread adoption.
+
+---
+
+### ✅ Summary Points:
+
+* Version Control tracks file changes and allows collaboration.
+* Three types: Local, Centralized, and Distributed.
+* Git is the most widely used DVCS.
+* Benefits include history tracking, collaboration, and safe rollback.
+* Essential for modern software development workflows.
+</md></sn><config style="display:none"><tags>#01.what is version control</tags><thumbnail></thumbnail><heading></heading><udate>Mon May 19 2025 22:36:27 GMT+0600 (Bangladesh Standard Time)</udate><id>article-9bgjHzBNA8</id><duration></duration></config><sn><md>### 🕰️ **History of Version Control Systems**
+---
+
+#### 1. **The Origin (1970s–1980s)**
+
+The concept of version control began with simple tools developed by individuals or teams to keep track of code changes:
+
+* **SCCS (Source Code Control System)**
+
+  * Developed by **Marc J. Rochkind** in **1972 at Bell Labs** for UNIX systems.
+  * It was the first VCS, focused on maintaining versions of files in a central location.
+
+* **RCS (Revision Control System)**
+
+  * Created by **Walter F. Tichy** in **1982**.
+  * Enhanced efficiency and allowed branching, but still operated on a **single-user model** and worked on individual files.
+
+#### 2. **Centralized Version Control (1990s–early 2000s)**
+
+These systems introduced a central repository concept, improving team collaboration:
+
+* **CVS (Concurrent Versions System)**
+
+  * An advancement over RCS; supported multiple users and allowed concurrent file editing.
+
+* **Subversion (SVN)**
+
+  * Released in **2000** by **CollabNet** as a successor to CVS.
+  * Provided **atomic commits, better directory versioning**, and **network support**.
+
+#### 3. **The Rise of Distributed Version Control Systems (2005–Present)**
+
+The limitations of centralized systems (e.g., dependency on a central server) led to the development of distributed systems:
+
+* **BitKeeper**
+
+  * One of the first distributed VCSs.
+  * Used by the Linux kernel team but led to controversy due to licensing.
+
+* **Git**
+
+  * **Created by Linus Torvalds in April 2005** after the fallout with BitKeeper.
+  * Designed to be **fast, distributed, secure, and support non-linear development (branching and merging)**.
+
+---
+
+### 🎯 Why Version Control Systems Were Developed
+
+* To **track changes** in code over time.
+* To **collaborate** on software projects without overwriting each other’s work.
+* To **maintain a history** of project evolution, aiding in bug fixing and audits.
+* To **experiment with features** safely through branching and merging.
+* To **recover lost data** due to errors or system crashes.
+
+---
+
+### 📊 Current Version Control System Statistics (2025)
+
+| VCS Tool          | Popularity % | Primary Use              | Notable Users                  |
+| ----------------- | ------------ | ------------------------ | ------------------------------ |
+| Git               | 92%+         | Open source &amp; enterprise | GitHub, GitLab, Bitbucket      |
+| Subversion        | \~4%         | Legacy systems           | Apache Foundation, TortoiseSVN |
+| Mercurial         | \~2%         | Specific projects        | Python (past), Mozilla (past)  |
+| Others (CVS etc.) | \~2%         | Educational, legacy      | Various legacy systems         |
+
+&gt; 🔍 Git is the **dominant** VCS globally, with platforms like GitHub hosting **over 330 million repositories** as of 2025.
+
+---
+
+### 🔍 Git Overview
+
+**What is Git?**
+Git is a **free and open-source distributed VCS** designed to handle everything from small to very large projects with speed and efficiency.
+
+### 🧾 Summary Points
+
+* VCS started with **SCCS (1972)** and evolved through **RCS, CVS, SVN** to **distributed systems like Git**.
+* **Marc Rochkind**, **Walter F. Tichy**, and **Linus Torvalds** played major roles in VCS development.
+* Git was created in **2005 by Linus Torvalds** due to licensing conflicts with BitKeeper.
+* Main reasons for VCS: **tracking, collaboration, recovery, branching**, and **code history**.
+* As of 2025, **Git dominates with over 92% usage**, primarily through **GitHub, GitLab, and Bitbucket**.
+* Git is **fast, secure, scalable**, and essential in modern development workflows.
+</md></sn>
