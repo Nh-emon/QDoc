@@ -1,0 +1,146 @@
+
+	<sn class="border-0"><md>## **Python Threading**
+
+Python **threading** allows programs to run multiple operations concurrently within the same process. A **thread** is the smallest unit of execution, and threading helps improve performance when tasks are I/O-bound (like file operations or network requests).
+
+---
+
+#### **Key Concepts of Threading**
+
+* **Thread**: A lightweight subprocess, running independently but sharing memory with other threads.
+* **GIL (Global Interpreter Lock)**: Python has a GIL, meaning only one thread can execute Python bytecode at a time. Thus, threading is best for I/O-bound tasks rather than CPU-bound tasks.
+* **Thread vs Process**:
+
+  * A **process** runs in its own memory space.
+  * A **thread** shares memory within the same process, making communication easier but requiring synchronization to avoid race conditions.
+
+---
+
+#### **Creating Threads**
+
+There are two common ways:
+
+1. Using **`threading.Thread`** with a target function.
+2. By **subclassing `Thread`** and overriding the `run()` method.
+
+---
+
+### **Example 1: Using `threading.Thread`**
+
+```python
+import threading
+import time
+
+def worker(name):
+    print(f"Thread {name} starting")
+    time.sleep(2)
+    print(f"Thread {name} finished")
+
+# Create threads
+t1 = threading.Thread(target=worker, args=("A",))
+t2 = threading.Thread(target=worker, args=("B",))
+
+# Start threads
+t1.start()
+t2.start()
+
+# Wait for threads to finish
+t1.join()
+t2.join()
+
+print("All threads are done!")
+```
+
+**Output (order may vary due to concurrency):**
+
+```
+Thread A starting
+Thread B starting
+Thread A finished
+Thread B finished
+All threads are done!
+```
+
+---
+
+### **Example 2: Subclassing Thread**
+
+```python
+import threading
+import time
+
+class MyThread(threading.Thread):
+    def run(self):
+        print(f"{self.name} is running")
+        time.sleep(1)
+        print(f"{self.name} is done")
+
+# Create and start threads
+threads = [MyThread() for _ in range(3)]
+for t in threads:
+    t.start()
+for t in threads:
+    t.join()
+```
+
+---
+
+#### **Thread Synchronization**
+
+When multiple threads access shared data, **race conditions** may occur. To prevent this, use **Locks**.
+
+**Example with Lock:**
+
+```python
+import threading
+
+lock = threading.Lock()
+counter = 0
+
+def increment():
+    global counter
+    for _ in range(100000):
+        with lock:  # Ensures only one thread updates at a time
+            counter += 1
+
+threads = [threading.Thread(target=increment) for _ in range(5)]
+for t in threads:
+    t.start()
+for t in threads:
+    t.join()
+
+print("Counter:", counter)
+```
+
+---
+
+#### **Threading Advantages**
+
+* Good for **I/O-bound tasks** (e.g., web scraping, file I/O).
+* Lightweight compared to multiprocessing.
+* Easier data sharing due to shared memory.
+
+#### **Threading Limitations**
+
+* Not ideal for **CPU-bound tasks** due to the **GIL**.
+* Requires careful synchronization (Locks, Semaphores, etc.).
+* Debugging can be harder due to concurrency issues.
+
+---
+
+### **Summary**
+
+* Threading allows concurrent execution within a single process.
+* Best used for I/O-heavy tasks.
+* Use `threading.Thread` to create threads and `.join()` to wait for completion.
+* Synchronization (using Lock, Event, etc.) is crucial when sharing data between threads.
+
+</md></sn>		
+	<config>
+		<tags>#threading</tags>
+		<thumbnail></thumbnail>
+		<heading></heading>
+		<udate>Fri Jul 25 2025 18:42:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<id>article-RsMHOzQ56E</id>
+		<duration></duration>
+	</config>
