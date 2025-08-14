@@ -1,0 +1,51 @@
+<sn><md>### 🧰 **Steps to Install Git on Windows**
+---
+1. **Download Git**
+   🔗 Go to the official website: [https://git-scm.com](https://git-scm.com)
+   Click on **"Download for Windows"**. The download should start automatically.
+
+2. **Run the Installer**
+   🖱️ Double-click the downloaded `.exe` file (e.g., `Git-2.x.x-64-bit.exe`).
+
+3. **Setup Configuration**
+   Follow these prompts during installation:
+
+   * **Select Components**: Keep default options (recommended).
+   * **Choosing the editor**: Choose **Visual Studio Code**, **Notepad++**, or **Vim**, depending on your preference.
+   * **Adjust PATH environment**:
+     ✔️ Choose **“Git from the command line and also from 3rd-party software”**.
+   * **Choosing HTTPS transport backend**:
+     ✔️ Choose **“Use the OpenSSL library”**.
+   * **Configuring line ending conversions**:
+     ✔️ Choose **“Checkout Windows-style, commit Unix-style line endings”**.
+   * **Terminal emulator to use**:
+     ✔️ Choose **“Use MinTTY (the default terminal)”**.
+   * Click **Next** through the rest and **Install**.
+
+4. **Complete Installation**
+   ✅ Once installed, click **Finish**.
+   Optionally check **“Launch Git Bash”** to open the Git terminal.
+
+5. **Verify Installation**
+   🧪 Open **Git Bash** or **Command Prompt**, then type:
+
+   ```bash
+   git --version
+   ```
+
+   ✅ You should see something like:
+   `git version 2.x.x.windows.x`
+
+---
+
+### 📌 Summary:
+
+| Step | Description                            |
+| ---- | -------------------------------------- |
+| 1    | Download Git from the official website |
+| 2    | Run the installer                      |
+| 3    | Choose recommended setup options       |
+| 4    | Finish installation                    |
+| 5    | Verify Git using `git --version`       |
+
+</md></sn><config style="display:none"><tags>#03.installing git on windows</tags><thumbnail>https://ms.codes/cdn/shop/articles/complete-git-install-windows.png?v=1709224378</thumbnail><heading>Installing <m>Git</m> on Windows</heading><udate>Sun May 18 2025 14:35:56 GMT+0600 (Bangladesh Standard Time)</udate><id>article-qOieGNk69G</id><duration>7</duration></config>
