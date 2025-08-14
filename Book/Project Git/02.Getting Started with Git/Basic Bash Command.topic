@@ -1,0 +1,77 @@
+<sn><md>###  **Bash Commands for File and Folder Operations**
+---
+
+| Command                | Description                                     | Example Usage                                 |                |
+| ---------------------- | ----------------------------------------------- | --------------------------------------------- | -------------- |
+| `ls`                   | List directory contents                         | `ls -l /home/user`                            |                |
+| `cd`                   | Change directory                                | `cd Documents`                                |                |
+| `pwd`                  | Print current working directory                 | `pwd`                                         |                |
+| `mkdir`                | Create a new directory                          | `mkdir new_folder`                            |                |
+| `rmdir`                | Remove an empty directory                       | `rmdir old_folder`                            |                |
+| `rm`                   | Delete files or directories                     | `rm file.txt`, `rm -r folder/`                |                |
+| `cp`                   | Copy files and directories                      | `cp file1.txt file2.txt`, `cp -r dir1/ dir2/` |                |
+| `mv`                   | Move/rename files or directories                | `mv file.txt new_dir/`, `mv old new`          |                |
+| `touch`                | Create a new empty file                         | `touch newfile.txt`                           |                |
+| `cat`                  | Display file content                            | `cat file.txt`                                |                |
+| `more` / `less`        | View large files page-by-page                   | `less bigfile.txt`                            |                |
+| `head`                 | View the first lines of a file                  | `head -n 10 file.txt`                         |                |
+| `tail`                 | View the last lines of a file                   | `tail -n 10 file.txt`                         |                |
+| `find`                 | Search files/directories by name/type/size/etc. | `find . -name "*.txt"`                        |                |
+| `locate`               | Quickly find files using system index           | `locate filename.txt`                         |                |
+| `stat`                 | Display file or directory metadata              | `stat file.txt`                               |                |
+| `file`                 | Identify file type                              | `file image.png`                              |                |
+| `basename`             | Get the file name from a path                   | `basename /home/user/file.txt`                |                |
+| `dirname`              | Get the directory path of a file                | `dirname /home/user/file.txt`                 |                |
+| `du`                   | Estimate file/directory disk usage              | `du -sh folder/`                              |                |
+| `df`                   | Show disk space usage                           | `df -h`                                       |                |
+| `chmod`                | Change file permissions                         | `chmod 755 script.sh`                         |                |
+| `chown`                | Change file owner and group                     | `chown user:group file.txt`                   |                |
+| `lsattr` / `chattr`    | View/change file attributes on ext file systems | `lsattr file`, `chattr +i file`               |                |
+| `tee`                  | Read and write output to a file simultaneously  | \`echo "hello"                                | tee file.txt\` |
+| `xargs`                | Execute commands using input from a file        | \`cat list.txt                                | xargs rm\`     |
+| `basename` / `dirname` | Extract filename or directory from a path       | `basename /path/file.txt`                     |                |
+| `mktemp`               | Create temporary files/directories              | `mktemp` or `mktemp -d`                       |                |
+
+---
+
+### 🧾 Summary Points
+
+* Use `ls`, `cd`, `pwd` for navigation
+* Use `mkdir`, `touch`, `rm`, `cp`, `mv` to manage files/folders
+* Use `chmod`, `chown`, `stat` for permission and metadata
+* Use `find`, `locate` to search
+* Use `head`, `tail`, `less`, `cat` to read files</md></sn><config style="display:none"><tags>#basic bash command</tags><thumbnail></thumbnail><heading></heading><udate>Sun May 18 2025 20:26:42 GMT+0600 (Bangladesh Standard Time)</udate><id>article-loLj8G8C5L</id><duration></duration></config><sn><md>###  **Example**
+---
+
+```bash
+# 1️⃣ Create a new file
+touch notes.txt
+echo "This is the first line." &gt; notes.txt
+
+# 2️⃣ Modify (overwrite) the file content
+echo "This content replaces the previous line." &gt; notes.txt
+
+# 3️⃣ Append new content
+echo "This is an appended line." &gt;&gt; notes.txt
+echo "Another appended line." &gt;&gt; notes.txt
+
+# 4️⃣ View the content
+cat notes.txt
+
+# 5️⃣ Rename the file
+mv notes.txt final_notes.txt
+
+# 6️⃣ Delete the file
+rm final_notes.txt
+```
+
+---
+
+### 🧾 Summary Points
+
+* `touch file.txt` ➜ Creates a new file
+* `echo "text" &gt; file.txt` ➜ Overwrites content
+* `echo "text" &gt;&gt; file.txt` ➜ Appends content
+* `mv old.txt new.txt` ➜ Renames file
+* `rm file.txt` ➜ Deletes file
+</md></sn>
