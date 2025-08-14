@@ -1,0 +1,183 @@
+<sn><md>## **Article: Understanding `git diff` in Git**
+---
+
+`git diff` is a powerful command in Git used to display differences between commits, branches, files, or the working directory and staging area. It helps developers understand exactly what has changed in the codebase, which is essential for debugging, reviewing, and collaborating effectively.
+
+---
+
+#### **Basic Concept**
+
+```bash
+git diff
+```
+
+This shows the changes between your working directory and the staging area. It reveals what has been modified but not yet staged.
+
+---
+
+#### **Common Use Cases**
+
+##### **1. Compare Working Directory and Staging Area**
+
+```bash
+git diff
+```
+
+👉 Shows untracked changes in files that are not yet staged.
+
+![git stage diff](https://i.imgur.com/04z9Gzj.png)
+
+---
+
+##### **2. Compare Staging Area and Last Commit**
+
+```bash
+git diff --cached
+```
+
+👉 Shows the changes that have been staged but not committed.
+
+---
+
+##### **3. Compare Working Directory and Last Commit**
+
+```bash
+git diff HEAD
+```
+
+👉 Useful for viewing all changes made since the last commit (both staged and unstaged).
+
+![git diff head](https://i.imgur.com/2QKFLuC.png)
+
+---
+
+##### **4. Compare Two Commits**
+
+```bash
+git diff commit1 commit2
+```
+
+👉 Example:
+
+```bash
+git diff a1b2c3d e4f5g6h
+```
+
+Shows the differences between two specific commits.
+
+![git diff commites](https://i.imgur.com/m9XsohN.png)
+
+---
+
+##### **5. Compare Branches**
+
+```bash
+git diff branch1 branch2
+```
+
+👉 Example:
+
+```bash
+git diff main feature-branch
+```
+
+Useful for code review and understanding what changes a branch introduces.
+
+---
+
+##### **6. Compare Specific Files**
+
+```bash
+git diff path/to/file
+```
+
+👉 Shows changes to a specific file.
+
+---
+
+#### **Useful Flags and Options**
+
+##### **`--stat`**
+
+```bash
+git diff --stat
+```
+
+Shows a summary of changes in each file, including the number of lines added and removed.
+
+---
+
+##### **`--name-only`**
+
+```bash
+git diff --name-only
+```
+
+Lists only the names of changed files.
+
+---
+
+##### **`--color-words`**
+
+```bash
+git diff --color-words
+```
+
+Highlights only the words that changed instead of entire lines — great for readability.
+
+---
+
+##### **`--word-diff`**
+
+```bash
+git diff --word-diff
+```
+
+Shows word-by-word differences.
+
+---
+
+##### **`--shortstat`**
+
+```bash
+git diff --shortstat
+```
+
+Provides a brief summary (e.g., number of files changed, insertions, deletions).
+
+---
+
+#### **View Changes Between Tags or Commits**
+
+```bash
+git diff v1.0 v2.0
+```
+
+👉 Shows what changed between two versions.
+
+---
+
+#### **Viewing Differences for a File Between Two Branches**
+
+```bash
+git diff branch1 branch2 -- path/to/file
+```
+
+👉 Focuses on how a file differs between two branches.
+
+---
+
+#### **Summary Points**
+
+| Use Case                      | Command Example            |
+| ----------------------------- | -------------------------- |
+| Unstaged changes              | `git diff`                 |
+| Staged changes                | `git diff --cached`        |
+| All changes since last commit | `git diff HEAD`            |
+| Between two commits           | `git diff commit1 commit2` |
+| Between two branches          | `git diff branch1 branch2` |
+| File-specific difference      | `git diff file.txt`        |
+| Show changed file names only  | `git diff --name-only`     |
+| Summary of line changes       | `git diff --stat`          |
+| Word-level comparison         | `git diff --word-diff`     |
+</md></sn><config style="display:none"><tags>#07.git diff</tags><thumbnail></thumbnail><heading></heading><udate>Tue May 20 2025 14:49:01 GMT+0600 (Bangladesh Standard Time)</udate><id>article-HoLcyXelYW</id><duration></duration></config>
