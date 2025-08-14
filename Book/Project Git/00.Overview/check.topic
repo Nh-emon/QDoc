@@ -1,0 +1,63 @@
+<sn class="p-lg-5"><md>## **Python class explanation**
+
+A **class** in Python is a blueprint for creating objects. It defines a set of attributes and methods that the created objects (instances) will have. Classes help in organizing code and implementing **Object-Oriented Programming (OOP)** concepts like **encapsulation**, **inheritance**, and **polymorphism**.
+
+---
+
+#### **Basic class structure**
+
+```python
+class Person:
+    def __init__(self, name, age):  # Constructor method
+        self.name = name            # Instance variable
+        self.age = age
+
+    def greet(self):                # Method
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+```
+
+---
+
+#### **Key components**
+
+| Term       | Description                                                       |
+| ---------- | ----------------------------------------------------------------- |
+| `class`    | Keyword to define a class                                         |
+| `__init__` | Special method (constructor) called when an object is created     |
+| `self`     | Refers to the current instance of the class                       |
+| Attributes | Variables bound to the object (e.g., `self.name`, `self.age`)     |
+| Methods    | Functions defined inside the class                                |
+| Object     | An instance created from a class (e.g., `p = Person("Emon", 22)`) |
+
+---
+
+#### **Creating and using a class**
+
+```python
+p1 = Person("Emon", 22)  # Create object
+p1.greet()               # Call method
+```
+
+**Output:**
+
+```
+Hello, my name is Emon and I am 22 years old.
+```
+
+---
+
+#### **Why use classes?**
+
+* To model real-world things (like `Car`, `BankAccount`, `Student`)
+* To reuse code via **inheritance**
+* To bundle data and methods that operate on that data
+
+---
+
+### **Summary**
+
+* A class is a template to create objects with shared structure and behavior.
+* It uses `__init__()` to initialize object attributes.
+* The `self` keyword refers to the object instance.
+* Classes promote code reuse and logical structure in large programs.
+</md></sn><config style="display:none"><tags>#check</tags><thumbnail></thumbnail><heading>Python <m>Class</m></heading><udate>Tue Jul 01 2025 20:21:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-XxQBxJBLks</id><duration>8</duration></config>
