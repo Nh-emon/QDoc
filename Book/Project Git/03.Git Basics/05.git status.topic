@@ -1,0 +1,235 @@
+<sn><md>## **Git `status`: Checking the Current State of Your Repository**
+---
+
+#### **Introduction**
+
+The `git status` command is used to display the state of the working directory and staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. This makes it one of the most frequently used commands when working with Git.
+
+---
+
+## **What Does `git status` Show?**
+
+#### **Main Outputs**
+
+When you run `git status`, Git returns:
+
+* Untracked files
+* Modified but unstaged files
+* Files staged for the next commit
+* The current branch name
+* Whether your branch is ahead/behind the remote
+
+---
+
+## **Basic Syntax**
+
+```bash
+git status
+```
+
+This command doesn’t take any arguments and provides a clean overview of your current project status.
+
+---
+
+## **Typical Output Scenarios**
+
+| Status Type                             | Meaning                          |
+| --------------------------------------- | -------------------------------- |
+| `Untracked files`                       | New files not added to Git       |
+| `Changes not staged for commit`         | Files modified but not yet added |
+| `Changes to be committed`               | Files staged via `git add`       |
+| `Your branch is ahead of 'origin/main'` | Local commits not yet pushed     |
+
+---
+
+## **Practical Example**
+
+```bash
+echo "test" &gt; test.txt
+git status
+```
+
+#### **Output**
+
+```
+Untracked files:
+  (use "git add <file class="undefined d-none">..." to include in what will be committed)
+    test.txt
+```
+
+Then:
+
+```bash
+git add test.txt
+git status
+```
+
+#### **Output**
+
+```
+Changes to be committed:
+  (use "git restore --staged <file class="undefined d-none">..." to unstage)
+    new file:   test.txt
+```
+
+---
+
+## **Helpful Tips**
+
+#### **Check Status Often**
+
+Always check `git status` before committing or pushing to avoid surprises.
+
+#### **Useful Pairing**
+
+Pair `git status` with:
+
+* `git diff`: See actual content changes
+* `git log`: See commit history
+
+---
+
+## **When to Use `git status`**
+
+| Situation                 | Reason                                   |
+| ------------------------- | ---------------------------------------- |
+| Before committing         | To confirm what changes will be included |
+| After using `git add`     | To verify staging success                |
+| When resolving conflicts  | To see which files need attention        |
+| Before switching branches | To avoid losing uncommitted changes      |
+
+---
+
+## **Summary**
+
+| Feature     | Description                                  |
+| ----------- | -------------------------------------------- |
+| Purpose     | Shows the current Git status                 |
+| Displays    | Staged, unstaged, untracked files            |
+| Typical Use | Before commit, push, or pull                 |
+| Syntax      | Simple: `git status`                         |
+| Side Effect | Safe and read-only (doesn’t change anything) |
+
+</file></file></md></sn><config style="display:none"><tags>#05.git status</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 20:03:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Yf85aO7TQQ</id><duration></duration></config><sn><md>## **Git `status -s`: The Short Status View**
+---
+
+#### **Introduction**
+
+The `git status -s` command provides a concise, column-based output of your Git status. It’s particularly useful when you want a quick overview of what has changed in your repository without the verbosity of the standard `git status`.
+
+---
+
+## **What Does `git status -s` Do?**
+
+#### **Main Purpose**
+
+* Displays the status of files in a short, symbolic format.
+* Uses two-character prefixes to indicate the state of each file.
+
+#### **Example Output**
+
+```bash
+ M file1.txt     # Modified but not staged
+M  file2.txt     # Modified and staged
+?? newfile.txt   # Untracked file
+```
+
+---
+
+## **Basic Syntax**
+
+```bash
+git status -s
+```
+
+You can also use the long form:
+
+```bash
+git status --short
+```
+
+---
+
+## **Two-Column Code Explanation**
+
+| Symbol | Meaning               |
+| ------ | --------------------- |
+| `M`    | Modified              |
+| `A`    | Added                 |
+| `D`    | Deleted               |
+| `R`    | Renamed               |
+| `C`    | Copied                |
+| `??`   | Untracked             |
+| `!!`   | Ignored (with `-uno`) |
+
+The two columns:
+
+* **First column**: staged changes
+* **Second column**: unstaged changes
+
+---
+
+## **Examples and What They Mean**
+
+| Output        | Interpretation                                       |
+| ------------- | ---------------------------------------------------- |
+| `M  file.txt` | File is modified and staged                          |
+| ` M file.txt` | File is modified but not yet staged                  |
+| `A  file.txt` | File has been added to staging                       |
+| `?? file.txt` | Untracked file                                       |
+| ` D file.txt` | File was deleted in working directory but not staged |
+| `D  file.txt` | File deletion staged for commit                      |
+
+---
+
+## **Practical Use Case**
+
+```bash
+echo "update" &gt;&gt; demo.txt
+git add demo.txt
+git status -s
+```
+
+#### **Expected Output**
+
+```
+M  demo.txt
+```
+
+Then edit the same file again without staging:
+
+```bash
+echo "another line" &gt;&gt; demo.txt
+git status -s
+```
+
+#### **Output**
+
+```
+MM demo.txt
+```
+
+---
+
+## **Why Use `-s`?**
+
+| Reason                   | Benefit                                 |
+| ------------------------ | --------------------------------------- |
+| Speed                    | Quickly check status                    |
+| Clean                    | Minimal clutter                         |
+| Script-friendly          | Easier parsing in automation or scripts |
+| Ideal for large projects | Better overview of multiple file states |
+
+---
+
+## **Summary**
+
+| Feature | Description                            |
+| ------- | -------------------------------------- |
+| Purpose | Provides short-format Git status       |
+| Symbols | Two-character indicators of file state |
+| Usage   | Ideal for quick or scripted checks     |
+| Syntax  | `git status -s` or `--short`           |
+| Columns | First = staged, Second = unstaged      |
+
+</md></sn>
