@@ -1,0 +1,23 @@
+<config style="display:none"><tags>#test</tags><thumbnail></thumbnail><heading></heading><udate>Tue Aug 05 2025 16:33:56 GMT+0600 (Bangladesh Standard Time)</udate><id>article-uUx65UcD0g</id><duration></duration></config><sn class="col-md-11"><md>### Ui Layout
+
+I am trying to fixing it as a ui config layout
+
+
+::: .row
+
+::: .col-12 .col-md-8
+| Feature       | Centralized VCS         | Git (Centralized Workflow) |
+| ------------- | ----------------------- | -------------------------- |
+| Local commits | ❌ Not allowed           | ✅ Fully supported          |
+| Offline usage | ❌ No                    | ✅ Yes                      |
+| Branching     | ⚠️ Limited              | ✅ Powerful and fast        |
+| Speed         | Slower (network needed) | Fast (local operations)    |
+| Collaboration | Simpler, linear         | More flexible (optional)   |
+:::
+
+::: .col-12 .col-md-4
+ ![centralized-vcs-diagram](https://i.imgur.com/N6L6Ok8.png){.m-2}
+:::
+
+:::
+</md></sn>
