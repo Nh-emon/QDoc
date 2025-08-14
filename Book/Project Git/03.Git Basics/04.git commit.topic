@@ -1,0 +1,123 @@
+<sn class="shadow"><md>## **Git `commit`: Storing Changes Permanently in Git**
+
+#### **Introduction**
+
+The `git commit` command is one of the core functions of **Git**. After you've used `git add` to stage changes, `git commit` captures a snapshot of the project's currently staged changes and saves it to the Git repository history.
+
+---
+
+## **What Does `git commit` Do?**
+
+#### **Commit Overview**
+
+A commit represents a recorded point in the development timeline. Each commit contains:
+
+* A unique SHA hash
+* Author information
+* Commit message
+* A snapshot of the staged files
+
+This makes it easy to track, revert, or compare changes.
+
+---
+
+## **Basic Syntax**
+
+```bash
+git commit -m "Your descriptive message here"
+```
+
+This records the changes you staged with `git add`.
+
+---
+
+## **Common Options and Their Usage**
+
+| Command                  | Description                                            |
+| ------------------------ | ------------------------------------------------------ |
+| `git commit -m "msg"`    | Creates a commit with a message                        |
+| `git commit -a -m "msg"` | Skips `git add` by automatically staging tracked files |
+| `git commit --amend`     | Updates the last commit (use with caution)             |
+| `git commit` (no args)   | Opens the default text editor to write a message       |
+
+---
+
+## **Best Practices for Commit Messages**
+
+#### **Why It Matters**
+
+A good commit message helps others (and future you) understand the *why* behind changes.
+
+#### **Recommended Format**
+
+```
+Short summary (max 50 chars)
+
+Detailed explanation (optional)
+```
+
+---
+
+## **Example Workflow**
+
+```bash
+echo "feature" &gt; feature.txt       # Create a file
+git add feature.txt               # Stage it
+git commit -m "Add feature file"  # Commit the change
+```
+![git commit code](https://i.imgur.com/Nr8Fz3B.png)
+
+---
+
+## **Editing the Last Commit**
+
+You can amend the last commit message or files:
+
+```bash
+git commit --amend -m "New message"
+```
+
+Note: Avoid amending if you've already pushed the commit to a shared repository.
+
+---
+
+## **Viewing Commit History**
+
+```bash
+git log
+```
+
+Or a simplified version:
+
+```bash
+git log --oneline
+```
+
+![git log result](https://i.imgur.com/1s7Blyw.png)
+
+---
+
+## **Undoing Commits**
+
+If needed, you can undo a commit (without deleting your work):
+
+```bash
+git reset --soft HEAD~1   # Uncommit but keep changes staged
+git reset --mixed HEAD~1  # Uncommit and unstage changes
+git reset --hard HEAD~1   # Uncommit and delete changes
+```
+
+Use `--hard` with caution.
+
+---
+
+## **Summary**
+
+| Feature     | Description                              |
+| ----------- | ---------------------------------------- |
+| Purpose     | Saves staged changes to Git history      |
+| Common Flag | `-m` to include a message                |
+| Amend       | Edits the last commit                    |
+| Undo        | Use `reset` for various rollback levels  |
+| Importance  | Key for tracking and documenting changes |
+</md></sn><config style="display:none"><tags>#04.git commit</tags><thumbnail></thumbnail><heading></heading><udate>Wed Jul 02 2025 10:17:26 GMT+0600 (Bangladesh Standard Time)</udate><id>article-AJGyPD7Vcz</id><duration></duration></config>
