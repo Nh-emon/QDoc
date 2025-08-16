@@ -27,7 +27,41 @@ The Earth’s atmosphere is `divided into several layers` based on ==temperature
 		<tags>#04.layers of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 23:07:35 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 16 2025 23:21:00 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-zODB5Lp5B6</id>
 		<duration></duration>
 	</config>
+<sn><md>## Troposphere {.fg-green .text-center}
+* 🌍☁️🌦️🌬️🌱 
+* **Location**: Extends from the Earth’s surface up to about `8–15` km.
+* **Characteristics**:
+
+  * Contains `75%`of the atmosphere’s total mass.
+  * `Temperature decreases` with height at an average rate of 6.5°C per km (lapse rate).
+  * Most `weather phenomena` (clouds, rain, storms) occur here.
+* **Importance**: Supports life; contains most oxygen and water vapor.
+</md></sn><sn><md>## Stratosphere{.fg-orange .text-center}
+
+* ✈️🛫☀️🛡️
+* **Location**: From `15 - 50` km above the surface.
+* **Characteristics**:
+
+  * `Temperature increases` with altitude due to `absorption of UV` radiation by the **ozone layer**.
+  * Air is more `stable`; turbulence is minimal.
+* **Importance**:
+
+  * The `ozone layer protects` life from harmful UV radiation.
+  * `Commercial jets` often fly in the lower stratosphere for smoother flights.
+
+</md></sn><sn><md>## ☄️ Mesosphere{.fg-red .text-center}
+* 
+* **Location**: From `50-85` km.
+* **Characteristics**:
+
+  * `Temperature decreases` with height; it is the ==coldest layer== of the atmosphere (down to `–90`°C).
+  * Air density is very low.
+* **Importance**:
+
+  * `Meteors burn up` in this layer due to ==friction with air molecules==.
+  * Not suitable for human activity or aviation.
+</md></sn>
