@@ -1,10 +1,33 @@
 
-	<sn></sn>		
+	<sn><md>## Layers of the Atmosphere{.fg-red .text-center}
+
+The Earth’s atmosphere is `divided into several layers` based on ==temperature variation, chemical composition, and physical characteristics==. Each layer has unique properties that influence weather, climate, and life on Earth. Understanding these layers helps explain phenomena like weather patterns, the ozone layer, and auroras.
+
+:::.row
+
+::: .col-12 .col-lg-7
+### Layers{.fg-purple .text-center}
+
+| Layer        | Height (km) | Temperature Trend      | Key Features                         |
+| ------------ | ----------- | ---------------------- | ------------------------------------ |
+| `Troposphere`  | 0–15        | ↓ (colder with height) | Weather, life, majority of mass      |
+| `Stratosphere` | 15–50       | ↑ (warms with height)  | Ozone layer, stable air, jet flights |
+| `Mesosphere`   | 50–85       | ↓ (coldest layer)      | Meteors burn up, very low density    |
+| `Thermosphere` | 85–600      | ↑ (very hot)           | Ionosphere, auroras, satellites      |
+| `Exosphere`    | 600+        | ↑ (merges with space)  | Hydrogen/helium, outer boundary      |
+:::
+
+::: .col-12 .col-lg-5
+![image](https://powerslides.com/wp-content/uploads/2019/10/Atmosphere-Layers-Diagram-2.jpg)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#04.layers of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 22:50:24 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 16 2025 23:07:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-zODB5Lp5B6</id>
 		<duration></duration>
 	</config>
