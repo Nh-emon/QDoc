@@ -1,10 +1,26 @@
 
-	<sn></sn>		
+	<sn class="col-12 col-md-10 ignore col-xxl-8 p-3 p-lg-5"><md>## Atmosphere{.text-center .fg-blue}
+
+::: .row
+::: .col-12 .col-md-7 
+The atmosphere is the `thin layer of gases that surrounds the Earth`, playing a crucial role in maintaining life and regulating the planet’s climate{.bar}
+Without it, 
+* Earth would be `exposed` directly to the `harsh conditions` of space
+  * including **extreme temperatures**
+  * harmful **radiation**, and 
+  * lack of **breathable air** 
+:::
+::: .col-12 .col-md-5
+![atmosphere-image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Top_of_Atmosphere.jpg/640px-Top_of_Atmosphere.jpg)
+:::
+:::
+
+</md></sn>		
 	<config>
 		<tags>#00.atmosphere basics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 19:35:29 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 16 2025 19:57:21 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fUOk6o5Pzv</id>
 		<duration></duration>
 	</config>
