@@ -27,7 +27,7 @@ The Earth’s atmosphere is `divided into several layers` based on ==temperature
 		<tags>#04.layers of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 23:21:00 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 16 2025 23:26:12 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-zODB5Lp5B6</id>
 		<duration></duration>
 	</config>
@@ -54,7 +54,7 @@ The Earth’s atmosphere is `divided into several layers` based on ==temperature
   * `Commercial jets` often fly in the lower stratosphere for smoother flights.
 
 </md></sn><sn><md>## ☄️ Mesosphere{.fg-red .text-center}
-* 
+ 
 * **Location**: From `50-85` km.
 * **Characteristics**:
 
@@ -64,4 +64,26 @@ The Earth’s atmosphere is `divided into several layers` based on ==temperature
 
   * `Meteors burn up` in this layer due to ==friction with air molecules==.
   * Not suitable for human activity or aviation.
+</md></sn><sn><md>## Thermosphere{.fg-yellow .text-center}
+* 🌡️✨🛰️🌌
+* **Location**: From `85-600` km.
+* **Characteristics**:
+
+  * `Temperature rises sharply` with altitude; can exceed 1,500°C due to ==absorption of high-energy solar radiation==.
+  * Contains the `ionosphere`, a region of *charged particles*.
+* **Importance**:
+
+  * `Reflects radio waves` for long-distance communication.
+  * Produces `auroras` (Northern and Southern Lights).
+  * `Satellites` orbit within this layer.</md></sn><sn><md>## Exosphere{.text-center .fg-indigo}
+* 🪐🚀🌌
+* **Location**: `Above 600 km`, gradually merging with outer space.
+* **Characteristics**:
+
+  * Extremely `low density`; particles can travel hundreds of kilometers without colliding.
+  * Mainly composed of `hydrogen and helium`.
+* **Importance**:
+
+  * Acts as the ==outer boundary== of Earth’s atmosphere.
+  * Satellites and space stations orbit in this region.
 </md></sn>
