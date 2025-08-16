@@ -1,10 +1,57 @@
 
-	<sn></sn>		
+	<sn><md>## Composition of the Atmosphere {.fg-red .text-center}
+
+::: .row 
+
+::: .col-12 .col-md-7
+
+Understanding its composition is essential to studying climate, weather, and the survival of living organisms. The composition is `not uniform everywhere`; it varies with `altitude, temperature, and location`. However, the lower layers of the atmosphere, where life exists, have a fairly stable and well-defined mixture of gases.
+
+:::
+
+::: .col-12 .col-md-5
+![figure-atmospheric-composition](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Atmospheric-Composition-mars-earth-venus.gif/640px-Atmospheric-Composition-mars-earth-venus.gif)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#01.composition of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 20:52:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 16 2025 21:17:39 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Ln6cQL9bWJ</id>
 		<duration></duration>
 	</config>
+<sn><md>## Composition{.fg-red .text-center}
+
+
+:::.row
+
+:::.col-12 .col-md-6
+
+==Nice Old Angry Cats Never Help My Kind Hearted Old Woman.==
+
+| Gas Name             | Percentage in Atmosphere                |
+| -------------------- | --------------------------------------- |
+| ==Nitrogen (N₂)==        | `78`%                                     |
+| ==Oxygen (O₂)==          | `21`%                                     |
+| ==Argon (Ar)==           | `0.93`%                                   |
+| ==Carbon Dioxide (CO₂)==  | `0.04`%                                   |
+| ==Neon (Ne)==             | `0.0018`%                                 |
+| ==Helium (He)==           | `0.0005`%                                 |
+| ==Methane (CH₄)==         | `0.0002`%                                 |
+| ==Krypton (Kr)==          | `0.0001`%                                 |
+| ==Hydrogen (H₂)==         | `0.00005`%                                |
+| ==Ozone (O₃)==           | `0.000003`% (variable)                    |
+| ==Water Vapor (H₂O)==    | `0–4`% (variable by location and climate) |
+
+::: 
+
+
+:::.col-12 .col-md-6
+![diagram](https://exampariksha.com/wp-content/uploads/2014/12/structure-of-atmosphere2.png)
+:::
+
+:::
+</md></sn><sn></sn>
