@@ -340,11 +340,11 @@
 		<tags>#lapse rate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 17 2025 22:12:20 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 17 2025 22:15:42 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IFd3bkw5Hc</id>
 		<duration></duration>
 	</config>
-<sn><md>## Behavior of Gases Entering an Atmospheric Zone{.fg-red .text-center}
+<sn><md>### Behavior of Gases Entering an Atmospheric Zone{.fg-red .text-center}
 
 Consider an atmospheric zone located **5 km above the ground**, where the ambient temperature is **10°C**. Three different air masses (gases) with varying temperatures approach this zone:
 
@@ -356,7 +356,7 @@ We can analyze their behavior step by step based on temperature differences and 
 
 ---
 
-### 1. Air Mass A (10°C)
+#### 1. Air Mass A (10°C){.text-center}
 
 * The temperature of air mass A is **equal** to the atmospheric zone (10°C).
 * This means air A is in **thermal equilibrium** with the zone.
@@ -368,7 +368,7 @@ We can analyze their behavior step by step based on temperature differences and 
 
 ---
 
-### 2. Air Mass B (5°C)
+#### 2. Air Mass B (5°C){.text-center}
 
 * Air B is **colder** than the zone (10°C).
 * Cold air is **denser and heavier** than the surrounding warmer air.
@@ -380,7 +380,7 @@ We can analyze their behavior step by step based on temperature differences and 
 
 ---
 
-### 3. Air Mass C (15°C)
+#### 3. Air Mass C (15°C){.text-center}
 
 * Air C is **warmer** than the zone (10°C).
 * Warm air is **less dense** and tends to rise.
@@ -393,7 +393,7 @@ We can analyze their behavior step by step based on temperature differences and 
 ---
 
 
-![diagram]()
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/99b4d810-b4ed-4f6d-83b3-620c37eade74.png)
 
 
 ### Summary Table
