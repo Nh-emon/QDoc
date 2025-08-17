@@ -340,7 +340,7 @@
 		<tags>#lapse rate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 17 2025 22:54:07 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 17 2025 23:52:30 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IFd3bkw5Hc</id>
 		<duration></duration>
 	</config>
@@ -413,4 +413,199 @@ This behavior is primarily determined by the ==temperature difference== and the 
 
 
 
+</md></sn><sn><md>### Adiabatic {.text-centr .fg-red}  
+
++++ read in bengali
+👉 Adiabatic মানে হলো তাপের আদান-প্রদান ছাড়াই চাপের পরিবর্তনের কারণে বায়ুর উষ্ণ বা শীতল হওয়ার প্রক্রিয়া।
+
+* বায়ু উপরে উঠলে চাপ কমে → বায়ু প্রসারিত হয় → শক্তি খরচ হয় → বায়ু ঠান্ডা হয়।
+* বায়ু নিচে নামলে চাপ বাড়ে → বায়ু সংকুচিত হয় → শক্তি সঞ্চিত হয় → বায়ু গরম হয়।
+
+এখানে বাইরের পরিবেশ থেকে কোনো তাপ নেয় বা দেয় না, শুধু চাপ পরিবর্তনের কারণে তাপমাত্রা বদলায়।
++++
+
+**"Adiabatic"** refers to the process where ==air temperature increases and decreases due to only **changes in pressure**.  
+
+- **When air rises**:  
+  - Pressure decreases → Air expands → Uses energy (work done) → **Cools down**.  
+- **When air descends**:  
+  - Pressure increases → Air compresses → Gains energy → **Heats up**.  
+
+**Key Point**: No heat is added or lost externally—only **pressure change** drives the temperature change.  
+
+---
+
+### **Simple Example**:  
+Imagine pumping a bicycle tire:  
+- The pump compresses air → It heats up (**adiabatic heating**).  
+- If you release air suddenly, it expands and cools (**adiabatic cooling**).  
+
+This is why **rising air** (e.g., in thunderstorms) cools and forms clouds!  
+</md></sn><sn><md>## Lapse Rate Concept{.text-center .fg-red}
+
+Imagine two friends, Tamim and Hridoy, living in a 12-floor building. Tamim feels a **warmer temperature**, while Hridoy experiences a **cooler temperature**. This happens because the **ground releases heat after absorbing solar energy**, causing the air near the surface to be warmer. As air rises, its temperature gradually decreases, transitioning from warm to cold.
+
+In the atmosphere, **temperature changes with altitude**. For each kilometer of ascent, there is a measurable **temperature difference**. Even at the same height, different types of gases can experience **different rates of temperature change** depending on their physical properties and composition.
+
+---
+
+### Definition{.fg-red .text-center}
+
+**Lapse rate** refers to the `rate at which temperature decreases with an increase in altitude`. {.bar}
+
+It is usually expressed in **degrees Celsius per kilometer (°C/km)**.
+
+The amount of temperature decrease depends on the **type of air or gas** (dry, moist, or mixed) and the **location** in the atmosphere.
+</md></sn><sn><md>## Types{.fg-red .text-center}
+
+Lapse rate is the **rate at which air temperature decreases with altitude** {.bar} 
+
+
+| Type                      | Rate (°C/km) | Condition               | Significance                      |
+| ------------------------- | ------------ | ----------------------- | --------------------------------- |
+| Environmental Lapse Rate  | `Variable`     | Observed atmosphere     | Stability and weather patterns    |
+| Dry Adiabatic Lapse Rate  | `9.8`          | Rising dry air          | Reference for stability           |
+| Saturated Adiabatic Lapse | `5–6`          | Rising moist air        | Cloud and precipitation formation |
+| Superadiabatic Lapse Rate | &gt;`10`          | Rapid surface heating   | Strongly unstable air             |
+| Advection Lapse Rate      | `Variable`     | Horizontal air movement | Weather front behavior            |
+</md></sn><sn><md>## Enviromental Laps Rate{.fg-red .text-center}
+
+In our surrounding enviroment ff a usual air parcel rises from the ground, its temperature **decreases by 6.5°C for every kilometer** it ascends{.bar}
+
+
+The **Environmental Lapse Rate (ELR)** refers to the rate at which the ==temperature of the surrounding air changes with altitude in the Earth's atmosphere at a specific time and place==. Unlike the **adiabatic lapse rates** (which are theoretical and depend on air parcel processes), the ELR is observed in the real atmosphere and can vary due to weather conditions, time of day, and location.
+
+### Definition
+
+   The ELR is the actual decrease in temperature with height, measured by `weather balloons` (radiosondes) or other instruments.  
+
+   Expressed in **°C per kilometer (°C/km)** or **°C per 1,000 feet**.
+
+### Variability
+
+   - The ELR is `not constant` and depends on factors like:  
+     - `Weather systems` (e.g., inversions, fronts).  
+     - `Surface heating` (day vs. night).  
+     - `Humidity` and **geographical location**.  
+
+   On average, the ELR is about ==6.5°C per km== in the troposphere, but it can differ significantly.
+
+### Temperature Inversion (Negative Lapse Rate)
+
+   Sometimes, `temperature increases with altitude` (e.g., in valleys at night or under high-pressure systems), resulting in a ==negative ELR==.  
+
+### Example:
+
+If the surface temperature is **25°C** and at **1 km** altitude it is **18°C**, the ELR is:  
+
+  $$
+  \text{ELR} = \frac{25°C - 18°C}{1 \text{ km}} = 7°C/\text{km}
+  $$
+
+### Importance:
+- Used in **aviation** (predicting turbulence).  
+- Determines `cloud formation` and `storm development`.  
+- Influences **pollution dispersion** (inversions trap pollutants).  
+</md></sn><sn><md>## Dry Adiabatic Lapse Rate (DALR){.text-center .fg-red}
+
++++ read in Bengali
+
+যদি একটি শুকনো বায়ুর থার্মাল (উষ্ণ বায়ু খণ্ড) মাটি থেকে উপরের দিকে ওঠে, প্রতি কিমি উঁচুতে তার তাপমাত্রা **৯.৮°C কমে যায়**, যতক্ষণ এটি শুষ্ক থাকে।{.bar}
+
+**সংজ্ঞা:**
+শুকনো অ্যাডিয়াব্যাটিক ল্যাপ্স রেট (DALR) হলো সেই হার, যার মাধ্যমে **শুকনো (আর্দ্রতা ১০০% নয়) বায়ু উপরের দিকে ওঠার সময় তার তাপমাত্রা কমে যায়**, কিন্তু চারপাশের সাথে কোনো তাপ বিনিময় হয় না।
+
+**মূল পয়েন্ট:**
+
+* মান ≈ **৯.৮°C প্রতি কিমি**
+* শুধুমাত্র **শুকনো বায়ুর জন্য প্রযোজ্য**
+* এটি **বায়ুর স্থিতিশীলতা নির্ধারণে মানদণ্ড হিসেবে ব্যবহৃত হয়**
+* বায়ু উপরের দিকে উঠলে সম্প্রসারণের কারণে **ঠাণ্ডা হয়**, কিন্তু কোনো তাপ গ্রহণ বা হারায় না
+
++++
+
+---
+
+If a dry air parcel rises from the ground, its temperature **decreases by 9.8°C for every kilometer** it ascends, as long as the air remains unsaturated.
+
+
+**Definition:**
+The Dry Adiabatic Lapse Rate (DALR) is the **rate at which a dry air parcel (relative humidity &lt;100%) cools as it rises**, without exchanging heat with its surroundings.
+
+**Key Points:**
+
+* Standard rate ≈ **9.8°C per km**
+* Applies only to **dry air**
+* Used as a **reference for atmospheric stability**
+* Air cools due to **expansion during ascent**, but no heat is gained or lost
+</md></sn><sn><md>### Saturated (Moist) Adiabatic Lapse Rate (SALR / MALR) {.text-center .fg-red}
+
++++ read in bengali
+
+একটি আর্দ্র বায়ুর থার্মাল যদি মাটি থেকে উপরের দিকে উঠে, প্রতি কিমি উঁচুতে তার তাপমাত্রা **৫–৬°C কমে যায়**, কারণ বাষ্প condensation থেকে তাপ রিলিজ হয়।{.bar}
+
+
+**সংজ্ঞা:**
+স্যাচুরেটেড বা আর্দ্র অ্যাডিয়াব্যাটিক ল্যাপ্স রেট (SALR / MALR) হলো সেই হার, যার মাধ্যমে **একটি আর্দ্র (100% আর্দ্রতা সম্পন্ন) বায়ু উপরের দিকে ওঠার সময় তার তাপমাত্রা কমে যায়**, কিন্তু **সংগ্রহিত জলীয় বাষ্পের condensation থেকে latent heat মুক্তি পাওয়ার কারণে শীতলতা কমে যায়**।
+
+**মূল পয়েন্ট:**
+
+* মান ≈ **৫–৬°C প্রতি কিমি** (শুকনো বায়ুর তুলনায় কম)
+* আর্দ্র বায়ুর জন্য প্রযোজ্য, যেখানে বাষ্প **সং kondense হয়**
+* latent heat মুক্তি **শীতলতা কমিয়ে স্থিতিশীলতা প্রভাবিত করে**
+* এটি মূলত **মেঘ এবং বৃষ্টি সৃষ্টি প্রক্রিয়ায় গুরুত্বপূর্ণ**
+
+
++++
+
+
+### Definition
+
+
+When a `moist air` parcel rises from the ground, its temperature ==decreases by 5–6°C per kilometer==, slower than dry air, because `latent heat released`during condensation offsets some of the cooling**. {.bar}
+
+
+The Saturated (Moist) Adiabatic Lapse Rate (SALR / MALR) is the **rate at which a saturated air parcel (100% relative humidity) cools as it rises**, accounting for the **release of latent heat during condensation**, which reduces the cooling rate.
+
+### Key Points
+
+* Typical rate ≈ **5–6°C per km**
+* Applies to **moist or saturated air** where condensation occurs
+* Latent heat release **reduces cooling**, affecting stability
+* Important for **cloud formation and precipitation**
+</md></sn><sn><md>## Superadiabatic Lapse Rate{.text-center .fg-red}
+
++++ read in bengali
+
+একটি উষ্ণ, শুষ্ক দুপুরের দিনে মাটির কাছাকাছি বায়ু খুব দ্রুত গরম হয়। যদি সেই বায়ু উপরের দিকে উঠে, প্রতি কিমি উঁচুতে তাপমাত্রা **১০°C বা তার বেশি কমে যায়**, ফলে বায়ু **খুব অস্থিতিশীল হয়ে ওঠে**। {.bar}
+
+
+**সংজ্ঞা:**
+
+সুপারঅ্যাডিয়াব্যাটিক ল্যাপ্স রেট হলো সেই হার, যার মাধ্যমে **উচ্চতা অনুযায়ী তাপমাত্রা খুব দ্রুত কমে যায়**, অর্থাৎ শুষ্ক অ্যাডিয়াব্যাটিক ল্যাপ্স রেট (≈ 9.8°C/km) এর চেয়ে বেশি। এটি সাধারণত ঘটে **মাটির খুব গরম অবস্থায়**, যেমন গ্রীষ্মের দুপুরে।
+
+**মূল পয়েন্ট:**
+
+* মান &gt; **10°C প্রতি কিমি**
+* ঘটে যখন **পৃষ্ঠ খুব গরম হয়** এবং বাতাস শুষ্ক থাকে
+* অস্থিতিশীলতা সৃষ্টি করে, ফলে **বায়ু খুব দ্রুত উঠে যেতে চায়**
+* শক্তিশালী **উদ্বায়ী প্রক্রিয়া এবং উত্তোলন** ঘটায়, যা **বজ্রপাত ও ধূলিকণার উত্থানে** সহায়ক হতে পারে
+
++++
+
+---
+
+On a hot, dry afternoon, the air `near the ground` heats up quickly. As it rises, the temperature ==drops by 10°C or more per kilometer==, making the air `strongly unstable` and prone to rapid upward motion.{.bar}
+
+
+### Definition
+
+The Superadiabatic Lapse Rate is the **rate at which temperature decreases very rapidly with height**, `exceeding the dry adiabatic lapse rate` (\~9.8°C/km). It typically occurs over ==very hot surfaces==, such as during summer afternoons.
+
+### Key Points
+
+* Rate &gt; **10°C per km**
+* Happens when the **surface is extremely hot** and air is dry
+* Creates **strong atmospheric instability**, causing air to rise rapidly
+* Can lead to **vigorous convection, turbulence, and dust storms**
 </md></sn>
