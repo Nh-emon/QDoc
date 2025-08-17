@@ -340,7 +340,7 @@
 		<tags>#lapse rate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 17 2025 23:52:30 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 17 2025 23:56:59 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IFd3bkw5Hc</id>
 		<duration></duration>
 	</config>
@@ -608,4 +608,57 @@ The Superadiabatic Lapse Rate is the **rate at which temperature decreases very 
 * Happens when the **surface is extremely hot** and air is dry
 * Creates **strong atmospheric instability**, causing air to rise rapidly
 * Can lead to **vigorous convection, turbulence, and dust storms**
+</md></sn><sn><md>## Advection Lapse Rate (ALR){.text-center .fg-red}
+
++++ read in bengali
+
+**সংজ্ঞা:**
+
+অ্যাডভেকশন ল্যাপ্স রেট (ALR) হলো সেই হার, যার মাধ্যমে **হরিজন্টাল (অনুভূমিক) বাতাসের চলাচলের কারণে তাপমাত্রা পরিবর্তিত হয়**। এটি উল্লম্ব আন্দোলনের উপর নির্ভর করে না, বরং বায়ুর **এক স্থান থেকে অন্য স্থানে চলার ফলে তাপ পরিবর্তন**কে নির্দেশ করে। {.bar}
+
+**মূল পয়েন্ট:**
+
+* একক: °C প্রতি কিমি (°C/km)
+* নির্ভর করে **বায়ু ভরের উৎপত্তি স্থান ও গন্তব্যের তাপমাত্রার পার্থক্যের উপর**
+* এটি **স্থিতিশীল বা অস্থিতিশীল** পরিবেশ সৃষ্টি করতে পারে
+
+**উদাহরণ:**
+সমুদ্র থেকে একটি ঠান্ডা বায়ু ভর যখন উষ্ণ স্থলভাগের উপর চলে আসে:
+
+* বায়ু ভরের তাপমাত্রা সমুদ্র থেকে 20°C, আর স্থলভাগ 25°C।
+* বায়ু স্থলভাগের উপর চলতে চলতে **উষ্ণ হয়**, ফলে এলাকা স্থিতিশীল হতে পারে।
+* বিপরীত দিকে, যদি উষ্ণ বায়ু ঠান্ডা স্থলের উপর আসে, এটি **ঠান্ডা হয়ে ELR বাড়ায়** এবং **অস্থিতিশীলতা** সৃষ্টি করতে পারে।
+
+**গুরুত্ব:**
+
+* আবহাওয়া ফ্রন্টের তাপমাত্রা পরিবর্তন বোঝায়
+* কুয়াশা, মেঘ এবং ঝড়ের পূর্বাভাসে সহায়ক
+* জলবায়ু পরিবর্তন ও তাপ পরিবহণ বোঝার জন্য গুরুত্বপূর্ণ
+
++++
+
+
+### Definition
+
+Advection Lapse Rate (ALR) is the **rate of temperature change caused by the horizontal movement of air masses**. Unlike adiabatic lapse rates, ALR depends on **air moving from one location to another**, not on vertical ascent. {.bar}
+
+### Key Points
+
+* Unit: °C per km
+* Depends on **temperature difference between the origin and destination of the air mass**
+* Can **stabilize or destabilize** the atmosphere
+
+### Example
+
+A cool air mass from the sea moves over a warmer land surface:
+
+* Initial air temperature: 20°C; land temperature: 25°C
+* As it moves inland, the air **warms up**, potentially stabilizing the atmosphere
+* Conversely, a warm air mass moving over a cooler surface **cools down**, increasing ELR and causing **instability**
+
+**Importance:**
+
+* Explains **temperature changes at weather fronts**
+* Helps predict **fog, cloud formation, and storms**
+* Important for **climate studies and heat transport**
 </md></sn>
