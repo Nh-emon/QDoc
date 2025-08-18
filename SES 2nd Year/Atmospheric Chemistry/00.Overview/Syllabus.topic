@@ -1,12 +1,28 @@
 
-	<sn><md>## Syllabus{.text-center .fg-red}
+	<sn><md>### Atmospheric Chemistry Syllabus{.fg-red .text-center}
 
-![image](https://i.imgur.com/4FUOzFB.png)</md></sn>		
+| **Topic**                                  | **Subtopics**                                                                                                                                                                                                 |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Description of the Atmosphere              | - Composition of the air close to the earth’s surface, variations with height, latitude, season, and time.<br>- Mass of the atmosphere.<br>- Layers of the atmosphere.                                       |
+| Solar Radiation and the Global Energy Budget | - Solar energy and principles of electromagnetic waves.<br>- Radiation transfer from the sun to earth.<br>- Factors affecting incoming solar radiation.<br>- Solar radiation budget.<br>- Factors affecting temperature variation. |
+| Atmospheric Moisture Budget                | - Components of the global hydrological cycle.<br>- Changes of state of water.<br>- Humidity and condensation.<br>- Cloud types and precipitation.<br>- Air stability and instability.                        |
+| Air Pressure and Winds                     | - Wind pressure and causes of variation (vertical and horizontal).<br>- Forces acting upon the wind.<br>- Global wind belts.<br>- Wind classification.                                                       |
+| Global Air Circulation                     | - Circulation in vertical and horizontal planes.<br>- Monsoon circulation.<br>- Tropical cyclones and El Niño-Southern Oscillation (ENSO) events.                                                             |
+| Atmospheric Chemistry                      | - Effects of atmospheric motions on chemistry.<br>- Half-life, residence time, and renewal time of chemicals.<br>- Chemical and photochemical reactions.<br>- Interaction of radiation with trace gases.      |
+| Atmospheric Aerosols                       | - Airborne particulate matter: size, sources, concentration.<br>- Chemical composition, transformation, and transport of aerosols.<br>- Residence time and sink of aerosol particles.                         |
+</md></sn><sn><md><pre class="d-none data">+++ see image real source
+![image](https://i.imgur.com/4FUOzFB.png)
++++</pre><temp><dl>
+<p><img src="https://i.imgur.com/4FUOzFB.png" alt="image"></p>
+</dl>
+</temp>++ see image real source
+![image](https://i.imgur.com/4FUOzFB.png)
++++</md></sn>		
 	<config>
 		<tags>#syllabus</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 12 2025 20:09:17 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 18 2025 22:10:18 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-DiIVj3JDf0</id>
 		<duration></duration>
 	</config>
