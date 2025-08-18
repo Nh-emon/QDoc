@@ -8,7 +8,7 @@ I prefer you to see the concept topic `Laps Rate` first to understand Air Stabil
 		<tags>#05.air stability and instability</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 18 2025 23:49:14 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 18 2025 23:57:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RvRFhF33Xu</id>
 		<duration></duration>
 	</config>
@@ -64,10 +64,57 @@ In atmospheric science, the concepts of stability and instability are central to
 
 Atmospheric stability refers to the ==resistance of the atmosphere to vertical air movement==. When air is lifted, it cools due to adiabatic expansion. Whether the parcel continues to rise or sinks back `depends on the surrounding environmental lapse rate` (the rate at which temperature decreases with height).
 
-#### Stable Atmosphere
+---
+
+### Stable Atmosphere
 
 An atmosphere is stable when ==displaced air parcels tend to return to their original position==. This occurs if the **environmental lapse rate (ELR)** is less than the **moist adiabatic lapse rate (MALR)**.
 
+#### Condition of Stability
+
 When ==ELR &lt; MALR== {.bar}
 
-Now lets understand this phenomena,but I again prefered to read the laps rate topic first...</md></sn>
+Now let us understand this phenomenon. However, it is recommended to review the **lapse rate** topic first for better clarity.
+
+---
+
+### Example Calculation
+
+Suppose one day the surface temperature is **30°C**. Then we get the following values:
+
+* `ELR` = 5
+* `MALR` = 7
+
+This means:
+
+* If we go **1 km above sea level**, the temperature will decrease by **5°C**.
+
+  * Environmental temperature at 1 km = 30 − 5 = **25°C**
+* If moist air rises 1 km, its temperature decreases by **7°C**.
+
+  * Moist air temperature at 1 km = 30 − 7 = **23°C**
+
+Since the moist air (23°C) is cooler and denser compared to the environment (25°C), it will not rise further. Instead, it will sink back to its original position. This is called **air stability**.
+
+---
+
++++ see Diagram
+![diagram-of-air-stability](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/Stable-Air-Diagram.svg)
++++
+
+
+### Explanation
+
+As moist air reaches 1 km above, its temperature becomes **23°C**, while the environmental temperature is **25°C**. Because the moist air is relatively cooler and denser, it sinks back to its first position.
+
+---
+
+### Key Characteristics of Stable Atmosphere
+
+* Rising air cools faster than the surrounding air.
+* Clouds are unlikely to form extensively.
+* Weather is generally calm and clear.
+
+**Example:** During winter nights with strong radiational cooling at the surface, the lower atmosphere often becomes stable, suppressing convection.
+
+</md></sn>
