@@ -8,7 +8,7 @@ I prefer you to see the concept topic `Laps Rate` first to understand Air Stabil
 		<tags>#05.air stability and instability</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 18 2025 22:57:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 18 2025 23:49:14 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RvRFhF33Xu</id>
 		<duration></duration>
 	</config>
@@ -60,4 +60,14 @@ I prefer you to see the concept topic `Laps Rate` first to understand Air Stabil
 বায়ুর স্থিতিশীলতা ও অস্থিতিশীলতা আবহাওয়ার পূর্বাভাস ও জলবায়ু বুঝতে অত্যন্ত গুরুত্বপূর্ণ। স্থিতিশীল বায়ু শান্ত আবহাওয়া নিয়ে আসে, অন্যদিকে অস্থিতিশীল বায়ু প্রাকৃতিক দুর্যোগ সৃষ্টি করতে পারে। এই ধারণাগুলি বুঝলে আমরা আবহাওয়ার পরিবর্তন ও এর প্রভাব সম্পর্কে সচেতন হতে পারি।  
 </md></sn><sn><md>## Stability and Air Instability{.fg-red .text-center}
 
-In atmospheric science, the concepts of stability and instability are central to understanding ==how air behaves when it is displaced vertically==. The stability of the atmosphere determines whether rising air parcels will `continue to rise, sink back to their original position, or remain neutrally balanced`. These processes are closely linked to **cloud formation, weather patterns, and atmospheric convection**.</md></sn>
+In atmospheric science, the concepts of stability and instability are central to understanding ==how air behaves when it is displaced vertically==. The stability of the atmosphere determines whether rising air parcels will `continue to rise, sink back to their original position, or remain neutrally balanced`. These processes are closely linked to **cloud formation, weather patterns, and atmospheric convection**.</md></sn><sn><md>## Atmospheric Stability{.fg-red .text-center}
+
+Atmospheric stability refers to the ==resistance of the atmosphere to vertical air movement==. When air is lifted, it cools due to adiabatic expansion. Whether the parcel continues to rise or sinks back `depends on the surrounding environmental lapse rate` (the rate at which temperature decreases with height).
+
+#### Stable Atmosphere
+
+An atmosphere is stable when ==displaced air parcels tend to return to their original position==. This occurs if the **environmental lapse rate (ELR)** is less than the **moist adiabatic lapse rate (MALR)**.
+
+When ==ELR &lt; MALR== {.bar}
+
+Now lets understand this phenomena,but I again prefered to read the laps rate topic first...</md></sn>
