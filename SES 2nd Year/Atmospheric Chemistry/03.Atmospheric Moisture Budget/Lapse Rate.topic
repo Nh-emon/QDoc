@@ -340,7 +340,7 @@
 		<tags>#lapse rate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 17 2025 23:56:59 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 18 2025 09:58:18 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IFd3bkw5Hc</id>
 		<duration></duration>
 	</config>
@@ -501,6 +501,13 @@ If the surface temperature is **25°C** and at **1 km** altitude it is **18°C**
   $$
   \text{ELR} = \frac{25°C - 18°C}{1 \text{ km}} = 7°C/\text{km}
   $$
+
+![ELR-Diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/ELR-DIagram-1.svg)
+
+The value of the Environmental Lapse Rate (ELR) does not depend on the type of gas; rather, it is determined/examine by the environmental temperature, which varies with season and location. Therefore, the ELR is not a constant value{.bar} 
+
+* If we go above 1km how much temperature will decrease,the rate for each kilometer is the ELR
+* Not constant ,change over season and location
 
 ### Importance:
 - Used in **aviation** (predicting turbulence).  
