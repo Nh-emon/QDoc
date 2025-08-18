@@ -8,7 +8,7 @@ I prefer you to see the concept topic `Laps Rate` first to understand Air Stabil
 		<tags>#05.air stability and instability</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 00:09:55 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 00:13:53 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RvRFhF33Xu</id>
 		<duration></duration>
 	</config>
@@ -113,4 +113,56 @@ As moist air reaches 1 km above, its temperature becomes **23°C**, while the en
 
 **Example:** During winter nights with strong radiational cooling at the surface, the lower atmosphere often becomes stable, suppressing convection.
 
-</md></sn><sn></sn>
+</md></sn><sn><md>## Atmospheric Instability{.fg-red .text-center}
+
+Atmospheric instability occurs when vertical air motion is encouraged rather than suppressed. A ==displaced air parcel continues to rise== because it remains warmer and less dense than its environment.
+
+---
+
+### Unstable Atmosphere
+
+An atmosphere is unstable when the **environmental lapse rate (ELR)** is greater than the **dry adiabatic lapse rate (DALR)**.
+
+#### Condition of Instability
+
+When ==ELR &gt; DALR== {.bar}
+
+---
+
+### Example Calculation
+
+Suppose one day the surface temperature is **30°C**. Then we get the following values:
+
+* `ELR` = 13
+* `DALR` = 9
+
+This means:
+
+* For `ELR = 13`: If we go **1 km above sea level**, the environmental temperature decreases by **13°C**.
+
+  * Environmental temperature at 1 km = 30 − 13 = **17°C**
+* For `DALR = 9`: If dry air rises 1 km, its temperature decreases by **9°C**.
+
+  * Dry air temperature at 1 km = 30 − 9 = **21°C**
+
+Since the dry air (**21°C**) is warmer and lighter compared to the environment (**17°C**), it continues to rise. This process is called **air instability**.
+
+---
+
+### Diagram
+
++++ see diagram
+![Instable-Air-Diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/Instable-Air-Diagram.svg)
++++
+
+---
+
+### Key Characteristics of Unstable Atmosphere
+
+* Rising air cools more slowly than the surrounding environment.
+* Convection becomes strong.
+* Thunderstorms, cumulus clouds, and heavy rainfall are likely.
+
+**Example:** During hot summer afternoons, strong surface heating creates unstable conditions leading to towering cumulonimbus clouds and storms.
+
+</md></sn>
