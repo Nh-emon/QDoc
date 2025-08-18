@@ -8,7 +8,7 @@ I prefer you to see the concept topic `Laps Rate` first to understand Air Stabil
 		<tags>#05.air stability and instability</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 18 2025 23:57:35 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 00:09:55 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RvRFhF33Xu</id>
 		<duration></duration>
 	</config>
@@ -87,12 +87,8 @@ Suppose one day the surface temperature is **30°C**. Then we get the following 
 
 This means:
 
-* If we go **1 km above sea level**, the temperature will decrease by **5°C**.
-
-  * Environmental temperature at 1 km = 30 − 5 = **25°C**
-* If moist air rises 1 km, its temperature decreases by **7°C**.
-
-  * Moist air temperature at 1 km = 30 − 7 = **23°C**
+* For `ELR = 5` if we go **1 km above sea level**, the enviromental temperature will decrease by **5°C**.Environmental temperature at 1 km = 30 − 5 = **25°C**
+* For `MALR = 7` if moist air rises 1 km, its temperature decreases by **7°C**.Moist air temperature at 1 km = 30 − 7 = **23°C**
 
 Since the moist air (23°C) is cooler and denser compared to the environment (25°C), it will not rise further. Instead, it will sink back to its original position. This is called **air stability**.
 
@@ -117,4 +113,4 @@ As moist air reaches 1 km above, its temperature becomes **23°C**, while the en
 
 **Example:** During winter nights with strong radiational cooling at the surface, the lower atmosphere often becomes stable, suppressing convection.
 
-</md></sn>
+</md></sn><sn></sn>
