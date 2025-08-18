@@ -340,7 +340,7 @@
 		<tags>#lapse rate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 18 2025 09:58:18 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 18 2025 22:28:00 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IFd3bkw5Hc</id>
 		<duration></duration>
 	</config>
@@ -456,7 +456,12 @@ In the atmosphere, **temperature changes with altitude**. For each kilometer of 
 It is usually expressed in **degrees Celsius per kilometer (°C/km)**.
 
 The amount of temperature decrease depends on the **type of air or gas** (dry, moist, or mixed) and the **location** in the atmosphere.
-</md></sn><sn><md>## Types{.fg-red .text-center}
+
+### Laps Rate of something denote how much it losses temperature if we go 1km above.{.text-center .fg-purple}
+
+* `ELR` = 5 means if we go 1km above ==Envioment will loose 5 degree== celcious temperature.
+* `DLR` = 9 means if we go 1km above ==Dry Air will loose 9 degree== celcious temperature.
+* `MALR` = 5 means if we go 1km above ==Moist Air will loose 5 degree== celcious temperature.</md></sn><sn><md>## Types{.fg-red .text-center}
 
 Lapse rate is the **rate at which air temperature decreases with altitude** {.bar} 
 
@@ -472,6 +477,7 @@ Lapse rate is the **rate at which air temperature decreases with altitude** {.ba
 
 In our surrounding enviroment ff a usual air parcel rises from the ground, its temperature **decreases by 6.5°C for every kilometer** it ascends{.bar}
 
+In simpler word ELR means ==Laps rate of Enviroment== means how much **enviroment temperature decreases if we go 1km above** {.bar}
 
 The **Environmental Lapse Rate (ELR)** refers to the rate at which the ==temperature of the surrounding air changes with altitude in the Earth's atmosphere at a specific time and place==. Unlike the **adiabatic lapse rates** (which are theoretical and depend on air parcel processes), the ELR is observed in the real atmosphere and can vary due to weather conditions, time of day, and location.
 
@@ -535,6 +541,7 @@ The value of the Environmental Lapse Rate (ELR) does not depend on the type of g
 
 If a dry air parcel rises from the ground, its temperature **decreases by 9.8°C for every kilometer** it ascends, as long as the air remains unsaturated.
 
+#### Laps rate of ==Dry Air== {.text-center}
 
 **Definition:**
 The Dry Adiabatic Lapse Rate (DALR) is the **rate at which a dry air parcel (relative humidity &lt;100%) cools as it rises**, without exchanging heat with its surroundings.
@@ -566,7 +573,7 @@ The Dry Adiabatic Lapse Rate (DALR) is the **rate at which a dry air parcel (rel
 +++
 
 
-### Definition
+### Laps rate of ==Moist Air== {.text-center}
 
 
 When a `moist air` parcel rises from the ground, its temperature ==decreases by 5–6°C per kilometer==, slower than dry air, because `latent heat released`during condensation offsets some of the cooling**. {.bar}
@@ -645,7 +652,7 @@ The Superadiabatic Lapse Rate is the **rate at which temperature decreases very 
 +++
 
 
-### Definition
+### Laps rate of ==Horizonal Flowed Air== {.text-center}
 
 Advection Lapse Rate (ALR) is the **rate of temperature change caused by the horizontal movement of air masses**. Unlike adiabatic lapse rates, ALR depends on **air moving from one location to another**, not on vertical ascent. {.bar}
 
