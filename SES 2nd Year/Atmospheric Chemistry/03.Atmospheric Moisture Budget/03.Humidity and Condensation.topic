@@ -1,10 +1,57 @@
 
-	<sn></sn>		
+	<sn><md>## Humidity{.fg-red .text-center}
+
+:::.row
+
+::: .col-12 .col-lg-7
+Humidity is a fundamental concept in meteorology, climatology, and environmental science.It refers to `the amount of water vapor present in the air`. Water vapor, though invisible, plays a crucial role in weather patterns, cloud formation, and human comfort. Understanding humidity is essential for **agriculture, health, construction, and forecasting atmospheric conditions**.
+:::
+
+::: .col-12 .col-lg-5
+![image](https://scijinks.gov/what-is-humidity/rain-droplets.png)
+:::
+
+:::
+ 
+Humidity is defined as the ==concentration of water vapor in the atmosphere==. {.bar} 
+
+Unlike other gases such as oxygen or nitrogen, water vapor is `highly variable` and depends on factors such as ==temperature, pressure, and geographical location==.
+
+### Types of Humidity
+* Absolute Humidity
+* Relative Humidity
+</md></sn>		
 	<config>
 		<tags>#03.humidity and condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 11:29:31 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 11:49:33 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HDyrLmHCy3</id>
 		<duration></duration>
 	</config>
+<sn><md>## Absolute Humidity{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+
+Absolute humidity is the ==actual mass of water vapor present in a unit volume of air==. {.bar}
+
+It is expressed in grams of water vapor per cubic meter of air (`g/m³`).
+
+:::
+
+::: .col-12 .col-lg-5
+![image](https://cache.careers360.mobi/media/article_images/2024/11/11/Absolute_Humidity.png)
+:::
+
+:::
+
+* Formula:
+
+  $$
+  AH = \frac{\text{Mass of water vapor}}{\text{Volume of air}}
+  $$
+
+* Limitation: It changes with variations in air `volume` and `temperature`, making it less useful for practical meteorological purposes.
+</md></sn>
