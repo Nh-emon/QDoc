@@ -5,7 +5,7 @@
 
 Statistics is the ==science of collecting, organizing, analyzing, interpreting, and presenting data==. It provides ==tools and methods== for making sense of numerical information and helps us make decisions based on data, whether in science, business, economics, medicine, or everyday life.
 
-At its core, statistics deals with **variability** and **uncertainty**, helping researchers and analysts draw conclusions about ==populations based on limited observations (samples)==.
+At its core, statistics deals with **variability** and **uncertainty**, helping researchers and analysts ==draw conclusions about populations== based on limited observations (samples).
 
 
 </md></sn>		
@@ -13,7 +13,7 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 		<tags>#01.statistics bacics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 06 2025 17:09:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 18:37:08 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ruG6Ljw7HI</id>
 		<duration></duration>
 	</config>
@@ -21,7 +21,7 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 
 | **Type**                   | **Description**                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Descriptive Statistics** | Summarizes and describes the main features of a dataset using numbers, tables, and graphs. E.g., mean, median, mode, standard deviation.   |
+| **Descriptive Statistics** | `Summarizes` and `describes` the *main features of a dataset* using numbers, tables, and graphs. E.g., mean, median, mode, standard deviation.   |
 | **Inferential Statistics** | `Makes predictions` or inferences about a population based on a sample. E.g., `hypothesis testing`, `confidence intervals`, `regression analysis`. |</md></sn><sn><md>### Key Concepts in Statistics{.text-center .fg-indigo}
 
 | **Concept**            | **Explanation**                                                                       |
@@ -37,12 +37,12 @@ At its core, statistics deals with **variability** and **uncertainty**, helping 
 
 | **Area**                 | **How Statistics Helps**                                                                     |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Scientific Research**  | Analyzing experimental data, testing hypotheses, and drawing valid conclusions.              |
-| **Business &amp; Economics** | Understanding markets, forecasting sales, managing risks, and optimizing strategies.         |
-| **Healthcare**           | Interpreting clinical trials, understanding disease patterns, and improving patient care.    |
-| **Education**            | Assessing student performance, improving teaching methods, and analyzing institutional data. |
-| **Government &amp; Policy**  | Designing censuses, formulating policies, evaluating public programs.                        |
-| **Everyday Decisions**   | Understanding trends, budgeting, making choices based on data (e.g., surveys, polls).        |
+| `Scientific Research`  | Analyzing experimental data, testing hypotheses, and drawing valid conclusions.              |
+| `Business &amp; Economics` | Understanding markets, forecasting sales, managing risks, and optimizing strategies.         |
+| `Healthcare`           | Interpreting clinical trials, understanding disease patterns, and improving patient care.    |
+| `Education`            | Assessing student performance, improving teaching methods, and analyzing institutional data. |
+| `Government &amp; Policy`  | Designing censuses, formulating policies, evaluating public programs.                        |
+| `Everyday Decisions`   | Understanding trends, budgeting, making choices based on data (e.g., surveys, polls).        |
 </md></sn><sn><md>### Applications of Statistics{.text-center .fg-red}
 
 | **Field**                 | **Example Use**                                                                  |
