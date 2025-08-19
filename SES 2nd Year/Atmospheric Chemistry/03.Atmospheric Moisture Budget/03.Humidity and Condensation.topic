@@ -25,7 +25,7 @@ Unlike other gases such as oxygen or nitrogen, water vapor is `highly variable` 
 		<tags>#03.humidity and condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 11:56:21 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 11:59:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HDyrLmHCy3</id>
 		<duration></duration>
 	</config>
@@ -72,7 +72,7 @@ Relative humidity is the **ratio of** the `actual water vapor content in the air
 
 :::
 
-* Formula:
+### Formula{.fg-orange}
 
   $$
   RH = \frac{\text{Actual Vapor Pressure}}{\text{Saturation Vapor Pressure}} \times 100
