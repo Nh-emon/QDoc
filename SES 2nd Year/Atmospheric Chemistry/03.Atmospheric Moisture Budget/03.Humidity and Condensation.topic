@@ -25,7 +25,7 @@ Unlike other gases such as oxygen or nitrogen, water vapor is `highly variable` 
 		<tags>#03.humidity and condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 11:49:33 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 11:56:21 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HDyrLmHCy3</id>
 		<duration></duration>
 	</config>
@@ -54,4 +54,27 @@ It is expressed in grams of water vapor per cubic meter of air (`g/m³`).
   $$
 
 * Limitation: It changes with variations in air `volume` and `temperature`, making it less useful for practical meteorological purposes.
+</md></sn><sn><md>## Relative Humidity{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+Relative humidity is the **ratio of** the `actual water vapor content in the air` to the ==maximum amount the air can hold== at a given temperature, expressed as a percentage. {.bar}
+
+* Example: If the RH is `70%`, it means the **air contains `70%` of the maximum water vapor** it could hold at that temperature.
+* Importance: RH is the most commonly used measure because it directly **relates to human comfort and weather conditions**.
+
+:::
+
+:::.col-12 .col-lg-5
+![image](https://scijinks.gov/what-is-humidity/relative-humidity.png)
+:::
+
+:::
+
+* Formula:
+
+  $$
+  RH = \frac{\text{Actual Vapor Pressure}}{\text{Saturation Vapor Pressure}} \times 100
+  $$
 </md></sn>
