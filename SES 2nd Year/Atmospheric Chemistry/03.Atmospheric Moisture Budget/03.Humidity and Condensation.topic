@@ -25,7 +25,7 @@ Unlike other gases such as oxygen or nitrogen, water vapor is `highly variable` 
 		<tags>#03.humidity and condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 11:59:35 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 12:08:17 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-HDyrLmHCy3</id>
 		<duration></duration>
 	</config>
@@ -77,4 +77,18 @@ Relative humidity is the **ratio of** the `actual water vapor content in the air
   $$
   RH = \frac{\text{Actual Vapor Pressure}}{\text{Saturation Vapor Pressure}} \times 100
   $$
-</md></sn>
+</md></sn><sn><md>### Specific Humidity{.fg-red}
+
+Specific humidity refers to the **ratio of** the `mass of water vapor to the total mass of air` (including ==dry air and water vapor==). It is expressed in grams of water vapor per kilogram of air. Unlike relative humidity, it is *not affected by temperature changes*.
+
+### 4. Mixing Ratio{.fg-pink}
+
+The *mixing ratio* is the `mass of water vapor per unit mass of dry air`, usually expressed in grams of water vapor per kilogram of dry air.
+</md></sn><sn><md>## Factors Affecting Humidity{.fg-red .text-center}
+
+1. `Temperature`: Warm air can hold more water vapor than cold air, making tropical regions more humid.
+2. `Geographical Location`: Coastal areas generally have higher humidity than inland regions.
+3. `Air Movement`: Winds can transport moist or dry air, influencing local humidity levels.
+4. `Evaporation and Transpiration`: Water bodies, soil evaporation, and plant transpiration add water vapor to the atmosphere.
+5. `Altitude`: Higher altitudes usually have lower humidity due to lower temperatures and reduced air pressure.
+</md></sn><sn></sn>
