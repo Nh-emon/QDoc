@@ -1,10 +1,24 @@
 
-	<sn></sn>		
+	<sn><md>| Key | Details |
+|----------|----------|
+| Date    | 18-8-25    |
+| Subject   | `Microbiology of Soil and Enviroment`    |
+| Teacher   | Mst.Tanu    |
+| Topic    | ==Assignment Composition==    |
+| Resources    | empty    |
+</md></sn><sn><md>| Key | Details |
+|----------|----------|
+| Date    | 18-8-25    |
+| Subject   | `Atmospheric Chemistry`    |
+| Teacher   | Mst.Monoara   |
+| Topic    | ==Photochemical Reaction==    |
+| Resources    | empty    |
+</md></sn>		
 	<config>
 		<tags>#18.8.25</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 10:34:23 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 10:48:58 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-gM8beKapje</id>
 		<duration></duration>
 	</config>
