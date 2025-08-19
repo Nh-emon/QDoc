@@ -1,10 +1,54 @@
 
-	<sn></sn>		
+	<sn><md>## Atmospheric Chemistry{.fg-red .text-center}
+
+### Definitions
+
+
+:::.row
+
+::: .col-12 .col-lg-7
+
+**Atmospheric Chemistry:** is the study of chemistry of `unpolluted atmosphere`,highly `polluted atmosphere` and a wide range of `gradients` in between {.bar}
+
+**Photochemistry:** is the `study` of chemical reactions or processes initiated by the ==absorption of photons of solar radiation==. {.bar}
+
+**Photochemical Reaction:**  `reaction` driven by the ==absorption or interaction of a photon== (UV or visible solar spectrum) {.bar}
+
+:::
+
+::: .col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXessJOLJJD10eY4IkiLPVUhHZh6k4aCJ9sw&amp;s)
+:::
+
+:::
+
+require layer based diagram of photochemical reaction{.fg-red}
+
+</md></sn>		
 	<config>
 		<tags>#01.basics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 23:18:53 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Aug 19 2025 23:57:33 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-njQcvzEpdX</id>
 		<duration></duration>
 	</config>
+<sn><md>## Facts {.fg-red .text-end}
+
+* Radiant energy,predominantly `ultra violet` spectrum provides ==high-level energy to gas molecules== in starting a series of photochemical reactions.
+
+* Visible region of the **sun's spectrum** is absorbed by `colored chemical species`.
+
+* Infrared radiation `does not posses enough energy` to break chemical bonds of gas molecules.
+
+* In the `atmosphere` or `hydrosphere`,photochemical reactions or processes ==always happen==.
+
+* Photochemical reactions are also referred to as `photodissociation or photolysis`,when a ==photon carries enough energy to break one or more chemical bonds of a molecule==.
+
+* Photon energy increases the `internal energy of molecule` (due to rotation or vibration) which is known as ==activation==.It is the `first step` in the photochemical processes.
+
+* Some of the absorbed energy is carried off by the molecular fragments as ==electronic,vibrational,rotational or transitional energy==.
+
+* Electromagnetic radiation absorbed in **infrared region** ==does not posses enough energy to break chemical bonds==,but is dissipated as heat and rises the temperature of whole atmosphere.
+
+* Photochemical reactions determine the ==nature and ultimate fate of a chemical species== in the atmosphere.</md></sn>
