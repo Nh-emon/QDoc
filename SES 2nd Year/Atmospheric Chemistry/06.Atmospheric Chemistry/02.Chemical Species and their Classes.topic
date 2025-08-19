@@ -1,10 +1,22 @@
 
-	<sn></sn>		
+	<sn><md>### Chemical Species{.fg-red .text-center}
+
+There are `3 types of chemical species` ( relatively ==reactive and unstable== ) that are produced by photochemical reactions.These are
+
+* Electronically excited
+* Ions
+* Free Radicals
+
++++ see note
+* **Ions** : Electrically charged atoms or molecular fragments 
+* **Free Radicals** : Atom or molecule fragments with unshared electrons. 
++++</md></sn>		
 	<config>
 		<tags>#02.chemical species and their classes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Aug 19 2025 23:59:05 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 00:16:19 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-1O9j3MehcK</id>
 		<duration></duration>
 	</config>
+<sn></sn>
