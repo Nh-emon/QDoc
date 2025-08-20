@@ -15,8 +15,26 @@ There are `3 types of chemical species` ( relatively ==reactive and unstable== )
 		<tags>#02.chemical species and their classes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 00:16:19 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 07:24:04 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-1O9j3MehcK</id>
 		<duration></duration>
 	</config>
-<sn></sn>
+<sn><md>## Electronically excited species in the Atmosphere {.fg-red .text-center}
+
+* Electronically excited molecule are produced when `stable molecules absorb energetic photon` in the ultraviolet or visible region of solar spectrum.
+* Electron occupy orbital,but `2 electrons are in opposite direction` in the same orbital.
+* Absorption of UV or visible spectrum causes one of these electrons to `shift to a vacant orbital of higher energy`.
+
+:::.row
+
+::: .col-12 .col-md-6
+* When the shifted electron `retains opposite direction`,gives an excited ==singlet state==.
+* If the `shifted electron has the same direction` as its former partner,gives an excited ==triplet state==.
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/ground-singlet-triplet-state-Diagram(1).svg)
+:::
+
+:::
+</md></sn>
