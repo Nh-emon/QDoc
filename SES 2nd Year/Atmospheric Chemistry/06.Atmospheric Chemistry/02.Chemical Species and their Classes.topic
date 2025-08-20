@@ -15,7 +15,7 @@ There are `3 types of chemical species` ( relatively ==reactive and unstable== )
 		<tags>#02.chemical species and their classes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 08:20:08 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 08:34:53 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-1O9j3MehcK</id>
 		<duration></duration>
 	</config>
@@ -75,4 +75,22 @@ $$ H_3\mathrm{C\cdot} + H_3\mathrm{C\cdot} \to C_2H_6 $$
 
 Since free radicals are `quite reactive`,they generally `have shot lifetime`.Generally free redicals are responsible for `phtochemical smog formation`.
 
-</md></sn>
+</md></sn><sn><md>## Species Classes{.fg-red .text-center}
+
+Atmospheric chemical species fall into the following classes.
+
+| Category                           | Species                                                                                       |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- |
+| `Inorganic Oxides`               | $\mathrm{CO},\; CO_2,\; NO_2,\; SO_2,\; HOO\cdot,\; ROO\cdot,\; NO_3\cdot$                    |
+| `Oxidants`                       | $O_3,\; H_2O_2,\; HO\cdot$                                                                    |
+| `Reductants`                     | $CO,\; SO_2,\; H_2S$                                                                          |
+| `Organics (also reductants)`     | Alkanes, alkenes, aryl compounds (common organic pollutants), $CH_4$ in unpolluted atmosphere |
+| `Oxidized Organic Species`       | Carbonyl compounds, Organic nitrates                                                          |
+| `Photochemically Active Species` | $NO_2$, Formaldehyde                                                                          |
+| `Acids`                          | $H_2SO_4$                                                                                     |
+| `Bases`                          | $NH_3$                                                                                        |
+| `Salts`                          | $NH_4HSO_4$                                                                                   |
+| `Unstable Reactive Species`      | Electronically excited $NO_2^*$, HO radical                                                   |
+
+
+Aforementioned `Oxidants` are most important oxidants since they essentially ==determine the oxidizing capacity of the atmosphere== and therefore involved in many chemical and photochemical reactions. {.bar}</md></sn>
