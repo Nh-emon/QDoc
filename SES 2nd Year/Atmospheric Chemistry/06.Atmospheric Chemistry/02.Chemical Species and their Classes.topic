@@ -15,7 +15,7 @@ There are `3 types of chemical species` ( relatively ==reactive and unstable== )
 		<tags>#02.chemical species and their classes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 08:01:13 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 08:20:08 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-1O9j3MehcK</id>
 		<duration></duration>
 	</config>
@@ -59,4 +59,20 @@ Ions are produced in the upper atmosphere ( ==Ionsphere== ) primarily by the act
 In the **Troposphere**,ions may also be produced by `shearing of water droplets` during precipitation,or by the `compression of descending cold air` or by the `bowling of strong winds` over hot and land masses. {.bar}
 
 Ions produced are `electrons and positively charged` molecular species.
-</md></sn><sn></sn>
+</md></sn><sn><md>## Free Radicals in the atmosphere{.fg-purple .text-center}
+
+In the atmosphere,energetic electromagnetic radiation may produce atoms or groups of `atoms with unpaired electrons` (odd number of electrons) called ==free radicals==. 
+
+$$ CHO-CH_3 + h\nu \to H_3\mathrm{C\cdot} + CH\mathrm{O\cdot} $$
+
+Due to the ==presence of unpaired electrons== free radicals are `highly reactive`.Free radicals can take part in `chain reaction` in which one of the products of reactons is a free radical.
+
+When free radicals ==react with another radical==,the resulting `products are not-free redicals`,wherein free radicals are destroyed.This reaction is the last one in a chain reaction,which is also known as ==chain termination== or ==chain ending reaction==. {.bar}
+
+$$ HO\mathrm{O\cdot} + HO\mathrm{O\cdot} \to H_2O_2 + O_2 $$
+$$ H_3\mathrm{C\cdot} + H_3\mathrm{C\cdot} \to C_2H_6 $$
+
+
+Since free radicals are `quite reactive`,they generally `have shot lifetime`.Generally free redicals are responsible for `phtochemical smog formation`.
+
+</md></sn>
