@@ -1,10 +1,21 @@
 
-	<sn></sn>		
+	<sn><md>## Photochemical Reactions{.fg-red .text-center}
+
+| Reaction                                                | Comments                                                                                                             |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| $6H_2O + 6CO_2 + h\nu \to 6O_2 + C_6H_{12}O_6$          | `Photolysis` by green plants.                                                                                          |
+| $NO_2 + h\nu \to NO + O$ <br> $O_2 + O + M \to O_3 + M$ | Occurs between `0.4–0.6` µm wavelengths. O atom leads to the only in situ chemical source of $O_3$ in the troposphere. |
+| $HONO + h\nu \to OH + NO$                               | `Source of hydroxyl` ($OH$) radical. Occurs at relatively long wavelengths (==&gt; 0.4== µm) that reach ground level.         |
+| $HCHO + h\nu \to H + HCO$                               | Photolysis of formaldehyde `emits free radicals` in the troposphere. Occurs at wavelength ==&lt; 0.430== µm.                  |
+| $O_2 + h\nu \to O + O$                                  | Occurs in `stratosphere` due to absorption of solar radiation in ==0.2–0.220== µm and 0.185–0.2 µm.                        |
+| $O_3 + h\nu \to O_2 + O$                                | Occurs in `stratosphere and troposphere` due to absorption of solar radiation in 0.305–0.320 µm.                       |
+| $CFCl_3 + h\nu \to CFCl_2 + Cl$                         | Photolysis of `chlorofluorocarbons` in stratosphere between ==0.19–0.22== µm.                                              |
+</md></sn>		
 	<config>
 		<tags>#03.photochemical reactions</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 08:38:03 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 08:52:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-62PnISu9Px</id>
 		<duration></duration>
 	</config>
