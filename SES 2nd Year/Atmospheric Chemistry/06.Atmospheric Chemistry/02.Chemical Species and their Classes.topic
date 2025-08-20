@@ -15,7 +15,7 @@ There are `3 types of chemical species` ( relatively ==reactive and unstable== )
 		<tags>#02.chemical species and their classes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 07:24:04 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Aug 20 2025 07:51:10 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-1O9j3MehcK</id>
 		<duration></duration>
 	</config>
@@ -37,4 +37,19 @@ There are `3 types of chemical species` ( relatively ==reactive and unstable== )
 :::
 
 :::
+</md></sn><sn><md>### Reaction of electronically excited species reaction{.fg-orange .text-center}
+
+Different kinds of reaction take place when electronically `excited species combine with other chemical species`.Thus they `loss or transfer` their excess energy.These reactions are
+
+
+| Reaction Name                      | Description                                                                                                              | Example                                                                  |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| **Photoionization**                | `Loss of an electron` when the excited species absorbs energy.                                                             | $N^*_2 \;\to\; N^+_2 + e^-$                                              |
+| **Spontaneous Isomerization**      | `Isomeric conversion of a chemical species` upon exposure to electromagnetic radiation.                                    | $o\text{-nitrobenzaldehyde} + h\nu \;\to\; o\text{-nitrosobenzoic acid}$ |
+| **Intramolecular Energy Transfer** | Energy is transferred `within the same molecule`.                                                                          | $X^{+}Y \;\to\; XY^{+}$                                                  |
+| **Intermolecular Energy Transfer** | An excited species `transfers energy to another` species, exciting the receptor.                                           | $O^*_2 + Na \;\to\; O_2 + Na^*$                                          |
+| **Luminescence**                   | Loss of energy by `emission of electromagnetic radiation` (light).                                                         | $NO^*_2 \;\to\; NO_2 + h\nu$                                             |
+| **Direct Reaction**                | `Direct chemical reaction` of an excited species with another.                                                             | $O^*_2 + O_3 \;\to\; 2O_2 + O$                                           |
+| **Dissociation**                   | Excited molecule breaks apart into atoms or radicals. Responsible for atomic oxygen in the upper atmosphere.             | $O^*_2 \;\to\; O + O$                                                    |
+| **Physical Quenching**             | Loss or transfer of excess energy to another molecule/atom (third body, e.g., $N_2$, $O_2$), usually dissipated as heat. | $O^*_2 + M \;\to\; O_2 + M$                                              |
 </md></sn>
