@@ -1,10 +1,33 @@
 
-	<sn></sn>		
+			
 	<config>
 		<tags>#just</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 21 2025 19:49:09 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 21 2025 19:49:24 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-7kbY0EmWEd</id>
 		<duration></duration>
 	</config>
+<sn><md>### Metabolism
+
+Metabolism is the `sum of all chemical reactions` that occur within a living organism to maintain life.
+
+![image](https://assets.lybrate.com/imgs/tic/enadp/image-of-the-metabolism.jpg)
+
+Metabolism is divided into two main types:
+
+##### Comparison Table: Catabolic vs Anabolic Reactions
+
+| Feature                | **Catabolic Reactions**                          | **Anabolic Reactions**                           |
+| ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| **Definition**         | `Breakdown` of complex molecules into simpler ones | `Synthesis` of complex molecules from simpler ones |
+| **Energy**             | `Releases` energy (exergonic)                      | `Requires` energy input (endergonic)               |
+| **Purpose**            | `Provides` energy and raw materials                | `Builds` cell structures and stores energy         |
+| **Examples**           | Cellular respiration, digestion of food          | Photosynthesis, protein synthesis                |
+| **Type of Reaction**   | Degradative                                      | Biosynthetic                                     |
+| **Molecules Involved** | Large → small (e.g., proteins → amino acids)     | Small → large (e.g., amino acids → proteins)     |
+| **ATP Role**           | Produces ATP                                     | Consumes ATP                                     |
+
+##### Real Example
+-  **Catabolic Reaction** : C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy (ATP)
+- **Anabolic Reaction**: 6CO₂ + 6H₂O + Light energy → C₆H₁₂O₆ + 6O₂</md></sn>
