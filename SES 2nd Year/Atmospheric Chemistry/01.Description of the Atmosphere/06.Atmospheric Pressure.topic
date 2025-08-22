@@ -21,7 +21,7 @@
 		<tags>#06.atmospheric pressure</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 21:52:37 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 22:11:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-B8YcHqmJH1</id>
 		<duration></duration>
 	</config>
@@ -73,4 +73,58 @@ $$
 :::
 
 Meteorologists commonly use the ==milibar== (mb) unit.
-</md></sn><sn></sn>
+</md></sn><sn><md>### Measuring Atmospheric Pressure
+
+#### Formula
+
+$$
+P = \frac{F}{A}
+$$
+
+
+### Approximation using Earth’s parameters
+
+Instead of using $\rho$ and $h$, we can derive pressure from the **weight of the atmosphere per unit area**:
+
+As $F = mg$ ,
+
+$$
+P = \frac{M_{\text{atm}} \, g}{A_{\oplus}}
+$$
+
++++ where
+
+* $M_{\text{atm}}$ = total mass of Earth’s atmosphere ≈ $5.15 \times 10^{18}\ \text{kg}$
+* $g$ = 9.80665 m/s²
+* $A_{\oplus}$ = surface area of Earth = $4 \pi R^2$, with Earth’s mean radius $R \approx 6.371 \times 10^6\ \text{m}$
++++
+
+### Calculation
+
+1. **Earth’s surface area**
+
+$$
+A_{\oplus} = 4 \pi (6.371 \times 10^6)^2 \approx 5.10 \times 10^{14}\ \text{m}^2
+$$
+
+2. **Total weight of atmosphere**
+
+$$
+W = M_{\text{atm}} g = (5.15 \times 10^{18})(9.80665) \approx 5.05 \times 10^{19}\ \text{N}
+$$
+
+3. **Pressure**
+
+$$
+P = \frac{W}{A_{\oplus}} = \frac{5.05 \times 10^{19}}{5.10 \times 10^{14}}
+\approx 9.91 \times 10^4\ \text{Pa}
+$$
+
+#### Result
+
+$$
+P \approx 1.01 \times 10^5\ \text{Pa} = 101\ \text{kPa} \approx 1\ \text{atm}
+$$
+
+At sea-level the mass of air on per `unit square meter` surface area is about `10000 kg` per square meter,that is ==1kg per square centimeter==.
+</md></sn>
