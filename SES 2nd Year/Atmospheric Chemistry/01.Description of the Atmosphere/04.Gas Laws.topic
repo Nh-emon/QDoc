@@ -32,9 +32,29 @@ where:
 
 ---
 
+In studying atmosphere,`density` $\rho$ (mass per unit volume) is conveniently used,rather than volume.Measuring volume in atmosphere is comperatively hard.
+
+Therefore,if temperature of gas T does not change its pressure `P` is varites ==proportionally== with density $\rho$
+
+
+$$
+P \propto \frac{1}{V} \quad \text{(at constant T and n)}
+$$
+
+$$
+P \propto \rho
+$$
+
+$$
+P = k \rho \quad \text{K is constant}
+$$
+
+
+
+
 ### Explanation
 
-If the volume of a `gas decreases`, its `pressure increases` proportionally, provided ==temperature remains constant==. For example, compressing a gas-filled syringe reduces its volume and increases its internal pressure.
+If the `volume` of a gas ==decreases==, its `pressure` and `density` ==increases== proportionally, provided ==temperature remains constant==. For example, compressing a gas-filled syringe reduces its volume and increases its internal pressure.
 
 ---
 
@@ -62,7 +82,8 @@ $$
 		<tags>#04.gas laws</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 17:00:21 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 18:12:32 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-KZTTqLRiNm</id>
 		<duration></duration>
 	</config>
+<sn></sn>
