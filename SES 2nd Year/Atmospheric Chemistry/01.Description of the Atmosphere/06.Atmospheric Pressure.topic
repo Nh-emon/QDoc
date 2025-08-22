@@ -21,7 +21,7 @@
 		<tags>#06.atmospheric pressure</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 21:05:49 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 21:49:37 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-B8YcHqmJH1</id>
 		<duration></duration>
 	</config>
@@ -34,4 +34,42 @@ Atmospheric pressure readings are measured near sea level with a mercury `barome
 +++ see tutorial
 @[tutorial](https://www.youtube.com/embed/EkDhlzA-lwI)
 +++
-</md></sn>
+</md></sn><sn><md>### Pressure of the Atmosphere from Barometer{.text-center}
+
+We all know that,
+
+$$ P = \frac{F}{A} \quad \text{(eq1)} $$
+
+force per unit area.
+
+Now,$F = mg$ ,here m is the mass of the barometer upto 76cm.
+
+$$ \rho = \frac{m}{v}  $$
+$$ m = \rho v  $$
+
+Now $F = mg$ or $F = \rho v$,substituting F in eq1
+
+$$ P = \frac{\rho vg}{A} $$
+
+$$ P = \frac{\rho Ahg}{A} $$
+
+$$ P = \rho h g $$
+
+$$ P = 13.6 \times 76 \times 980 $$
+
+$$ P = 1.0136\times10^6 dynes/cm^2 $$
+
++++ where, 
+* density of mercury at 0° $\rho = 13.6g/cm^3$
+* value of gravity = 980 cm/s^2
+* height of the column of mercury = 76cm
++++
+
+### Atmospheric pressure in different form
+::: .bar .scroll .scroll-both 
+$$
+1\ \text{atm} = 101325\ \text{Pa} = 101.325\ \text{kPa} = 1.01325\ \text{bar} = 760\ \text{mmHg} = 760\ \text{Torr} = 76\ \text{cmHg} \approx 10.33\ \text{mH}_2\text{O} \approx 14.696\ \text{psi}
+$$
+
+:::
+</md></sn><sn></sn>
