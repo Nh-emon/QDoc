@@ -21,7 +21,7 @@
 		<tags>#06.atmospheric pressure</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 21:49:37 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 21:52:37 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-B8YcHqmJH1</id>
 		<duration></duration>
 	</config>
@@ -68,8 +68,9 @@ $$ P = 1.0136\times10^6 dynes/cm^2 $$
 ### Atmospheric pressure in different form
 ::: .bar .scroll .scroll-both 
 $$
-1\ \text{atm} = 101325\ \text{Pa} = 101.325\ \text{kPa} = 1.01325\ \text{bar} = 760\ \text{mmHg} = 760\ \text{Torr} = 76\ \text{cmHg} \approx 10.33\ \text{mH}_2\text{O} \approx 14.696\ \text{psi}
+1\ \text{atm} = 101325\ \text{Pa} = 101.325\ \text{kPa or mb} = 1.01325\ \text{bar} = 760\ \text{mmHg} = 760\ \text{Torr} = 76\ \text{cmHg} \approx 10.33\ \text{mH}_2\text{O} \approx 14.696\ \text{psi}
 $$
-
 :::
+
+Meteorologists commonly use the ==milibar== (mb) unit.
 </md></sn><sn></sn>
