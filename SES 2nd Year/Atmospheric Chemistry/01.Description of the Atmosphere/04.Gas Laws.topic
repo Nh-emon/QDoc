@@ -1,5 +1,64 @@
 
-	<sn><md>## Boyle’s Gas Law {.fg-red .text-center}
+	<sn><md>## Gas Law
+
++++ see volume and density relation
+
+## Volume and density relation{.fg-red .text-center}
+
+Density ($\rho$) is **inversely proportional** to volume ($V$) when mass is constant{.bar}
+
+We know the definition of density:
+
+$$
+\rho = \frac{m}{V}
+$$
+
+* $\rho$ = density , $m$ = mass , $V$ = volume
+---
+
+1. For a given substance, **mass $m$ is constant**.
+
+2. So,
+
+$$
+\rho = \frac{m}{V}
+$$
+
+3. This means
+
+$$
+\rho \times V = m
+$$
+
+Since $m$ is constant, we can write
+
+$$
+\rho \times V = k \quad (\text{where } k \text{ is constant})
+$$
+
+---
+
+#### Conclusion
+
+If the product of two quantities is constant, then one is **inversely proportional** to the other. {.bar}
+
+$$
+\rho \propto \frac{1}{V}
+$$
+
++++
+
+
+## Gas Law Overview Table{.fg-orange .text-center}
+
+
+| Gas Law                      | Definition                                                                                                        | Expression              | Expression with Constant (K) |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------- |
+| `Boyle’s Law`                  | At constant temperature, the volume of a fixed mass of gas is inversely proportional to its pressure.             | $P \propto \frac{1}{V}$ | $PV = K$                     |
+| `Charles’s Law`                | At constant pressure, the volume of a fixed mass of gas is directly proportional to its absolute temperature.     | $V \propto T$           | $\frac{V}{T} = K$            |
+| `Gay-Lussac’s Law` | At constant volume, the pressure of a fixed mass of gas is directly proportional to its absolute temperature.     | $P \propto T$           | $\frac{P}{T} = K$            |
+| `Avogadro’s Law`               | At constant temperature and pressure, the volume of a gas is directly proportional to the number of moles of gas. | $V \propto n$           | $\frac{V}{n} = K$            |
+</md></sn><sn><md>## Boyle’s Gas Law {.fg-red .text-center}
 
 **Boyle’s Law states that**
 
@@ -24,12 +83,12 @@ $$
 P \times V = k
 $$
 
-where:
++++ where:
 
 * $P$ = `Pressure` of the gas
 * $V$ = `Volume` of the gas
 * $k$ = `Constant` (for a given mass of gas at constant temperature)
-
++++
 ---
 
 In studying atmosphere,`density` $\rho$ (mass per unit volume) is conveniently used,rather than volume.Measuring volume in atmosphere is comperatively hard.
@@ -51,6 +110,7 @@ $$
 
 
 
++++ see more
 
 ### Explanation
 
@@ -77,13 +137,65 @@ $$
 $$
 P_2 = 4 \, \text{atm}
 $$
-</md></sn>		
+
++++</md></sn>		
 	<config>
 		<tags>#04.gas laws</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 18:12:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 19:27:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-KZTTqLRiNm</id>
 		<duration></duration>
 	</config>
-<sn></sn>
+<sn><md>## Charles Gas Law{.fg-red .text-center}
+
+Charles’s Law states that,
+
+At *constant pressure*, the volume `V` of a fixed mass of gas is directly proportional to its absolute temperature `T` (in Kelvin). {.bar}
+
+$$
+V \propto T \quad \text{(when pressure is constant, mass fixed)}
+$$
+
+Now, as $V \propto \frac{1}{\rho}$
+
+$$
+\rho \propto \frac{1}{T}
+$$
+
+So,if the pressure is constant the density of  a fixed mass of gas is inversely proportional to its absolute temperature `T`
+
+$$
+\rho =  \frac{K}{T} \quad \text{(K is constant)}
+$$
+
+</md></sn><sn><md>## Third Gas Law{.fg-red .text-center}
+
+It state that,
+
+At *constant V*, the pressure `P` of a fixed mass of gas is directly proportional to its absolute temperature `T` (in Kelvin). {.bar}
+
+$$
+P \propto T \quad \text{(when volume is constant, mass fixed)}
+$$
+
+
+</md></sn><sn><md>## Avogardo's law {.fg-red .text-center}
+
+Avogardo's law states that at *constant pressure and temperature* the `volume` of a gas is directly proportional to the `number of moles of the gas present` {.bar}
+ 
+Equal volume of different gases contain the same number of moles
+
+$$ V \propto n $$
+$$ V = Kn $$
+
+According to Avogardo's law when gases reacts with each other,their reacting volumes have a `simple ratio` to each other.If the product is a gas,its volume is `related to the volume of reactant` by simple ratio.Such as
+
+
+$$ 3H_2\text{(g)} + N_2\text{(g)} \to 2NH_3\text{(g)} $$
+
+| 3 moles | 1 moles | 2 moles |
+|----------|----------|----------|
+| 3 molecules  | 1 molecules  | 2 molecules  |
+| 3 volumes  | 1 volumes  | 2 volumes  |
+</md></sn>
