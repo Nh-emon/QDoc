@@ -1,10 +1,37 @@
 
-	<sn></sn>		
+	<sn><md>## Atmospheric Pressure{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+* Air is highly ==compressible==
+* Thus,`lower layers` of the atmosphere are much `denser` than those above.
+* The density of atmosphere `👇 decreases sharply` with `👆 increasing altitudes` as consequence of the gas laws and gravity.
+* The atmosphere pressure is the **weight** of the overlying `atmosphere per unit area`.
+* Pressure is measured as a `force per unit area`.  
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://thumbs.dreamstime.com/b/diagram-atmospheric-pressure-vs-altitude-12436225.jpg)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#06.atmospheric pressure</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 20:46:14 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 21:05:49 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-B8YcHqmJH1</id>
 		<duration></duration>
 	</config>
+<sn><md>## Barometer{.fg-red .text-center}
+
+Atmospheric pressure readings are measured near sea level with a mercury `barometer` to eliminate the effect of land elevation.
+
+![diagram-of-barometer](https://cdn5.slideserve.com/9361746/torricelli-s-barometer-n.jpg)
+
++++ see tutorial
+@[tutorial](https://www.youtube.com/embed/EkDhlzA-lwI)
++++
+</md></sn>
