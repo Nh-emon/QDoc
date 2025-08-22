@@ -1,10 +1,71 @@
 
-	<sn></sn>		
+	<sn><md>## Ideal Gas Equation {.fg-red .text-center}
+
+We can combine `Boyle's` , `Charles` and `Avogardo's` law to form a single master equation known as ideal gas equation.in order to describes the relationship among pressure,temperature,volume and number of moles of a gas.
+
+$$ V \propto \frac{nT}{P} $$
+$$ V = \frac{RnT}{P} $$
+$$ PV = nRT $$
+
+Where,`R` = proportionality constant or ==ideal gas constant==
+</md></sn>		
 	<config>
 		<tags>#05.ideal gas equation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 19:30:53 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 20:27:40 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-IGrbD6kAMg</id>
 		<duration></duration>
 	</config>
+<sn><md>## 💡 Facts {.fg-red .text-center}
+
+* Ideal gas equation implies that **pressure,temperature,volume and number of moles** of a gas are completely `interdependant`.Therefore,`any change in one` of them will cause a `compensating change in one`,or the remainder
+  * If, n and T are held fixed,we obtain `Boyle's Law` $ p \propto \frac{1}{V} $
+  * If, n and P are held fixed,we obtain `Charle's Law`  $ V \propto T $
+  * If, P and T are held fixed,we obtain `Avogardo's Law`  $ V \propto n $
+
+* An idal gas is a `hypothetical gas` whose pressure-temperature-volume behaviour can be completely accounted by the idal gas equation.
+
+* Although there is no such thing in nature as ideal gas,most gases under resonable low pressure and high temperature behave like ideal gas.
+
+* Thus, we can sefely use idal gas equation to solve any gas problems in enviromental science.
+
+* Since it is convenient to use density rather than volume in studying atmosphere,the ideal gas law equation can be rearranged as 
+
+  $$ P = R \rho T $$
+
+* Thus,at any given pressure an increase in temperature causes as decrease in density and vice-versa.
+</md></sn><sn><md>## Evaluating the Ideal Gas Constant $R$ from STP Values
+
+Using the classic `STP` definition (0°C = 273.15 K, $1\ \text{atm}$)
+
+From the ideal gas law:
+
+$$
+R = \frac{PV}{nT}
+$$
+
+For one mole ($n=1$) at STP:
+
+* $P = 1\ \text{atm}$
+* $V = 22.414\ \text{L}$
+* $T = 273.15\ \text{K}$
+
+$$
+R = \frac{1\ \text{atm} \times 22.414\ \text{L}}{1\ \text{mol} \times 273.15\ \text{K}}
+= 0.08206\ \text{L atm K}^{-1}\text{ mol}^{-1}
+$$
+
+---
+
+### Convert to SI units
+
+$$
+R = \frac{101325\ \text{Pa} \times 0.022414\ \text{m}^3}{1\ \text{mol} \times 273.15\ \text{K}}
+= 8.31447\ \text{J K}^{-1}\text{ mol}^{-1}
+$$
+
+As, $1m^3 = 1000L $
+
+* R = ( $R_d$ for dry air ) = 287.04 j/kg K
+* R = ( $R_w$ for moist air ) = 461.5 j/kg K</md></sn>
