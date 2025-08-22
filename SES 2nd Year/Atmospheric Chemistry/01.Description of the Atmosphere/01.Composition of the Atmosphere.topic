@@ -23,7 +23,7 @@ The atmospheric composition is `not uniform everywhere`; it varies with ==ALT== 
 		<tags>#01.composition of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 15:47:21 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 15:54:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Ln6cQL9bWJ</id>
 		<duration></duration>
 	</config>
@@ -89,4 +89,14 @@ The atmospheric composition is `not uniform everywhere`; it varies with ==ALT== 
 6. **Other Trace Gases**
    Apart from the major gases, the atmosphere `contains tiny amounts of gases` like ==neon, helium, methane, ozone, hydrogen, and krypton==. Despite their small concentrations, many of these gases have major roles. For example, `ozone protects Earth` from harmful ultraviolet (UV) rays, while `methane` contributes to the ==greenhouse effect==.
 
-+++</md></sn><sn></sn>
++++</md></sn><sn><md>### Fact{.fg-red .text-center}
+
+In addition to ==percentage by volume==,the follwing units are also used :
+
+| Pronounciation | Unit | Value |
+|----------|----------|---|
+| Parts per million by volume    | ppmv    | $10^{-6}$  |
+| Parts per billtion by volume    | ppbv    | $10^{-9}$  |
+| Parts per trillion by volume    | pptv    | $10^{-12}$  |
+
+Number of melecules per cubic centimeter ( $cm^{-3}$ )</md></sn>
