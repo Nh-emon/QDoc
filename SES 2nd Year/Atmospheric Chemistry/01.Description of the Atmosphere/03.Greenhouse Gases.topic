@@ -1,10 +1,47 @@
 
-	<sn></sn>		
+	<sn><md>## Greenhouse Gases{.fg-indigo .text-center}
+---
+
+:::.row
+
+::: .col-12 .col-lg-6 .p-2
+* `Carbon dioxide` ($CO_2$)
+* `Methane` ( $CH_4$ )
+* `Nitrous oxide` ( $N_2O$ )
+* `Ozone` ( $O_3$ )
+* `Chlorofluorocarbons` ( $CFCs$ )
+* `Hydrogenated halocarbons` ( $HCFC$ and $HCFCs$ )
+  * used as substitute of $CFCs$ 
+* `Water Vapor` ( $H_2O$ )  
+:::
+
+::: .col-12 .col-lg-6
+![diagram](https://www.epa.gov/system/files/images/2024-04/gases-by-source-2024.png)
+:::
+
+:::
+
+
+
+### Reactive gas species :
+
+| Species | Gas |
+|----------|----------|
+| `Nitrogen`    | $NO$ and $NO_2$   |
+| `Sulfure`    | $SO_2$ , $H_2S$ and $(CH_3)_2S$   |
+
+
+### Aerosols
+
+Suspended particles ( 0.001-10 um ) of `sea-salt`,`mineral dust`,`organic matter` and smoke in the atmosphere.
+
+**Sea-salt** Formed by the ==evaporation== of water from ==droplets of sea sprays==.
+</md></sn>		
 	<config>
 		<tags>#03.greenhouse gases</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 15:57:23 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 16:14:07 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-BEqj4NLhNa</id>
 		<duration></duration>
 	</config>
