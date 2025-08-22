@@ -5,7 +5,11 @@
 
 ::: .col-12 .col-md-7
 
-Understanding its composition is essential to studying climate, weather, and the survival of living organisms. The composition is `not uniform everywhere`; it varies with `altitude, temperature, and location`. However, the lower layers of the atmosphere, where life exists, have a fairly stable and well-defined mixture of gases.
+The atmospheric composition is `not uniform everywhere`; it varies with `altitude, temperature, and location`. However, the lower layers of the atmosphere, where life exists, have a fairly stable and well-defined mixture of gases.
+
+- Air is a mechanical mixture of gases and aerosols.
+- **Dry air** is mostly composed of `nitrogen and oxygen`.
+- Nitrogen and oxygen are *mixed in constant proportions* up to about 85km altitude.
 
 :::
 
@@ -19,7 +23,7 @@ Understanding its composition is essential to studying climate, weather, and the
 		<tags>#01.composition of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 16 2025 21:39:23 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 15:21:27 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Ln6cQL9bWJ</id>
 		<duration></duration>
 	</config>
@@ -28,23 +32,23 @@ Understanding its composition is essential to studying climate, weather, and the
 
 :::.row
 
-:::.col-12 .col-md-6
+:::.col-12 .col-md-6 .p-md-2
 
-==Nice Old Angry Cats Never Help My Kind Hearted Old Woman.==
+#### Nice Old Angry Cats 🐈 Never Help My Kind Hearted Old Woman 👩‍🦰 {.fg-pink p-2}
 
-| Gas Name             | Percentage in Atmosphere                |
-| -------------------- | --------------------------------------- |
-| ==Nitrogen (N₂)==        | `78`%                                     |
-| ==Oxygen (O₂)==          | `21`%                                     |
-| ==Argon (Ar)==           | `0.93`%                                   |
-| ==Carbon Dioxide (CO₂)==  | `0.04`%                                   |
-| ==Neon (Ne)==             | `0.0018`%                                 |
-| ==Helium (He)==           | 0.000`5`%                                 |
-| ==Methane (CH₄)==         | 0.000`2`%                                 |
-| ==Krypton (Kr)==          | 0.000`1`%                                 |
-| ==Hydrogen (H₂)==         | `0.00005`%                                |
-| ==Ozone (O₃)==           | `0.000003`% (variable)                    |
-| ==Water Vapor (H₂O)==    | `0–4`% (variable by location and climate) |
+| Type  | Gas Name             | Percentage in Atmosphere                |
+| ----  | -------------------- | --------------------------------------- |
+| **Major**  | Nitrogen (N₂)        | `78.08`%                                     |
+|   | Oxygen (O₂)           | `20.95`%                                     |
+| **Minor**  | Argon (Ar)           | `0.93`%                                   |
+|   | Carbon Dioxide (CO₂)  | `0.037`%                                   |
+| **Noble**  | Neon (Ne)            | `0.0018`%                                 |
+|   | Helium (He)           | 0.000`52`%                                 |
+| not  | Methane (CH₄)         | 0.000`15`%                                 |
+|   | Krypton (Kr)          | 0.000`11`%                                 |
+| **Trace**  | Hydrogen (H₂)         | `0.00005`%                                |
+|  | Ozone (O₃)           | `0.000003`% (variable)                    |
+|   | Water Vapor (H₂O)    | `0–4`% (variable by location and climate) |
 
 ::: 
 
@@ -55,6 +59,8 @@ Understanding its composition is essential to studying climate, weather, and the
 
 :::
 </md></sn><sn><md>### Major Gases {.text-center .fg-red}
+
++++ read more
 
 1. **Nitrogen (78%)**
    Nitrogen is the most `abundant gas` in the atmosphere. Although it is not directly used in respiration by humans and animals, it plays a crucial role in maintaining the balance of the atmosphere by `diluting oxygen and preventing rapid combustion`. Nitrogen also participates in the `nitrogen cycle`, which is vital for plant growth.
@@ -73,6 +79,5 @@ Understanding its composition is essential to studying climate, weather, and the
 
 6. **Other Trace Gases**
    Apart from the major gases, the atmosphere `contains tiny amounts of gases` like ==neon, helium, methane, ozone, hydrogen, and krypton==. Despite their small concentrations, many of these gases have major roles. For example, `ozone protects Earth` from harmful ultraviolet (UV) rays, while `methane` contributes to the ==greenhouse effect==.
-</md></sn><sn><md>## Conclusion{.fg-red .text-center}
 
-The composition of the atmosphere is finely tuned to support life on Earth. Even though ==nitrogen and oxygen dominate==, trace gases such as carbon dioxide, water vapor, and ozone play disproportionately significant roles. Human activities are disturbing this balance, leading to climate change and environmental challenges. Protecting the atmosphere is therefore critical for the sustainability of life and the health of our planet.</md></sn>
++++</md></sn>
