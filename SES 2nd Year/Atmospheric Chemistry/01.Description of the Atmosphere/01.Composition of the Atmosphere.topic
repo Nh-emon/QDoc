@@ -5,7 +5,7 @@
 
 ::: .col-12 .col-md-7
 
-The atmospheric composition is `not uniform everywhere`; it varies with `altitude, temperature, and location`. However, the lower layers of the atmosphere, where life exists, have a fairly stable and well-defined mixture of gases.
+The atmospheric composition is `not uniform everywhere`; it varies with ==ALT== `altitude,location and temperature`. However, the lower layers of the atmosphere, where life exists, have a fairly stable and well-defined mixture of gases.
 
 - Air is a mechanical mixture of gases and aerosols.
 - **Dry air** is mostly composed of `nitrogen and oxygen`.
@@ -23,7 +23,7 @@ The atmospheric composition is `not uniform everywhere`; it varies with `altitud
 		<tags>#01.composition of the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 15:21:27 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Aug 22 2025 15:34:42 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Ln6cQL9bWJ</id>
 		<duration></duration>
 	</config>
@@ -47,13 +47,18 @@ The atmospheric composition is `not uniform everywhere`; it varies with `altitud
 | not  | Methane (CH₄)         | 0.000`15`%                                 |
 |   | Krypton (Kr)          | 0.000`11`%                                 |
 | **Trace**  | Hydrogen (H₂)         | `0.00005`%                                |
-|  | Ozone (O₃)           | `0.000003`% (variable)                    |
+|  | Ozone (O₃)           | `0.00006`% (variable)                    |
 |   | Water Vapor (H₂O)    | `0–4`% (variable by location and climate) |
 
 ::: 
 
 
 :::.col-12 .col-md-6
+
++++ see diagrams
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20230504213517/WhatsApp-Image-2023-05-04-at-213453.jpg)
++++
+
 ![diagram](https://exampariksha.com/wp-content/uploads/2014/12/structure-of-atmosphere2.png)
 :::
 
