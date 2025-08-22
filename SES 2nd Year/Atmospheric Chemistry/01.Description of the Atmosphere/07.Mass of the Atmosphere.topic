@@ -1,0 +1,68 @@
+
+	<sn><md>## Mass of the Atmosphere{.fg-red .text-center}
+
+The atmosphere, though appearing light and invisible, `has a measurable mass` that plays a vital role in Earth’s climate, weather, and life-supporting systems. The mass of the atmosphere refers to the `total weight of all the gases surrounding Earth`, held in place by gravity. This mass not only ==creates atmospheric pressure== at the surface but also helps regulate temperature, protects from harmful radiation, and supports life.
+
+
+The estimated total mass of Earth’s atmosphere is about $5.5 \times 10^{18}$ kilograms. While this seems extremely large, it is small compared to the total mass of Earth, which is about $5.97\times10^{24}$ kilograms. This means the atmosphere makes up only about ==one-millionth of Earth’s total mass==.
+</md></sn>		
+	<config>
+		<tags>#03.mass of the atmosphere</tags>
+		<thumbnail></thumbnail>
+		<heading></heading>
+		<udate>Mon Aug 18 2025 22:34:40 GMT+0600 (Bangladesh Standard Time)</udate>
+		<id>article-NXgXAwcQSg</id>
+		<duration></duration>
+	</config>
+<sn><md>## Calculating{.fg-red .text-center}
+
+
+Using the physics relations:
+
+* $p = \dfrac{F}{A}$  (pressure = force/area)
+* $F = mg$  (weight = mass × gravity)
+
+Combine them:
+
+$$
+p = \frac{mg}{A} \;\Rightarrow\; m = \frac{pA}{g}
+$$
+
+#### Step 1: Use standard values{.text-end}
+
+* Sea-level standard pressure: $p = 101{,}325\ \text{Pa}$
+* Mean gravitational acceleration: $g = 9.80665\ \text{m s}^{-2}$
+* Earth’s surface area: $A = 4\pi R^2$, with $R \approx 6.371\times10^6\ \text{m}$
+
+Compute $A$:
+
+$$
+A = 4\pi (6.371\times10^6)^2 \approx 5.1006\times10^{14}\ \text{m}^2
+$$
+
+#### Step 2: Atmospheric **mass** {.text-end}
+
+$$
+m = \frac{pA}{g} \approx \frac{(101{,}325)\times(5.1006\times10^{14})}{9.80665}
+\approx 5.27\times10^{18}\ \text{kg}
+$$
+
+#### Step 3: Atmospheric **weight** (force){.text-end}
+
+$$
+F = pA \approx (101{,}325)\times(5.1006\times10^{14})
+\approx 5.17\times10^{19}\ \text{N}
+$$
+
+#### Helpful checkpoint (per-unit-area view){.text-end}
+
+Mass of air above 1 m² at sea level:
+
+$$
+\frac{m}{A}=\frac{p}{g}\approx \frac{101{,}325}{9.80665}\approx 1.0332\times10^{4}\ \text{kg/m}^2
+$$
+
+---
+
+**Notes:** The computed mass $\sim 5.27\times10^{18}\ \text{kg}$ is close to commonly cited estimates (\~$5.15\times10^{18}\ \text{kg}$). Differences arise because the calculation assumes uniform sea-level pressure and average $g$, while the real atmosphere varies with altitude, temperature, and weather.{bar}
+</md></sn>
