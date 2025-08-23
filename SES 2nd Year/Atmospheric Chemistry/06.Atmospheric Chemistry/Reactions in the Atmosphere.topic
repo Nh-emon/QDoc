@@ -1,10 +1,45 @@
 
-	<sn></sn>		
+	<sn><md>## Acid Base Reaction{.fg-red .text-center}
+
+**Acid-Base** reactions occur between acidic and basic species in the atmosphere.
+
+### Acid
+
+Atmosphere is normally at least `slightly acidic` because of the presence of a low level of `carbon dioxide` ( $CO_2$ ),that dissolved in atmosphere water droplets and dissociates slightly.
+
+$$ CO_2(\text{g}) + H_2O \to CO_2(\text{aq}) $$
+$$ CO_2(\text{aq}) + H_2O \to H^+ + HCO_3^- $$
+
+Storngly acidic $HNO_3$ and $H_2SO_4$ are formed by the atmospheric oxidation of nitrogen oxides,$SO_2$ and $H_2S$ gases,respectively.
+
+
+### Base
+
+In the atmosphere `basic` species are relatively `less common`.
+
+Some `base` materials such as particulate ==calcium oxide,hydroxide and carbonate== get into the atmosphere from ==ash and ground rock==,that can react with acids to form bases,such as in the following reaction
+
+$$ Ca(OH)_2(\text{s}) + H_2SO_4(\text{aq}) \to CaSO_4(\text{s}) + 2H_2O $$
+
+
+### $NH_3$
+
+Gas-phase ammonia ( $NH_3$ ) is an important source of base in the atmosphere,becuase it is the ==only water soluble base== presents at significant levels in the atmosphere.
+
+Atmospheric ammonia ( $NH_3$ ) is formed from the ==biodegration of nitrogen== containing biological matter and from bacterial reduction of nitrate.
+
+$$ NO_3^-(\text{aq}) + 2{CH_2O}(\text(biomass)) + H^+ \to NH_3(\text{g}) + 2CO_2 + H_2O $$
+
+When  ammonia ( $NH_3$ ) dissolves in atmospheric water droplets,plays a strong role in ==neutralizing atmospheric acids== as follows :
+
+$$ NH_3(\text{aq}) + HNO_3(\text{aq}) \to NH_4NO_3(\text(aq)) $$
+$$ NH_3(\text{aq}) + H_2SO_4(\text{aq}) \to NH_4HSO_4(\text(aq)) $$
+</md></sn>		
 	<config>
 		<tags>#reactions in the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 23 2025 21:15:49 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 23 2025 21:37:48 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-QZy3Lt5j3m</id>
 		<duration></duration>
 	</config>
