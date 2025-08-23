@@ -39,7 +39,7 @@ $$ NH_3(\text{aq}) + H_2SO_4(\text{aq}) \to NH_4HSO_4(\text{aq}) $$
 		<tags>#reactions in the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 23 2025 23:57:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 00:05:28 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-QZy3Lt5j3m</id>
 		<duration></duration>
 	</config>
@@ -104,4 +104,9 @@ Ozone ($O_3$) is formed `reacting oxygen molecule` ($O_2$) with `oxygen atom` ($
 $$ O_2 + O + M \to O_3 + M $$
 
 In the atmosphere ,members of ==odd oxygen== family $O$,$O^*$ and $O_3$ react with other chemical species.
-</md></sn>
+
+
++++ require diagram
+* Oxygen Cycle
+* chemical reaction affecting odd oxygen 
++++</md></sn>
