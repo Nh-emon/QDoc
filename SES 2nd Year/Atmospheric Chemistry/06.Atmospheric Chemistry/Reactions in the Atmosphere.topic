@@ -39,7 +39,32 @@ $$ NH_3(\text{aq}) + H_2SO_4(\text{aq}) \to NH_4HSO_4(\text{aq}) $$
 		<tags>#reactions in the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 23 2025 21:47:49 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 23 2025 22:31:51 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-QZy3Lt5j3m</id>
 		<duration></duration>
 	</config>
+<sn><md>## Atmospheric Nitrogen
+
+A significant amount of $N_2$ is `fixed` in the atmoshpere by ==lightning process== (provides high energy to dissociate stable $N_2$ molecule)
+
+Nitrogen is ==not readily dissociated by UV== in the **thermosphere** like oxygen,but at altitude ==above 100km==,atmoic nitrogen is produced by the photochemical reactions
+
+$$ N_2 + h\nu \to N + N $$
+
+In the troposphere ==oxides of nitrogen==(pollutant) like $NO_2$ **readily dissociate** photochemically into `NO` and reactive `atmoic oxygen`.
+
+$$ NO_2 + h\nu \to NO + O $$
+
+It is a significant photochemical process involved in the ==photochemical smog formation==.</md></sn><sn><md>## Atmospheric Water
+
+Water vapor absorbs ==infrared (IR) radiation== strongly and thus,influences the earths heat balance.
+
+Under certain circumstances,atmosphere water vapor influences the ==formation of pollution-induce fog== and also participates in different chemical process.
+
+In **stratosphere**,the main `source of water vapor` is from the ==photochemical oxidation of methane==
+
+$$ CH_4 + 2O_2 + h\nu \to CO_2 + 2H_2O $$
+
+Thus,the water produced in stratorsphere serves as a ==source of hydroxyl radical== ($H\mathrm{O\cdot}$)
+
+$$ H_2O + hv \to H\mathrm{O\cdot} + H $$</md></sn>
