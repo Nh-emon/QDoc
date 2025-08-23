@@ -39,7 +39,7 @@ $$ NH_3(\text{aq}) + H_2SO_4(\text{aq}) \to NH_4HSO_4(\text{aq}) $$
 		<tags>#reactions in the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 23 2025 22:31:51 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 23 2025 22:57:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-QZy3Lt5j3m</id>
 		<duration></duration>
 	</config>
@@ -67,4 +67,24 @@ $$ CH_4 + 2O_2 + h\nu \to CO_2 + 2H_2O $$
 
 Thus,the water produced in stratorsphere serves as a ==source of hydroxyl radical== ($H\mathrm{O\cdot}$)
 
-$$ H_2O + hv \to H\mathrm{O\cdot} + H $$</md></sn>
+$$ H_2O + hv \to H\mathrm{O\cdot} + H $$</md></sn><sn><md>## Atmospheric Oxygen
+
+In the atmosphere **oxgen** mainly present as :
+
+* `diatomic oxygen` ( $O_2$ ) in the ==lower atmosphere==
+
+| name | form |
+|----------|----------|
+| oxygen atom    | $O$    |
+| excited oxygen atom    | $O^*$    |
+| oxygen ion   | $O^+$    |
+| molecular oxygen  | $O_2$    |
+| excited oxygen molecules   | $O_2^*$    |
+| ozone  | $O_3$    |
+
+* these are virtullay ==notexistence== at very high altituded due to `photodissociation` in the upperatmosphere.
+
+* In the lower atmosphere(troposphere) $O_2$ plays a significant role in different chemcial processes and in ==energy-production== such as the burning of fossil fules :
+
+$$ CH_4 + 2O_2 \to CO_2 + 2H_2O + \text{Energy} $$
+</md></sn>
