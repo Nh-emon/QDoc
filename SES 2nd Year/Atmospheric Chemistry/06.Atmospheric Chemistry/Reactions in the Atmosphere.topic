@@ -39,7 +39,7 @@ $$ NH_3(\text{aq}) + H_2SO_4(\text{aq}) \to NH_4HSO_4(\text{aq}) $$
 		<tags>#reactions in the atmosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 23 2025 22:57:02 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 23 2025 23:57:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-QZy3Lt5j3m</id>
 		<duration></duration>
 	</config>
@@ -87,4 +87,21 @@ In the atmosphere **oxgen** mainly present as :
 * In the lower atmosphere(troposphere) $O_2$ plays a significant role in different chemcial processes and in ==energy-production== such as the burning of fossil fules :
 
 $$ CH_4 + 2O_2 \to CO_2 + 2H_2O + \text{Energy} $$
+</md></sn><sn><md>### More oxygen reactions
+
+In the upper atmosphere ==solar radiation causes== `photochemical dissociation,ionization and excitation` of oxygen such as
+
+| reaction | wavelength (nm) | zone | 
+|----------|----------| ------ |
+| $O_2 + h\nu \to O + O $  | 135-176 | thermosphere  |
+| $O_2 + h\nu \to O + O $  | 240-260 | stratosphere  |
+| $O_3 + h\nu \to O^* + O_2 $  | &lt;308 | stratosphere  |
+| $O + h\nu \to O^+ + e^- $  | | predominant positive ion in same regions of the inosphere  |
+| $O_2 + h\nu \to O_2^+ + e^+ $  |  | in some parts of ionosphere  |
+
+Ozone ($O_3$) is formed `reacting oxygen molecule` ($O_2$) with `oxygen atom` ($O$) in the presence of `third body` such as $N_2$ in the stratosphere
+
+$$ O_2 + O + M \to O_3 + M $$
+
+In the atmosphere ,members of ==odd oxygen== family $O$,$O^*$ and $O_3$ react with other chemical species.
 </md></sn>
