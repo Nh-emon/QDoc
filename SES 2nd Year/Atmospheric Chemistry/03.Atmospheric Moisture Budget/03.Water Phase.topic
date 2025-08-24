@@ -1,10 +1,33 @@
 
-	<sn></sn>		
+	<sn><md>## Phase Changes in water{.fg-red}
+
+A phase change is the **transformation of a substance** from `one phase to another`.
+
+
+:::.row
+
+::: .col-12 .col-md-7
+| transforamtion | process |
+|----------|----------|
+| $ \text{solid} \to \text{liquid} $    | `melting`    |
+| $ \text{liquid} \to \text{solid} $    | `freezing`    |
+| $ \text{liquid} \to \text{gas} $    | `vaporization/evaporation`    |
+| $ \text{gas} \to \text{liquid} $    | `condensation`    |
+| $ \text{solid} \to \text{gas} $    | `sublimation`    |
+| $ \text{gas} \to \text{solid} $    | `sublimation/deposition`    |
+:::
+
+:::.col-12 .col-md-5
+![diagram-water-phase](https://cdn.slidesharecdn.com/ss_thumbnails/phasechanges-140203061323-phpapp02-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds)
+![diagram](https://energyeducation.ca/wiki/images/4/4f/493px-Phase_change_-_en.svg.png)
+:::
+
+:::</md></sn>		
 	<config>
 		<tags>#03.water phase</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:40:05 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 11:19:08 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-so0y6ptabx</id>
 		<duration></duration>
 	</config>
