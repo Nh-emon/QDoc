@@ -1,10 +1,123 @@
 
-	<sn></sn>		
+	<sn><md>## Concept
+
++++ read concept
+
+### Vegetation
+
+:::.row
+
+:::.col-12 .col-md-7
+In geography, the term vegetation refers to the plant life that covers a particular area of the Earth's surface
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://ars.els-cdn.com/content/image/3-s2.0-B9780124095489096366-f09636-03-9780128046609.jpg)
+:::
+
+:::
+
+---
+
+### Earth pole and equator
+
+:::.row
+
+:::.col-12 .col-md-7
+#### Equator
+* The **Equator** is an **imaginary line** around the middle of the Earth.
+* It divides the Earth into two equal halves: the **Northern Hemisphere** and the **Southern Hemisphere**.
+* It is located at **0° latitude**.
+* The Equator is the **widest part** of the Earth.
+* Regions near the Equator usually have **hot and wet climates** with dense vegetation (like tropical rainforests).
+
+#### Poles
+* The **Earth’s poles** are the two points at the **very top and bottom** of the Earth’s axis of rotation.
+* **North Pole** → Located at **90° North latitude**, in the Arctic region.
+* **South Pole** → Located at **90° South latitude**, in Antarctica.
+* Both poles are very **cold** because they receive very little direct sunlight.
+* Covered mostly by ice and snow, with very limited vegetation.
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://c.tadst.com/gfx/1200x675/equator.png?1)
+:::
+
+:::
+
++++</md></sn>		
 	<config>
 		<tags>#08.factor affecting climate</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 19:20:05 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 20:25:46 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-YUKEMneI71</id>
 		<duration></duration>
 	</config>
+<sn><md>## Factor Affecting Climate{.fg-red}
+
+There are many different factors that affect climate around the world.It is ==varying influence of these factors== that lead to different parts of the Earth experiencing differing climates.The most important natural factors are :
+
++++ factors
+* distance from the equator
+* distance from the sea
+* shape of the land
+* ocean currents
+* direction of prevailing winds
+* the El Nino phenomenon
++++
+
+It is now widely accpeted that `human activity is also affecting climate` and that the impact is not the same everywhere.
+
++++ see short tutorial
+@[tutorial](https://inv.nadeko.net/embed/4yobv4tYL00?)
++++
+
++++ read first in bengali
+
+### জলবায়ু নির্ধারণের প্রধান কারণসমূহ
+
+#### ১. বিষুবরেখা থেকে দূরত্ব
+
+* পৃথিবীর বিষুবরেখার কাছাকাছি অঞ্চলে সূর্যের কিরণ সরাসরি পড়ে, তাই সেখানকার জলবায়ু সবসময় **গরম ও আর্দ্র** হয়।
+* যত দূরে যাওয়া যায় (মেরুর দিকে), সূর্যের কিরণ তির্যকভাবে পড়ে, তাই সেখানকার জলবায়ু হয় **ঠান্ডা**।
+
+---
+
+#### ২. সমুদ্র থেকে দূরত্ব
+
+* সমুদ্রের কাছাকাছি এলাকায় জলবায়ু সাধারণত **সহনশীল** হয় (গ্রীষ্মে বেশি গরম হয় না, শীতে বেশি ঠান্ডা হয় না)।
+* ভেতরের স্থলভাগে বা সমুদ্র থেকে দূরে গেলে জলবায়ু হয় **চরম** (গরমে বেশি গরম, শীতে বেশি ঠান্ডা)।
+
+---
+
+#### ৩. ভূমির আকৃতি (Shape of the Land)
+
+* উঁচু পাহাড় বা পর্বতমালায় উচ্চতার সাথে সাথে তাপমাত্রা **কমে যায়**।
+* পাহাড় অনেক সময় বৃষ্টির পথ আটকায় → এক পাশে বেশি বৃষ্টি হয় (windward side), অন্য পাশে থাকে শুষ্ক (leeward side)।
+
+---
+
+#### ৪. মহাসাগরীয় স্রোত (Ocean Currents)
+
+* উষ্ণ স্রোত তীরবর্তী অঞ্চলের জলবায়ু **উষ্ণ** করে।
+* শীতল স্রোত কাছাকাছি অঞ্চলকে **শীতল ও শুষ্ক** করে তোলে।
+* যেমন: গালফ স্ট্রিম (উষ্ণ স্রোত) ইউরোপকে গরম রাখে।
+
+---
+
+#### ৫. প্রচলিত বায়ুর দিক (Prevailing Winds)
+
+* বায়ু সমুদ্র থেকে এলে তা আর্দ্রতা ও বৃষ্টি আনে।
+* ভূমি থেকে এলে তা সাধারণত **শুষ্ক ও গরম/ঠান্ডা** বাতাস আনে।
+* তাই বাতাসের দিক নির্ধারণ করে জলবায়ু।
+
+---
+
+#### ৬. এল নিনো প্রপঞ্চ (El Niño Phenomenon)
+
+* প্রশান্ত মহাসাগরের নিরক্ষীয় অঞ্চলে সমুদ্রের পানির অস্বাভাবিক **উষ্ণায়ন**কে এল নিনো বলে।
+* এটি পৃথিবীর অনেক অঞ্চলের জলবায়ুকে প্রভাবিত করে।
+* যেমন: দক্ষিণ আমেরিকায় বন্যা, এশিয়ায় খরা, অস্ট্রেলিয়ায় তাপপ্রবাহ ইত্যাদি।
+
++++</md></sn>
