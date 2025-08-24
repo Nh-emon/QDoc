@@ -18,7 +18,7 @@
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 12:19:55 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 12:56:45 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
@@ -36,4 +36,94 @@
 | **Temperature Range** | Can exist at any temperature `below boiling` (as part of air’s moisture). | Exists at or `above 100 °C` at normal atmospheric pressure.         |
 | **Energy Content**    | `Lower energy compared to steam`.                                         | High energy content `due to latent heat` of vaporization.           |
 | **Use**               | Important in weather, climate, and greenhouse effect.                   | Used in industry, turbines, sterilization, and heating systems.   |
+</md></sn><sn><md>## Humidity{.fg-red .text-center}
+
+:::.row
+
+::: .col-12 .col-lg-7
+Humidity is a fundamental concept in meteorology, climatology, and environmental science.It refers to `the amount of water vapor present in the air`. Water vapor, though invisible, plays a crucial role in weather patterns, cloud formation, and human comfort. Understanding humidity is essential for **agriculture, health, construction, and forecasting atmospheric conditions**.
+:::
+
+::: .col-12 .col-lg-5
+![image](https://scijinks.gov/what-is-humidity/rain-droplets.png)
+:::
+
+:::
+ 
+Humidity is defined as the ==amount of water vapor in the air==. {.bar} 
+
+Unlike other gases such as oxygen or nitrogen, water vapor is `highly variable` and depends on factors such as ==temperature, pressure, and geographical location==.
+
++++ In general the following several `terms` are used to quantitatively express  **humidity**
+* Absolute Humidity
+* Relative Humidity
+* Specific Humidity
+* Mixing Ratio
+* Dew Point
++++</md></sn><sn><md>## Absolute Humidity{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+
+Absolute humidity is the ==actual mass of water vapor present in a unit volume of air==. {.bar}
+
+It is expressed in grams of water vapor per cubic meter of air (`g/m³`).
+
+:::
+
+::: .col-12 .col-lg-5
+![image](https://cache.careers360.mobi/media/article_images/2024/11/11/Absolute_Humidity.png)
+:::
+
+:::
+
+* Formula:
+
+  $$
+  AH = \frac{\text{Mass of water vapor}}{\text{Volume of air}}
+  $$
+
+* Limitation: It changes with variations in air `volume` and `temperature`, making it less useful for practical meteorological purposes.
+</md></sn><sn><md>## Specific Humidity{.fg-red}
+
+Specific humidity refers to the **ratio of** the `mass of water vapor to the total mass of air` (including ==dry air and water vapor==). It is expressed in grams of water vapor per kilogram of air. Unlike relative humidity, it is *not affected by temperature changes*.
+
+$$ \text{Specific humidity} = \frac{\text{mass of water vapor}}{\text{mass of total air}} $$
+
+* Expressed as `g/kg`
+* Very similar to absolute humidity,but ==uses the mass of total air==,*not just the volume of air*.
+* It is **not affected** by the change in `pressure` or `temperature`.
+* Meteorologist generally use specific humidity to express the ==water vapor content in air==.
+</md></sn><sn><md>## Mixing Ratio{.fg-pink}
+
+The *mixing ratio* is the `mass of water vapor per unit mass of dry air`, usually expressed in grams of water vapor per kilogram of dry air.
+
+$$ \text{Mixing ratio (w)} = \frac{\text{mass of water vapor}}{\text{mass of dry air}} $$
+
+* Expressed as `g/kg`
+* Example : 10g/kg
+* Range : `0 to 30`g/kg</md></sn><sn><md>## Relative Humidity{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+Relative humidity is the **ratio of** the `actual water vapor content in the air` to the ==maximum amount the air can hold== at a given temperature, expressed as a percentage. {.bar}
+
+* Example: If the RH is `75%`, it means the **air contains `75%` of the maximum water vapor** it could hold at that temperature.
+* Importance: RH is the most commonly used measure because it directly **relates to human comfort and weather conditions**.
+
+:::
+
+:::.col-12 .col-lg-5
+![image](https://scijinks.gov/what-is-humidity/relative-humidity.png)
+:::
+
+:::
+
+### Formula{.fg-orange}
+
+  $$
+  RH = \frac{\text{Actual Vapor Pressure}}{\text{Saturation Vapor Pressure}} \times 100
+  $$
 </md></sn>
