@@ -18,7 +18,7 @@
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 13:23:03 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 13:33:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
@@ -147,6 +147,28 @@ Saturation mixing ratio at **25°C** = `20` grams
 
 
 ---
+
+### Scene2{.fg-red}
+
+When the `water vapor` content in air remains `constant`,its relative humidity may be changed either by increasing or decreasing temperature
+
+
+| Temperature (°C) | Actual Water Vapor (g/m³) | Saturation Capacity (g/m³) | Relative Humidity (%)  |
+| ---------------- | ------------------------- | -------------------------- | ---------------------- |
+| 10               | 5                         | **9.4**                        | (5 ÷ 9.4) × 100 ≈ `53`%  |
+| 20               | 5                         | **17.3**                      | (5 ÷ 17.3) × 100 ≈ `29`% |
+| 30               | 5                         | **30.4**                       | (5 ÷ 30.4) × 100 ≈ `16`% |
+
+
+**Explanation:**
+
+* Here, the actual water vapor content in the air is **kept constant at 5 g/m³**.
+* As the `temperature increases`, the air’s `capacity to hold water vapor increases`, so the `relative humidity decreases`.
+
+
+### T☝️  capacity☝️  Rh👇 {.text-center}
+
+
 </md></sn><sn><md>## Relative humidity trends
 
 
