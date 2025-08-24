@@ -18,28 +18,26 @@ The *continuous movement* of water from the `oceans to the atmosphere`,from the 
 
 
 +++ see hydrological component table
-
 | Component / Step        | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| `Evaporation`             | Transformation of water from `liquid to vapor` from oceans, lakes, rivers, and soil. |
-| `Transpiration`           | `Release of water` vapor from plants `through stomata`.                         |
+| ==Evaporation==             | Transformation of water from `liquid to vapor` from oceans, lakes, rivers, and soil. |
+| ==Transpiration==           | `Release of water` vapor from plants `through stomata`.                         |
 | Evapotranspiration      | Combined process of evaporation and transpiration.                          |
 | Sublimation             | Direct conversion of ice/snow into water vapor without becoming liquid.     |
-| `Condensation`            | `Water vapor` cools and changes `into liquid` droplets forming clouds.          |
-| `Precipitation`           | Water `released` from clouds as `rain`, `snow`, `sleet`, or `hail`.                   |
-| `Infiltration`            | `Movement` of water from the `surface into the soil`.                           |
+| ==Condensation==           | `Water vapor` cools and changes `into liquid` droplets forming clouds.          |
+| ==Precipitation==           | Water `released` from clouds as `rain`, `snow`, `sleet`, or `hail`.                   |
+| ==Infiltration==            | `Movement` of water from the `surface into the soil`.                           |
 | Percolation             | `Downward movement` of water through soil layers into aquifers.               |
 | Surface `Runoff`          | Flow of excess water over land into `rivers, lakes, or oceans`.               |
 | Groundwater Flow        | Movement of water stored `underground in aquifers` toward oceans/lakes/rivers.|
 | Snowmelt Runoff         | Flow of melted snow contributing to streams and rivers.                     |
 | Collection/Storage      | Accumulation of water in `oceans, lakes, rivers, glaciers, and groundwater`.  |
-
 +++</md></sn>		
 	<config>
 		<tags>#02.hydrological cycle</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 10:58:01 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 11:07:11 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-6KZGfm19sq</id>
 		<duration></duration>
 	</config>
