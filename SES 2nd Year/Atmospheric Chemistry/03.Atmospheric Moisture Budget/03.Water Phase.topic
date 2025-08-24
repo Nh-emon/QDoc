@@ -27,7 +27,7 @@ A phase change is the **transformation of a substance** from `one phase to anoth
 		<tags>#03.water phase</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 11:32:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 11:40:32 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-so0y6ptabx</id>
 		<duration></duration>
 	</config>
@@ -36,11 +36,12 @@ A phase change is the **transformation of a substance** from `one phase to anoth
 ::: .row
 
 :::.col-12 .col-md-7
-| State/Process          | Sensible Heat (`Temperature Change`)                  | Latent Heat (`Phase Change, No Temp Change`) |
-|------------------------|-----------------------------------------------------|---------------------------------------------|
-| Ice (Solid)            | Cooling/Heating ice from –20°C to 0°C               | Melting ice at 0°C (Latent Heat of Fusion)  |
-| Water (Liquid)         | Heating water from 0°C to 100°C                     | Vaporization at 100°C (Latent Heat of Vaporization) |
-| Vapor (Gas)            | Cooling/Heating steam above 100°C                   | Condensation at 100°C (Latent Heat released) |
+| Heat Type                       | Definition                                                                                                | Example (Water, Ice, Vapor)                                                                                                      |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ==Sensible Heat==               | `Heat absorbed or released` that changes the **temperature** of a substance **without changing its phase**. | Heating **ice** from –10 °C to 0 °C, heating **water** from 20 °C to 80 °C, heating **steam** from 110 °C to 120 °C.             |
+| ==Latent Heat of Fusion==       | Heat absorbed or released during the `phase change between solid and liquid` at constant temperature.   | **Ice → Water** at 0 °C requires absorption of latent heat (fusion). **Water → Ice** at 0 °C releases the same heat.             |
+| ==Latent Heat of Vaporization== | Heat absorbed or released during the **phase change between liquid and gas** at constant temperature.     | **Water → Steam** at 100 °C absorbs latent heat (vaporization). **Steam → Water** at 100 °C releases latent heat (condensation). |
+
 :::
 
 ::: .col-12 .col-md-5
