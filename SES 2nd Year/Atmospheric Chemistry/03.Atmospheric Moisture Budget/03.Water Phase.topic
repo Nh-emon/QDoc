@@ -27,7 +27,25 @@ A phase change is the **transformation of a substance** from `one phase to anoth
 		<tags>#03.water phase</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 11:23:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 11:32:38 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-so0y6ptabx</id>
 		<duration></duration>
 	</config>
+<sn><md>### Ice to water vapor : Latent and sensible heat{.fg-red}
+
+::: .row
+
+:::.col-12 .col-md-7
+| State/Process          | Sensible Heat (`Temperature Change`)                  | Latent Heat (`Phase Change, No Temp Change`) |
+|------------------------|-----------------------------------------------------|---------------------------------------------|
+| Ice (Solid)            | Cooling/Heating ice from –20°C to 0°C               | Melting ice at 0°C (Latent Heat of Fusion)  |
+| Water (Liquid)         | Heating water from 0°C to 100°C                     | Vaporization at 100°C (Latent Heat of Vaporization) |
+| Vapor (Gas)            | Cooling/Heating steam above 100°C                   | Condensation at 100°C (Latent Heat released) |
+:::
+
+::: .col-12 .col-md-5
+![diagram](https://www.researchgate.net/publication/351581583/figure/fig2/AS:1105906687311872@1640680109222/Sensible-and-latent-heat.png)
+![diagram](https://merchantnavydecoded.com/wp-content/uploads/2023/09/yhtg-compressed-1024x646.jpg)
+:::
+
+:::</md></sn>
