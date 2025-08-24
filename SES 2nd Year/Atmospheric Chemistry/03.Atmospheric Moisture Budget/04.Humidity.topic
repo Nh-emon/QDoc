@@ -18,7 +18,7 @@
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 13:00:56 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 13:23:03 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
@@ -132,4 +132,34 @@ Relative humidity is the **ratio of** the `actual water vapor content in the air
 
 * Expressed as a `percentage`.
 * Relative humidity is a measure of `how near the air is to being saturated`.
-* Relative humidity changes if  its water vapor `mixing ratio` or `temperatue` changes.</md></sn>
+* Relative humidity changes if  its water vapor `mixing ratio` or `temperatue` changes.</md></sn><sn><md>### Scene1{.fg-red}
+
+At **constant temperature**,==relative humidity increases== if `water vapor is added` to the airs water vapor capacity {.bar}
+
+Saturation mixing ratio at **25°C** = `20` grams
+
+| Vapor(20) | RH |
+| -------- | -------- |
+|  if    | then    |
+|  5    | `25`%    |
+|  10   | `50`%    |
+|  20   | `100`%    |
+
+
+---
+</md></sn><sn><md>## Relative humidity trends
+
+
+:::.row
+
+:::.col-12 .col-md-6
+* Relative Humidity indicates ==air parcels proximity to saturation==.
+* In general,the relative humidity varies with temperature during the day.It is ==higher in morning==,then trends to be ==lower in the early afternoon== and ==higher at night==.
+:::
+
+:::.col-12 .col-md-6
+![diagram-of-humidity-trends-in-day](https://www.researchgate.net/publication/375518768/figure/fig2/AS:11431281309890547@1739588355244/Relative-humidity-and-temperature-in-a-day-the-green-line-shows-RH-changes-during-a.png)
+:::
+
+:::
+</md></sn>
