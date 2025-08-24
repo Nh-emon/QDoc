@@ -1,10 +1,24 @@
 
-	<sn></sn>		
+	<sn><md>## Atmospheric Moisture{.fg-red}
+
++++ read in bengali
+* পানির **তাপ ধারকতা** অনেক বেশি হওয়ায়, পানির বৈশ্বিক উপস্থিতি ও পরিবহন `বৈশ্বিক শক্তির` সাথে ঘনিষ্ঠভাবে **সম্পর্কিত**।
+* বায়ুমণ্ডলীয় জল ইনফ্রা-রেড বিকিরণের মাধ্যমে মহাকাশে হারিয়ে যাওয়া বৈশ্বিক মোট শক্তির প্রধান অংশের জন্য দায়ী।
+* পৃথিবীর পৃষ্ঠ থেকে বায়ুমণ্ডলে প্রবেশ করা শক্তির ৭৫% এরও বেশি অংশ হলো `গুপ্ত তাপের মুক্তির ফলাফল`।
++++
+
+
+* Atmospheric moisture comprises `vapor` , `droplet` and solid `ice cystals` in coluds
+* It plays a significant role in ==determining weather and climate==.
+* As water has large `heat capacity` ,the global occurence and transportation of water is closely ==linked to global energy==.
+* Atmospheric water is responsible for the bulk of the total global energy to be lost into space by infra-red radiation
+* Over 75% of the energy input from the earth surface into the atmosphere is the rusult of the liberation of latent heat.
+</md></sn>		
 	<config>
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:40:19 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 12:10:43 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
