@@ -24,7 +24,7 @@ Movement of water from one reservior to another generally occur in any of the 3 
 		<tags>#01.the global hydrosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 10:08:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 10:42:21 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-qFbPXc2SMP</id>
 		<duration></duration>
 	</config>
@@ -39,6 +39,8 @@ Movement of water from one reservior to another generally occur in any of the 3 
 
 </md></sn><sn><md>## Global Water Resources Table{.fg-red .text-center}
 
++++ see table
+
 | Reservoir              | Percentage of Total Water (%) | Volume (10^6 km³) |
 |------------------------|-------------------------------|-------------------|
 | Oceans                 | 96.5                          | 1,338             |
@@ -51,4 +53,26 @@ Movement of water from one reservior to another generally occur in any of the 3 
 | Rivers                 | 0.0002                        | 0.00212           |
 | Biota (living things)  | 0.0001                        | 0.00112           |
 | **Total**              | **100**                       | **≈1,396**        |
-| **Source of Data**     | `Shiklomanov`, `1993` (**UNESCO**, WMO)|</md></sn>
+| **Source of Data**     | `Shiklomanov`, `1993` (**UNESCO**, WMO)|
+
++++</md></sn><sn><md>## Residence Time{.fg-red}
+
+The `average length of time` a water molecule `resides or stays` in a particular reservoir before being displaced from the reservoir `during the hydrological cycles` is called **residence time** {.bar}
+
+Residence time of a typical water molecules in different reservoirs :
+
++++ see table
+
+| Reservoir | Average residence time |
+|----------|----------|
+| Ocean    | `3200` years or more    |
+| Atmosphere   | `10 days` or less   |
+| Seasonal snow cover    | `2-6` months    |
+| Rivers    | `2-6 month`   |
+| Soil Moisture    | `1-2` months    |
+| Glaciers    | `20-100` years    |
+| Lakes    | `50-100` years   |
+| Shallow groundwater    | `100-200` years    |
+| Deep deepwater    | `10,000` years    |
+
++++</md></sn>
