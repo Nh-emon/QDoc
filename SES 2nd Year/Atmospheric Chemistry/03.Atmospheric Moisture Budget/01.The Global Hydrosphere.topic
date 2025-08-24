@@ -1,10 +1,54 @@
 
-	<sn></sn>		
+	<sn><md>## Global Hydrosphere{.fg-red .text-center}
+
+The global hydrosphere consists of a ==series of reserviors== interconnected by water cycling/movement in various phases :
+
++++ These reserviors are :
+
+* Oceans
+* Ice sheets and glaciers
+* Terrestial water(rivers,soil moisture,lakes and groundwater)
+* Biosphere (water in plants and animals)
+* Atmosphere
++++
+
+Within these reserviors water is stored in any of the following `3 phases` - 
+* `gas`(vapor)
+* `liquid`(water) and 
+* `solid`(snow)
+
+
+Movement of water from one reservior to another generally occur in any of the 3 phases at varying degrees of speed.
+</md></sn>		
 	<config>
 		<tags>#01.the global hydrosphere</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:39:33 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 10:08:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-qFbPXc2SMP</id>
 		<duration></duration>
 	</config>
+<sn><md>## Water Reserviors Diagrams{.fg-red .text-center}
+
++++ see water reserviours diagram
+![diagram](https://www.australianenvironmentaleducation.com.au/wp-content/uploads/2020/07/Earths-Water.jpg)
+![diagram](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Ad4df30656dab1febc9673045bdcb7261d6f796ab08363e9f2465fb08%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
+![diagram](https://aspenglob.epicenter1.com/wp-content/uploads/2022/08/Water_Dist_Large.png)
+![diagram](https://i.pinimg.com/736x/a2/44/32/a244321a772080d9d0be134e5462fb34.jpg)
++++
+
+</md></sn><sn><md>## Global Water Resources Table{.fg-red .text-center}
+
+| Reservoir              | Percentage of Total Water (%) | Volume (10^6 km³) |
+|------------------------|-------------------------------|-------------------|
+| Oceans                 | 96.5                          | 1,338             |
+| Ice Caps &amp; Glaciers    | 1.74                          | 24.1              |
+| Deep Groundwater       | 1.68                          | 23.4              |
+| Shallow Groundwater    | 0.76                          | 10.5              |
+| Lakes                  | 0.013                         | 0.176             |
+| Soil Moisture          | 0.001                         | 0.016             |
+| Atmosphere             | 0.001                         | 0.0129            |
+| Rivers                 | 0.0002                        | 0.00212           |
+| Biota (living things)  | 0.0001                        | 0.00112           |
+| **Total**              | **100**                       | **≈1,396**        |
+| **Source of Data**     | `Shiklomanov`, `1993` (**UNESCO**, WMO)|</md></sn>
