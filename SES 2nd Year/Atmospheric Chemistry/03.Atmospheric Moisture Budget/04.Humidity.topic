@@ -18,7 +18,22 @@
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 12:10:43 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 12:19:55 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
+<sn><md>### Vapor vs Steam
+
++++ see shorts
+@[youtube-video](https://inv.nadeko.net/embed/oTKmWp7ek2A?t=36)
++++
+
+| Property              | Water Vapor (Vaporized Molecules in Air)                                | Steam (Saturated or Superheated Water Gas)                        |
+| --------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Definition**        | `Invisible gaseous form of water`, dispersed in the air.                  | `Visible form of water gas`, usually produced by boiling water.     |
+| **Visibility**        | `Invisible` to the naked eye.                                             | `Appears` as a white mist/cloud (tiny droplets of condensed water). |
+| **Occurrence**        | `Naturally present` in the atmosphere as humidity.                        | `Produced artificially` by heating water (e.g., in boilers).        |
+| **Temperature Range** | Can exist at any temperature `below boiling` (as part of air’s moisture). | Exists at or `above 100 °C` at normal atmospheric pressure.         |
+| **Energy Content**    | `Lower energy compared to steam`.                                         | High energy content `due to latent heat` of vaporization.           |
+| **Use**               | Important in weather, climate, and greenhouse effect.                   | Used in industry, turbines, sterilization, and heating systems.   |
+</md></sn>
