@@ -18,7 +18,7 @@
 		<tags>#04.humidity</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 12:56:45 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 13:00:56 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-fWxgD0wJ34</id>
 		<duration></duration>
 	</config>
@@ -108,7 +108,7 @@ $$ \text{Mixing ratio (w)} = \frac{\text{mass of water vapor}}{\text{mass of dry
 :::.row
 
 :::.col-12 .col-lg-7
-Relative humidity is the **ratio of** the `actual water vapor content in the air` to the ==maximum amount the air can hold== at a given temperature, expressed as a percentage. {.bar}
+Relative humidity is the **ratio of** the `actual water vapor content in the air` to the ==maximum amount the air can hold== at a given temperature . {.bar}
 
 * Example: If the RH is `75%`, it means the **air contains `75%` of the maximum water vapor** it could hold at that temperature.
 * Importance: RH is the most commonly used measure because it directly **relates to human comfort and weather conditions**.
@@ -126,4 +126,10 @@ Relative humidity is the **ratio of** the `actual water vapor content in the air
   $$
   RH = \frac{\text{Actual Vapor Pressure}}{\text{Saturation Vapor Pressure}} \times 100
   $$
-</md></sn>
+
+
+#### Facts
+
+* Expressed as a `percentage`.
+* Relative humidity is a measure of `how near the air is to being saturated`.
+* Relative humidity changes if  its water vapor `mixing ratio` or `temperatue` changes.</md></sn>
