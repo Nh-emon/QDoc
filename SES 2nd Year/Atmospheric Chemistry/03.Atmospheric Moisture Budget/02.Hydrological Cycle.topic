@@ -1,10 +1,40 @@
 
-	<sn></sn>		
+	<sn class="col-12 col-md-11 ignore col-xxl-8 p-3 p-lg-5"><md>## Hydrological Cycle
+
+The *continuous movement* of water from the `oceans to the atmosphere`,from the `atmosphere to the land` and from the `land back to the ocean` is called **hydrologcial cycle**. {.bar}
+
+::: .row
+
+:::.col-12 .col-md-7
+
+| Component / Step        | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| `Evaporation`             | Transformation of water from liquid to vapor from oceans, lakes, rivers, and soil. |
+| `Transpiration`           | Release of water vapor from plants through stomata.                         |
+| Evapotranspiration      | Combined process of evaporation and transpiration.                          |
+| Sublimation             | Direct conversion of ice/snow into water vapor without becoming liquid.     |
+| `Condensation`            | Water vapor cools and changes into liquid droplets forming clouds.          |
+| `Precipitation`           | Water released from clouds as rain, snow, sleet, or hail.                   |
+| `Infiltration`            | Movement of water from the surface into the soil.                           |
+| Percolation             | Downward movement of water through soil layers into aquifers.               |
+| Surface `Runoff`          | Flow of excess water over land into rivers, lakes, or oceans.               |
+| Groundwater Flow        | Movement of water stored underground in aquifers toward oceans/lakes/rivers.|
+| Snowmelt Runoff         | Flow of melted snow contributing to streams and rivers.                     |
+| Collection/Storage      | Accumulation of water in oceans, lakes, rivers, glaciers, and groundwater.  |
+
+:::
+
+:::.col-12 .col-md-5
+![diagram-of-hydroglocial-cycle](https://cmds-test.vedantu.com/prod/question-sets/b7aa2827-d6e9-4b72-b3af-bafb899429237892916214403942491.png)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#02.hydrological cycle</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:39:53 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 24 2025 10:53:22 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-6KZGfm19sq</id>
 		<duration></duration>
 	</config>
