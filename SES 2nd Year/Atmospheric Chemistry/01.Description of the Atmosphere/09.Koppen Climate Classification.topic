@@ -1,6 +1,9 @@
 
 	<sn><md>## Koppen Climate Classfication{.fg-red .text-center}
 
++++ recommended tutorial
+* [hindi-tutorial-1](https://www.youtube.com/embed/RsWrupy_jmM?)
++++
 
 +++ read wikipedia
 @[wikipedia-page](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)
@@ -26,13 +29,12 @@ The Köppen climate classification scheme divides climates into `five main clima
 
 * As Köppen designed the system based on his experience as a `botanist`, his main climate groups represent a classification by `vegetation type`. In addition to identifying climates, the system can be used to analyze ecosystem conditions and identify the main types of `vegetation within climates`. Due to its association with the plant life of a given region, the system is useful in **predicting future changes of plant life within that region**
 
-+++
-</md></sn>		
++++</md></sn>		
 	<config>
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 25 2025 10:55:54 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 25 2025 11:25:50 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
@@ -95,4 +97,60 @@ World map based on `Temperature`
 
 
 +++
-</md></sn>
+</md></sn><sn><md>## Second letter{.fg-red}
+
+| **Second Letter**                   | **Meaning (Precipitation / Dryness Pattern)**                   |
+| ----------------------------------- | --------------------------------------------------------------- |
+| **f**       | ==Mainly Moonsoon==,No dry season; precipitation evenly distributed `all year`        |
+| **m**                     | ==Mostly Monsoonal rainfall== (short dry season, very wet summer)          |
+| **s**      | summer dry(Mediterranean-type climate)                         |
+| **w**               | winter dry (common in monsoon or savanna climates)              |
+| **W** (capital W, for B group only) | Desert climate (arid, very dry,==less rain==)                                 |
+| **S** (capital S, for B group only) | Steppe climate (semi-arid, ==more rain than desert== but still dry) |
+| **T** (for E group only)            | Tundra (polar climate where warmest month ==0°C to 10°C==   |
+| **F** (for E group only)            | Frost / Ice cap (polar climate where all months ==≤ 0 °C==)         |
+</md></sn><sn><md>## Third Letter{.fg-red}
+
+* **The first letter** = Main climate group (A, B, C, D, E)
+* **The second letter** = Precipitation pattern (wet/dry)
+* **The third letter** = **Temperature details** (seasonal or extreme)
+
+| **Third Letter** | **Meaning (Temperature Pattern)**                              | **Applies To** |
+| ---------------- | -------------------------------------------------------------- | -------------- |
+| **a**            | ==Hot summer== (warmest month ≥ `22` °C)                             | C &amp; D groups   |
+| **b**            | ==Warm summer== (warmest month &lt; `22` °C, at least 4 months &gt; 10 °C) | C &amp; D groups   |
+| **c**            | Cool / ==short summer== (1–3 months &gt; 10 °C)                       | C &amp; D groups   |
+| **d**            | ==Very cold winter== (coldest month ≤ –38 °C)                      | D group only   |
+| **h**            | ==Hot arid== (mean annual temp ≥ `18` °C)                            | B group only   |
+| **k**            | ==Cold arid== (mean annual temp &lt; `18` °C)                           | B group only   |</md></sn><sn><md>## Complete Köppen Climate Classification Table
+
++++ see table
+
+| **Code**    | **Full Name**                                  | **Description**                                     | **Example Regions**                                                     |
+| ----------- | ---------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Af**      | Tropical Rainforest                            | Hot, wet all year; no dry season                    | Amazon Basin (Brazil), Congo (DRC), Indonesia                           |
+| **Am**      | Tropical Monsoon                               | Very wet summer, short dry season                   | West coast of India, Bangladesh, parts of Thailand                      |
+| **Aw / As** | Tropical Savanna (Winter-dry / Summer-dry)     | Wet summer, dry winter (Aw) or rare dry summer (As) | East Africa (Kenya, Tanzania), Brazil (Cerrado), India (Deccan Plateau) |
+| **BWh**     | Hot Desert                                     | Extremely arid, very hot                            | Sahara Desert, Arabian Peninsula, Australian Outback                    |
+| **BWk**     | Cold Desert                                    | Arid, cold winters                                  | Gobi Desert (Mongolia/China), parts of Iran                             |
+| **BSh**     | Hot Semi-arid (Steppe)                         | Semi-arid, hot                                      | Sahel (Africa), central Mexico, parts of India                          |
+| **BSk**     | Cold Semi-arid (Steppe)                        | Semi-arid, cold winters                             | Central Asia (Kazakhstan), Great Plains (USA)                           |
+| **Csa**     | Mediterranean Hot Summer                       | Dry hot summer, mild wet winter                     | Southern Spain, Greece, California coast                                |
+| **Csb**     | Mediterranean Warm Summer                      | Dry warm summer                                     | Northern Portugal, NW USA (Oregon)                                      |
+| **Cwa**     | Humid Subtropical (Dry winter, hot summer)     | Wet summer, dry winter                              | Northern India, SE China                                                |
+| **Cwb**     | Subtropical Highland (Dry winter, warm summer) | Moderate summer, dry winter                         | Ethiopian Highlands, Bolivia                                            |
+| **Cfa**     | Humid Subtropical (No dry season, hot summer)  | Hot, humid summer; mild winter                      | SE USA (Florida, Georgia), Eastern China, Japan                         |
+| **Cfb**     | Oceanic (No dry season, warm summer)           | Mild summer, no extreme heat                        | UK, Germany, New Zealand                                                |
+| **Cfc**     | Subpolar Oceanic (Cool summer)                 | Cool, short summer                                  | Southern Chile, Iceland coast                                           |
+| **Dfa**     | Humid Continental (Hot summer, no dry season)  | Hot summer, cold winter                             | NE China, Midwest USA                                                   |
+| **Dfb**     | Humid Continental (Warm summer, no dry season) | Warm summer, snowy winter                           | Russia (Moscow), Canada (Toronto)                                       |
+| **Dfc**     | Subarctic (Cool summer, long cold winter)      | 1–3 months &gt; 10 °C                                  | Siberia, Alaska interior                                                |
+| **Dfd**     | Subarctic Extreme (Severe winter ≤ –38 °C)     | Extremely cold winters                              | NE Siberia (Yakutsk)                                                    |
+| **Dwa**     | Humid Continental (Dry winter, hot summer)     | Monsoon-influenced                                  | NE China, Korea                                                         |
+| **Dwb**     | Humid Continental (Dry winter, warm summer)    | Cold, dry winters                                   | Mongolia, Manchuria                                                     |
+| **Dwc**     | Subarctic (Dry winter, cool summer)            | Harsh winters, dry                                  | Siberia                                                                 |
+| **Dwd**     | Subarctic Extreme (Dry winter, severe cold)    | Very cold                                           | Siberian Arctic                                                         |
+| **ET**      | Tundra                                         | Warmest month &lt; 10 °C, &gt; 0 °C                       | Arctic coast, Greenland coast, Alaska north slope                       |
+| **EF**      | Ice Cap                                        | All months ≤ 0 °C                                   | Antarctica, Greenland interior                                          |
+
++++</md></sn>
