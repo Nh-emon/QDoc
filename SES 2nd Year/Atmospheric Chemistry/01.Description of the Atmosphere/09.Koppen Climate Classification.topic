@@ -34,7 +34,7 @@ The Köppen climate classification scheme divides climates into `five main clima
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 25 2025 11:25:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 25 2025 11:41:41 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
@@ -153,4 +153,27 @@ World map based on `Temperature`
 | **ET**      | Tundra                                         | Warmest month &lt; 10 °C, &gt; 0 °C                       | Arctic coast, Greenland coast, Alaska north slope                       |
 | **EF**      | Ice Cap                                        | All months ≤ 0 °C                                   | Antarctica, Greenland interior                                          |
 
-+++</md></sn>
++++</md></sn><sn><md>## A
+
+The ==tropical zone==,where the effect of sunlight is intense.
+
+| Feature           | Description                                                                       |
+| ----------------- | --------------------------------------------------------------------------------- |
+| **Temperature**   | Monthly average ==temperature ≥ 18°C== all year; almost no variation             |
+| **Precipitation** | `Very high` annual `rainfall`; generally &gt; 1500 mm/year                               |
+| **Seasonality**   | Little or `no seasonal temperature variation`; some subtypes have short dry periods |
+| **Vegetation**    | `Dense evergreen rainforest`, tropical grasslands (savanna), mangroves              |
+| **Location**      | Typically ==0°–15° latitude== near the equator                                    |
+| **Example**      | 🌴 Amazon Basin (South America), Central Africa (e.g. Congo DRC), Indonesia &amp; Malaysia (Southeast Asia), parts of India &amp; Sri Lanka                                    |
+
+
+### Second filter
+
+As second letter now we will filter based on ==seasonal precipitation in Topical Region==
+
+| **Code**    | **Name**            | **Precipitation Pattern**                            | **Temperature Pattern** | **Example Regions**                                                     |
+| ----------- | ------------------- | ---------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
+| **Af**      | Tropical Rainforest | No dry season (f = fully humid)                      | All months ≥ 18°C      | Amazon Basin (Brazil), Congo (DRC), Indonesia                           |
+| **Am**      | Tropical Monsoon    | Short dry season (m = monsoon)                       | All months ≥ 18°C      | West coast of India, Bangladesh, parts of Myanmar                       |
+| **Aw / As** | Tropical Savanna    | Distinct dry season (w = winter dry, s = summer dry) | All months ≥ 18°C      | East Africa (Kenya, Tanzania), Brazil (Cerrado), India (Deccan Plateau) |
+</md></sn>
