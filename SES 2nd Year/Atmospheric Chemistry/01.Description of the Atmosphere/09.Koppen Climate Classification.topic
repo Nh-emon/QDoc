@@ -34,7 +34,7 @@ The Köppen climate classification scheme divides climates into `five main clima
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 25 2025 11:41:41 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 25 2025 12:03:37 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
@@ -173,7 +173,7 @@ As second letter now we will filter based on ==seasonal precipitation in Topical
 
 | **Code**    | **Name**            | **Precipitation Pattern**                            | **Temperature Pattern** | **Example Regions**                                                     |
 | ----------- | ------------------- | ---------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
-| **Af**      | Tropical Rainforest | No dry season (f = fully humid)                      | All months ≥ 18°C      | Amazon Basin (Brazil), Congo (DRC), Indonesia                           |
-| **Am**      | Tropical Monsoon    | Short dry season (m = monsoon)                       | All months ≥ 18°C      | West coast of India, Bangladesh, parts of Myanmar                       |
-| **Aw / As** | Tropical Savanna    | Distinct dry season (w = winter dry, s = summer dry) | All months ≥ 18°C      | East Africa (Kenya, Tanzania), Brazil (Cerrado), India (Deccan Plateau) |
+| A`f`      | Tropical `Rainforest` | No dry season (f = fully humid)                      | All months ≥ 18°C and &gt; 60mm      | Amazon Basin (Brazil), Congo (DRC), Indonesia                           |
+| A`m`      | Tropical `Monsoon`    | Short dry season (m = monsoon)                       | All months ≥ 18°C and &lt; 60mm      | West coast of India, Bangladesh, parts of Myanmar                       |
+| A`w` / A`s` | Tropical `Savanna`    | Distinct dry season (w = winter dry, s = summer dry) | All months ≥ 18°C      | East Africa (Kenya, Tanzania), Brazil (Cerrado), India (Deccan Plateau) |
 </md></sn>
