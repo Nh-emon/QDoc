@@ -1,10 +1,98 @@
 
-	<sn></sn>		
+	<sn><md>## Koppen Climate Classfication{.fg-red .text-center}
+
+
++++ read wikipedia
+@[wikipedia-page](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)
++++
+
+:::.row
+
+:::.col-12 .col-md-8
+Koppen climate classification is widely used `vegetation-based`,empirical climate was to devise formulas deveoped by German-Russian botanist-climatologist `Wladimir Koopen`.
+
+The Köppen climate classification scheme divides climates into `five main climate groups`: A (tropical), B (arid), C (temperate), D (continental), and E (polar).The ==second letter indicates the seasonal precipitation type==, while the t==hird letter indicates the level of heat==.**Summers** are defined as the six-month period that is warmer either from `April to September` and/or `October to March`, while **winter** is the `six-month` period that is cooler
+:::
+
+:::.col-12 .col-md-4
+![diagram](https://static1.personalitydatabase.net/2/pdb-images-prod/2c664dd6/profile_images/2d97d2ab2b724bd29041ec226890ba54.png)
+:::
+
+:::
+
++++ read wiki-fact
+
+* The Köppen climate classification is the most widely used climate classification scheme.It was first published by German-Russian climatologist ==Wladimir Köppen== (1846–1940) in `1884`,with several later modifications by Köppen, notably in 1918 and 1936.Later, German climatologist Rudolf Geiger (1894–1981) introduced some changes to the classification system in 1954 and 1961, which is thus sometimes called the ==Köppen–Geiger climate classification==
+
+* As Köppen designed the system based on his experience as a `botanist`, his main climate groups represent a classification by `vegetation type`. In addition to identifying climates, the system can be used to analyze ecosystem conditions and identify the main types of `vegetation within climates`. Due to its association with the plant life of a given region, the system is useful in **predicting future changes of plant life within that region**
+
++++
+</md></sn>		
 	<config>
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Aug 25 2025 08:57:22 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Aug 25 2025 10:55:54 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
+<sn><md>## Climate Code
+
+The Köppen classification works like a ==3-letter code== where each letter tells us something about the climate.
+
+| [**first letter**] | [**second letter**] | [**third letter**] |
+|----------------|----------|--------------|
+|  primary climate zone | 🌧️  seasonal precipitation     | 🔥 level of heat |
+
+need diagram {.fg-red}
+</md></sn><sn><md>## Primary climate Zone or Main Group {.fg-red}
+
+:::.row
+
+:::.col-12 .col-md-7
+==Except B== if you go toward Polar from the Equator the temperature will decrease,and there is less vegetation.
+
+| **Main Group** | **Code** | **Altitude/Latitude Zone** | **Temperature Characteristics** |
+|----------------|----------|-----------------------------|---------------------------------|
+| Polar          | E        | High latitude / high altitude (poles, mountain tops) | Warmest month &lt; 10 °C |
+| Continental    | D        | Mid–high latitude, interior or higher altitude | Coldest month &lt; –3 °C; Warmest &gt; 10 °C |
+| Temperate      | C        | Mid-latitude, low–moderate altitude | Coldest month –3 °C to 18 °C; Warmest &gt; 10 °C |
+| Tropical       | A        | Low altitude, near equator | All months ≥ 18 °C |
+:::
+
+:::.col-12 .col-md-5
+
+World map based on `Temperature`
+
+![diagram](https://bam.files.bbci.co.uk/bam/live/content/zs4jkty/large)
+![diagram](https://www.researchgate.net/profile/Mizanur-Rahman-27/publication/344443375/figure/fig1/AS:941872344223750@1601571274270/World-temperature-zone-map-developed-based-on-the-six-temperature-domains-given-by-Sayre.png)
+![diagram](https://www.researchgate.net/profile/Franz-Rubel/publication/327464948/figure/fig1/AS:1050465269735425@1627461845161/Spatial-distribution-of-the-five-main-Koeppen-climate-types-determined-for-the-period-1951.ppm)
+:::
+
+:::
+
+
+### All Main Group{.fg-red .text-center}
+
+| **Main Group** | **Code** | **Key Rule** |
+|----------------|----------|--------------|
+| `Tropical`       | A        | All months ≥ 18 °C |
+| `Dry`            | B        | Evaporation &gt; Precipitation |
+| `Temperate`      | C        | –3 °C &lt; Coldest month &lt; 18 °C; Warmest &gt; 10 °C |
+| `Continental`    | D        | Coldest month &lt; –3 °C; Warmest &gt; 10 °C |
+| `Polar`          | E        | Warmest month &lt; 10 °C |
+
+
++++ see zone example table
+
+| **Main Group**                  | **Zone**                                                                                                            |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A – Tropical**                        | 🌴 Amazon Basin (South America), Central Africa (e.g. Congo DRC), Indonesia &amp; Malaysia (Southeast Asia), parts of India &amp; Sri Lanka                           |
+| **B – Dry (Arid &amp; Semi-arid)**          | 🏜️ North Africa (Sahara), Middle East (e.g. Saudi Arabia, Iran), Central Asia (Kazakhstan, Uzbekistan), Southwestern USA &amp; Mexico, parts of Australia        |
+| **C – Temperate (Warm-mid-latitude)**   | 🌤️ Southern Europe (e.g. Italy, Spain, France), Eastern China, Japan, Southeastern USA, coastal South America (Chile, Argentina), South Africa’s Cape region |
+| **D – Continental (Cold-mid-latitude)** | ❄️ Eastern Europe (Russia, Ukraine, Poland), Canada, Northern USA, Northern China, Korea, inland Central Asia                                                 |
+| **E – Polar / Alpine**                  | 🧊 Antarctica, Greenland, Northern Canada, Siberia (Russia), Arctic islands (Svalbard, Iceland’s interior), Himalaya &amp; Andes highlands                        |
+
+
++++
+</md></sn>
