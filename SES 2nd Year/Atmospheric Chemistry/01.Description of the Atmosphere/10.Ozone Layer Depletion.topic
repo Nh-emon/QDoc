@@ -27,7 +27,7 @@
 		<tags>#10.ozone layer depletion</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 28 2025 13:10:09 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 28 2025 14:18:59 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TEoGkSwKZt</id>
 		<duration></duration>
 	</config>
@@ -277,4 +277,40 @@ Since CFCs are insoluble in water and chemically unreactive,they are not removed
 
 
 
-</md></sn>
+</md></sn><sn><md>### Seasonal thinning of ozone occur over the poles
+
++++ see tutorial
+@[youtube-tutorial](https://www.youtube.com/embed/s2_GlztPxJs?)
++++
+
+
+The first surprise news about the antartica ozone loss came in 1985.British Antarctic Survey scientists while analyzing satellite data discovered that about a 30% of total ozone column in the stratosphere over Halley Bay in summer since 1977.
+
++++ read more
+
+The discovery of this "Antartic ozone hole" was shock to atmospheric chemists.Since then,this seasonal Antarctic thinning has been expanded in most of the years.It is currently believed that both chemical and meteorological factors contribute to the way in which ==chlorone free radicals destroy ozone over the polar region==.
+
+In each polar `sunless winter`,rapid cooling of the polar air causes the development of ==polar vortex==,where very cold polar air is isolated from rest of the atmosphere.
+
++++
+
+* In the `dark winter seasons`,ClO atoms combine with one another to form `dichlorine dioxide` ($Cl_2O_2$) molecules or chlorine dimmer.The $Cl_2O_2$ molecule can not react with ozone in dark winter.
+
+$$ ClO + ClO + M \to Cl_2O_2 $$
+
+* When the **polar vortex** exists,the air in the stratosphere becomes so cold that polar stratosphere clouds form which are composed of solid ice particles.
+
+* However,ice crystals on their surface catalyze reactions causing the production of dichloride molecules ($Cl_2).
+
+$$ ClONO_2 + HCl \to Cl_2 + HNO_3 $$
+
+* As long as the polar vortex exist the aforesaid reaction constinuous to operate ,accumulating $Cl_2$ ,$Cl_2$ undergoes photodissociation in the  stratosphere when solar radiation reaches sufficient intensity in summer.
+
+$$ Cl_2 + h\nu \to Cl\mathrm{\cdot} + Cl\mathrm{\cdot} $$
+
+
+* With the coming of summer as the intensity of sunlight increase the ozone loses will increase via a catalyst cycle that involves the photolysis of ClO to form $Cl\mathrm{\cdot}$ ,It is responsible for about 3/4 th of the obserbed ozone in the Antartic ozone hole as follows : 
+
+|col |
+|----|
+|    |</md></sn>
