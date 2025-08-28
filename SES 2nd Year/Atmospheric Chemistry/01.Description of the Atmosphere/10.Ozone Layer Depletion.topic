@@ -3,7 +3,7 @@
 
 :::.row
 
-:::.col-12 .col-md-7
+:::.col-12 .col-md-7 p-md-3
 **Stratorsphere** contains much of the total `atmospheric ozone` in a band of `17-26km` above the earths surface known as ==ozone layer==.
 
 * Ozone **concentration** is very low upto `10ppmv` in the stratosphere.
@@ -16,7 +16,7 @@
  
 :::
 
-:::.col-12 .col-md-5
+:::.col-12 .col-md-5 p-md-3
 ![ozone-layer-diagram](https://images.theconversation.com/files/215462/original/file-20180418-163998-h02rtb.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=1000&amp;fit=clip)
 ![ozone-layer-diagram](https://cdn.kastatic.org/ka-content-images/1ced891a93f794443d115f2b45b951b272ed0a4a.png)
 :::
@@ -27,7 +27,100 @@
 		<tags>#10.ozone layer depletion</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 28 2025 09:29:02 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 28 2025 11:13:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TEoGkSwKZt</id>
 		<duration></duration>
 	</config>
+<sn><md>## Concept {.fg-red .text-end}
+
++++ see concept
+
+### Concept UV Radiation
+
+:::.row
+
+:::.col-12 .col-md-7
+UV wavelength is less than visible light radiation,so it has relatively more energy than visible light.UV-C has the lowest wavelength among uv radiation group.
+
+As energy is inversely proportional to wavelength.
+
+|wavelength|energy|
+|---------|-------|
+|$\text{uv-A &gt; uv-B &gt; uv-C}$|$\text{uv-A &lt; uv-B &lt; uv-C}$|
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWrvIdAr9ZszgkqYjWxBW_Ao9aZD7-UWI9w&amp;s)
+![diagram](https://aktinovolia.com/wp-content/uploads/aktinovolia.com-uva-uvb-uvc-ultraviolet-spectrum-w625.jpg)
+:::
+
+:::
+
+---
+
+:::.row
+
+:::.col-12 .col-md-7
+| Type    | Wavelength | Relative Energy | Impact on Humans                                                                                      |
+| ------- | --------------------- | --------------- | ----------------------------------------------------------------------------------------------------- |
+| **UVA** | 315 – 400             | Lowest          | Penetrates deep into skin, causes aging, wrinkles, and contributes to skin cancer.                    |
+| **UVB** | 280 – 315             | Medium          | Causes sunburn, DNA damage, major role in skin cancer, helps vitamin D production.                    |
+| **UVC** | 100 – 280             | Highest         | Extremely harmful, but absorbed by ozone layer and atmosphere—does not usually reach Earth’s surface. |
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://www.mcomarin.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-11.jpg)
+:::
+
+:::
+
++++
+
+</md></sn><sn><md>## Chapman Mechanism {.fg-red .text-center}
+
++++ see tutorial
+@[tutorial-fuseschool](https://www.youtube.com/embed/J0bx2BuxT-I?)
++++
+
+According to Chapman mechanism,in the stratosphere,oxygen ( $O_2$ ) is continuously `converted to` ozone ($O_3$) and `back to` $O_2$ by a sequence of reactions initiated by the ultra violet radiation from the sun.The following overall net reversible reaction indicates the average level of ozone in this layer does not change much :
+
+$$ 3O_2 + \text{UV} \longleftrightarrow 2O_3 $$</md></sn><sn><md>## Ozone-Oxygen Cycle {.fg-red .text-center}
+
+|Process|Reactions|
+|-------|---------|
+|formation| $O_2 \to 2O$ <br> $O + O_2 + M \to O_3 + M$ |
+|destruction| $O_3 \to O_2 + O^*$ <br> $O_3+O \to 2O_2$ |
+
+
+
+:::.bar
+### Ozone formation
+
+$$ O_2 + h\nu(\text{uv-c}) \to O + O $$
+$$ O + O_2 + M \to O_3 + M $$ 
+
+* The bond energy of $O_2$ molecules `489kj/mole` corresponds to the energy of a `240nm` UV photon.Thus UV photon (uv-c) having wavelength &lt; 240nm can breakdown this bond.uv-c photolyzes $O_2$ to yield two O atoms. 
+
+* The reactive `O` atom combines rapidly with $O_2$ in the presence of third molecules,M($N_2 \; ,O_2$) to form $O_3$ 
+:::
+
+---
+
+:::.bar
+### Ozone Destruction
+
+$$ O_3 + h\nu \to O_2 + O^* $$
+$$ O^* + M \to O + M $$
+$$ O_3 + M + h\nu \to O_2 + O + M  \quad \text{net reaction} $$
+
+* The bond energy of $O_3$ molecules is weaker than $O_2$ molecules.Which undergoes photolysis in the presence of uv photon less than 320nm.
+
+:::.bar
+#### Extra
+According to chapman mechanism,atomic O and $O_3$ can also combine to form $O_2$ molecules and such reaction actually causes the loss of $O_3$ molecule from the stratosphere.
+
+$$ O + O_3 \to O_2 + O_2 $$
+:::
+
+:::
+</md></sn>
