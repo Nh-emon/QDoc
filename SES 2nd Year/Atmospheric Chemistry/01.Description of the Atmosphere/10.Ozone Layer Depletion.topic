@@ -27,7 +27,7 @@
 		<tags>#10.ozone layer depletion</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 28 2025 11:51:04 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 28 2025 13:05:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TEoGkSwKZt</id>
 		<duration></duration>
 	</config>
@@ -182,6 +182,89 @@ $HO$ radical is involved in $O_3$ depleting reactions.(lower stratosphere)
 In the stratosphere, $O_3$ depleting or `ozone eater` catalysts (X) are a number of natural and anthropogenic trace constituents such as $NO \; H \; HO\mathrm{\cdot} \; HOO\mathrm{\cdot} \; ClO \; Cl \; Br \; BrO \quad $ metal oxides (produced by rocket exhausts) etc.
 
 Collectively , all ozone depleting compounds are called `ODC`s. {.bar}
+
+
+</md></sn><sn><md>## Ozone layer Depletion{.fg-red .text-center}
+
++++ see tutorial
+@[Dhruv-Rathe](https://www.youtube.com/embed/KuFK7VMZ6OY?)
+@[extraclass-official](https://www.youtube.com/embed/hn7W_C2nbwE?)
+@[national-geographc](https://www.youtube.com/embed/aU6pxSNDPhs?)
++++
+
+
+In the past ammonia,carbon-dioxide,isobutane,methyl chloride,ethylene,chlorid,ethyle chlorine,propane and sulfur dioxide had been used as refrerigerants.These are toxic and inflammable.
+
+Thomas Midgely Jr a General Motors Chemist for the first time 1930 discovered that these chemicals can be replaced with humand-made nontoxic and nonflammable ==chorofluorocarbon (CFC)==
+
++++ read more
+
+Then ,chemists made similar compounds to create a familty of highly useful CFCs.
+
+These are marketed as popular brand name such as `Freon`
+
+* CFC - 11 (Freon-11) - Trichlorofhuoromethane,($CFCL_3$)
+* CFC - 12 (Freon-12) - Dichlorofhuoromethane,($CFCL_2F_2$)
+
+**These are chemically** :
+
+* Stable (unreactive)
+* odorless
+* nonflammable
+* nontoxic
+* noncorrosive
+* insoluble in water 
+
+CFCs are cheap to make and popularly **used as** :
+* Bubble in plastic foam used for insulation and packaging.
+* fumigants for granaries and ship cargo holds.
+* sterilant for hospital instruments
+* cleaner for electronic parts such as computer chips.
+* propellant in aerosol sprary canes.
+* coolants in ar conditioners and refrigerators
+
+In 1974 **sherwood Rowland** and **Mario Molina** (based on earlier work by Paul Crutzen) indicated that CFCs are creating a `global Chemical time bomb` by lowering the average ozone concentration in the stratorsphere.
+
+Rowland and Molina found that CFCs are releasing into the atmosphere from the following major sources due to :
+* discard of spray canes
+* leakage of refrigerator and air conditoning equipment
+* production and burning of plastic foam.
+
+Since CFCs are insoluble in water and chemically unreactive,they are not removed from the troposphere,instead rise slowly into the stratorpshere taking 10 - 2* years t6 0a2e the journey.
+
+
++++</md></sn><sn><md>### Depltion through CFC {.fg-red .text-center}
+
+* In the stratosphere CFCs absorb UV (175-200 nm) radiation and release highly reactive Cl atom :
+
+ $$ CFCl_3 + h\nu \to CFCl_2 + Cl $$
+ $$ CFCl_2 + h\nu \to CFCl + Cl $$
+
+* The reactive ==chlorine== atom takes part in the following reactions without being consumed.
+
+| $ Cl + O_3 \to O_2 + ClO $ |
+|--------------------------|
+| $ ClO + O \to O_2 + Cl $ |
+|$\text{net} \quad O + O_3 \to 2O_2 $ |  
+
+
+* `Cl` atoms are continuously **consumed and then regenerated** in order to eliminate indefinite numbers of $O_3$ molecule and atomic O from the atmosphere.
+
++++ read more
+
+* `Each Cl` atom can destroy up to `100,000` molecules of $O_3$,before being removed from the stratosphere.
+* Although Rowland and Molina warner this problem in 1974,it took 15 years of interaction between the scientfic and political communities before countries agreed to begin phasing out CFCs.
+* In 1995,Rowland and Molina along Paul Crutzen received Nobel Prize in the Chemistry for their work on ozone depletion by chemicals in the stratosphere.
+* A CFC molecule can las for 65 to 110 years in the stratosphere and dramatically increases the chlorine burden leading to the destruction of ozone
+
+* Most of the Cl and ClO released into the stratosphere are quickly tied up with $CH_4$ and $NO_2$ ,respectively to produce HCl and chlorine nitrate ($ClONO_2$) that can do no damager to the ozone.
+ 
+ $$ Cl\mathrm{\cdot} + CH_4 \to CH_3\mathrm{\cdot} $$
+ $$ ClO\mathrm{\cdot} + NO_2 + M \to ClONO_2 + M $$
+
++++ 
+
+
 
 
 </md></sn>
