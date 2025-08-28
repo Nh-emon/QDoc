@@ -27,7 +27,7 @@
 		<tags>#10.ozone layer depletion</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 28 2025 11:13:35 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 28 2025 11:51:04 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TEoGkSwKZt</id>
 		<duration></duration>
 	</config>
@@ -84,7 +84,7 @@ As energy is inversely proportional to wavelength.
 
 According to Chapman mechanism,in the stratosphere,oxygen ( $O_2$ ) is continuously `converted to` ozone ($O_3$) and `back to` $O_2$ by a sequence of reactions initiated by the ultra violet radiation from the sun.The following overall net reversible reaction indicates the average level of ozone in this layer does not change much :
 
-$$ 3O_2 + \text{UV} \longleftrightarrow 2O_3 $$</md></sn><sn><md>## Ozone-Oxygen Cycle {.fg-red .text-center}
+$$ 3O_2 + \text{UV} \longleftrightarrow 2O_3 $$</md></sn><sn><md>## Ozone-Oxygen Cycle {.fg-red .text-end}
 
 |Process|Reactions|
 |-------|---------|
@@ -123,4 +123,65 @@ $$ O + O_3 \to O_2 + O_2 $$
 :::
 
 :::
+</md></sn><sn><md>## Removal of $O_3$ and $O$ from the stratosphere 
+
+Ozone layer acts as a `protective shield` (global sunscreen) by absorbing about `99%` of the sun's harmful ultraviolet radiation $ h\nu \quad 0.23 - 0.32 \mu\text{m}$
+
+
+---
+
+In the natural atmosphere there are some `catalysts` such as $ H, \;HO\mathrm{\cdot} \; NO\mathrm{\cdot} \; Cl\mathrm{\cdot} \quad$ are involved in the removal of stratospheric $O_3$ and atomic O
+
+| $ X + O_3 \to O_2 + XO $ |
+|--------------------------|
+| $ XO + O \to O_2 + X $ |
+|$\text{net} \quad O + O_3 \to 2O_2 $ | 
+
+In these reactions `X` represent **catalyst** and `XO` is the **intermediate product**.
+
+In this catalysts chemical cycle , ==X is consumed and then regenerated==.Thus,such catalysts have the potential to eliminate indefinite numbers of $O_3$ molecule and atomic O from the stratosphere
+
++++ see
+
+---
+
+#### $HO\mathrm{\cdot}$
+
+$HO\mathrm{\cdot}$ radical and H is involved in $O_3$ depleting reactions.(upper stratosphere)
+
+| $ HO\mathrm{\cdot} + O_3 \to O_2 + HOO\mathrm{\cdot} $ |
+|--------------------------|
+| $ HOO\mathrm{\cdot} + O \to O_2 + HO\mathrm{\cdot} $ |
+|$\text{net} \quad O + O_3 \to 2O_2 $ | 
+
+#### $Cl$
+
+$Cl$ radical is involved in $O_3$ depleting reactions.(middle stratosphere)
+
+| $ Cl + O_3 \to O_2 + ClO $ |
+|--------------------------|
+| $ ClO + O \to O_2 + Cl $ |
+|$\text{net} \quad O + O_3 \to 2O_2 $ | 
+
+
+
+#### $NO$
+
+$HO$ radical is involved in $O_3$ depleting reactions.(lower stratosphere)
+
+| $ NO + O_3 \to O_2 + NO_2 $ |
+|--------------------------|
+| $ NO_2 + O \to O_2 + NO $ |
+|$\text{net} \quad O + O_3 \to 2O_2 $ | 
+
+
+---
+
++++
+
+In the stratosphere, $O_3$ depleting or `ozone eater` catalysts (X) are a number of natural and anthropogenic trace constituents such as $NO \; H \; HO\mathrm{\cdot} \; HOO\mathrm{\cdot} \; ClO \; Cl \; Br \; BrO \quad $ metal oxides (produced by rocket exhausts) etc.
+
+Collectively , all ozone depleting compounds are called `ODC`s. {.bar}
+
+
 </md></sn>
