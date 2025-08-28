@@ -1,10 +1,33 @@
 
-	<sn></sn>		
+	<sn><md>## Ozone formation in Stratossphere {.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-md-7
+**Stratorsphere** contains much of the total `atmospheric ozone` in a band of `17-26km` above the earths surface known as ==ozone layer==.
+
+* Ozone **concentration** is very low upto `10ppmv` in the stratosphere.
+* The pressure of high-altitude ozone layer in the atmosphere was first determined in the `1920s` from the ==observations of solar UV spectrum==.
+* In 1930 a British scientist,`Sydney Chapman` postulated a theory about the `formation of ozone` in the stratosphere which is known as ==Chapman mechanism==.
+
++++ see chapman
+![chapman-image](https://upload.wikimedia.org/wikipedia/en/5/59/Sydney_Chapman_MP.jpg)
++++
+ 
+:::
+
+:::.col-12 .col-md-5
+![ozone-layer-diagram](https://images.theconversation.com/files/215462/original/file-20180418-163998-h02rtb.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=1000&amp;fit=clip)
+![ozone-layer-diagram](https://cdn.kastatic.org/ka-content-images/1ced891a93f794443d115f2b45b951b272ed0a4a.png)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#10.ozone layer depletion</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 28 2025 09:09:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Aug 28 2025 09:29:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-TEoGkSwKZt</id>
 		<duration></duration>
 	</config>
