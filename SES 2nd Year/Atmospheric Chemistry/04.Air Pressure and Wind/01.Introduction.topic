@@ -1,10 +1,83 @@
 
-	<sn></sn>		
+	<sn><md>## Air pressure and wind{.fg-red .text-center}
+
+:::.row
+
+:::.col-12 .col-md-7
+Airflow is felt because of impact/strike of air molecules.
+
+* Any **movement of air** through horizontal or vertical place is generally termed `wind`
+* **Horizontally** moving air is called ++wind++
+* **Vertically** moving air is called ++air current++.
+
+---
+
+* Air moves from area of higher pressure to area of lower pressure (i.e., whenever there is a pressure difference/ pressure gradient) forming winds.
+* Due to the **unequal heating of the earth's surface** a temperature gradient occurs on the earth's surface.
+* When temperature gradient occurs in an area, air moves **vertically** from warmer location since its density falls down.
+* As a result, surrounding air moves horizontally from high pressure area in response to pressure gradient (i.e.. to balance the pressure gap/ pressure difference).
+:::
+
+:::.col-12 .col-md-5
+![wind-image](https://e-huquq.az/media/2020/11/26/19a4fb56-48fd-32ce-a18e-b0430f20208b_850.jpg)
+![wind and air current diagram](https://i.imgur.com/GlWezFC.png)
+![air-flow-diagram-based-on-pressure](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc4ssaqyvS08bsrstxqbDP3JKUiU9Y92suw&amp;s)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#01.introduction</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 29 2025 23:20:24 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 30 2025 00:18:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3gtwtVNJcg</id>
 		<duration></duration>
 	</config>
+<sn><md>:::.row
+
+:::.col-12 .col-md-7
+* Areas of **low pressure** are formed where ++air rises upward++ from the carth's surface.
+* Lows usually bring `wet and cloudy` weather.
+* Areas of **higher pressure** are formed where ++air is sinking down++ on thc carth's Surface.
+* Highs bring `sunnier and dry` weather.
+
+---
+
+* In the *northern hemisphere*, winds blow outward from the high pressure centre in clock-wise pattern, while winds move inward in the low pres5ure centre in anti-clockwise pattern.
+* In the case of *southern hemisphere*, the situations are ++reversed++.
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://content.meteoblue.com/assets/images/graphics/Low-High-pressure_lightbox.jpg)
+:::
+
+:::
+</md></sn><sn><md>### Causes of Wind Pressure{.text-center}
+
+There are `four` general causes of wind (and/ wind pressure) generation. These arc:
+
+1. **Temperature** (unequal heat ino of the carth surface causcs variation of earth's temperature) 
+2. Atmospheric **moisture** content
+3. **Rotational** effect of the earth 
+4. **Altitude**
+
+---
+
+### Horizontal Airflow{.text-center}
+
+There are `two` horizontal airflow:
+
+* Horizontal flow at earth's surface 
+* Horizontal flow aloft
+
+---
+
+### Wind Blow{.text-center}
+
+* These two ++airflow are linked++ forming a `convection cell`. 
+* `Wind direction` is the direction ++from which the wind blow++.
+* Winds are named for the direction from which they blow.
+* A north wind blows from north to south, while a south wind blows from south to north. Easterly wind means the wind blows from the east.
+* Average `horizontal wind speeds` of an area may be hundred times `greater` than average verfical movement.
+</md></sn>
