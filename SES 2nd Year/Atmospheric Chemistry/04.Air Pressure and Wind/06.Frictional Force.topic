@@ -25,7 +25,26 @@
 		<tags>#06.frictional force</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 30 2025 21:14:15 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 30 2025 21:50:57 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-9MnQ3VFl9q</id>
 		<duration></duration>
 	</config>
+<sn><md>### Angle{.text-center}
+
+* The `roughness` of he terrain determines the `angles` at which the wind will flow across the isobars as well as the `speed` at which it will move.
+* Over relativeiy `smooth surface` (1.e. sec) ++friction is low++. Thus, wind moves at `10-20°` angle to the isobars at speed roughly `two-thirds` of greostrophic wind.
+* Over `rugged` terrain (i.e., !and surface) friction is `high`. Therefore, wind moves as high as `25-45°` angle from the isobárs at speeds `50%` of geostrophic flow.
+* By changing the direction of air flow, frictions plav a major role in `redistributing air within ihe atmosphere`. This is specially important on surface cycłonic and anti-cyclonic airflow.
+
+</md></sn><sn><md>### Cyclonic and Anticyclonic{.text-center}
+
+* On surface, ++cyclonic and anti Cyclonsc++ arfiow will `across the isobars` at varying argles depcndıng on terrain roughness.
+
+* In a *cyclone airflow*, friction causcs a net air flow `towards its centre`. 
+  &gt; A net inflow around cyclone is known as ++covergence++. 
+  Surface convergence is usually associated with `cloud formation and precipitation`
+
+* In an *anti-Cyclonic* airflow friction causesa net air flow `outwards its centre`.
+  &gt; A net outflow around an anti-cyclonc is known as ++divergence++.
+  Surface divergence is associated with `clean sky and dy weather`
+</md></sn>
