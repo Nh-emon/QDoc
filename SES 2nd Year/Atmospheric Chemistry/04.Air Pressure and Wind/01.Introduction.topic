@@ -30,7 +30,7 @@ Airflow is felt because of impact/strike of air molecules.
 		<tags>#01.introduction</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 30 2025 00:18:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 30 2025 18:05:56 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3gtwtVNJcg</id>
 		<duration></duration>
 	</config>
@@ -80,4 +80,13 @@ There are `two` horizontal airflow:
 * Winds are named for the direction from which they blow.
 * A north wind blows from north to south, while a south wind blows from south to north. Easterly wind means the wind blows from the east.
 * Average `horizontal wind speeds` of an area may be hundred times `greater` than average verfical movement.
+</md></sn><sn><md>## Forces affecting Wind{.fg-red .text-center}
+
+Wind is affected/ controlled by a combination of the following forces
+
+1. Pressure gradient force
+2. Coriolis force
+3. Geostrophic force 
+4. Centrifugal force 
+5. Friction force
 </md></sn>
