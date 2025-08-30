@@ -1,10 +1,31 @@
 
-	<sn></sn>		
+	<sn><md>## Friction Force {.fg-red .text-center}
+
+* Friction acts as a force affecting wind flow `within 600 meters` (sometinncs first few kilometers) on the earth's Surface.
+* Friction force (FF) acts to `slow down wind velocity` and `directed opposite` to the wind velocity.
+--- 
+:::.row
+
+:::.col-12 .col-md-7
+* FF also `modifies` (weakens) Coriclis force (`CF`) as CF is dependent on wind velocity.
+* Pressure gradient force (`PGF`) is `not modified` by frictional force (FF) as PGF is not affected by wind speed.
+* In equilibrium state, `vector sum of Coriolis and friction` componcnts ++balances tha PGF++
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://i.imgur.com/o0mFyZb.png)
+:::
+
+:::
+---
+* The FF acts to the right of the sur face wind (in the northern hemisphere). Thus wind turns to right more gradually.
+* Thus, balanced wind blows obliqucly at an angle across the isobars toward the area to low pressure.
+</md></sn>		
 	<config>
 		<tags>#06.frictional force</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 30 2025 21:01:29 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Aug 30 2025 21:14:15 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-9MnQ3VFl9q</id>
 		<duration></duration>
 	</config>
