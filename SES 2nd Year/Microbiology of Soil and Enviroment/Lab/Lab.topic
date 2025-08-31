@@ -1,118 +1,78 @@
 
-	<sn><md>Explanation of Tomorrow's Lab Work-Plan
-
-Step 1: Media Preparation
-
-Prepare two types of culture media:
-
-Nutrient Agar (Solid medium)
-
-Nutrient Broth (Liquid medium)
-
-
-
-Step 2: Quantity
-
-Prepare 200 ml of each medium.
-
-
-Step 3: Distribution of Media
-
-Agar Medium → Stored in a conical flask.
-
-Broth Medium → Distributed into 10 clean, caped test tubes.
-
-Fill each tube slightly more than half.
-
-
-Additionally, keep 5 empty caped test tubes (no media added).
-
-
-Step 4: Autoclaving
-
-Autoclave the following:
-
-10 broth media-filled test tubes.
-
-5 empty test tubes.
-
-15 Petri dishes.
-
-Agar media in conical flask.
-
-
-
-Step 5: Soil Sample Preparation &amp; Serial Dilution
-
-Take 1 g soil + 100 ml distilled water.
-
-Shake for 30 minutes.
-
-Filter to get filtrate.
-
-From filtrate:
-
-Take 1 ml + 9 ml water for serial dilution.
-
-Perform 5 serial dilutions.
-
-
-Properly label and store:
-
-Filtrate.
-
-Each dilution set (10 ml samples) in white sample bottles.
-
-
-Store in normal refrigerator.
-
-
-Step 6: Petri Dish Preparation
-
-Pour agar medium into 15 Petri dishes after autoclaving.
-
-Do not open test tube caps after autoclaving.
-
-Store:
-
-Broth media-filled test tubes.
-
-Empty test tubes in incubator (closed).
-
-
-
-Step 7: Agar Solidification
-
-Once agar in Petri dishes solidifies, store them in incubator.
-
-
-Step 8: Incubation Temperature
-
-Maintain 30°C incubation for all media and samples.
-
-
-
----
-
-Summary
-
-Prepare 2 types of media (200 ml each) – agar (solid) &amp; broth (liquid).
-
-Distribute broth in 10 test tubes, keep 5 empty, and autoclave along with agar &amp; Petri dishes.
-
-Prepare soil filtrate and perform 5-step serial dilution; store samples in fridge.
-
-Pour agar into Petri dishes, let solidify, and store all materials in incubator at 30°C.
-
-
-Would you like me to create a visual workflow (diagram) of this plan for easier understanding? Or a checklist format for lab use?
-
-</md></sn>		
+			
 	<config>
 		<tags>#lab</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 31 2025 07:57:42 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 31 2025 08:09:45 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-hCUHSkmxVv</id>
 		<duration></duration>
 	</config>
+<sn><md>### ধাপ ১: মিডিয়া প্রস্তুতকরণ
+
+দুই ধরনের কালচার মিডিয়া তৈরি করতে হবে –
+
+1. **Nutrient Agar (ঠোস মাধ্যম)**
+2. **Nutrient Broth (তরল মাধ্যম)**
+
+### ধাপ ২: পরিমাণ
+
+প্রতিটি মিডিয়া ২০০ মিলিলিটার করে প্রস্তুত করতে হবে।
+
+### ধাপ ৩: মিডিয়ার বণ্টন
+
+* **Agar Medium** → কনিক্যাল ফ্লাস্কে সংরক্ষণ করতে হবে।
+* **Broth Medium** → ১০টি পরিষ্কার ও ঢাকনা লাগানো টেস্ট টিউবে বণ্টন করতে হবে।
+
+  * প্রতিটি টিউব অর্ধেকের বেশি ভরতে হবে।
+* অতিরিক্তভাবে **৫টি খালি টেস্ট টিউব** রাখতে হবে (কোনো মিডিয়া দেওয়া হবে না)।
+
+### ধাপ ৪: অটোক্লেভিং
+
+অটোক্লেভ করতে হবে নিচেরগুলো –
+
+* ১০টি ব্রথ ভর্তি টেস্ট টিউব
+* ৫টি খালি টেস্ট টিউব
+* ১৫টি পেট্রি ডিশ
+* কনিক্যাল ফ্লাস্কে রাখা আগার মিডিয়া
+
+### ধাপ ৫: মাটি থেকে নমুনা প্রস্তুতি ও সিরিয়াল ডাইলিউশন
+
+1. **১ গ্রাম মাটি + ১০০ মিলি ডিস্টিলড পানি** → ভালোভাবে মিশিয়ে ৩০ মিনিট ঝাঁকাতে হবে।
+2. মিশ্রণ ছেঁকে **ফিল্ট্রেট** সংগ্রহ করতে হবে।
+3. ফিল্ট্রেট থেকে:
+
+   * **১ মিলি + ৯ মিলি পানি** মিশিয়ে ধাপে ধাপে সিরিয়াল ডাইলিউশন করতে হবে।
+   * মোট ৫ ধাপ সিরিয়াল ডাইলিউশন করতে হবে।
+4. প্রতিটি ডাইলিউশন সেট (১০ মিলি স্যাম্পল) ও মূল ফিল্ট্রেট সাদা বোতলে লেবেল করে রাখতে হবে।
+5. এগুলো **সাধারণ রেফ্রিজারেটরে সংরক্ষণ করতে হবে**।
+
+### ধাপ ৬: পেট্রি ডিশ প্রস্তুতি
+
+অটোক্লেভের পর:
+
+* আগার মিডিয়া ১৫টি পেট্রি ডিশে ঢেলে দিতে হবে।
+* টেস্ট টিউবের ঢাকনা অটোক্লেভের পর আর খোলা যাবে না।
+* সংরক্ষণ করতে হবে:
+
+  * ব্রথ ভর্তি টেস্ট টিউব
+  * খালি টেস্ট টিউব (ঢাকনা বন্ধ অবস্থায়) → ইনকিউবেটরে
+
+### ধাপ ৭: আগার শক্তকরণ
+
+পেট্রি ডিশে আগার জমে শক্ত হলে সেগুলো ইনকিউবেটরে রাখতে হবে।
+
+### ধাপ ৮: ইনকিউবেশন তাপমাত্রা
+
+সব মিডিয়া ও নমুনা **৩০°C তাপমাত্রায় ইনকিউবেট করতে হবে**।
+
+---
+
+## সারাংশ
+
+* দুই ধরনের মিডিয়া (২০০ মিলি করে): আগার (ঠোস) ও ব্রথ (তরল)।
+* ব্রথ ১০টি টেস্ট টিউবে ভাগ, ৫টি খালি টেস্ট টিউব রাখতে হবে। সবগুলো অটোক্লেভ করতে হবে পেট্রি ডিশ ও আগার মিডিয়ার সাথে।
+* মাটি থেকে ফিল্ট্রেট তৈরি করে ৫ ধাপের সিরিয়াল ডাইলিউশন করতে হবে এবং ফ্রিজে সংরক্ষণ করতে হবে।
+* আগার পেট্রি ডিশে ঢেলে জমে গেলে ইনকিউবেটরে রাখতে হবে।
+* সবকিছু **৩০°C তাপমাত্রায়** সংরক্ষণ/ইনকিউবেট করতে হবে।
+</md></sn>
