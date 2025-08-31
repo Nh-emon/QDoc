@@ -34,7 +34,7 @@ The Köppen climate classification scheme divides climates into `five main clima
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 31 2025 21:49:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 31 2025 22:20:17 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
@@ -242,7 +242,96 @@ $$
 
 
 
-</md></sn><sn></sn><sn></sn><sn><md>## Criticisms of Koppen's Climate Classification
+</md></sn><sn><md>## E {.text-end .fg-blue}
+
+:::.row
+
+:::.col-12 .col-md-7
+### General Characteristics of E Type Climate
+
+* Average temperature of the warmest month is **below 10°C**.
+* Very **low precipitation**, mostly in the form of snow.
+* Found in **polar regions** of the Earth.
+* Vegetation is **very limited** or entirely absent.
+:::
+
+:::.col-12 .col-md-5
+![diagram](https://upload.wikimedia.org/wikipedia/commons/9/9c/LocationPolarRegions.png)
+:::
+
+:::
+
+
+---
+
++++ see code
+ * `E` : Hight altitude,warmest month &lt; 10
+ * `T` : Tundra (polar climate where warmest month 0 to 10)
+ * `F` : Frost / Ice cap (polar climate where all month &lt; 0)
++++
+
+| **Subtype**              | **Temperature Characteristics**        | **Vegetation**                               | **Examples of Location**                                     |
+| ------------------------ | -------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| **ET – Tundra Climate**  | Warmest month between **0°C and 10°C** | Mosses, lichens, dwarf shrubs, short grasses | Coastal Greenland, Northern Alaska, Northern Canada, Siberia |
+| **EF – Ice Cap Climate** | All months below **0°C**               | No vegetation (only ice and snow)            | Central Antarctica, Interior Greenland, Arctic regions       |
+
+</md></sn><sn><md>## C {.fg-red .text-end}
+
++++ see diagram
+![diagram](https://i.ytimg.com/vi/DhkJS3DfQgM/maxresdefault.jpg)
++++
+
+---
+
++++ see code
+* `C` : Mid-altitude,coldest month -3 to 18 and warmest month &gt; 10
+* `f` : full moonsoon
+* `s` : summer dry
+* `a` : hot summer , temp &gt; 22
+* `b` : warm summer , temp &lt; 22 + at least 4 month 10
+* `c` : cool/short summer, 1-3 month &gt; 10
++++
+
+
+| **Subtype**                           | **Temperature Characteristics**                                           | **Precipitation Pattern**                         | **Vegetation**                              | **Examples of Location**                                                                  |
+| ------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Cfa – Humid Subtropical**           | Hot summers; mild winters (coldest month 0–18°C, warmest month &gt;22°C)     | Precipitation throughout the year (no dry season) | Deciduous forests, mixed forests            | S-USA, E-China, S-Brazil, N-India                          |
+| **Cfb – Oceanic / Marine West Coast** | Mild summers (warmest month &lt;22°C, at least 4 months &gt;10°C); cool winters | Even rainfall year-round                          | Evergreen forests, mixed forests            | W-Europe (UK, France, Germany), New Zealand, Pacific Northwest (USA, Canada)        |
+| **Cfc – Subpolar Oceanic**            | Cool short summers (1–3 months &gt;10°C), mild winters                       | Rainfall spread through the year                  | Low forests, tundra-like vegetation         | Coastal Iceland, S-Chile, S-Alaska                                          |
+| **Csa – Mediterranean Hot Summer**    | Hot, dry summers (warmest month &gt;22°C), mild winters                      | Dry summer, wet winter                            | Olive trees, vineyards, Mediterranean scrub | S-Spain, Italy, Greece, California, Turkey                                         |
+| **Csb – Mediterranean Warm Summer**   | Warm, dry summers (warmest month &lt;22°C, at least 4 months &gt;10°C)          | Dry summer, wet winter                            | Mixed forests, shrubs                       | Coastal California, C-Chile, Portugal                                               |
+| **Csc – Mediterranean Cool Summer**   | Cool, dry summers (1–3 months &gt;10°C), cold winters                        | Dry summer, wet winter                            | Sparse shrubs, hardy vegetation             | Pacific Northwest (USA mountains), parts of Andes, small parts of Mediterranean mountains |
+</md></sn><sn><md>## D Type Climate in Köppen Climate Classification
+
+The **D type climate** in Köppen’s classification is called the **Snow Climate** or **Microthermal Climate**. It is typically found in the interiors and high latitudes of continents, mainly in the Northern Hemisphere. These climates are characterized by **cold winters, short summers, and a large annual range of temperature**.
+
+### Characteristics of D Type Climate
+
+* Found only in the **Northern Hemisphere** (between 40°–70° N).
+* Experiences **severe winters** with average temperature of the coldest month **below –3°C**.
+* Warmest month has an average temperature **above 10°C**.
+* Annual temperature range is very high (continental effect).
+* Precipitation is moderate and can occur throughout the year or seasonally, often in the form of **snow during winter**.
+* Vegetation: Coniferous forests (Taiga) are typical.
+
+### Types of D Climate (Based on 2nd and 3rd letters)
+
+| Climate Code | Full Climate Name                               | 1st Letter (D) | 2nd Letter (f, s, w)       | 3rd Letter (a, b, c, d) | Example Regions                       |
+| ------------ | ----------------------------------------------- | -------------- | -------------------------- | ----------------------- | ------------------------------------- |
+| Dfa          | Humid Continental (hot summer)                  | Snow climate   | f = precipitation all year | a = hot summer          | Northeastern USA, Eastern Europe      |
+| Dfb          | Humid Continental (mild summer)                 | Snow climate   | f = precipitation all year | b = warm summer         | Southern Canada, Northern USA, Russia |
+| Dfc          | Subarctic (cool summer)                         | Snow climate   | f = precipitation all year | c = cool summer         | Central Canada, Siberia               |
+| Dfd          | Subarctic (extremely cold winter)               | Snow climate   | f = precipitation all year | d = very severe winter  | Northeastern Siberia                  |
+| Dwa          | Humid Continental with dry winter (hot summer)  | Snow climate   | w = dry winter             | a = hot summer          | Manchuria, North China                |
+| Dwb          | Humid Continental with dry winter (warm summer) | Snow climate   | w = dry winter             | b = warm summer         | Northeast China, Korea                |
+| Dwc          | Subarctic with dry winter (cool summer)         | Snow climate   | w = dry winter             | c = cool summer         | Northern Mongolia, Siberia            |
+| Dwd          | Subarctic with dry winter (severe winter)       | Snow climate   | w = dry winter             | d = severe winter       | Siberia                               |
+| Dsa          | Continental dry summer (hot summer)             | Snow climate   | s = dry summer             | a = hot summer          | Interior Turkey, Iran Highlands       |
+| Dsb          | Continental dry summer (warm summer)            | Snow climate   | s = dry summer             | b = warm summer         | Interior Turkey, Central Asia         |
+| Dsc          | Subarctic dry summer (cool summer)              | Snow climate   | s = dry summer             | c = cool summer         | Highlands of Turkey, Central Asia     |
+| Dsd          | Subarctic dry summer (severe winter)            | Snow climate   | s = dry summer             | d = severe winter       | Parts of Siberia                      |
+
+</md></sn><sn><md>## Criticisms of Koppen's Climate Classification
 
 Some of the weaknesses of Koppen's climatic classification are as under :
 
