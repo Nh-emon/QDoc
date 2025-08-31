@@ -34,7 +34,7 @@ The Köppen climate classification scheme divides climates into `five main clima
 		<tags>#koppen climate classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 31 2025 19:42:54 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Aug 31 2025 21:49:32 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JSX2C1j1CQ</id>
 		<duration></duration>
 	</config>
@@ -63,9 +63,6 @@ need diagram {.fg-red}
 :::
 
 :::.col-12 .col-md-5
-
-World map based on `Temperature`
-
 ![diagram](https://bam.files.bbci.co.uk/bam/live/content/zs4jkty/large)
 ![diagram](https://www.researchgate.net/profile/Mizanur-Rahman-27/publication/344443375/figure/fig1/AS:941872344223750@1601571274270/World-temperature-zone-map-developed-based-on-the-six-temperature-domains-given-by-Sayre.png)
 ![diagram](https://www.researchgate.net/profile/Franz-Rubel/publication/327464948/figure/fig1/AS:1050465269735425@1627461845161/Spatial-distribution-of-the-five-main-Koeppen-climate-types-determined-for-the-period-1951.ppm)
@@ -78,14 +75,20 @@ World map based on `Temperature`
 
 | **Main Group** | **Code** | **Key Rule** |
 |----------------|----------|--------------|
+| `Polar`          | E        | Warmest month &lt; 10 °C |
+| `Continental`    | D        | Coldest month &lt; –3 °C; Warmest &gt; 10 °C |
+| `Temperate`      | C        | –3 °C &lt; Coldest month &lt; 18 °C; Warmest &gt; 10 °C |
 | `Tropical`       | A        | All months ≥ 18 °C |
 | `Dry`            | B        | Evaporation &gt; Precipitation |
-| `Temperate`      | C        | –3 °C &lt; Coldest month &lt; 18 °C; Warmest &gt; 10 °C |
-| `Continental`    | D        | Coldest month &lt; –3 °C; Warmest &gt; 10 °C |
-| `Polar`          | E        | Warmest month &lt; 10 °C |
+
+
 
 
 +++ see zone example table
+
+![world-map](https://freevector-images.s3.amazonaws.com/uploads/vector/preview/165256/vecteezy-CountryName_-WorldMap-RH0223_generated.jpg)
+
+---
 
 | **Main Group**                  | **Zone**                                                                                                            |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -157,17 +160,31 @@ World map based on `Temperature`
 
 The ==tropical zone==,where the effect of sunlight is intense.
 
++++ see tropical zone
+
+![diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/World_map_indicating_tropics_and_subtropics.png/1200px-World_map_indicating_tropics_and_subtropics.png)
+
++++
+
 | Feature           | Description                                                                       |
 | ----------------- | --------------------------------------------------------------------------------- |
+| **Location**      | Typically ==0°–15° latitude== near the equator                                    |
+| **Example**      | 🌴 Amazon Basin (South America), Central Africa (e.g. Congo DRC), Indonesia &amp; Malaysia (Southeast Asia), parts of India &amp; Sri Lanka                                    |
+| **Vegetation**    | `Dense evergreen rainforest`, tropical grasslands (savanna), mangroves              |
 | **Temperature**   | Monthly average ==temperature ≥ 18°C== all year; almost no variation             |
 | **Precipitation** | `Very high` annual `rainfall`; generally &gt; 1500 mm/year                               |
 | **Seasonality**   | Little or `no seasonal temperature variation`; some subtypes have short dry periods |
-| **Vegetation**    | `Dense evergreen rainforest`, tropical grasslands (savanna), mangroves              |
-| **Location**      | Typically ==0°–15° latitude== near the equator                                    |
-| **Example**      | 🌴 Amazon Basin (South America), Central Africa (e.g. Congo DRC), Indonesia &amp; Malaysia (Southeast Asia), parts of India &amp; Sri Lanka                                    |
 
 
 ### Second filter
+
++++ see code
+* `A` : Tropical
+* `f` : full-moonsoon
+* `m` : moonsoon
+* `w` : winter dry
+* `s` : summer dry
++++
 
 As second letter now we will filter based on ==seasonal precipitation in Topical Region==
 
@@ -176,7 +193,56 @@ As second letter now we will filter based on ==seasonal precipitation in Topical
 | A`f`      | Tropical `Rainforest` | No dry season (f = fully humid)                      | All months ≥ 18°C and &gt; 60mm      | Amazon Basin (Brazil), Congo (DRC), Indonesia                           |
 | A`m`      | Tropical `Monsoon`    | Short dry season (m = monsoon)                       | All months ≥ 18°C and &lt; 60mm      | West coast of India, Bangladesh, parts of Myanmar                       |
 | A`w` / A`s` | Tropical `Savanna`    | Distinct dry season (w = winter dry, s = summer dry) | All months ≥ 18°C      | East Africa (Kenya, Tanzania), Brazil (Cerrado), India (Deccan Plateau) |
-</md></sn><sn></sn><sn><md>## Criticisms of Koppen's Climate Classification
+</md></sn><sn><md>## B {.fg-orange}
+
+The **B type climate** represents **dry climates** means very less humidity due to distance from ocean. Unlike other categories, which are defined primarily by temperature, the B climates are ++defined by precipitation++. These regions experience `evaporation exceeding precipitation`, resulting in arid or semi-arid conditions.
+
+
++++ see arid zone on map
+![diagram](https://www.researchgate.net/publication/354732639/figure/fig1/AS:1070525585580032@1632244597385/Map-showing-arid-and-semi-arid-regions-of-the-world.png)
++++
+
+---
+
+### Basis of Classification
+
+The B type climates are determined using a `precipitation threshold` that depends on temperature and seasonality. The threshold is calculated as:
+
+$$
+\text{Threshold (mm)} = 20 \times T + \text{(seasonal adjustment factor)}
+$$
+
+* **T** = Mean annual temperature in °C.
++++ see Adjustment factor:
+
+  * +280 mm if 70% or more of precipitation occurs in summer.
+  * +140 mm if 70% or more occurs in winter.
+  * +0 if precipitation is evenly distributed.
+
++++
+
+* If annual precipitation is ++less than 50% of the threshold++, the climate is classified as `desert (BW)`. 
+* If it is ++50–100% of the threshold++, the climate is classified as `steppe (BS)`.
+
++++ see code
+* `B`: Evaporation &gt; Precipitation
+* `W` : less rain,Desert climate
+* `S` : more rain than desert,Steppe climate
+* `h` : hot arid,mat &gt; 18
+* `k` : cold arid,mat &lt; 18
++++
+
+
+| Climate Code | Climate Name            | Temperature Condition                                          | Rainfall Condition                           | Example Regions                                 |
+| ------------ | ----------------------- | -------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------- |
+| **BWh**      | Hot Desert Climate      | Very hot summers, mild winters (average annual temp &gt; 18°C)    | Extremely low rainfall (≤ half of threshold) | Sahara Desert, Arabian Desert                   |
+| **BWk**      | Cold Desert Climate     | Cold winters, hot to warm summers (average annual temp &lt; 18°C) | Extremely low rainfall (≤ half of threshold) | Gobi Desert, Great Basin (USA)                  |
+| **BSh**      | Hot Semi-Arid (Steppe)  | Hot summers, mild winters (average annual temp &gt; 18°C)         | Low rainfall (just above desert threshold)   | Sahel (Africa), parts of India (Deccan Plateau) |
+| **BSk**      | Cold Semi-Arid (Steppe) | Cold winters, warm to hot summers (average annual temp &lt; 18°C) | Low rainfall (just above desert threshold)   | Central Asia (Kazakhstan), Great Plains (USA)   |
+
+
+
+</md></sn><sn></sn><sn></sn><sn><md>## Criticisms of Koppen's Climate Classification
 
 Some of the weaknesses of Koppen's climatic classification are as under :
 
