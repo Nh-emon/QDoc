@@ -21,7 +21,7 @@
 		<tags>#06.atmospheric pressure</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Aug 22 2025 22:11:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 01 2025 07:07:54 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-B8YcHqmJH1</id>
 		<duration></duration>
 	</config>
@@ -127,4 +127,100 @@ P \approx 1.01 \times 10^5\ \text{Pa} = 101\ \text{kPa} \approx 1\ \text{atm}
 $$
 
 At sea-level the mass of air on per `unit square meter` surface area is about `10000 kg` per square meter,that is ==1kg per square centimeter==.
+</md></sn><sn><md>## Variation of Atmospheric Pressure
+
+Atmospheric pressure is not constant everywhere; it varies due to several factors such as altitude, temperature, and water vapor content.
+
+### 1. Variation by Altitude
+
+* ++Atmospheric pressure decreases with increasing altitude++ $P \propto \frac{1}{h}$ .
+* At sea level, pressure is highest because the `air column above is maximum`.
+* As altitude increases, the thickness of the air column decreases, reducing the weight of air and hence pressure.
+* For example, at the top of Mount Everest, air pressure is about one-third of sea-level pressure.
+
+### 2. Variation by Temperature
+
+* ++Warm air is lighter (less dense) than cold air++.
+* When temperature increases, air expands and rises, causing pressure at the surface to fall.
+* Conversely, when temperature decreases, air contracts and becomes denser, causing pressure at the surface to rise.
+* This explains why equatorial regions (warmer) generally have low pressure and polar regions (colder) have high pressure.
+
+### 3. Variation by Water Vapor Content
+
+* `Water vapor is lighter than dry air`?
+* When the amount of water vapor increases (high humidity), the air becomes less dense, lowering atmospheric pressure.
+* Conversely, dry air (low humidity) is denser and exerts higher pressure.
+* This is why tropical humid regions often have lower pressure than dry desert regions at the same altitude.
+</md></sn><sn><md>## Variation of Atmospheric Pressure with Height (Derivation)
+
+We’ll derive the isothermal barometric relation starting from hydrostatic balance and the ideal gas law.
+
+### Step 1: Hydrostatic balance
+
+The vertical force balance in a static atmosphere is
+
+$$
+\frac{dp}{dz} = -\rho g
+$$
+
+where $p$ is pressure, $\rho$ is density, $g$ is gravitational acceleration.
+
+### Step 2: Ideal gas law (molar form)
+
+Using the ideal gas law per unit volume:
+
+$$
+p = \rho \, R_\text{u}\,\frac{T}{M}
+\quad\Rightarrow\quad
+\rho = \frac{p\,M}{R_\text{u}\,T}
+$$
+
+where $R_\text{u}$ is the universal gas constant and $M$ is the mean molar mass of air (assumed constant).
+
+### Step 3: Combine and separate variables
+
+Substitute $\rho$ into the hydrostatic equation:
+
+$$
+\frac{dp}{dz} = -\frac{p\,M}{R_\text{u}\,T}\,g
+\quad\Rightarrow\quad
+\frac{1}{p}\,dp = -\frac{M g}{R_\text{u} T}\,dz
+$$
+
+Assume an isothermal layer so $T$ is constant with $z$, and take $g, M$ constant.
+
+### Step 4: Integrate between two levels
+
+Integrate from level 1 $(z_1,p_1)$ to level 2 $(z_2,p_2)$:
+
+$$
+\int_{p_1}^{p_2}\frac{1}{p}\,dp \;=\; -\frac{M g}{R_\text{u} T}\int_{z_1}^{z_2}dz
+$$
+
+$$
+\ln\!\left(\frac{p_2}{p_1}\right) \;=\; -\frac{M g}{R_\text{u} T}\,(z_2 - z_1)
+$$
+
+Let $\Delta z = z_2 - z_1$. Then
+
+$$
+\Delta z \;=\; -\,\frac{R_\text{u} T}{M g}\,\ln\!\left(\frac{p_2}{p_1}\right)
+\;=\; \frac{R_\text{u} T}{M g}\,\ln\!\left(\frac{p_1}{p_2}\right)
+$$
+
+This is the requested form (up to equivalent logarithm arguments). Since typically $p_1&gt;p_2$ when $z_2&gt;z_1$, $\ln(p_1/p_2)&gt;0$ and $\Delta z&gt;0$ as expected.
+
+---
+
+### Notes and common variants
+
+* Defining the **scale height** $H = \dfrac{R_\text{u} T}{M g}$, we get $\Delta z = H \ln(p_1/p_2)$.
+* Using the **specific gas constant** for air $R_d = R_\text{u}/M \approx 287\,\text{J kg}^{-1}\text{K}^{-1}$, the **hypsometric equation** is
+
+  $$
+  \Delta z = \frac{R_d\,\overline{T_v}}{g}\,\ln\!\left(\frac{p_1}{p_2}\right)
+  $$
+
+  where $\overline{T_v}$ is the layer-mean **virtual temperature** (allows for moisture and non-isothermal layers).
+* Assumptions used here: hydrostatic equilibrium, ideal gas, constant $T$ (isothermal layer), constant $g$ and $M$.
 </md></sn>
