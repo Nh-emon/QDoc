@@ -4,75 +4,125 @@
 		<tags>#lab</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 31 2025 08:09:45 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Sep 03 2025 09:03:26 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-hCUHSkmxVv</id>
 		<duration></duration>
 	</config>
-<sn><md>### ধাপ ১: মিডিয়া প্রস্তুতকরণ
+<sn><md>## Concept
 
-দুই ধরনের কালচার মিডিয়া তৈরি করতে হবে –
-
-1. **Nutrient Agar (ঠোস মাধ্যম)**
-2. **Nutrient Broth (তরল মাধ্যম)**
-
-### ধাপ ২: পরিমাণ
-
-প্রতিটি মিডিয়া ২০০ মিলিলিটার করে প্রস্তুত করতে হবে।
-
-### ধাপ ৩: মিডিয়ার বণ্টন
-
-* **Agar Medium** → কনিক্যাল ফ্লাস্কে সংরক্ষণ করতে হবে।
-* **Broth Medium** → ১০টি পরিষ্কার ও ঢাকনা লাগানো টেস্ট টিউবে বণ্টন করতে হবে।
-
-  * প্রতিটি টিউব অর্ধেকের বেশি ভরতে হবে।
-* অতিরিক্তভাবে **৫টি খালি টেস্ট টিউব** রাখতে হবে (কোনো মিডিয়া দেওয়া হবে না)।
-
-### ধাপ ৪: অটোক্লেভিং
-
-অটোক্লেভ করতে হবে নিচেরগুলো –
-
-* ১০টি ব্রথ ভর্তি টেস্ট টিউব
-* ৫টি খালি টেস্ট টিউব
-* ১৫টি পেট্রি ডিশ
-* কনিক্যাল ফ্লাস্কে রাখা আগার মিডিয়া
-
-### ধাপ ৫: মাটি থেকে নমুনা প্রস্তুতি ও সিরিয়াল ডাইলিউশন
-
-1. **১ গ্রাম মাটি + ১০০ মিলি ডিস্টিলড পানি** → ভালোভাবে মিশিয়ে ৩০ মিনিট ঝাঁকাতে হবে।
-2. মিশ্রণ ছেঁকে **ফিল্ট্রেট** সংগ্রহ করতে হবে।
-3. ফিল্ট্রেট থেকে:
-
-   * **১ মিলি + ৯ মিলি পানি** মিশিয়ে ধাপে ধাপে সিরিয়াল ডাইলিউশন করতে হবে।
-   * মোট ৫ ধাপ সিরিয়াল ডাইলিউশন করতে হবে।
-4. প্রতিটি ডাইলিউশন সেট (১০ মিলি স্যাম্পল) ও মূল ফিল্ট্রেট সাদা বোতলে লেবেল করে রাখতে হবে।
-5. এগুলো **সাধারণ রেফ্রিজারেটরে সংরক্ষণ করতে হবে**।
-
-### ধাপ ৬: পেট্রি ডিশ প্রস্তুতি
-
-অটোক্লেভের পর:
-
-* আগার মিডিয়া ১৫টি পেট্রি ডিশে ঢেলে দিতে হবে।
-* টেস্ট টিউবের ঢাকনা অটোক্লেভের পর আর খোলা যাবে না।
-* সংরক্ষণ করতে হবে:
-
-  * ব্রথ ভর্তি টেস্ট টিউব
-  * খালি টেস্ট টিউব (ঢাকনা বন্ধ অবস্থায়) → ইনকিউবেটরে
-
-### ধাপ ৭: আগার শক্তকরণ
-
-পেট্রি ডিশে আগার জমে শক্ত হলে সেগুলো ইনকিউবেটরে রাখতে হবে।
-
-### ধাপ ৮: ইনকিউবেশন তাপমাত্রা
-
-সব মিডিয়া ও নমুনা **৩০°C তাপমাত্রায় ইনকিউবেট করতে হবে**।
+Before proceeding with the lab topic,I want to revised the previous lab techniques.
 
 ---
 
-## সারাংশ
+:::.row
 
-* দুই ধরনের মিডিয়া (২০০ মিলি করে): আগার (ঠোস) ও ব্রথ (তরল)।
-* ব্রথ ১০টি টেস্ট টিউবে ভাগ, ৫টি খালি টেস্ট টিউব রাখতে হবে। সবগুলো অটোক্লেভ করতে হবে পেট্রি ডিশ ও আগার মিডিয়ার সাথে।
-* মাটি থেকে ফিল্ট্রেট তৈরি করে ৫ ধাপের সিরিয়াল ডাইলিউশন করতে হবে এবং ফ্রিজে সংরক্ষণ করতে হবে।
-* আগার পেট্রি ডিশে ঢেলে জমে গেলে ইনকিউবেটরে রাখতে হবে।
-* সবকিছু **৩০°C তাপমাত্রায়** সংরক্ষণ/ইনকিউবেট করতে হবে।
+:::.col-12 .col-lg-7
+### Nutrient Agar and Nutrient Broth
+`Nutrient agar` and `nutrient Broth` from Oxoid share almost the same medium composition. The main difference between them is that 
+* nutrient agar contains a ++solidifying agent++, **agar powder that causes the medium to solidify** in room temperature,
+* whereas nutrient broth remains in *liquid form*.
+
+#### Nutrient Agar vs Nutrient Broth
+
+Both nutrient agar and nutrient broth share the **same medium composition**. The only difference is that nutrient agar contains the solidifying agent (`agar powder`), while nutrient broth does not.
+
+| **Differences**      | **Nutrient Agar**                   | **Nutrient Broth**                  |
+| -------------------- | ----------------------------------- | ----------------------------------- |
+| **Agar Composition** | 15 g/L                              | –                                   |
+| **Type of Medium**   | Solid                               | Liquid                              |
+| **Containers Used**  | Usually in Petri dishes             | Usually in culture bottles          |
+| **Uses**             | Formation of microorganism colonies | Maintenance of microorganism stocks |
+
+
+:::
+
+:::.col-12 .col-lg-5
+![image-of-nutrient-agar](https://labmal.com/wp-content/uploads/2019/08/nutrient-agar-in-plate-300x300.jpg)
+*Example of nutrient agar in a petri dish* {.fs-08 .text-center}
+
+![image-of-nutrient-broth](https://labmal.com/wp-content/uploads/2019/08/nutrient-agar-in-bottle-300x300.jpg)
+*Example of nutrient broth in a culture bottle.* {.fs-08 .text-center}
+:::
+
+:::
+
+</md></sn><sn><md>## Preparing Nutrient Agar
+
++++ see tutorial
+@[yt-video](https://youtube.com/embed/Ad1xAV6tupI?)
++++
+
+:::.row
+
+:::.col-12 .col-lg-7
+Nutrient agar contains nutrients suitable to **subculture a wide range of microorganisms**, making it an excellent agar medium to check purity before biochemical or serological tests.The addition of agar solidifies the medium, making it suitable for cultivation of microorganisms.Up to **10% blood** or other biological fluids can be added depending on the experimental purpose.
+:::
+
+:::.col-12 .col-lg-5
+![image](https://labmal.com/wp-content/uploads/2019/08/nutrient-agar-in-plate-300x300.jpg)
+:::
+
+:::
+
+---
+
+### How to Prepare Nutrient Agar
+
+1. Suspend **4.6 g** of nutrient agar powder (CM0003B) in **200ml** of distilled water.
+2. Mix and dissolve completely.
+3. Sterilize by **autoclaving at 121°C for 15 minutes**.
+4. Pour the liquid into Petri dishes in a clean environment to prevent contamination.
+5. Allow the medium to solidify—once solidified, it is ready for use.
+
+::: .bg-blue .p-3
+**Tip:** To ensure sterility, incubate freshly prepared agar for a few days.
+* If no microorganisms grow, it is sterile and safe to use.
+* If growth appears, prepare again.
+:::
+---
+
+### Storage Conditions and Shelf Life
+
+* **Dehydrated medium:** Store at **10–30°C**, and use before the expiry date on the label.
+* **Prepared nutrient agar (Petri dishes):** Store at **2–8°C**.
+</md></sn><sn><md>## Preparing Nutrient Broth
+
++++ see tutorial
+@[youtube-video-from-RBR-Life-Science](https://youtube.com/embed/ovDwOSmIAF8?)
++++
+
+:::.row
+:::.col-12 .col-lg-7
+Nutrient broth is essentially nutrient agar **without the solidifying agent (agar powder)**. It remains in ==liquid form== at room temperature and is commonly used to maintain stocks of microorganisms. Generally, it is used to grow *fastidious organisms*. Nutrient broth can also be enriched with blood, serum, sugars, or other supplements for special purposes.
+:::
+
+:::.col-12 .col-lg-5
+![image](https://labmal.com/wp-content/uploads/2019/08/nutrient-agar-in-bottle-300x300.jpg)
+:::
+:::
+
+
+### How to Prepare Nutrient Broth?
+
+1. Add 13 g of nutrient broth powder (CM0001B) to 1 L of distilled water.
+2. Mix and dissolve completely.
+3. Pour into final containers (e.g., conical flask).
+4. Sterilize by autoclaving at 121°C for 15 minutes.
+
+::: .bg-blue .p-3
+**Tip** : Storage Conditions and Shelf Life
+* Store dehydrated medium at 10–30°C and use before the expiry date on the label.
+* After preparation, store the nutrient broth medium below 25°C.
+:::
+</md></sn><sn><md>### Composition of Nutrient Agar and Nutrient Broth{.fg-red .text-center}
+
+| **Typical Formula**\* | **Nutrient Agar (g/L)** | **Nutrient Broth (g/L)** |
+| --------------------- | ----------------------- | ------------------------ |
+| `Lab-Lemco` powder    | 1.0                     | 1.0                      |
+| Yeast extract         | 2.0                     | 2.0                      |
+| Peptone               | 5.0                     | 5.0                      |
+| Sodium chloride       | 5.0                     | 5.0                      |
+| Agar                  | 15.0                    | –                        |
+
+**pH:** 7.4 ± 0.2 @ 25°C
 </md></sn>
