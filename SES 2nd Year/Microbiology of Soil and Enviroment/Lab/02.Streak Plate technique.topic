@@ -1,10 +1,57 @@
 
-	<sn></sn>		
+	<sn><md>## What is the Streak Plate Method?
+
++++ see tutorial
+@[yt-video](https://youtube.com/embed/C3FGaMr7K4E?)
++++
+
+:::.row
+:::.col-12 .col-lg-7
+Streaking is a **microbiological technique** used for the `isolation of single colonies of microorganisms`, either from mixed species or from the same species. It is most commonly applied to bacteria but is also used for some yeasts. This classical method, dating back to Robert Koch’s time, was first demonstrated by Loeffler and Gaffky in Koch’s laboratory.
+:::
+
+:::.col-12 .col-lg-5
+![image-of-streak-plate-final-result](https://upload.wikimedia.org/wikipedia/commons/9/93/Legionella_Plate_01.png)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#02.streak plate technique</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Sep 03 2025 09:16:22 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Sep 03 2025 09:25:14 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JQ0zbBDm7E</id>
 		<duration></duration>
 	</config>
+<sn><md>## Principle of the Streak Plate Method
+
+The streak plate method works on the **principle of dilution**. It is a rapid qualitative isolation technique where a loopful of culture is spread across the surface of an agar plate. With each streak, the inoculum becomes progressively diluted, allowing individual bacterial cells to be far apart and eventually form distinct colonies, counted as **colony-forming units (CFUs)**.
+</md></sn><sn><md>### Procedure of the Streak Plate Method
+
+1. Sterilise instruments, flasks, and media.
+2. Clean the work area with disinfectant.
+3. Set up a Bunsen burner.
+4. Wash hands with an antiseptic solution.
+5. Label the petri dish with name, date, medium, and culture.
+6. Use a sterile loop (metal or disposable plastic).
+7. Streak the first quadrant in a back-and-forth motion.
+8. Sterilise the loop if using metal, then streak the next quadrant.
+9. Repeat until all quadrants are streaked.
+10. Close the lid and incubate the plate upside down at optimal temperature.
+
+&gt; **Note:** Plates are incubated upside down to prevent condensation droplets from dripping onto the agar surface. {.fg-teal}
+</md></sn><sn><md>### Advantages of the Streak Plate Method
+
+* Simple and widely used to `obtain isolated bacterial colonies`.
+* Useful in biotechnology for differentiating transformed from non-transformed bacteria (e.g., using antibiotic-containing media).
+* Valuable in diagnostic microbiology for isolating pathogens.
+</md></sn><sn><md>### Frequently Asked Questions{.fg-red .text-center}
+
+**Q1. What is the purpose of a streak plate?**
+
+The purpose is to obtain single colonies of bacteria by dilution on a single agar plate. {.fg-teal}
+
+**Q2. What is the principle behind a streak plate?**
+
+It is based on the principle of dilution—each streak reduces the number of bacteria, leading to isolated colonies.{.fg-teal}
+</md></sn>
