@@ -1,10 +1,144 @@
 
-	<sn></sn>		
+	<sn><md>### Heat Budget {.text-center}
+
++++ see tutorial
+@[tutorial](https://youtube.com/embed/el7ygWztQqA?)
++++
+
+
+The **heat budget of the Earth** is the balance between the incoming solar radiation received from the Sun and the outgoing terrestrial radiation emitted back into space.
+
+It represents the way energy is `absorbed`, `reflected`, `stored`, and `re-radiated` in the Earth’s atmosphere, land, and oceans.
+
+* When the ++incoming and outgoing energy are equal++, the Earth’s overall `temperature remains stable`.
+* If there is an imbalance, it leads to warming (more energy absorbed) or cooling (more energy lost).
+
+In short, the **Earth’s heat budget** is the energy balance system that regulates the planet’s climate and temperature.
+</md></sn>		
 	<config>
 		<tags>#04.solar radiation budget</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 15:12:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 20:45:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-jJgx4VpDD4</id>
 		<duration></duration>
 	</config>
+<sn><md>## Concept {.text-center}
+
++++ see
+
+:::.row
+
+:::.col-12 .col-lg-7
+#### Conduction
+
+* Conduction is the transfer of heat energy through direct contact between molecules `without any movement` of the material as a whole.
+* Heat flows from the hotter part of a substance to the colder part, mainly in solids (e.g., heating one end of a metal rod).
+
+---
+
+#### Convection
+
+* Convection is the transfer of heat by the `actual movement` of fluid (liquid or gas) from one place to another.
+* Warmer, lighter fluid rises while cooler, denser fluid sinks, creating a circulation pattern (e.g., boiling water, atmospheric circulation).
+
+---
+
+#### Radiation
+
+* Radiation is the `transfer of heat energy in the form of electromagnetic waves`, without the need for any medium.
+* Heat from the Sun reaches the Earth through radiation (e.g., feeling warmth from sunlight or a fire).
+
+---
+
+#### Advection
+
+* Advection is the `horizontal transfer of heat energy` by the movement of air masses, especially wind.
+* It differs from convection, which involves vertical movement.
+* For example, warm air moving from the tropics to higher latitudes is advection.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://img.machinedesign.com/files/base/ebm/machinedesign/image/2019/03/machinedesign_8368_convetionconductionradiationpromo.png?auto=format,compress&amp;fit=fill&amp;fill=blur&amp;w=1200&amp;h=630)
+![diagram](https://meteorologyman.wordpress.com/wp-content/uploads/2014/01/heattransfer.png)
+:::
+
+:::
+
++++
+
+</md></sn><sn><md>### Insolation {.text-center}
+
++++ see tutorial
+@[tutorial](https://youtube.com/embed/CmB3XZcbvEI?)
++++
+
+&gt; Insolation is the amount of solar radiation energy received per unit area on Earth’s surface in a given time.
+
+* It is usually measured in watts per square meter (W/m²) or calories/cm²/min.
+* Insolation depends on factors like latitude, season, time of day, and atmospheric conditions.
+* Roughly 1 part in 2 billion of the Sun’s total energy output actually falls on Earth.
+</md></sn><sn><md>## Heat Budget{.text-center}
+
+The Sun is the primary source of energy for Earth. The total solar energy reaching Earth is called **insolation**. Insolation is not evenly distributed across the globe due to the curvature of the Earth, the tilt of its axis, and the presence of clouds and aerosols.
+
+&gt; Roughly 2 part in 1 billion of the Sun’s total energy output actually falls on Earth
+
+#### Diagram
+
+![diagram](https://rwu.pressbooks.pub/app/uploads/sites/7/2017/01/figure8.1.1.png)
+</md></sn><sn><md>## Energy Balance{.text-center}
+
+The heat budget of Earth is a dynamic equilibrium between incoming solar energy and outgoing terrestrial radiation:
+
+1. **Incoming energy** = **Reflected energy + Absorbed energy**
+2. **Absorbed energy** = **Energy emitted back into space**
+
+When these are balanced, Earth maintains a relatively stable climate. Any imbalance can lead to global warming or cooling.
+
+| Process | Amount |
+| ------- | ------ |
+| Reflect | 30%    |
+| Absorb  | 70%    |
+| Rediate | 70%    |
+
+1. **Incoming energy (100%)** = **Reflected energy (30%) + Absorbed energy (70%)**
+2. **Absorbed energy (70%)** = **Energy emitted back into space (70%)**
+</md></sn><sn><md>## Reflect{.text-center}
+
+| **Reflecting Component**                                 | **Portion of Total Incoming Solar Radiation** | **Explanation**                                                                                   |
+| -------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Reflection by Earth’s surface (land, water, ice, snow)   | 6%                                            | Direct reflection from bright surfaces like deserts, oceans (specular reflection), ice, and snow. |
+| Reflection by clouds                                     | 17%                                           | Clouds reflect a significant fraction of sunlight directly back to space.                         |
+| Scattering by atmosphere (air molecules, dust, aerosols) | 7%                                            | Shortwave radiation scattered in all directions; part of it escapes to space.                     |
+| **Total Reflected**                                      | **30%**                                       | Total albedo of Earth.                                                                            |
+
+</md></sn><sn><md>## Absorb{.text-center}
+
+| **Absorbing Component**                          | **Portion of Total Incoming Solar Radiation** | **Explanation**                                                                                          |
+| ------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Absorbed by Earth’s surface (land &amp; oceans)      | 47%                                           | Majority of energy warms land and water, drives evaporation, ocean currents, and weather systems.        |
+| Absorbed by atmosphere (gases, clouds, aerosols) | 23%                                           | Water vapor, ozone, and greenhouse gases capture solar energy before it reaches the surface.             |
+| **Total Absorbed**                               | **70%**                                       | Energy retained in the Earth system, later redistributed through radiation, convection, and latent heat. |
+</md></sn><sn><md>### Land Radiation{.text-center}
+
+As Earth absorbs 47%, it will rediate 47%, where:
+
+* 37% absorbed by H₂O, ozone, clouds, and CO₂ in the atmosphere
+* 10% directly rediated
+
+| **Process**                                      | **Portion of Incoming Solar Energy (from 47%)** | **Explanation**                                                                       |
+| ------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Conduction &amp; Convection (sensible heat)          | 7%                                              | Heat transferred from surface to air by direct contact and rising warm air.           |
+| Latent heat (evaporation &amp; condensation)         | 24%                                             | Energy used for evaporation of water; later released during condensation in clouds.   |
+| Longwave radiation (infrared) emitted by surface | 16%                                             | Surface emits IR radiation; some escapes directly, much absorbed by greenhouse gases. |
+| **Total from Surface**                           | **47%**                                         | Balances the energy absorbed by the land and oceans.                                  |
+</md></sn><sn><md>## Rediate{.text-center}
+
+| **Radiating Component**                                   | **Portion of Total Incoming Solar Radiation** | **Explanation**                                                          |
+| --------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------ |
+| Emission from clouds                                      | 20%                                           | Clouds absorb energy and re-emit it as infrared radiation to space.      |
+| Emission from greenhouse gases (H₂O vapor, CO₂, O₃, etc.) | 40%                                           | Atmospheric gases absorb heat and radiate longwave energy outward.       |
+| Direct longwave radiation from Earth’s surface            | 10%                                           | Energy escapes directly from the surface through the atmospheric window. |
+| **Total Radiation to Space**                              | **70%**                                       | Balances the absorbed 70%, maintaining energy equilibrium.               |
+</md></sn>
