@@ -1,10 +1,32 @@
 
-	<sn></sn>		
+	<sn><md>## Biochemical Tests in Microbiology{.text-center}
+
+&gt; Biochemical tests are laboratory methods used to **identify microorganisms** based on their `biochemical activities`.
+
+ Since microorganisms *differ* in their ability to ++metabolize nutrients++, ++produce enzymes++, or ++utilize certain compounds++, these tests help in `distinguishing between closely related species`. They are essential tools in clinical diagnosis, food safety testing, and microbiological research.
+
+</md></sn>		
 	<config>
 		<tags>#03.biochemical test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 09:53:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 10:11:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-xSMPPIxcho</id>
 		<duration></duration>
 	</config>
+<sn><md>### Purpose of Biochemical Tests{.text-center}
+
+1. `Identification of Bacteria` – Different bacteria show unique metabolic reactions.
+2. `Clinical Diagnosis` – Helps in determining the causative agent of infections.
+3. `Industrial Applications` – Used in food and pharmaceutical industries for quality control.
+4. `Research` – Provides insights into microbial physiology and enzyme activity.
+</md></sn><sn><md>## 5 Biochemical Tests {.text-center}
+
+| **Test Name**              | **Principle**                                                                 | **Procedure**                                                      | **Result**                                                                                                                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Catalase Test**          | Detects *catalase enzyme* that ++breaks down hydrogen peroxide++ into water and O₂. | Add a few drops of hydrogen peroxide to a bacterial colony.        | Immediate `bubbling` = positive.                                                                                                                                                         |
+| **Urease Test**            | Detects urease enzyme that ++hydrolyzes urea to ammonia and CO₂++.                | Inoculate bacteria in urea broth and incubate.                     | `Pink` coloration = positive.                                                                                                                                                            |
+| **Oxidase Test**           | Detects ++cytochrome c oxidase enzyme++ in the electron transport chain.          | Apply tetramethyl-p-phenylenediamine reagent to bacterial culture. | `Purple/blue` color within 30 seconds = positive.                                                                                                                                        |
+| **Indole Test**            | Detects ability to break down ++tryptophan into indole++.                         | Grow bacteria in tryptophan medium, add Kovac’s reagent.           | `Red ring` at surface = positive.                                                                                                                                                        |
+| **Triple Sugar Iron Test** | Differentiates bacteria based on ++sugar fermentation and H₂S production++.       | Inoculate bacteria into TSI slant.                                 | - Yellow butt &amp; slant = lactose/sucrose fermentation <br> - Yellow butt, red slant = glucose only <br> - Black precipitate = H₂S production <br> - Gas bubbles/cracks = gas production |
+</md></sn>
