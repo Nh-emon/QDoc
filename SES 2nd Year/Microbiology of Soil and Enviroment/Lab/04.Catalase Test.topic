@@ -1,10 +1,71 @@
 
-	<sn></sn>		
+	<sn><md>## Catalase Test{.text-center}
+
++++ see tutorial
+@[youtube-tutorial](https://youtube.com/embed/SBmL2vg-IN0?)
++++
+
+:::.row
+
+:::.col-12 .col-lg-7
+The **Catalase Test** is one of the most widely used biochemical tests in microbiology for the `differentiation of bacterial species`. It helps to identify whether a bacterium produces the enzyme **catalase**, which breaks down harmful hydrogen peroxide (H₂O₂) into water and oxygen. This reaction protects the bacteria from oxidative damage.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://microbenotes.com/wp-content/uploads/2020/10/Catalase-Test-Slide-Method.jpeg)
+:::
+
+:::
+
+</md></sn>		
 	<config>
 		<tags>#04.catalase test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 10:54:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 11:05:34 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-RcPyZIa6eH</id>
 		<duration></duration>
 	</config>
+<sn><md>### Principle of Catalase Test{.text-center}
+
+* Certain `aerobic and facultative anaerobic` bacteria produce the enzyme **catalase**.
+* When *hydrogen peroxide* is applied to such bacteria, it is rapidly decomposed into `water (H₂O)` and `oxygen (O₂)`.
+* The release of oxygen forms `visible bubbles`, which indicates a ++positive test++.
+
+**Reaction:**
+
+$$
+2H₂O₂ \xrightarrow{\text{catalase}} 2H₂O + O₂ \uparrow
+$$
+
+
+#### Example
+* **Positive** : Staphylococcus species
+* **Negative** : Streptococcus species
+</md></sn><sn><md>### Apparatus and Materials Required{.text-center}
+
+* Clean glass slides or test tubes
+* Inoculating loop or sterile wooden stick
+* Culture of test organism (18–24 hours old bacterial colony)
+* 3% hydrogen peroxide (H₂O₂) solution
+* Dropper or pipette
+</md></sn><sn><md>### Procedure of Catalase Test{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Slide Method {.text-center}
+1. Place a clean glass slide on a flat surface.
+2. Using a sterile loop or stick, transfer a small amount of the bacterial colony onto the slide.
+3. Add 1–2 drops of 3% hydrogen peroxide over the bacterial smear.
+4. Observe for immediate bubble formation.
+:::
+
+:::.col-12 .col-lg-6
+#### Test Tube Method {.text-center}
+1. Inoculate a small amount of bacterial culture into a test tube containing 1–2 mL of hydrogen peroxide.
+2. Observe for bubble or froth formation.
+:::
+
+:::
+</md></sn>
