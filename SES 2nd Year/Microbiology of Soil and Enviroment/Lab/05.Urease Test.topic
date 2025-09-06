@@ -2,7 +2,7 @@
 	<sn><md>## Urease Test{.text-center}
 
 +++ see tutorial
-![youtube-tutorial](https://youtube.com/embed/k9E1pHPXAcc?)
+@[youtube-tutorial](https://youtube.com/embed/k9E1pHPXAcc?)
 +++
 
 :::.row
@@ -19,7 +19,7 @@ The **Urease Test** is an important biochemical test used to determine the abili
 		<tags>#05.urease test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 11:57:31 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 22:31:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Gi4UTrCb01</id>
 		<duration></duration>
 	</config>
