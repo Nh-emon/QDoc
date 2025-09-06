@@ -1,10 +1,66 @@
 
-	<sn></sn>		
+	<sn><md>### Factors Affecting temperature Distribution{.text-center}
+
+The temperature of air at every place is influenced by:
+
+* The latitude of the place
+* The altitude of the place
+* Distance from the sea
+* The air-mass circulation
+* Ocean currents
+* Local aspects
+</md></sn>		
 	<config>
 		<tags>#05.factors affecting temperature variation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 15:12:55 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 18:57:49 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-m4t2EL6jrJ</id>
 		<duration></duration>
 	</config>
+<sn><md>### Latitude{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+* Sun’s radiation is **not evenly distributed** due to Earth’s curvature.
+* The **equator receives more direct sunlight** than the poles.
+* Poles remain colder because:
+
+  * Sunrays are slanting and spread over a larger area.
+  * Presence of **ice and snow increases albedo** (reflection of solar radiation).
+* Heat energy generally moves **from equator to poles** through winds and ocean currents.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://bam.files.bbci.co.uk/bam/live/content/zs4jkty/large)
+![diagram](https://homework.study.com/cimages/multimages/16/solar_angle.png)
+:::
+
+:::
+</md></sn><sn><md>### Altitude{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* Places at sea level record higher temperatures than those at higher elevations.
+* Temperature usually decreases with increasing height.
+* The rate of decrease of temperature with height is called the ++normal lapse rate++.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://letstalkscience.ca/sites/default/files/styles/width_800px/public/webimage-2023_Stock_relationship-between-temperature-and-altitude_EN_ResourceBody.png?itok=LULJzQQ0)
+:::
+:::
+</md></sn><sn><md>### Distance from the Sea{.text-center}
+
+* The main factor influencing temperature is the position of a place with respect to the sea.
+* The `sea` heats up and cools down `slowly`, while `land` heats up and cools down `rapidly`.
+* Hence, temperature variation over the `sea is less compared to land`.
+* Coastal places experience the moderating influence of sea and land breezes, which regulate temperature.
+</md></sn><sn><md>### Air-Mass and Ocean Currents{.text-center}
+
+* The passage of air masses affects temperature in a similar way as sea and land breezes.
+* Areas influenced by `warm air` masses experience `higher temperatures`, while those affected by `cold air` masses experience `lower temperatures`.
+* Coastal regions with warm ocean currents record higher temperatures than those with cold currents.
+
+</md></sn>
