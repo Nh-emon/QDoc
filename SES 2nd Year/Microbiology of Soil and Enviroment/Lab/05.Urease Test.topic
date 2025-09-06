@@ -1,10 +1,66 @@
 
-	<sn></sn>		
+	<sn><md>## Urease Test{.text-center}
+
++++ see tutorial
+![youtube-tutorial](https://youtube.com/embed/k9E1pHPXAcc?)
++++
+
+:::.row
+:::.col-12 .col-lg-7
+The **Urease Test** is an important biochemical test used to determine the ability of microorganisms to produce the enzyme **urease**. This enzyme hydrolyzes **urea** into **ammonia (NH₃)** and **carbon dioxide (CO₂)**, which increases the pH of the medium and changes the color of the indicator. It is widely used in differentiating members of the family *Enterobacteriaceae* and in identifying certain pathogens such as *Helicobacter pylori*.
+:::
+
+:::.col-12 .col-lg-5
+![test-image](https://microbenotes.com/wp-content/uploads/2018/05/Urease-Test-Principle-Procedure-and-Result.jpg)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#05.urease test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 11:33:58 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 11:57:31 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Gi4UTrCb01</id>
 		<duration></duration>
 	</config>
+<sn><md>### Principle of Urease Test{.text-center}
+
+* The enzyme **urease** hydrolyzes urea into **ammonia** and **carbon dioxide**.
+* Ammonia production increases the pH, making the medium alkaline.
+* A **pH indicator (phenol red)** is used:
+
+  * Yellow/orange → acidic/neutral
+  * Pink/red → alkaline (positive result)
+
+**Reaction:**
+
+$$
+\text{Urea} + H₂O \xrightarrow{\text{urease}} 2NH₃ + CO₂
+$$
+
+</md></sn><sn><md>### Apparatus and Materials Required{.text-center}
+
+* Christensen’s Urea Agar slants or Urea broth
+* Inoculating loop or sterile needle
+* Pure culture of test organism
+* Incubator (35–37°C)
+</md></sn><sn><md>### Procedure of Urease Test{.text-center}
+
+* Use Christensen’s Urea Agar slants containing urea and phenol red as an indicator.
+* Streak the slant surface (or inoculate broth) with the test organism using a sterile loop.
+* Incubate at 35–37°C for up to 24–48 hours.
+* Examine for color change in the medium.
+</md></sn><sn><md>### Interpretation of Results
+
+* **Positive Result**: Development of **pink/red color** in the medium due to ammonia production.
+* **Negative Result**: Medium remains **yellow/orange** (no change).
+
+---
+
+### Examples of Bacteria
+
+| **Result**          | **Examples of Bacteria**                                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Urease Positive** | *Proteus mirabilis*, *Proteus vulgaris*, *Klebsiella pneumoniae*, `Helicobacter pylori`, *Cryptococcus neoformans* (fungus) |
+| **Urease Negative** | `Escherichia coli`, *Salmonella typhi*, *Shigella dysenteriae*, *Pseudomonas aeruginosa*                                    |
+</md></sn>
