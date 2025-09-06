@@ -1,10 +1,176 @@
 
-	<sn></sn>		
+	<sn><md>## The Sun {.text-center}
+
+The Sun is the `central star` of our solar system and the primary `source of light and energy` that sustains life on Earth. It is a `massive sphere of hot plasma` held together by gravity and powered by nuclear fusion reactions at its core.
+
+---
+
+### Formation of the Sun
+
+:::.row
+
+:::.col-12 .col-lg-7
+The Sun formed about `4.6 billion years ago` from a ++giant molecular cloud++ composed mostly of `hydrogen and helium`. Under the influence of *gravity*:
+
+1. The cloud began to `collapse and spin`, forming a **protostar**.
+2. As the material compressed, temperature and pressure increased in the core.
+3. When the core reached around **10 million °C**, ++nuclear fusion of hydrogen into helium began++.
+4. This marked the birth of the Sun as a main-sequence star.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://qph.cf2.quoracdn.net/main-qimg-36cf4764b4e05d7980955fd401f55d67-lq)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 15:11:14 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 18:02:14 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
+<sn><md>### Composition of the Sun{.text-center}
+
+The Sun is made up *mostly of gases*, primarily:
+
+* **Hydrogen (≈ 74%)**
+* **Helium (≈ 24%)**
+* **Other elements (≈ 2%)**, including oxygen, carbon, neon, and iron in trace amounts.
+
+This composition explains why the Sun is often referred to as a `giant ball of plasma`.
+</md></sn><sn class="position-relative"><md>### Structure of the Sun {.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+The Sun has several distinct layers, each with unique properties:
+
+1. **Core**
+
+   * Innermost region where `nuclear fusion occurs`.
+   * Temperature: about `15 million °C`.
+   * Source of the `Sun’s energy`.
+
+2. **Radiative Zone**
+
+   * Energy from the core moves outward mainly by `radiation`.
+   * Photons may take ++thousands to millions++ of years to pass through.
+
+3. **Convective Zone**
+
+   * Energy is transported by convection currents (rising hot plasma and sinking cooler plasma).
+   * Creates the granulated appearance of the Sun’s surface.
+
+4. **Photosphere**
+
+   * The `visible surface` of the Sun.
+   * Temperature: about `5,500 °C`.
+   * Appears as a bright disk with sunspots.
+
+5. **Chromosphere**
+
+   * Lies above the photosphere.
+   * Appears reddish during solar eclipses.
+
+6. **Corona**
+
+   * `Outermost layer` extending millions of kilometers into space.
+   * Visible during total solar eclipses as a `glowing halo`.
+   * Extremely hot (over `1 million` °C).
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://pmfias.b-cdn.net/wp-content/uploads/2023/05/The-Sun-Structure.png)
+![diagram](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect8/sun_interior.jpg)
+:::
+
+:::
+</md></sn><sn><md>### Reactions at the Core{.text-center}
+
+The Sun’s energy comes from **nuclear fusion**.
+
+* **Process**: Hydrogen nuclei (protons) fuse to form helium nuclei, releasing massive amounts of energy.
+* **Main reaction chain**: The **proton-proton chain reaction**.
+
+:::.row
+
+:::.col-12 .col-lg-7
+Steps of proton-proton chain:
+
+1. Two protons fuse → deuterium + positron + neutrino.
+2. Deuterium fuses with another proton → helium-3.
+3. Two helium-3 nuclei combine → helium-4 + 2 protons.
+
+This reaction:
+
+* Converts **hydrogen into helium**.
+* Releases **light and heat energy**.
+* Produces neutrinos that escape into space.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkHr_W2B2_TxIzQOYmWvvYFvak310zhq0x-Kjtp87VWTfbZdVLDoOZzB9YWvgPLLrw3M&amp;usqp=CAU)
+:::
+
+:::
+
+
+Every second, the Sun fuses about `600 million tons of hydrogen` into helium, releasing energy equivalent to **billions of hydrogen bombs**.
+</md></sn><sn><md>## Radiation{.text-center}
+
+Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
+
+---
+
+### Transport of Energy Inside the Sun
+
+The energy created in the core must travel outward before it can escape into space:
+
+:::.row
+
+:::.col-12 .col-lg-6
+1. **Radiative Zone**
+
+   * Energy moves slowly through radiation.
+   * Photons (packets of light energy) are absorbed and re-emitted by particles.
+   * It can take **thousands to millions of years** for a photon to pass through this zone.
+:::
+
+:::.col-12 .col-lg-6
+2. **Convective Zone**
+
+   * Energy moves by convection currents.
+   * Hot plasma rises toward the surface, cools, then sinks back down.
+   * This creates a constant boiling-like motion within the Sun.
+:::
+
+:::
+</md></sn><sn><md>### Radiation {.text-center}
+
++++ read wikipedia
+@[wiki](https://en.wikipedia.org/wiki/Radiation)
++++
+
++++ see tutorials
+@[vid](https://youtube.com/embed/xqeDUPyIESs?)
+@[vid](https://youtube.com/embed/zI2vRwFKnHQ?)
++++
+
+&gt; **Radiation** is the ++emission or transmission of energy++ in the form of `waves or particles` through space or a material medium
+
+| Type of Radiation   | Form                                           | Examples                                                    | Medium Needed                    |
+| ------------------- | ---------------------------------------------- | ----------------------------------------------------------- | -------------------------------- |
+| `Electromagnetic` | Waves (oscillating electric &amp; magnetic fields) | Radio, Microwave, Infrared, Visible Light, UV, X-ray, Gamma | No (travels in space)            |
+| `Nuclear`         | Particles &amp; Waves from unstable nuclei         | Alpha (α), Beta (β), Gamma (γ)                              | No (comes from atoms)            |
+| `Mechanical`      | Vibrations in matter                           | Sound, Seismic waves, Water waves                           | Yes (needs air, water, or solid) |
+
+
+
++++ see diagram
+![diagram](https://stsci-opo.org/STScI-01F8QGX1WR7CBNYFZPDFBGF8S0.jpg)
+![diagram](https://personal.cityu.edu.hk/liangdai/post/what_is_radiation/featured.jpg)
++++
+</md></sn><sn></sn>
