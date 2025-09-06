@@ -1,10 +1,46 @@
 
-	<sn></sn>		
+	<sn><md>## Culture Media{.text-center}
+
+### Definition
+
+&gt; Culture media are specially prepared nutrient solutions or solid mixtures that provide the necessary nutrients, moisture, and environment required for the growth, survival, and reproduction of microorganisms under laboratory conditions.
+
+They supply essential components like carbon, nitrogen, minerals, vitamins, and growth factors, and can be either natural or synthetic depending on the source and preparation.
+
+---
+
+### Types of Culture Media
+
+Culture media can be classified in several ways:
+
+#### 1. **Based on Consistency**
+
+* **Liquid Media (Broth):** Without solidifying agents, used for rapid growth and large-scale cultivation (e.g., Nutrient broth).
+* **Solid Media:** Contains 1.5–2% agar, useful for colony formation and isolation (e.g., Nutrient agar).
+* **Semi-solid Media:** Contains 0.5% agar, used to study motility and microaerophilic growth (e.g., Motility agar).
+
+#### 2. **Based on Composition**
+
+* **Simple Media:** Basic nutrients for general growth (e.g., Peptone water, nutrient agar).
+* **Complex Media:** Contains natural extracts like yeast extract, meat extract (exact composition not known).
+* **Synthetic (Defined) Media:** Exact chemical composition is known.
+* **Special Media:** Prepared with specific nutrients or inhibitors for particular microbes.
+
+#### 3. **Based on Function**
+
+* **Enriched Media:** Supplemented with blood, serum, or egg yolk to support fastidious organisms (e.g., Blood agar).
+* **Selective Media:** Contain substances that inhibit unwanted microbes and allow only specific ones (e.g., MacConkey agar for Gram-negative bacteria).
+* **Differential Media:** Differentiate microbes based on visible changes (e.g., EMB agar, which differentiates lactose fermenters).
+* **Transport Media:** Preserve microorganisms during transport without allowing them to multiply (e.g., Stuart’s medium).
+* **Anaerobic Media:** Support anaerobic bacterial growth by reducing oxygen (e.g., Robertson’s cooked meat medium).
+* **Assay Media:** Used for testing vitamins, antibiotics, and other growth factors.
+
+</md></sn>		
 	<config>
 		<tags>#09.culture media and its type</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 20:48:08 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 20:48:59 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ibAUESiAOz</id>
 		<duration></duration>
 	</config>
