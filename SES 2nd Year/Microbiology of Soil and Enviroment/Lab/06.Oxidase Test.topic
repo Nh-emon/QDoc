@@ -1,6 +1,10 @@
 
 	<sn><md>## Oxidase Test{.text-center}
 
++++ see tutorial
+@[youtube-tutorial](https://youtube.com/embed/W3RY8o6By-A?)
++++
+
 :::.row
 :::.col-12 .col-lg-7
 The **Oxidase Test** is a biochemical test used to determine the presence of the enzyme `cytochrome c oxidase` in bacteria. This enzyme is a key component of the **electron transport chain**, which `transfers electrons to oxygen`, the final electron acceptor in *aerobic respiration*. The test is especially useful for differentiating between members of the family *Enterobacteriaceae* (oxidase negative) and other Gram-negative bacteria such as `Pseudomonadaceae` (oxidase   positive).
@@ -16,14 +20,14 @@ The **Oxidase Test** is a biochemical test used to determine the presence of the
 		<tags>#06.oxidase test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 12:48:20 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 12:53:56 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-pvjJWUtZa7</id>
 		<duration></duration>
 	</config>
 <sn><md>### Principle of Oxidase Test{.text-center}
 
 * The enzyme **cytochrome c oxidase** ++transfers electrons from reduced cytochrome c to oxygen++.
-* A **redox dye reagent** such as *tetramethyl-p-phenylenediamine* acts as an artificial ++electron donor++.
+* A **redox dye reagent** such as `tetramethyl-p-phenylenediamine` acts as an artificial ++electron donor++.
 * When oxidized by cytochrome c oxidase, the ++reagent changes color++:
 
   * **Colorless → Dark purple/blue** (positive result).
