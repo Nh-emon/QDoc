@@ -1,10 +1,71 @@
 
-	<sn></sn>		
+	<sn><md>## Triple Sugar Iron {.text-center}
+
++++ see tutorial
+@[youtube-shorts](https://youtube.com/embed/djD72JKNu6w?)
++++
+
+:::.row
+:::.col-12 .col-lg-7
+The **Triple Sugar Iron (TSI) Test** is a biochemical test widely used to differentiate members of the family `Enterobacteriaceae` based on their ability to ++ferment sugars (glucose, lactose, and sucrose)++ and produce **gas** and/or **hydrogen sulfide (H₂S)**. It is an important diagnostic test in *clinical microbiology*.
+:::
+:::.col-12 .col-lg-5
+![diagram](https://www.onlinebiologynotes.com/wp-content/uploads/2018/04/TSIA.jpg)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#08.tripple sugar iron test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 13:14:07 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 13:33:04 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Ffqp3QKVco</id>
 		<duration></duration>
 	</config>
+<sn><md>### Principle of TSI Test{.text-center}
+
+* **Fermentation of sugars**: The medium contains three sugars—glucose (0.1%), lactose (1%), and sucrose (1%).
+* **Acid production**: Fermentation of sugars produces acids, which change the **phenol red indicator**:
+
+  * `Yellow` = acid (fermentation)
+  * `Red` = alkaline (no fermentation)
+* **Gas production**: Fermentation may produce CO₂ and H₂ gases, observed as `bubbles, cracks, or lifting of agar`.
+* **H₂S production**: Sodium thiosulfate and ferric ammonium citrate in the medium detect H₂S, which reacts to form a `black precipitate`.
+</md></sn><sn><md>### Apparatus {.text-center}
+
+* TSI agar slants (butt and slant in one tube)
+* Inoculating needle/loop
+* Bacterial culture (18–24 hours old)
+* Incubator (35–37°C)
+</md></sn><sn><md>### Procedure {.text-center}
+
+1. Use a sterile needle to **streak the slant** and then **stab the butt** of the TSI agar tube with the test organism.
+2. Incubate the tube at **35–37°C for 18–24 hours**.
+3. Observe the color changes and reactions in both the **slant** and **butt** of the medium.
+</md></sn><sn><md>### Interpretation of Results
+
+| **Reaction** | **Appearance**                  | **Interpretation**                                |
+| ------------ | ------------------------------- | ------------------------------------------------- |
+| K/A          | Red slant, yellow butt          | Glucose fermentation only (alkaline over acid).   |
+| A/A          | Yellow slant, yellow butt       | Glucose + lactose and/or sucrose fermentation.    |
+| K/K          | Red slant, red butt             | No carbohydrate fermentation (non-fermenter).     |
+| Black butt   | Black precipitate in butt       | H₂S production (butt assumed acid even if black). |
+| Gas (+)      | Cracks, bubbles, or lifted agar | Gas production during fermentation.               |
+
+**Legend:**
+
+* K = Alkaline (red)
+* A = Acid (yellow)
+
+---
+
+### Examples of Bacteria
+
+| **Result**            | **Examples of Bacteria** |
+| --------------------- | ------------------------ |
+| K/A, H₂S+             | *Salmonella enterica*    |
+| A/A, Gas+             | *Escherichia coli*       |
+| A/A, H₂S+             | *Proteus vulgaris*       |
+| K/K (no fermentation) | *Pseudomonas aeruginosa* |
+| A/A (no H₂S, no gas)  | *Klebsiella pneumoniae*  |
+</md></sn>
