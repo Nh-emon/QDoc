@@ -1,10 +1,63 @@
 
-	<sn></sn>		
+	<sn><md>## Indole Test{.text-center} 
+
+:::.row
+:::.col-12 .col-lg-7
+The **Indole Test** is a biochemical test used to determine the ability of bacteria to ++produce indole from the amino acid tryptophan++. This reaction is mediated by the enzyme `tryptophanase`. The test is one of the four IMViC tests (Indole, Methyl Red, Voges–Proskauer, Citrate) widely used for the identification and differentiation of `Enterobacteriaceae`.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://microbiologyinfo.com/wp-content/uploads/2015/10/Result-Interpretation-of-Indole-Test.jpg)
+:::
+:::
+
+</md></sn>		
 	<config>
 		<tags>#07.indole test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 13:07:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 13:12:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-73b5G3DBNa</id>
 		<duration></duration>
 	</config>
+<sn><md>### Principle of Indole Test{.text-center}
+
+* Some bacteria produce the enzyme `tryptophanase`, which breaks down **tryptophan** into:
+
+  * **Indole**
+  * **Ammonia (NH₃)**
+  * **Pyruvate**
+* The indole produced reacts with `Kovac’s reagent` (++p-dimethyl-amino-benzaldehyde++ in amyl alcohol and HCl), forming a **red/pink compound**{.fg-pink} at the surface of the medium.
+
+**Reaction:**
+
+$$
+\text{Tryptophan} \xrightarrow{\text{tryptophanase}} \text{Indole} + \text{Pyruvate} + NH₃
+$$
+</md></sn><sn><md>### Apparatus and Materials Required{.text-center}
+
+* Tryptone broth (contains tryptophan)
+* Kovac’s reagent (or Ehrlich’s reagent as an alternative)
+* Test tubes with inoculated bacterial culture
+* Inoculating loop/needle
+* Incubator (35–37°C)
+</md></sn><sn><md>### Procedure of Indole Test{.text-center}
+
+1. Inoculate the test organism into **tryptone broth** using a sterile loop.
+2. Incubate at 35–37°C for **24–48 hours**.
+3. Add **3–4 drops of Kovac’s reagent** carefully along the wall of the test tube.
+4. Observe for the development of color at the surface.
+</md></sn><sn><md>### Interpretation of Results
+
+* **Positive Result**: Formation of a **red/pink ring** at the top of the broth → organism produces indole.
+* **Negative Result**: No red color (remains yellow/brown) → organism does not produce indole.
+
+---
+
+### Examples of Bacteria
+
+| **Result**          | **Examples of Bacteria**                                                               |
+| ------------------- | -------------------------------------------------------------------------------------- |
+| **Indole Positive** | `Escherichia coli`, *Proteus vulgaris*, *Morganella morganii*, *Providencia rettgeri*  |
+| **Indole Negative** | `Klebsiella pneumoniae`, *Enterobacter cloacae*, *Salmonella typhi*, *Shigella sonnei* |
+</md></sn>
