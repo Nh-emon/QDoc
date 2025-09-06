@@ -1,10 +1,55 @@
 
-	<sn></sn>		
+	<sn><md>## Oxidase Test{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+The **Oxidase Test** is a biochemical test used to determine the presence of the enzyme `cytochrome c oxidase` in bacteria. This enzyme is a key component of the **electron transport chain**, which `transfers electrons to oxygen`, the final electron acceptor in *aerobic respiration*. The test is especially useful for differentiating between members of the family *Enterobacteriaceae* (oxidase negative) and other Gram-negative bacteria such as `Pseudomonadaceae` (oxidase   positive).
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://microbenotes.com/wp-content/uploads/2018/06/Oxidase-Test.jpeg)
+:::
+:::
+
+</md></sn>		
 	<config>
 		<tags>#06.oxidase test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 12:16:21 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 06 2025 12:48:20 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-pvjJWUtZa7</id>
 		<duration></duration>
 	</config>
+<sn><md>### Principle of Oxidase Test{.text-center}
+
+* The enzyme **cytochrome c oxidase** ++transfers electrons from reduced cytochrome c to oxygen++.
+* A **redox dye reagent** such as *tetramethyl-p-phenylenediamine* acts as an artificial ++electron donor++.
+* When oxidized by cytochrome c oxidase, the ++reagent changes color++:
+
+  * **Colorless → Dark purple/blue** (positive result).
+
+</md></sn><sn><md>### Apparatus and Materials Required{.text-center}
+
+* Oxidase reagent (tetramethyl-p-phenylenediamine dihydrochloride, freshly prepared)
+* Filter paper or oxidase test strips
+* Sterile applicator sticks (not metal loops, as they may cause false positives)
+* Bacterial culture (18–24 hours old, non-inhibitory medium recommended)
+</md></sn><sn><md>### Procedure of Oxidase Test{.text-center}
+
+1. Soak a piece of filter paper with oxidase reagent.
+2. Using a sterile stick, smear a small portion of bacterial colony onto the paper.
+3. Observe for color change within **10–30 seconds**.
+</md></sn><sn><md>### Interpretation of Results
+
+* **Positive Result**: Development of **dark purple/blue color** within 10–30 seconds → organism produces cytochrome c oxidase.
+* **Negative Result**: No color change, or delayed color change (after 30 seconds) → organism lacks cytochrome c oxidase.
+
+---
+
+### Examples of Bacteria
+
+| **Result**           | **Examples of Bacteria**                                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Oxidase Positive** | *Pseudomonas aeruginosa*, *Neisseria gonorrhoeae*, *Neisseria meningitidis*, `Vibrio cholerae`, *Campylobacter jejuni* |
+| **Oxidase Negative** | `Escherichia coli`, *Klebsiella pneumoniae*, *Salmonella enterica*, *Shigella dysenteriae*, *Enterobacter cloacae*     |
+</md></sn>
