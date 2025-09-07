@@ -23,8 +23,37 @@
 		<tags>#02.pressure gradient force</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Sep 07 2025 22:11:31 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Sep 07 2025 22:24:32 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-GMpWOUTGtc</id>
 		<duration></duration>
 	</config>
-<sn></sn>
+<sn><md>### PGF Equation{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+In one dimension, along the **x-axis**, the pressure gradient force ++per unit mass++ is:
+
+$$
+F_x = -\frac{1}{\rho} \frac{\Delta P}{\Delta x}
+$$
+
++++ Where:
+
+* $F_x$ = Pressure gradient force in the x-direction
+* $\rho$ = air density
+* $\Delta P$ = pressure difference obtained from isobar spacing
+* $\Delta x$ = distance between isobars
+* $\frac{d\rho}{dx}$ = change of pressure with distance
++++ 
+
+* As $\text{PGF} \propto \frac{1}{\Delta x}$ , so the closer the isobar spacing the more increase is the pressure gradient force and greater the wind speed.
+* **PGF** is inversely proportional to air density and this relationship has particular importance in understanding the vehavior of wind pattern.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/Low-High-PGF-Diagram.svg)
+:::
+
+:::
+</md></sn>
