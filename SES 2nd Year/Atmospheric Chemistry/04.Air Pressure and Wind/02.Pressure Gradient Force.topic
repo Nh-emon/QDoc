@@ -9,6 +9,10 @@
 * When temperature gradient occurs in an area `air moves vertically` from the warmer location as its density falls down.
 * As a result, `surrounding air moves horizontally` from high pressure area in response to pressure gradient (0.e., to balance the pressure qap/ pressure difference).
 * Air moves forming winds wherever there is a pressure gradient. The greater the `difference between the high pressure and low pressure` areas is, `the higher the wind speed`.
+* Wind moves from high pressure regions to low pressure area in response to pressure balance.
+* The vertical PGF is more or less balanced with force of ++gravity++.
+* `Vertical` wind speeds are only in the range of `0.001 - 0.01` m/s
+* `Horizontal` wind speeds is `1-10` m/s
 :::
 
 :::.col-12 .col-md-5
@@ -23,11 +27,33 @@
 		<tags>#02.pressure gradient force</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Sep 07 2025 22:24:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Sep 07 2025 22:47:27 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-GMpWOUTGtc</id>
 		<duration></duration>
 	</config>
-<sn><md>### PGF Equation{.text-center}
+<sn><md>### Isobar{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+&gt; A line on a map connecting places of `equal air pressure` is called ++isobar++.
+
+* The `spacing of the isobars` indicates the amount of pressure change occuring over a given distance and it is expressed as the pressure gradient.
+* `closely spaced isobar` lines indicate a bigger and steep pressure gradient over short distance and ++strong winds++.
+* Whereas,`widely spaced isobars` indicate a small pressure gradient over big distance and ++gentle winds++.
+* PGF drives wind at `90 angle` with the isobar line from `the higher pressure region to the lower pressure region` area,hence the start bowling ++perpendicular to isobars++.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://www.e-education.psu.edu/meteo3/sites/www.e-education.psu.edu.meteo3/files/images/lesson5/pgf0503.jpg)
+*Wind blow perpendicular to isobar.* {.text-center .text-light}
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/isobar-distance-diagram.svg)
+:::
+
+:::
+
+</md></sn><sn><md>### PGF Equation{.text-center}
 
 :::.row
 
