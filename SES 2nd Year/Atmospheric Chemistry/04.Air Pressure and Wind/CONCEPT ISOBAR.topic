@@ -1,10 +1,70 @@
 
-	<sn></sn>		
+	<sn><md>## Isobar{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+&gt; An **isobar** is a **line drawn** on a weather map that `connects all points having the same atmospheric pressure` at a given time, usually reduced to sea level.
+
+The word “isobar” comes from the Greek words *iso* (equal) and *baros* (weight or pressure). Isobars help meteorologists and geographers understand and predict atmospheric conditions by showing pressure distribution across large areas.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85StQgu9iI0UDJ0shk_QUHqNrbUCyRIyhlg&amp;s)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#concept isobar</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Sep 07 2025 20:06:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Sep 07 2025 20:55:20 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-mNZTxeOCYP</id>
 		<duration></duration>
 	</config>
+<sn><md>### Characteristics of Isobars{.text-center}
+
+* Every point on a given isobar has the ++same atmospheric pressure++.
+*  **Closed Curves**: Isobars usually form closed loops around high or low pressure centers.
+* **No Crossing**: Isobars never intersect each other since a location cannot have two different pressures at the same time.
+* **Relation with Wind**: Wind generally flows nearly ++parallel to isobars++ due to the Coriolis force, but slightly across them toward low pressure due to friction.
+</md></sn><sn><md>### Isobars and Pressure Gradient Force{.text-center}
+
+The **pressure gradient force (PGF)** arises due to differences in pressure across horizontal distances.
+
++++ view diagram
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/isobar-distance-diagram.svg)
++++
+
+* If two isobars are **close together**, the PGF is stronger, leading to high wind speeds.
+* If two isobars are **far apart**, the PGF is weaker, producing gentle winds.
+
+Mathematically, the PGF is expressed as:
+
+$$
+PGF = -\frac{1}{\rho} \frac{\Delta P}{\Delta n}
+$$
+
+
+
++++ Where:
+
+* $\rho$ = air density
+* $\Delta P$ = pressure difference
+* $\Delta n$ = distance between isobars
++++
+</md></sn><sn><md>### Types of Isobaric Patterns{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+1. **High Pressure (Anticyclone)**: Isobars form roughly circular, `outward-spreading loops`. Winds move outward and clockwise in the Northern Hemisphere.
+2. **Low Pressure (Cyclone)**: Isobars form `inward-closing loops`. Winds move inward and counterclockwise in the Northern Hemisphere.
+3. **Troughs and Ridges**: Elongated low-pressure and high-pressure zones represented by curved isobar lines.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://www.researchgate.net/publication/272564183/figure/fig13/AS:613995446796289@1523399330180/A-Anticyclonic-and-B-Cyclonic-movements-around-high-and-low-pressure-Analysis-of.png)
+:::
+
+:::
+</md></sn>
