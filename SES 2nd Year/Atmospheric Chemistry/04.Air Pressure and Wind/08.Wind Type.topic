@@ -1,18 +1,15 @@
 
-	<sn><md>### Type of Wind
-
-| Type of Wind  | Example(s)                                      | Cause                                             | Nature / Duration          |
-| ------------- | ----------------------------------------------- | ------------------------------------------------- | -------------------------- |
-| **Primary**   | Trade Winds, Westerlies, Polar Easterlies       | Global pressure belts &amp; Earth’s rotation          | Permanent, blow year-round |
-| **Secondary** | Monsoons                                        | Seasonal heating differences (land–sea)           | Seasonal, change direction |
-| **Tertiary**  | Land &amp; Sea Breeze, Loo, Chinook, Foehn, Mistral | Local temperature/pressure variations, topography | Localized, short duration  |
-</md></sn>		
+			
 	<config>
 		<tags>#08.wind belt</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 11:20:36 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 14:30:59 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-PAtSMPubAk</id>
 		<duration></duration>
 	</config>
-<sn></sn>
+<sn><h2>Classification of Wind</h2><tb class="scroll scroll-both scroll-min scroll-on-hover ignore">
+        <table class="table mx-auto table-bordered">
+        <thead class="table-border"><tr><th scope="col">Planetary or Constant</th><th scope="col">Seasonal or Periodic</th><th scope="col">Sudden</th><th scope="col">Local</th></tr></thead><tbody><tr><th scope="row"></th><td>Variation of temperature and pressure in an area during days and seasonal of a year create periodic or seasonal winds.</td><td>due to sudden change of temperature and pressure</td><td>due to variation of local temperature and pressure</td></tr><tr><th scope="row"><ul><li>Trade</li><li>Westerlies</li><li>Easterlies</li></ul></th><td><ul><li>Moonsoon</li><li>Sea and land Breeze</li><li>Mountain and Valley breeze</li></ul></td><td><ul><li>Cyclone</li><li>Anti-cyclone</li></ul></td><td><ul><li>Loo</li><li>Khamsin</li><li>Mistral</li><li>Siracca</li><li>Pampero</li><li>Boro</li><li>Sirocco</li></ul></td></tr></tbody>
+        </table>
+        </tb></sn>
