@@ -1,10 +1,71 @@
 
-	<sn></sn>		
+	<sn><md>## Pressure Cells and Atmospheric Circulation
+
+The Earth’s atmosphere is divided into three major circulation cells in each hemisphere: **Hadley Cell, Ferrel Cell, and Polar Cell**. These cells arise due to uneven heating of the Earth, rotation (Coriolis force), and pressure gradients. Together, they form the **global circulation system**, which redistributes heat and moisture around the planet.
+</md></sn>		
 	<config>
 		<tags>#12.pressure cell</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 13:56:10 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 14:15:22 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-dFyolUXUDB</id>
 		<duration></duration>
 	</config>
+<sn><md>### Hadley Cell{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* Found between the **Equator (0°) and 30° latitude** in both hemispheres.
+* Intense solar heating at the equator causes air to rise, creating a **low-pressure belt (Equatorial low or Doldrums)**.
+* The air ascends, moves poleward at high altitudes, cools, and sinks around 30° latitude, forming a **high-pressure belt (Subtropical high)**.
+* Surface winds blow back from the subtropics toward the equator, deflected by the Coriolis force, forming the **Trade Winds**.
+* Main role: transports heat and moisture from equator toward subtropics.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/zha2XAA.png)
+:::
+:::
+</md></sn><sn><md>### Ferrel Cell{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* Lies between **30° and 60° latitude** in both hemispheres.
+* Functions as an **indirect circulation cell**, driven by the motions of Hadley and Polar cells.
+* Air rises at around 60° latitude where the **subpolar low-pressure belt** forms.
+* Air descends near 30° latitude (subtropical high).
+* Surface winds blow from subtropics to subpolar regions and are deflected by Coriolis force, forming the **Westerlies**.
+* Main role: acts as a transitional cell, balancing energy exchange between Hadley and Polar cells.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/mVpyRYz.png)
+:::
+:::
+</md></sn><sn><md>### Polar Cell{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* Found between **60° latitude and the poles (90°)**.
+* Cold, dense air sinks at the poles, creating **Polar high-pressure zones**.
+* The air moves equatorward at the surface and rises again around 60° latitude (subpolar low).
+* Winds generated are deflected by the Coriolis force, forming the **Polar Easterlies**.
+* Main role: transports cold air from poles toward subpolar regions.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/HB7UvL5.png)
+:::
+:::
+</md></sn><sn><md>## Distinguishing Table
+
+| Feature            | Hadley Cell (0°–30°)                    | Ferrel Cell (30°–60°)          | Polar Cell (60°–90°)           |
+| ------------------ | --------------------------------------- | ------------------------------ | ------------------------------ |
+| Location           | Equator to 30° latitude                 | 30° to 60° latitude            | 60° to 90° latitude            |
+| Pressure at Start  | Equatorial Low                          | Subtropical High               | Polar High                     |
+| Pressure at End    | Subtropical High                        | Subpolar Low                   | Subpolar Low                   |
+| Wind Type          | Trade Winds                             | Westerlies                     | Polar Easterlies               |
+| Air Movement       | Warm air rises at equator, sinks at 30° | Rises at 60°, sinks at 30°     | Sinks at poles, rises at 60°   |
+| Nature of Cell     | Direct (thermal driven)                 | Indirect (mechanically driven) | Direct (thermal driven)        |
+| Heat Transfer Role | Carries heat from equator to subtropics | Balances energy exchange       | Transports cold air from poles |
+</md></sn>
