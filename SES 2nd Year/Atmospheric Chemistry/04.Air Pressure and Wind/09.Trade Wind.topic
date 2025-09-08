@@ -20,7 +20,7 @@ The origin of trade winds can be explained through the ++Hadley Cell circulation
 		<tags>#09.trade wind</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 12:26:53 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 12:35:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-tX5dyxyDJd</id>
 		<duration></duration>
 	</config>
@@ -93,7 +93,7 @@ Around 30° latitude, the air sinks, forming **subtropical high-pressure belts**
 Surface air then moves back toward the Equator, but due to the **Coriolis effect**, it does not move straight and instead creates **trade winds**.
 
 This circulation loop is known as the **Hadley Cell**.
-</md></sn><sn><md>### Mechanism Summary{.text-center}
+![diagram](https://i.imgur.com/zha2XAA.png)</md></sn><sn><md>### Mechanism Summary{.text-center}
 
 * Air moves from the high-pressure subtropical regions toward the low-pressure equatorial belt.
    Due to the Earth’s rotation, moving air is deflected. In the Northern Hemisphere, winds are deflected to the right, while in the Southern Hemisphere, they are deflected to the left.
@@ -101,4 +101,21 @@ This circulation loop is known as the **Hadley Cell**.
 * Rising air cools and diverges toward the poles in the upper atmosphere.
 * Surface air then moves back toward the Equator, but due to the **Coriolis effect**, it does not move straight and instead creates **trade winds**.
 
+</md></sn><sn><md>### Characteristics of Trade Winds{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* **Direction:**
+
+  * NE to SW in Northern Hemisphere
+  * SE to NW in Southern Hemisphere
+* **Steadiness:** They are `persistent and regular` throughout the year.
+* **Speed:** Generally `16–24 km/h` but stronger over oceans.
+* **Seasonal Shift:** The position of trade winds shifts slightly north or south following the movement of the Sun.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/zha2XAA.png)
+:::
+:::
 </md></sn>
