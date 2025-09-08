@@ -19,7 +19,7 @@ In short, the **Earth’s heat budget** is the energy balance system that regula
 		<tags>#04.solar radiation budget</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 20:45:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 18:04:04 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-jJgx4VpDD4</id>
 		<duration></duration>
 	</config>
@@ -141,4 +141,68 @@ As Earth absorbs 47%, it will rediate 47%, where:
 | Emission from greenhouse gases (H₂O vapor, CO₂, O₃, etc.) | 40%                                           | Atmospheric gases absorb heat and radiate longwave energy outward.       |
 | Direct longwave radiation from Earth’s surface            | 10%                                           | Energy escapes directly from the surface through the atmospheric window. |
 | **Total Radiation to Space**                              | **70%**                                       | Balances the absorbed 70%, maintaining energy equilibrium.               |
+</md></sn><sn><md>## Greenhouse Gas Effect{.text-center}
+
+After receiving **shortwave solar radiation**, Earth’s surface warms up and then **re-radiates energy** back to the atmosphere in the form of **longwave infrared (IR) radiation**. The **greenhouse effect** occurs when certain gases trap part of this outgoing heat.
+
+---
+
+### 1. Earth’s Re-radiation
+
+* Earth’s average surface temperature (\~288 K) means it radiates mostly in the **infrared spectrum (longwave radiation, 4–100 µm)**.
+* By the **Stefan–Boltzmann law**, the amount of radiation depends on $T^4$.
+
+---
+
+### 2. Role of Greenhouse Gases
+
+* Gases like **CO₂, CH₄, N₂O, O₃, and H₂O vapor** are **transparent to incoming shortwave radiation** but **absorb outgoing longwave IR radiation**.
+* After absorption, these gases:
+
+  * **Re-emit heat** back toward Earth’s surface and atmosphere.
+  * **Trap energy** within the Earth–atmosphere system.
+
+---
+
+### 3. Mechanism of Greenhouse Effect
+
+1. **Sun → Earth**: Shortwave solar radiation enters (visible + some UV/IR).
+2. **Earth → Atmosphere**: Surface absorbs and re-radiates as longwave IR.
+3. **Greenhouse Gases**: Absorb part of the longwave IR radiation.
+4. **Re-emission**: Some energy radiated back toward space, but much is directed back to Earth → warming the lower atmosphere.
+
+---
+
+### 4. Natural vs Enhanced Greenhouse Effect
+
+* **Natural Greenhouse Effect**
+
+  * Keeps Earth’s average temperature around **+15 °C** (instead of –18 °C).
+  * Essential for sustaining life.
+* **Enhanced Greenhouse Effect**
+
+  * Caused by increased greenhouse gas concentration from **fossil fuels, deforestation, industrialization**.
+  * Leads to **global warming** and **climate change**.
+
+---
+
+### 5. Key Greenhouse Gases and Their Heat-Trapping Ability
+
+| Gas       | Source                            | Effectiveness (per molecule) | Contribution                |
+| --------- | --------------------------------- | ---------------------------- | --------------------------- |
+| CO₂       | Fossil fuels, deforestation       | Moderate                     | Largest overall contributor |
+| CH₄       | Agriculture, livestock, landfills | \~25× stronger than CO₂      | Second important            |
+| N₂O       | Fertilizers, industry             | \~300× stronger than CO₂     | Smaller contribution        |
+| H₂O vapor | Natural (evaporation)             | Strong absorber              | Amplifies warming           |
+| O₃        | Natural + human-made              | Absorbs IR + UV              | Regional effect             |
+
+---
+
+### 6. Summary
+
+The greenhouse gases **act like a blanket** around Earth:
+
+* Allow **sunlight (shortwave)** to pass through.
+* Trap part of the **re-radiated heat (longwave IR)**.
+* Maintain Earth’s warmth, but excessive gases cause **overheating**.
 </md></sn>
