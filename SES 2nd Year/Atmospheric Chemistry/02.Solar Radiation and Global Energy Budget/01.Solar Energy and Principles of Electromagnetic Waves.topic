@@ -1,124 +1,301 @@
 
-	<sn><md>## The Sun {.text-center}
-
-The Sun is the `central star` of our solar system and the primary `source of light and energy` that sustains life on Earth. It is a `massive sphere of hot plasma` held together by gravity and powered by nuclear fusion reactions at its core.
-
----
-
-### Formation of the Sun
-
-:::.row
-
-:::.col-12 .col-lg-7
-The Sun formed about `4.6 billion years ago` from a ++giant molecular cloud++ composed mostly of `hydrogen and helium`. Under the influence of *gravity*:
-
-1. The cloud began to `collapse and spin`, forming a **protostar**.
-2. As the material compressed, temperature and pressure increased in the core.
-3. When the core reached around **10 million °C**, ++nuclear fusion of hydrogen into helium began++.
-4. This marked the birth of the Sun as a main-sequence star.
-:::
-
-:::.col-12 .col-lg-5
-![diagram](https://qph.cf2.quoracdn.net/main-qimg-36cf4764b4e05d7980955fd401f55d67-lq)
-:::
-
-:::
-</md></sn>		
+			
 	<config>
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 17:53:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 18:39:23 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
-<sn><md>### Composition of the Sun{.text-center}
+<sn><md>## Properties of the Solar Spectrum{.text-center}
 
-The Sun is made up *mostly of gases*, primarily:
+The **solar spectrum** refers to the range of electromagnetic radiation emitted by the Sun. Since the Sun behaves almost like a **blackbody radiator** at about **6000 K**, its spectrum spans from **ultraviolet (UV)** to **infrared (IR)**, with the peak in the **visible range**.
 
-* **Hydrogen (≈ 74%)**
-* **Helium (≈ 24%)**
-* **Other elements (≈ 2%)**, including oxygen, carbon, neon, and iron in trace amounts.
+![diagram](https://sunwindsolar.com/wp-content/uploads/2013/06/SunWind-WEB-Increasing-Energy-Diagram-V2.png)
 
-This composition explains why the Sun is often referred to as a `giant ball of plasma`.
-</md></sn><sn class="position-relative"><md>### Structure of the Sun {.text-center}
+---
+
+### 1. **Continuous Spectrum**
+
+* The solar spectrum is **continuous**, meaning it contains all wavelengths from about **0.15 µm (UV)** to **4 µm (IR)**.
+* No large gaps, but fine **absorption lines** (Fraunhofer lines) are present.
+
+---
+
+### 2. **Presence of Fraunhofer Lines**
+
+* Dark lines in the solar spectrum caused by **absorption of specific wavelengths** by gases in the Sun’s atmosphere (mainly hydrogen, calcium, sodium, etc.) and Earth’s atmosphere.
+* Provide information about **solar composition**.
+
+---
+
+### 3. **Peak Wavelength (Wien’s Law)**
+
+* From Wien’s law:
+
+  $$
+  λ_{max} = \frac{b}{T}
+  $$
+
+  where $T ≈ 6000 \, K$.
+* $λ_{max} ≈ 0.48 \, µm$, which lies in the **green-yellow visible light range**.
+* This is why the human eye evolved to be most sensitive to visible light.
+
+---
+
+### 4. **Distribution of Energy**
+
+* About **7%** in **ultraviolet (UV)** (&lt; 0.4 µm).
+* About **44%** in **visible light** (0.4 – 0.7 µm).
+* About **49%** in **infrared (IR)** (&gt; 0.7 µm).
+
+---
+
+### 5. **Intensity**
+
+* The Sun’s radiation follows **Planck’s radiation law**, with intensity depending on wavelength.
+* Follows the **Stefan–Boltzmann law**: total radiation is proportional to $T^4$.
+
+---
+
+### 6. **Solar Constant**
+
+* The average amount of solar radiation received at the top of Earth’s atmosphere at a distance of 1 AU is about:
+
+  $$
+  1361 \, W/m^2
+  $$
+
+  Known as the **Solar Constant**.
+
+---
+
+### 7. **Shortwave Nature**
+
+* Most of the solar energy reaching Earth is in the **shortwave spectrum** (UV + visible + near IR).
+* In contrast, Earth re-radiates energy in the **longwave infrared** range due to its lower temperature.
+
+---
+
+## Summary Table
+
+| Property            | Description                                          |
+| ------------------- | ---------------------------------------------------- |
+| Type                | Continuous spectrum with Fraunhofer absorption lines |
+| Range               | \~0.15 µm (UV) to 4 µm (IR)                          |
+| Peak wavelength     | \~0.48 µm (visible, green-yellow)                    |
+| Energy distribution | 7% UV, 44% visible, 49% IR                           |
+| Intensity           | Follows Planck’s Law and Stefan–Boltzmann Law        |
+| Solar constant      | \~1361 W/m² at 1 AU                                  |
+| Nature              | Shortwave radiation                                  |
+</md></sn><sn><md>## 1. **Solar Constant**
+
+* The **amount of solar radiation received per unit area** at the top of Earth’s atmosphere when the Earth is at its average distance (1 Astronomical Unit) from the Sun.
+* Value:
+
+  $$
+  S_0 ≈ 1361 \, W/m^2
+  $$
+* It represents the incoming solar energy available to Earth, before accounting for reflection and absorption by the atmosphere.
+
+---
+
+## 2. **Radiant Flux (Φ)**
+
+* The **total rate of flow of radiant energy** emitted, transmitted, or received per unit time.
+* Unit: **Watt (W)**.
+* Equation:
+
+  $$
+  Φ = \frac{dQ}{dt}
+  $$
+
+  where $Q$ = radiant energy (J).
+* Radiant flux tells us **how much energy per second** is flowing as electromagnetic radiation.
+
+---
+
+## 3. **Albedo (α)**
+
+* The **fraction of incoming solar radiation reflected back into space** by Earth’s surface or atmosphere.
+* It is a **dimensionless ratio** (0 to 1), often expressed in %.
+* Global average albedo ≈ **0.30 (30%)**.
+* Examples:
+
+  * Fresh snow: \~0.80–0.90 (high reflectivity)
+  * Oceans/forests: \~0.05–0.20 (low reflectivity)
+
+---
+
+## 4. **Blackbody**
+
+* An **idealized body** that absorbs **all incident radiation** (no reflection, no transmission).
+* It is also the **perfect emitter** of radiation at a given temperature.
+* Radiation properties are governed by:
+
+  * **Planck’s Law** (spectral distribution)
+  * **Wien’s Law** (peak wavelength)
+  * **Stefan–Boltzmann Law** (total emission).
+
+---
+
+## 5. **Radiant Energy (Q)**
+
+* The **total energy carried by electromagnetic radiation**.
+* Measured in **Joules (J)**.
+* Relation to radiant flux:
+
+  $$
+  Q = Φ \cdot t
+  $$
+
+  where $t$ = time.
+
+---
+
+## 6. **Thermal Radiation**
+
+* The electromagnetic radiation emitted by a body due to its **temperature**.
+* All objects above absolute zero ($&gt; 0 \, K$) emit thermal radiation.
+* Hotter objects emit:
+
+  * More energy ($E = σT^4$)
+  * Shorter wavelengths (Wien’s Law).
+* Examples:
+
+  * Earth (\~288 K) → emits **infrared radiation**.
+  * Sun (\~6000 K) → emits **visible + shortwave radiation**.
+
+---
+
+## Quick Summary Table
+
+| Term                   | Meaning                                     | Key Value/Formula                    |
+| ---------------------- | ------------------------------------------- | ------------------------------------ |
+| **Solar Constant**     | Solar radiation at top of atmosphere (1 AU) | \~1361 W/m²                          |
+| **Radiant Flux (Φ)**   | Rate of radiant energy flow                 | Φ = dQ/dt                            |
+| **Albedo (α)**         | Fraction of radiation reflected             | Earth avg \~0.30                     |
+| **Blackbody**          | Perfect absorber &amp; emitter                  | Obeys Planck, Wien, Stefan–Boltzmann |
+| **Radiant Energy (Q)** | Total energy of radiation                   | Q = Φ·t                              |
+| **Thermal Radiation**  | Heat emitted due to temperature             | E = σT⁴                              |
+</md></sn><sn><md>## Properties of a Wave{.text-center}
+
+Electromagnetic radiation travels in the form of **waves**, and its behavior is described by several key properties.
+
+---
 
 :::.row
 
 :::.col-12 .col-lg-7
-The Sun has several distinct layers, each with unique properties:
+### 1. **Wavelength (λ)**
 
-1. **Core**
+* The distance between two consecutive wave crests or troughs.
+* Unit: **meter (m)**, often expressed in **nanometers (nm)** or **micrometers (µm)**.
+* Determines the **type of electromagnetic radiation** (radio, visible, infrared, X-ray, etc.).
 
-   * Innermost region where `nuclear fusion occurs`.
-   * Temperature: about `15 million °C`.
-   * Source of the `Sun’s energy`.
+---
 
-2. **Radiative Zone**
+### 2. **Amplitude (A)**
 
-   * Energy from the core moves outward mainly by `radiation`.
-   * Photons may take ++thousands to millions++ of years to pass through.
+* The **height of the wave** from its mean position.
+* Related to the **intensity (brightness)** of radiation.
+* Larger amplitude = higher intensity of the wave.
 
-3. **Convective Zone**
-
-   * Energy is transported by convection currents (rising hot plasma and sinking cooler plasma).
-   * Creates the granulated appearance of the Sun’s surface.
-
-4. **Photosphere**
-
-   * The `visible surface` of the Sun.
-   * Temperature: about `5,500 °C`.
-   * Appears as a bright disk with sunspots.
-
-5. **Chromosphere**
-
-   * Lies above the photosphere.
-   * Appears reddish during solar eclipses.
-
-6. **Corona**
-
-   * `Outermost layer` extending millions of kilometers into space.
-   * Visible during total solar eclipses as a `glowing halo`.
-   * Extremely hot (over `1 million` °C).
 :::
 
 :::.col-12 .col-lg-5
-![diagram](https://pmfias.b-cdn.net/wp-content/uploads/2023/05/The-Sun-Structure.png)
-![diagram](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect8/sun_interior.jpg)
-:::
-
-:::
-</md></sn><sn><md>### Reactions at the Core{.text-center}
-
-The Sun’s energy comes from **nuclear fusion**.
-
-* **Process**: Hydrogen nuclei (protons) fuse to form helium nuclei, releasing massive amounts of energy.
-* **Main reaction chain**: The **proton-proton chain reaction**.
-
-:::.row
-
-:::.col-12 .col-lg-7
-Steps of proton-proton chain:
-
-1. Two protons fuse → deuterium + positron + neutrino.
-2. Deuterium fuses with another proton → helium-3.
-3. Two helium-3 nuclei combine → helium-4 + 2 protons.
-
-This reaction:
-
-* Converts **hydrogen into helium**.
-* Releases **light and heat energy**.
-* Produces neutrinos that escape into space.
-:::
-
-:::.col-12 .col-lg-5
-![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkHr_W2B2_TxIzQOYmWvvYFvak310zhq0x-Kjtp87VWTfbZdVLDoOZzB9YWvgPLLrw3M&amp;usqp=CAU)
+![diagram](https://www.sciencelearn.org.nz/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F117510%2F1722313702-wave-length-height-and-frequency20150805-30600-ac3hjmedited.png%3Fw%3D1840%26h%3D1226.6666666666665&amp;w=1920&amp;q=85&amp;dpl=dpl_3YP78pZRnY9CGfKJxe4qZAoXodaE)
 :::
 
 :::
 
+---
 
-Every second, the Sun fuses about `600 million tons of hydrogen` into helium, releasing energy equivalent to **billions of hydrogen bombs**.
+### 3. **Frequency (ν)**
+
+* Number of wave cycles passing a point per second.
+* Unit: **Hertz (Hz = s⁻¹)**.
+* Frequency and wavelength are inversely related:
+
+  $$
+  c = λν
+  $$
+
+  where $c$ = speed of light (3 × 10⁸ m/s).
+
+---
+
+### 4. **Energy (E)**
+
+* The energy of a photon is directly proportional to its frequency:
+
+  $$
+  E = hν
+  $$
+
+  where $h$ = Planck’s constant (6.626 × 10⁻³⁴ J·s).
+* Higher frequency radiation (X-rays, γ-rays) carries more energy than lower frequency (radio waves).
+
+---
+
+## Relations Between Wavelength, Frequency, Energy, and Temperature
+
+### 1. **Wavelength &amp; Frequency**
+
+* Inversely proportional:
+
+  $$
+  λ \propto \frac{1}{ν}
+  $$
+* Short wavelength = high frequency; long wavelength = low frequency.
+
+---
+
+### 2. **Energy &amp; Frequency**
+
+* Directly proportional:
+
+  $$
+  E \propto ν
+  $$
+* Higher frequency → more energetic photons.
+
+---
+
+### 3. **Energy &amp; Wavelength**
+
+* Inversely proportional:
+
+  $$
+  E \propto \frac{1}{λ}
+  $$
+
+---
+
+### 4. **Wavelength &amp; Temperature (Wien’s Law)**
+
+* The wavelength of maximum radiation emission decreases with increasing temperature:
+
+  $$
+  λ_{max} = \frac{b}{T}
+  $$
+
+  where $b = 2.897 × 10^{-3} \, m·K$.
+* Hotter bodies emit radiation at shorter wavelengths.
+
+---
+
+## Summary Table
+
+| Property            | Definition                  | Relation                    |
+| ------------------- | --------------------------- | --------------------------- |
+| **Wavelength (λ)**  | Distance between two crests | $c = λν$, $E ∝ 1/λ$         |
+| **Amplitude (A)**   | Wave height (intensity)     | Higher A → Higher intensity |
+| **Frequency (ν)**   | Number of cycles per sec    | $ν = c/λ$, $E ∝ ν$          |
+| **Energy (E)**      | Energy of one photon        | $E = hν$, $E ∝ 1/λ$         |
+| **Temperature (T)** | Controls peak λ             | $λ_{max} = b/T$             |
+
 </md></sn><sn class="d-none"><md>## Radiation{.text-center}
 
 Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
@@ -310,4 +487,125 @@ Where:
 * **Planck’s Law** gives the **full distribution** of energy with wavelength.
 * **Wien’s Law** is derived from Planck’s Law and tells us the **peak wavelength**.
 * **Stefan–Boltzmann Law** is obtained by integrating Planck’s distribution over all wavelengths, giving the **total radiation** emitted.
-</md></sn><sn></sn>
+</md></sn><sn><md>### Reactions at the Core{.text-center}
+
++++ later
+
+The Sun’s energy comes from **nuclear fusion**.
+
+* **Process**: Hydrogen nuclei (protons) fuse to form helium nuclei, releasing massive amounts of energy.
+* **Main reaction chain**: The **proton-proton chain reaction**.
+
+:::.row
+
+:::.col-12 .col-lg-7
+Steps of proton-proton chain:
+
+1. Two protons fuse → deuterium + positron + neutrino.
+2. Deuterium fuses with another proton → helium-3.
+3. Two helium-3 nuclei combine → helium-4 + 2 protons.
+
+This reaction:
+
+* Converts **hydrogen into helium**.
+* Releases **light and heat energy**.
+* Produces neutrinos that escape into space.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkHr_W2B2_TxIzQOYmWvvYFvak310zhq0x-Kjtp87VWTfbZdVLDoOZzB9YWvgPLLrw3M&amp;usqp=CAU)
+:::
+
+:::
+
+
+Every second, the Sun fuses about `600 million tons of hydrogen` into helium, releasing energy equivalent to **billions of hydrogen bombs**.
++++</md></sn><sn class="position-relative"><md>### Structure of the Sun {.text-center}
+
++++ later
+
+:::.row
+
+:::.col-12 .col-lg-7
+The Sun has several distinct layers, each with unique properties:
+
+1. **Core**
+
+   * Innermost region where `nuclear fusion occurs`.
+   * Temperature: about `15 million °C`.
+   * Source of the `Sun’s energy`.
+
+2. **Radiative Zone**
+
+   * Energy from the core moves outward mainly by `radiation`.
+   * Photons may take ++thousands to millions++ of years to pass through.
+
+3. **Convective Zone**
+
+   * Energy is transported by convection currents (rising hot plasma and sinking cooler plasma).
+   * Creates the granulated appearance of the Sun’s surface.
+
+4. **Photosphere**
+
+   * The `visible surface` of the Sun.
+   * Temperature: about `5,500 °C`.
+   * Appears as a bright disk with sunspots.
+
+5. **Chromosphere**
+
+   * Lies above the photosphere.
+   * Appears reddish during solar eclipses.
+
+6. **Corona**
+
+   * `Outermost layer` extending millions of kilometers into space.
+   * Visible during total solar eclipses as a `glowing halo`.
+   * Extremely hot (over `1 million` °C).
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://pmfias.b-cdn.net/wp-content/uploads/2023/05/The-Sun-Structure.png)
+![diagram](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect8/sun_interior.jpg)
+:::
+
+:::
+
++++</md></sn><sn><md>### Composition of the Sun{.text-center}
+
++++ later
+
+The Sun is made up *mostly of gases*, primarily:
+
+* **Hydrogen (≈ 74%)**
+* **Helium (≈ 24%)**
+* **Other elements (≈ 2%)**, including oxygen, carbon, neon, and iron in trace amounts.
+
+This composition explains why the Sun is often referred to as a `giant ball of plasma`.
+
++++</md></sn><sn><md>## The Sun {.text-center}
+
++++ later
+
+The Sun is the `central star` of our solar system and the primary `source of light and energy` that sustains life on Earth. It is a `massive sphere of hot plasma` held together by gravity and powered by nuclear fusion reactions at its core.
+
+---
+
+### Formation of the Sun
+
+:::.row
+
+:::.col-12 .col-lg-7
+The Sun formed about `4.6 billion years ago` from a ++giant molecular cloud++ composed mostly of `hydrogen and helium`. Under the influence of *gravity*:
+
+1. The cloud began to `collapse and spin`, forming a **protostar**.
+2. As the material compressed, temperature and pressure increased in the core.
+3. When the core reached around **10 million °C**, ++nuclear fusion of hydrogen into helium began++.
+4. This marked the birth of the Sun as a main-sequence star.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://qph.cf2.quoracdn.net/main-qimg-36cf4764b4e05d7980955fd401f55d67-lq)
+:::
+
+:::
++++</md></sn><sn></sn>
