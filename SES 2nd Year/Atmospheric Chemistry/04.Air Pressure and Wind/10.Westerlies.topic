@@ -1,10 +1,47 @@
 
-	<sn></sn>		
+	<sn><md>## Westerlies Wind{.text-center}
+
+
+The **Westerlies** are one of the three main types of **primary winds** on Earth, alongside the Trade Winds and the Polar Easterlies. They blow from the **subtropical high-pressure belts (around 30° latitude)** toward the **subpolar low-pressure belts (around 60° latitude)** in both hemispheres. Their name comes from the direction they originate: they blow **from the west toward the east**.
+</md></sn><sn><md>## Mechanisms {.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+
+1. As the **Subtropics have high pressure** and the **Subpolar zone has low pressure**, air moves from the subtropics toward the subpolar region due to the **pressure gradient force**. Although the pressure gradient acts at a right angle to the isobars, the **Coriolis force** deflects the wind direction.
+
+  * Northern Hemisphere → Southwest to Northeast
+  * Southern Hemisphere → Northwest to Southeast
+
+2. The **subtropical westerlies** and **polar easterlies** converge, forcing the air to rise upward. This lifting is known as the ++Polar Front++.
+
+3. The **uplifted air** then diverges poleward and equatorward near the subtropic zone.
+
+4. Due to **cooling and condensation**, air sinks again in the **subtropical high-pressure zone**, continuing the **Ferrel Cell circulation cycle**.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/mVpyRYz.png)
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#10.westerlies</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 12:41:08 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 13:21:18 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-wk85qCnrDM</id>
 		<duration></duration>
 	</config>
+<sn><md>### Characteristics of Westerlies{.text-center}
+
+* **Direction:**
+
+  * Northern Hemisphere → Southwest to Northeast
+  * Southern Hemisphere → Northwest to Southeast
+* `Strength:` Stronger and more consistent in the Southern Hemisphere due to less landmass and less friction.
+* **Speed:** Generally `30–60 km/h` but can reach higher speeds during storms.
+* **Variability:** Less steady than trade winds; can shift with seasons and pressure changes.
+</md></sn>
