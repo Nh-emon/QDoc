@@ -28,7 +28,7 @@ The Sun formed about `4.6 billion years ago` from a ++giant molecular cloud++ co
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 18:02:14 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 17:53:50 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
@@ -119,7 +119,7 @@ This reaction:
 
 
 Every second, the Sun fuses about `600 million tons of hydrogen` into helium, releasing energy equivalent to **billions of hydrogen bombs**.
-</md></sn><sn><md>## Radiation{.text-center}
+</md></sn><sn class="d-none"><md>## Radiation{.text-center}
 
 Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
 
@@ -173,4 +173,141 @@ The energy created in the core must travel outward before it can escape into spa
 ![diagram](https://stsci-opo.org/STScI-01F8QGX1WR7CBNYFZPDFBGF8S0.jpg)
 ![diagram](https://personal.cityu.edu.hk/liangdai/post/what_is_radiation/featured.jpg)
 +++
+</md></sn><sn><md>## Principle of Electromagnetic Radiation{.text-center}
+
+&gt; Electromagnetic radiation (EMR) refers to the energy transmitted through space in the form of oscillating electric and magnetic fields, which travel together as waves at the speed of light. 
+
+It covers a wide spectrum, from radio waves to gamma rays.
+
+### Core Principles {.text-center}
+
+1. `Dual Nature (Wave-Particle Duality)`
+
+   * Electromagnetic radiation behaves both like a wave (with wavelength and frequency) and like particles (photons carrying energy).
+
+2. `Oscillating Fields`
+
+   * EMR consists of **perpendicular oscillating electric and magnetic fields**.
+   * These fields are also **perpendicular to the direction of wave propagation**.
+
+3. `Speed of Propagation`
+
+   * In a vacuum, electromagnetic radiation travels at the **speed of light (c ≈ 3 × 10⁸ m/s)**.
+   * The relationship between speed, wavelength (λ), and frequency (ν) is:
+
+     $$
+     c = λν
+     $$
+
+4. `Energy of Photons`
+
+   * Each photon carries energy proportional to its frequency:
+
+     $$
+     E = hν
+     $$
+
+     where *h* = Planck’s constant (6.626 × 10⁻³⁴ J·s).
+
+5. `Interaction with Matter`
+
+   * EMR can be **absorbed, reflected, refracted, scattered, or transmitted** depending on the medium.
+   * Higher-frequency radiation (like UV, X-rays, gamma rays) carries more energy and can ionize atoms.
+
+6. `No Medium Required`
+
+   * Unlike sound waves, EMR does **not require a material medium**; it can travel through the vacuum of space.
+
+---
+
+### Summary{.text-center}
+
+The principle of electromagnetic radiation is that it is the transmission of energy through oscillating electric and magnetic fields, traveling at the speed of light, carrying energy as photons, and interacting with matter in diverse ways.
+
+</md></sn><sn><md>## Electromagnetic Radiation and Fundamental Laws
+
+Electromagnetic radiation, especially when emitted by a `blackbody`, follows some key physical laws that describe its intensity, distribution, and wavelength characteristics. Three important ones are **Planck’s Law, Wien’s Displacement Law, and Stefan–Boltzmann’s Law**.
+
+---
+
+### Planck’s Quantum Law (Energy–Frequency Relation){.text-center}
+
+* **Statement**: The energy of electromagnetic radiation is not continuous, but emitted or absorbed in discrete packets called **quanta (photons)**.
+* The energy of each photon is **directly proportional to its frequency**:
+
+$$
+E \propto \nu
+$$
+
+$$
+E = h\nu
+$$
+
+Where:
+
+* $E$ = energy of one photon (J)
+* $\nu$ = frequency of radiation (Hz)
+* $h$ = Planck’s constant = $6.626 \times 10^{-34} \, J·s$
+
+---
+
+### Meaning
+
+* Higher frequency radiation (like **X-rays, gamma rays**) has **more energetic photons**.
+* Lower frequency radiation (like **radio waves**) has **less energetic photons**.
+* This principle is the foundation of **quantum mechanics** and explains phenomena like the **photoelectric effect**.
+
+
+
+### 2. Wien’s Displacement Law (Peak Wavelength){.text-center}
+
+* **Principle**: The wavelength at which maximum emission occurs shifts with temperature.
+
+* **Equation**:
+
+  $$
+  λ_{max} = \frac{b}{T}
+  $$
+
+  Where:
+
+  * $λ_{max}$ = wavelength of maximum intensity (m)
+  * $b$ = Wien’s constant = $2.897 × 10^{-3} \, \text{m·K}$
+  * $T$ = absolute temperature (K)
+
+* **Meaning**:
+
+  * Hotter objects emit radiation at **shorter wavelengths**.
+  * Example: The Sun (\~6000 K) peaks in the **visible range**, while Earth (\~288 K) peaks in the **infrared range**.
+
+---
+
+### 3. Stefan–Boltzmann Law (Total Emission){.text-center}
+
+* **Principle**: The total energy radiated per unit area of a blackbody across all wavelengths is proportional to the fourth power of its temperature.
+
+* **Equation**:
+
+  $$
+  E = σT^4
+  $$
+
+  Where:
+
+  * $E$ = total emissive power (W/m²)
+  * $σ$ = Stefan–Boltzmann constant = $5.67 × 10^{-8} \, W·m^{-2}·K^{-4}$
+  * $T$ = absolute temperature (K)
+
+* **Meaning**:
+
+  * If temperature doubles, energy radiated increases by **16 times**.
+  * Explains why hotter stars shine much brighter than cooler ones.
+
+---
+
+### Relationship Between the Three Laws{.text-end}
+
+* **Planck’s Law** gives the **full distribution** of energy with wavelength.
+* **Wien’s Law** is derived from Planck’s Law and tells us the **peak wavelength**.
+* **Stefan–Boltzmann Law** is obtained by integrating Planck’s distribution over all wavelengths, giving the **total radiation** emitted.
 </md></sn><sn></sn>
