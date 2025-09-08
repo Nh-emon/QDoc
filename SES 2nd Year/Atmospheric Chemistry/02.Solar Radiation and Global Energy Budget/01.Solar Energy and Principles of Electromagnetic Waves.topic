@@ -4,328 +4,11 @@
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 18:39:23 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 20:17:01 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
-<sn><md>## Properties of the Solar Spectrum{.text-center}
-
-The **solar spectrum** refers to the range of electromagnetic radiation emitted by the Sun. Since the Sun behaves almost like a **blackbody radiator** at about **6000 K**, its spectrum spans from **ultraviolet (UV)** to **infrared (IR)**, with the peak in the **visible range**.
-
-![diagram](https://sunwindsolar.com/wp-content/uploads/2013/06/SunWind-WEB-Increasing-Energy-Diagram-V2.png)
-
----
-
-### 1. **Continuous Spectrum**
-
-* The solar spectrum is **continuous**, meaning it contains all wavelengths from about **0.15 µm (UV)** to **4 µm (IR)**.
-* No large gaps, but fine **absorption lines** (Fraunhofer lines) are present.
-
----
-
-### 2. **Presence of Fraunhofer Lines**
-
-* Dark lines in the solar spectrum caused by **absorption of specific wavelengths** by gases in the Sun’s atmosphere (mainly hydrogen, calcium, sodium, etc.) and Earth’s atmosphere.
-* Provide information about **solar composition**.
-
----
-
-### 3. **Peak Wavelength (Wien’s Law)**
-
-* From Wien’s law:
-
-  $$
-  λ_{max} = \frac{b}{T}
-  $$
-
-  where $T ≈ 6000 \, K$.
-* $λ_{max} ≈ 0.48 \, µm$, which lies in the **green-yellow visible light range**.
-* This is why the human eye evolved to be most sensitive to visible light.
-
----
-
-### 4. **Distribution of Energy**
-
-* About **7%** in **ultraviolet (UV)** (&lt; 0.4 µm).
-* About **44%** in **visible light** (0.4 – 0.7 µm).
-* About **49%** in **infrared (IR)** (&gt; 0.7 µm).
-
----
-
-### 5. **Intensity**
-
-* The Sun’s radiation follows **Planck’s radiation law**, with intensity depending on wavelength.
-* Follows the **Stefan–Boltzmann law**: total radiation is proportional to $T^4$.
-
----
-
-### 6. **Solar Constant**
-
-* The average amount of solar radiation received at the top of Earth’s atmosphere at a distance of 1 AU is about:
-
-  $$
-  1361 \, W/m^2
-  $$
-
-  Known as the **Solar Constant**.
-
----
-
-### 7. **Shortwave Nature**
-
-* Most of the solar energy reaching Earth is in the **shortwave spectrum** (UV + visible + near IR).
-* In contrast, Earth re-radiates energy in the **longwave infrared** range due to its lower temperature.
-
----
-
-## Summary Table
-
-| Property            | Description                                          |
-| ------------------- | ---------------------------------------------------- |
-| Type                | Continuous spectrum with Fraunhofer absorption lines |
-| Range               | \~0.15 µm (UV) to 4 µm (IR)                          |
-| Peak wavelength     | \~0.48 µm (visible, green-yellow)                    |
-| Energy distribution | 7% UV, 44% visible, 49% IR                           |
-| Intensity           | Follows Planck’s Law and Stefan–Boltzmann Law        |
-| Solar constant      | \~1361 W/m² at 1 AU                                  |
-| Nature              | Shortwave radiation                                  |
-</md></sn><sn><md>## 1. **Solar Constant**
-
-* The **amount of solar radiation received per unit area** at the top of Earth’s atmosphere when the Earth is at its average distance (1 Astronomical Unit) from the Sun.
-* Value:
-
-  $$
-  S_0 ≈ 1361 \, W/m^2
-  $$
-* It represents the incoming solar energy available to Earth, before accounting for reflection and absorption by the atmosphere.
-
----
-
-## 2. **Radiant Flux (Φ)**
-
-* The **total rate of flow of radiant energy** emitted, transmitted, or received per unit time.
-* Unit: **Watt (W)**.
-* Equation:
-
-  $$
-  Φ = \frac{dQ}{dt}
-  $$
-
-  where $Q$ = radiant energy (J).
-* Radiant flux tells us **how much energy per second** is flowing as electromagnetic radiation.
-
----
-
-## 3. **Albedo (α)**
-
-* The **fraction of incoming solar radiation reflected back into space** by Earth’s surface or atmosphere.
-* It is a **dimensionless ratio** (0 to 1), often expressed in %.
-* Global average albedo ≈ **0.30 (30%)**.
-* Examples:
-
-  * Fresh snow: \~0.80–0.90 (high reflectivity)
-  * Oceans/forests: \~0.05–0.20 (low reflectivity)
-
----
-
-## 4. **Blackbody**
-
-* An **idealized body** that absorbs **all incident radiation** (no reflection, no transmission).
-* It is also the **perfect emitter** of radiation at a given temperature.
-* Radiation properties are governed by:
-
-  * **Planck’s Law** (spectral distribution)
-  * **Wien’s Law** (peak wavelength)
-  * **Stefan–Boltzmann Law** (total emission).
-
----
-
-## 5. **Radiant Energy (Q)**
-
-* The **total energy carried by electromagnetic radiation**.
-* Measured in **Joules (J)**.
-* Relation to radiant flux:
-
-  $$
-  Q = Φ \cdot t
-  $$
-
-  where $t$ = time.
-
----
-
-## 6. **Thermal Radiation**
-
-* The electromagnetic radiation emitted by a body due to its **temperature**.
-* All objects above absolute zero ($&gt; 0 \, K$) emit thermal radiation.
-* Hotter objects emit:
-
-  * More energy ($E = σT^4$)
-  * Shorter wavelengths (Wien’s Law).
-* Examples:
-
-  * Earth (\~288 K) → emits **infrared radiation**.
-  * Sun (\~6000 K) → emits **visible + shortwave radiation**.
-
----
-
-## Quick Summary Table
-
-| Term                   | Meaning                                     | Key Value/Formula                    |
-| ---------------------- | ------------------------------------------- | ------------------------------------ |
-| **Solar Constant**     | Solar radiation at top of atmosphere (1 AU) | \~1361 W/m²                          |
-| **Radiant Flux (Φ)**   | Rate of radiant energy flow                 | Φ = dQ/dt                            |
-| **Albedo (α)**         | Fraction of radiation reflected             | Earth avg \~0.30                     |
-| **Blackbody**          | Perfect absorber &amp; emitter                  | Obeys Planck, Wien, Stefan–Boltzmann |
-| **Radiant Energy (Q)** | Total energy of radiation                   | Q = Φ·t                              |
-| **Thermal Radiation**  | Heat emitted due to temperature             | E = σT⁴                              |
-</md></sn><sn><md>## Properties of a Wave{.text-center}
-
-Electromagnetic radiation travels in the form of **waves**, and its behavior is described by several key properties.
-
----
-
-:::.row
-
-:::.col-12 .col-lg-7
-### 1. **Wavelength (λ)**
-
-* The distance between two consecutive wave crests or troughs.
-* Unit: **meter (m)**, often expressed in **nanometers (nm)** or **micrometers (µm)**.
-* Determines the **type of electromagnetic radiation** (radio, visible, infrared, X-ray, etc.).
-
----
-
-### 2. **Amplitude (A)**
-
-* The **height of the wave** from its mean position.
-* Related to the **intensity (brightness)** of radiation.
-* Larger amplitude = higher intensity of the wave.
-
-:::
-
-:::.col-12 .col-lg-5
-![diagram](https://www.sciencelearn.org.nz/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F117510%2F1722313702-wave-length-height-and-frequency20150805-30600-ac3hjmedited.png%3Fw%3D1840%26h%3D1226.6666666666665&amp;w=1920&amp;q=85&amp;dpl=dpl_3YP78pZRnY9CGfKJxe4qZAoXodaE)
-:::
-
-:::
-
----
-
-### 3. **Frequency (ν)**
-
-* Number of wave cycles passing a point per second.
-* Unit: **Hertz (Hz = s⁻¹)**.
-* Frequency and wavelength are inversely related:
-
-  $$
-  c = λν
-  $$
-
-  where $c$ = speed of light (3 × 10⁸ m/s).
-
----
-
-### 4. **Energy (E)**
-
-* The energy of a photon is directly proportional to its frequency:
-
-  $$
-  E = hν
-  $$
-
-  where $h$ = Planck’s constant (6.626 × 10⁻³⁴ J·s).
-* Higher frequency radiation (X-rays, γ-rays) carries more energy than lower frequency (radio waves).
-
----
-
-## Relations Between Wavelength, Frequency, Energy, and Temperature
-
-### 1. **Wavelength &amp; Frequency**
-
-* Inversely proportional:
-
-  $$
-  λ \propto \frac{1}{ν}
-  $$
-* Short wavelength = high frequency; long wavelength = low frequency.
-
----
-
-### 2. **Energy &amp; Frequency**
-
-* Directly proportional:
-
-  $$
-  E \propto ν
-  $$
-* Higher frequency → more energetic photons.
-
----
-
-### 3. **Energy &amp; Wavelength**
-
-* Inversely proportional:
-
-  $$
-  E \propto \frac{1}{λ}
-  $$
-
----
-
-### 4. **Wavelength &amp; Temperature (Wien’s Law)**
-
-* The wavelength of maximum radiation emission decreases with increasing temperature:
-
-  $$
-  λ_{max} = \frac{b}{T}
-  $$
-
-  where $b = 2.897 × 10^{-3} \, m·K$.
-* Hotter bodies emit radiation at shorter wavelengths.
-
----
-
-## Summary Table
-
-| Property            | Definition                  | Relation                    |
-| ------------------- | --------------------------- | --------------------------- |
-| **Wavelength (λ)**  | Distance between two crests | $c = λν$, $E ∝ 1/λ$         |
-| **Amplitude (A)**   | Wave height (intensity)     | Higher A → Higher intensity |
-| **Frequency (ν)**   | Number of cycles per sec    | $ν = c/λ$, $E ∝ ν$          |
-| **Energy (E)**      | Energy of one photon        | $E = hν$, $E ∝ 1/λ$         |
-| **Temperature (T)** | Controls peak λ             | $λ_{max} = b/T$             |
-
-</md></sn><sn class="d-none"><md>## Radiation{.text-center}
-
-Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
-
----
-
-### Transport of Energy Inside the Sun
-
-The energy created in the core must travel outward before it can escape into space:
-
-:::.row
-
-:::.col-12 .col-lg-6
-1. **Radiative Zone**
-
-   * Energy moves slowly through radiation.
-   * Photons (packets of light energy) are absorbed and re-emitted by particles.
-   * It can take **thousands to millions of years** for a photon to pass through this zone.
-:::
-
-:::.col-12 .col-lg-6
-2. **Convective Zone**
-
-   * Energy moves by convection currents.
-   * Hot plasma rises toward the surface, cools, then sinks back down.
-   * This creates a constant boiling-like motion within the Sun.
-:::
-
-:::
-</md></sn><sn><md>### Radiation {.text-center}
+<sn><md>### Radiation {.text-center}
 
 +++ read wikipedia
 @[wiki](https://en.wikipedia.org/wiki/Radiation)
@@ -350,6 +33,147 @@ The energy created in the core must travel outward before it can escape into spa
 ![diagram](https://stsci-opo.org/STScI-01F8QGX1WR7CBNYFZPDFBGF8S0.jpg)
 ![diagram](https://personal.cityu.edu.hk/liangdai/post/what_is_radiation/featured.jpg)
 +++
+</md></sn><sn><md>### Properties of a Wave{.text-center}
+
+Electromagnetic radiation travels in the form of **waves**, and its behavior is described by several key properties.
+
+---
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### **Wavelength (λ)** {.text-center}
+
+* The distance between two consecutive wave crests or troughs.
+* Unit: **meter (m)**, often expressed in **nanometers (nm)** or **micrometers (µm)**.
+* Determines the **type of electromagnetic radiation** (radio, visible, infrared, X-ray, etc.).
+
+---
+
+#### **Amplitude (A)** {.text-center}
+
+* The **height of the wave** from its mean position.
+* Related to the **intensity (brightness)** of radiation.
+* Larger amplitude = higher intensity of the wave.
+
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://www.sciencelearn.org.nz/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F117510%2F1722313702-wave-length-height-and-frequency20150805-30600-ac3hjmedited.png%3Fw%3D1840%26h%3D1226.6666666666665&amp;w=1920&amp;q=85&amp;dpl=dpl_3YP78pZRnY9CGfKJxe4qZAoXodaE)
+:::
+
+:::.col-12 .col-lg-6
+#### Frequency (ν){.text-center}
+* Number of wave cycles passing a point per second.
+* Unit: **Hertz (Hz = s⁻¹)**.
+* Frequency and wavelength are inversely related:
+
+  $$
+  v = fλ
+  $$
+
+  where $v$ = speed of light (3 × 10⁸ m/s).
+:::
+
+:::.col-12 .col-lg-6
+#### Energy (E){.text-center}
+* The energy of a photon is directly proportional to its frequency:
+
+  $$
+  E = hf
+  $$
+
+  where $h$ = Planck’s constant (6.626 × 10⁻³⁴ J·s).
+* Higher frequency radiation (X-rays, γ-rays) carries more energy than lower frequency (radio waves).
+:::
+
+
+:::
+</md></sn><sn><md>### Relations Between Wavelength, Frequency, Energy, and Temperature{.text-center}
+
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Wavelength &amp; Frequency{.text-center}
+* Inversely proportional:
+
+  $$
+  λ \propto \frac{1}{f}
+  $$
+* Short wavelength = high frequency; long wavelength = low frequency.
+:::
+
+:::.col-12 .col-lg-6
+#### Energy &amp; Frequency{.text-center}
+* Directly proportional:
+
+  $$
+  E \propto f
+  $$
+* Higher frequency → more energetic photons.
+:::
+
+:::.col-12 .col-lg-6
+####  Energy &amp; Wavelength{.text-center}
+
+* Inversely proportional:
+
+  $$
+  E \propto \frac{1}{λ}
+  $$
+:::
+
+
+:::.col-12 .col-lg-6
+####  Wavelength &amp; Temperature (Wien’s Law){.text-center}
+* The wavelength of maximum radiation emission decreases with increasing temperature:
+
+  $$
+  λ_{max} = \frac{b}{T}
+  $$
+
+  where $b = 2.897 × 10^{-3} \, m·K$.
+* Hotter bodies emit radiation at shorter wavelengths.
+:::
+
+:::.col-12 .col-lg-6
+|λ wavelength|Effect|
+|---|----|
+| λ ☝️  | v,E,T 👇 |
+| λ 👇  | v,E,T ☝️ |
+:::
+
+:::
+
+---
+
+### Summary Table{.text-center}
+
+| Property            | Definition                  | Relation                    |
+| ------------------- | --------------------------- | --------------------------- |
+| **Wavelength (λ)**  | Distance between two crests | $c = λν$, $E ∝ 1/λ$         |
+| **Amplitude (A)**   | Wave height (intensity)     | Higher A → Higher intensity |
+| **Frequency (ν)**   | Number of cycles per sec    | $ν = c/λ$, $E ∝ ν$          |
+| **Energy (E)**      | Energy of one photon        | $E = hν$, $E ∝ 1/λ$         |
+| **Temperature (T)** | Controls peak λ             | $λ_{max} = b/T$             |
+
+</md></sn><sn><md>## Properties of the Solar Spectrum{.text-center}
+
+The **solar spectrum** refers to the range of ++electromagnetic radiation emitted by the Sun++. Since the Sun behaves almost like a `blackbody radiator` at about **6000 K**, its spectrum spans from **ultraviolet (UV)** to **infrared (IR)**, with the peak in the **visible range**.
+
+![diagram](https://sunwindsolar.com/wp-content/uploads/2013/06/SunWind-WEB-Increasing-Energy-Diagram-V2.png)
+
+| Region                    | Wavelength Range | % of Total Solar Energy | Notes                                                                     |
+| ------------------------- | ---------------- | ----------------------- | ------------------------------------------------------------------------- |
+| **Gamma Rays**            | &lt; 0.01 nm        | Trace (negligible)      | Produced by nuclear reactions in Sun’s core but absorbed before escaping. |
+| **X-Rays**                | 0.01 – 10 nm     | Trace (negligible)      | Emitted from solar flares/corona; blocked by Earth’s atmosphere.          |
+| **Ultraviolet (UV)**      | 0.1 – 0.4 µm     | \~7%                    | Mostly absorbed by ozone; biologically important (vitamin D, sunburn).    |
+| **Visible Light**         | 0.4 – 0.7 µm     | \~44%                   | Main portion; peak at \~0.48 µm (green-yellow).                           |
+| **Near Infrared (NIR)**   | 0.7 – 1.5 µm     | \~37%                   | Strongly absorbed by water vapor/CO₂.                                     |
+| **Middle Infrared (MIR)** | 1.5 – 4 µm       | \~12%                   | Contributes to atmospheric heating.                                       |
+| **Far Infrared (FIR)**    | &gt; 4 µm           | Negligible in solar     | Mostly emitted by Earth, not Sun.                                         |
+| **Radio Waves**           | &gt; 1 mm           | Very small fraction     | From solar storms and corona; not part of thermal radiation.              |
 </md></sn><sn><md>## Principle of Electromagnetic Radiation{.text-center}
 
 &gt; Electromagnetic radiation (EMR) refers to the energy transmitted through space in the form of oscillating electric and magnetic fields, which travel together as waves at the speed of light. 
@@ -487,6 +311,54 @@ Where:
 * **Planck’s Law** gives the **full distribution** of energy with wavelength.
 * **Wien’s Law** is derived from Planck’s Law and tells us the **peak wavelength**.
 * **Stefan–Boltzmann Law** is obtained by integrating Planck’s distribution over all wavelengths, giving the **total radiation** emitted.
+</md></sn><sn><md>### Solar Constant{.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* The **amount of solar radiation received per unit area** at the top of Earth’s atmosphere when the Earth is at its average distance (1 Astronomical Unit) from the Sun.
+* Value:
+
+  $$
+  S_0 ≈ 1361 \, W/m^2
+  $$
+* It represents the incoming solar energy available to Earth, before accounting for reflection and absorption by the atmosphere.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcUzoKR18Id3lsaL3lR4yfgqNQJNomzRusg&amp;s)
+:::
+:::
+
+---
+</md></sn><sn class="d-none"><md>## Radiation{.text-center}
+
+Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
+
+---
+
+### Transport of Energy Inside the Sun
+
+The energy created in the core must travel outward before it can escape into space:
+
+:::.row
+
+:::.col-12 .col-lg-6
+1. **Radiative Zone**
+
+   * Energy moves slowly through radiation.
+   * Photons (packets of light energy) are absorbed and re-emitted by particles.
+   * It can take **thousands to millions of years** for a photon to pass through this zone.
+:::
+
+:::.col-12 .col-lg-6
+2. **Convective Zone**
+
+   * Energy moves by convection currents.
+   * Hot plasma rises toward the surface, cools, then sinks back down.
+   * This creates a constant boiling-like motion within the Sun.
+:::
+
+:::
 </md></sn><sn><md>### Reactions at the Core{.text-center}
 
 +++ later
