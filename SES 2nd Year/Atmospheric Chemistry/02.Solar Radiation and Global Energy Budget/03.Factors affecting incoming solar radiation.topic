@@ -1,10 +1,80 @@
 
-	<sn></sn>		
+	<sn><md>## Factors Affecting Incoming Solar Radiation{.text-center}
+
+The amount of **solar radiation (insolation)** received at the Earth’s surface is `not uniform everywhere`. It is influenced by several astronomical and atmospheric factors.
+
+---
+
+### 1. **Solar Angle (Latitude and Season)**
+
+* The **angle of incidence** determines how concentrated solar energy is.
+* At the **equator**, the Sun’s rays strike more directly → higher intensity.
+* At the **poles**, rays strike obliquely → energy is spread over a larger area.
+* Seasonal changes (due to **Earth’s tilt, 23.5°**) alter solar angles, creating summer and winter.
+
+---
+
+### 2. **Length of Daylight (Duration of Sunshine)**
+
+* Longer days = more hours of sunlight = more radiation received.
+* Summer solstice has maximum day length → highest insolation.
+* Winter solstice has shortest day length → lowest insolation.
+
+---
+
+### 3. **Earth–Sun Distance**
+
+* The Earth’s orbit is elliptical.
+* At **perihelion (January)**, Earth is closer to Sun → receives slightly more radiation.
+* At **aphelion (July)**, Earth is farther → receives slightly less radiation.
+* Difference is about **7%**, but seasonal effects dominate.
+
+---
+
+### 4. **Atmospheric Conditions**
+
+* **Absorption**: Gases (Ozone, CO₂, Water Vapor) absorb specific wavelengths.
+* **Scattering**: Dust, aerosols, and air molecules scatter sunlight (reason for blue sky).
+* **Reflection**: Clouds and atmospheric particles reflect some radiation back to space.
+
+---
+
+### 5. **Cloud Cover**
+
+* Thick clouds can reflect and block a significant amount of incoming solar radiation.
+* On clear days, insolation at the surface is much higher.
+
+---
+
+### 6. **Surface Albedo (Reflectivity of Earth’s Surface)**
+
+* Snow, ice, and deserts have **high albedo** → reflect more, absorb less.
+* Forests, oceans, and soil have **low albedo** → absorb more radiation.
+
+---
+
+### 7. **Altitude**
+
+* At higher elevations, the atmosphere is thinner → less scattering and absorption → higher solar radiation received.
+* This is why mountains receive stronger sunlight than lowlands.
+
+---
+
+### 8. **Local Weather Conditions**
+
+* Dust storms, volcanic eruptions, and air pollution can reduce incoming solar radiation by increasing atmospheric scattering and absorption.
+
+---
+
+### Summary
+
+Incoming solar radiation is controlled by **astronomical factors** (latitude, season, Earth–Sun distance, day length) and **atmospheric/surface factors** (clouds, albedo, altitude, pollution).
+</md></sn>		
 	<config>
 		<tags>#03.factors affecting incoming solar radiation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 15:12:00 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 18:01:22 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-xlpC1VGn2W</id>
 		<duration></duration>
 	</config>
