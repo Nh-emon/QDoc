@@ -1,10 +1,18 @@
 
-	<sn></sn>		
+	<sn><md>### Type of Wind
+
+| Type of Wind  | Example(s)                                      | Cause                                             | Nature / Duration          |
+| ------------- | ----------------------------------------------- | ------------------------------------------------- | -------------------------- |
+| **Primary**   | Trade Winds, Westerlies, Polar Easterlies       | Global pressure belts &amp; Earth’s rotation          | Permanent, blow year-round |
+| **Secondary** | Monsoons                                        | Seasonal heating differences (land–sea)           | Seasonal, change direction |
+| **Tertiary**  | Land &amp; Sea Breeze, Loo, Chinook, Foehn, Mistral | Local temperature/pressure variations, topography | Localized, short duration  |
+</md></sn>		
 	<config>
 		<tags>#08.wind belt</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 11:09:08 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 11:20:36 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-PAtSMPubAk</id>
 		<duration></duration>
 	</config>
+<sn></sn>
