@@ -1,10 +1,68 @@
 
-	<sn></sn>		
+	<sn><md>## Radiation Transfer from Sun to Earth{.text-center}
+
+The Sun is the `primary source of energy` for Earth. The process by which solar energy travels through space and reaches Earth is governed by the **principles of electromagnetic radiation transfer**.
+
+---
+
+### 1. Emission from the Sun
+
+* The Sun behaves nearly like a `blackbody radiator` at about **6000 K**.
+* According to **Planck’s Law**, it emits radiation over a wide spectrum, but most energy is in the **visible and near-infrared range**.
+* By the **Stefan–Boltzmann Law**, the Sun radiates enormous energy:
+
+  $$
+  E = σT^4
+  $$
+
+  where $T ≈ 6000 K$.
+
+---
+
+### 2. Propagation through Space
+
+* Solar radiation travels through the `vacuum of space` as electromagnetic waves.
+* Since EM waves `do not require a medium`, energy transfer occurs purely by `radiation` (not conduction or convection).
+* It moves at the **speed of light (3 × 10⁸ m/s)**.
+
+---
+
+### 3. Interaction with Earth’s Atmosphere
+
+When solar radiation reaches Earth, several processes occur:
+
+* **Absorption**
+
+  * About **23%** of incoming solar radiation is absorbed by the **atmosphere, clouds, water vapor, CO₂, ozone**.
+* **Reflection &amp; Scattering**
+
+  * Around **30%** of total solar energy is reflected back to space (Earth’s **albedo**).
+* **Transmission to Surface**
+
+  * Roughly **47%** reaches Earth’s surface, heating land and oceans.
+
+
+### 4. Radiation Balance on Earth
+
+* The absorbed solar radiation warms Earth’s surface.
+* The Earth then **re-radiates energy** in the **infrared spectrum** (longwave radiation) according to the **Stefan–Boltzmann Law**.
+* Greenhouse gases (CO₂, CH₄, H₂O vapor) absorb some of this outgoing IR radiation, warming the atmosphere (**Greenhouse Effect**).
+
+---
+
+### 5. Summary Flow
+
+1. **Sun (6000 K)** → emits mostly shortwave (visible, UV, near-IR) radiation.
+2. **Space** → radiation travels as EM waves at light speed.
+3. **Atmosphere** → part absorbed, part scattered/reflected.
+4. **Surface** → about 47% absorbed, heating land &amp; oceans.
+5. **Earth** → re-radiates energy as longwave infrared radiation.
+</md></sn>		
 	<config>
 		<tags>#02.radiation transfer from sun to earth</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 06 2025 15:11:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 08 2025 17:58:28 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-jxdIQLRHrc</id>
 		<duration></duration>
 	</config>
