@@ -4,7 +4,7 @@
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 20:17:01 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 07:12:52 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
@@ -330,6 +330,108 @@ Where:
 :::
 
 ---
+### Radiant Flux (Φ){.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* The **total rate of flow of radiant energy** emitted, transmitted, or received per unit time.
+* Unit: **Watt (W)**.
+* Equation:
+
+  $$
+  Φ = \frac{dQ}{dt}
+  $$
+
+  where $Q$ = radiant energy (J).
+* Radiant flux tells us **how much energy per second** is flowing as electromagnetic radiation.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://w7.pngwing.com/pngs/636/853/png-transparent-light-radiant-energy-definition-information-light-angle-text-material-thumbnail.png)
+:::
+:::
+
+
+### Albedo (α){.text-center}
+
+:::.row
+:::.col-12 .col-lg-7
+* The **fraction of incoming solar radiation reflected back into space** by Earth’s surface or atmosphere.
+* It is a **dimensionless ratio** (0 to 1), often expressed in %.
+* Global average albedo ≈ **0.30 (30%)**.
+* Examples:
+
+  * Fresh snow: \~0.80–0.90 (high reflectivity)
+  * Oceans/forests: \~0.05–0.20 (low reflectivity)
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://lift.opensnow.com/summary/20240702-adba9f3dd4.jpg)
+:::
+:::
+
+### Blackbody{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+* An **idealized body** that absorbs **all incident radiation** (no reflection, no transmission).
+* It is also the **perfect emitter** of radiation at a given temperature.
+* Radiation properties are governed by:
+
+  * **Planck’s Law** (spectral distribution)
+  * **Wien’s Law** (peak wavelength)
+  * **Stefan–Boltzmann Law** (total emission).
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://cdn.britannica.com/83/283-050-7701048B/energy-unit-area-second-wavelength-interval-temperatures.jpg)
+:::
+:::
+
+### Radiant Energy (Q){.text-center}
+
+* The **total energy carried by electromagnetic radiation**.
+* Measured in **Joules (J)**.
+* Relation to radiant flux:
+
+  $$
+  Q = Φ \cdot t
+  $$
+
+  where $t$ = time.
+
+
+### Thermal Radiation{.text-center}
+
+* The electromagnetic radiation emitted by a body due to its **temperature**.
+* All objects above absolute zero ($&gt; 0 \, K$) emit thermal radiation.
+* Hotter objects emit:
+
+  * More energy ($E = σT^4$)
+  * Shorter wavelengths (Wien’s Law).
+* Examples:
+
+  * Earth (\~288 K) → emits **infrared radiation**.
+  * Sun (\~6000 K) → emits **visible + shortwave radiation**.
+
+
+### Quick Summary Table
+
+| Term                   | Meaning                                     | Key Value/Formula                    |
+| ---------------------- | ------------------------------------------- | ------------------------------------ |
+| **Solar Constant**     | Solar radiation at top of atmosphere (1 AU) | \~1361 W/m²                          |
+| **Radiant Flux (Φ)**   | Rate of radiant energy flow                 | Φ = dQ/dt                            |
+| **Albedo (α)**         | Fraction of radiation reflected             | Earth avg \~0.30                     |
+| **Blackbody**          | Perfect absorber &amp; emitter                  | Obeys Planck, Wien, Stefan–Boltzmann |
+| **Radiant Energy (Q)** | Total energy of radiation                   | Q = Φ·t                              |
+| **Thermal Radiation**  | Heat emitted due to temperature             | E = σT⁴                              |
+
+
+
+
+
+
 </md></sn><sn class="d-none"><md>## Radiation{.text-center}
 
 Only a fraction of the mass of hydrogen is converted into helium; the lost mass is transformed into energy according to **Einstein’s equation, E = mc²**.This is the source of all the Sun’s light and heat.
