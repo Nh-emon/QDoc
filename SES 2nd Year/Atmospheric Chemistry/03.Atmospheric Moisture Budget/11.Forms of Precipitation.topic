@@ -1,10 +1,80 @@
 
-	<sn></sn>		
+	<sn><md>## Forms of Precipitation
+
+&gt; Precipitation is the process by which `water in various forms` (liquid or solid) `falls` from the atmosphere to the Earth’s surface.
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Rain {.text-center}
+* Liquid water droplets larger than **0.5 mm** in diameter.
+* Formed when cloud droplets coalesce and fall when too heavy to remain suspended.
+* Most common type of precipitation.
+:::
+
+:::.col-12 .col-lg-6
+### Snow{.text-center}
+* Ice crystals formed directly from water vapor in sub-freezing conditions.
+* Combines into snowflakes with intricate crystalline structures.
+* Falls when the entire atmospheric column is below freezing.
+:::
+
+:::.col-6
+![diagram](https://biologyreader.com/wp-content/uploads/2022/09/types-of-precipitation.jpg)
+:::
+
+:::.col-12 .col-lg-6
+### Hail{.text-center}
+* Hard, spherical pellets of ice.
+* Formed in strong cumulonimbus clouds with intense updrafts.
+* Layers of ice accumulate around nuclei before falling.
+:::
+
+:::.col-12 .col-lg-6
+### Graupel (Soft Hail){.text-center}
+![diagram](https://images.squarespace-cdn.com/content/v1/5d9338fed297de25f547d941/1570030657762-L7O9JWVY3S46NVHLJRQD/graupel+snow+Utah+%282%29.JPG)
+* Fragile, soft pellets of rime-coated snowflakes.
+* Formed when supercooled water droplets freeze onto snow crystals.
+* Softer and more crumbly than hail.
+:::
+
+:::.col-12 .col-lg-6{.text-center}
+### Sleet (Ice Pellets){.text-center}
+* Frozen raindrops or refrozen partially melted snowflakes.
+* Occurs when a layer of above-freezing air lies between two sub-freezing layers.
+* Falls as small, transparent ice pellets.
+:::
+
+:::.col-12 .col-lg-6{.text-center}
+### Dew{.text-center}
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_HcJWXKs2TyNcbklfKufT9fd3TcRSMrHCEg&amp;s)
+* Moisture condensed from water vapor directly onto surfaces (grass, leaves, soil).
+* Occurs during clear, calm nights when surfaces cool below the **dew point**.
+* Not a result of cloud processes, but a surface condensation phenomenon.
+:::
+
+:::.col-12 .col-lg-6{.text-center}
+### Hoar-frost{.text-center}
+![diagram](https://media.tegna-media.com/assets/WOI/images/b20587e2-7a38-4e71-a8db-7b9fd11b9253/b20587e2-7a38-4e71-a8db-7b9fd11b9253_1920x1080.jpg)
+* White, feathery ice crystals deposited on surfaces.
+* Formed by direct sublimation of water vapor onto objects below freezing.
+* Common on cold, clear nights.
+:::
+
+:::.col-12 .col-lg-6
+### Rime{.text-center}
+![diagram](https://i.redd.it/dj7p7zq3s1ba1.jpg)
+* Milky, opaque ice formed when supercooled fog or cloud droplets freeze instantly upon contact with surfaces.
+* Usually occurs in foggy, freezing, and windy conditions.
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#11.forms of precipitation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 19:22:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 19:34:21 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-YNrLDGsCLG</id>
 		<duration></duration>
 	</config>
