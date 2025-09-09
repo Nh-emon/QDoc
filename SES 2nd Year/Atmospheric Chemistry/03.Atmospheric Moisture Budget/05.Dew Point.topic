@@ -1,34 +1,61 @@
 
-	<sn><md>## Dew Point{.text-center}
+	<sn><md>### Condensation{.text-center}
 
-The **dew point** is the **temperature** at which `air becomes saturated with water vapor` and condensation begins. In simpler terms, it is the temperature to which the air must be cooled (at constant pressure and moisture content) for water vapor to condense into liquid water droplets (dew).
++++ see tutorial
+@[yt](https://youtu.be/Dps5vBOMPq4?si=AnhH6QLkZkqMDBo6)
++++
 
-### Key Points
+&gt; **Definition**:Condensation is the process by which `water vapor cools and changes into liquid water droplets or solid ice crystals`. 
 
-* When air temperature = dew point → air is fully saturated (relative humidity = 100%).
-* If the air cools below the dew point → condensation occurs (dew, fog, clouds).
-* A ++higher dew point++ means more `moisture` in the air, while a ++lower dew++ point indicates `drier air`.
+It occurs after air becomes `saturated`, either due to cooling or the addition of extra water vapor.
 
-### Importance
+**Latent Heat Release**
+During condensation, `latent heat is released` as the state changes from ++gas to liquid or solid++. This heat does not require an external energy source.
 
-* Used to measure **humidity and comfort level** (higher dew point → more humid and uncomfortable).
-* Crucial in **weather forecasting** for predicting dew, fog, frost, and cloud formation.
-* Important in **aviation, agriculture, and HVAC systems** to monitor air moisture conditions.
+**Favorable Conditions for Condensation**
+Condensation is more likely when relative humidity is high. The following situations help lower air temperature and cause condensation:
 
-### Comfort Levels by Dew Point
+1. **Surface/Contact Cooling** – Warm moist air passes over a cold land surface.
+2. **Radiative Cooling** – Strong radiation on a clear winter night forms dew, hoar frost, or radiation fog in valleys.
+3. **Mixing of Air Masses** – Different temperature air masses mix, become supersaturated, and condensation begins.
+4. **Lifting and Adiabatic Cooling** – Warm moist air rises and cools dynamically (adiabatic process).
 
-| Dew Point (°C) | Comfort Level               |
-| -------------- | --------------------------- |
-| &lt; 10°C         | Dry, comfortable air        |
-| 10–16°C        | Pleasant, slightly humid    |
-| 16–20°C        | Humid, noticeable moisture  |
-| 20–24°C        | Very humid, uncomfortable   |
-| &gt; 24°C         | Oppressive, extremely humid |</md></sn>		
+---
+
+
+### Condensation Surface and Nuclei {.text-center}
+
+Condensation requires a surface on which water vapor can condense:
+
+* **At the ground:** `dew or fog` forms on ++surfaces++.
+* **Above the ground:** microscopic particles act as condensation `nuclei`, allowing cloud droplets to form.
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Condensation Nuclei Include{.text-center}
+* Dust
+* Smoke
+* Salt particles
+:::
+
+:::.col-12 .col-lg-6
+### Nuclei{.text-center}
+* Typical size: **0.0002 mm** (range: 0.0001 – 0.1 mm).
+* `1 cm³` of air may contain `100–10,000` nuclei.
+* With nuclei: RH &gt; **200%** is enough to form droplets.
+* Without nuclei: RH near `400%` is required.
+* Supersaturated conditions lead to rapid droplet growth and intense rainfall.
+* Below Freezing Point:** Ice crystals form instead of liquid droplets.
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#05.dew point</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 22:59:51 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 23:07:34 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Hi7uRyT7zr</id>
 		<duration></duration>
 	</config>
