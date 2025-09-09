@@ -1,10 +1,142 @@
 
-	<sn></sn>		
+	<sn><md>## Land and Sea Breeze
+
+Land and sea breezes are **local winds** that occur due to the **unequal heating and cooling of land and sea**. These winds are most common in **coastal regions** and usually happen on a **daily cycle**.
+
+---
+
+![diagram](https://cdn.britannica.com/69/62669-050-FBD897CC/paths-sea-breeze-land.jpg?w=300)
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Daytime ☀️{.text-center}
+1. **During the day**, land heats up faster than the sea.
+2. The **air above the land** becomes warmer, lighter, and rises, creating a **low-pressure zone**.
+3. The **air over the sea** remains cooler and denser, creating a **high-pressure zone**.
+4. The cool air from the sea flows toward the land to replace the rising warm air → this is called the **sea breeze**.
+:::
+
+:::.col-12 .col-lg-6
+### Nighttime 🌙{.text-center}
+1. **At night**, land cools down faster than the sea.
+2. The **air above the land** becomes cooler and denser, creating a **high-pressure zone**.
+3. The **air over the sea** remains relatively warmer, creating a **low-pressure zone**.
+4. The cooler air from the land flows toward the sea to replace the rising warm air → this is called the **land breeze**.
+:::
+
+:::
+
++++ Key Differences
+
+| Feature             | Sea Breeze (Day)                      | Land Breeze (Night)                   |
+| ------------------- | ------------------------------------- | ------------------------------------- |
+| Time of Occurrence  | Daytime                               | Nighttime                             |
+| Heating Pattern     | Land heats faster, sea remains cooler | Land cools faster, sea remains warmer |
+| Pressure on Land    | Low pressure                          | High pressure                         |
+| Pressure on Sea     | High pressure                         | Low pressure                          |
+| Wind Direction      | From sea to land                      | From land to sea                      |
+| Temperature of Wind | Cool breeze                           | Warm breeze                           |
+
++++</md></sn>		
 	<config>
 		<tags>#13.seasonal winds</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 08 2025 14:50:48 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 17:48:40 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-8iuJTsi35S</id>
 		<duration></duration>
 	</config>
+<sn><md>## Mountain and Valley Breeze
+
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-RORVqE5wI6ni5TU0hGOy62FItXN-3yonLg&amp;s)
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Valley Breeze☀{.text-center}
+
+* During the day, the **sun heats the mountain slopes** more quickly than the valley floor.
+* The warm air on the slopes becomes **lighter and rises upward**.
+* This rising air creates a **low-pressure area on the slopes**, and cooler air from the valley moves upward to replace it.
+* This upslope movement of air is called the **Valley Breeze**.
+:::
+
+:::.col-12 .col-lg-6
+#### Mountain Breeze🌙 {.text-center}
+
+* At night, the **mountain slopes cool down quickly** compared to the valley floor.
+* The cooler, denser air on the slopes **sinks downward** into the valley.
+* This creates a **down-slope flow of air**, known as the **Mountain Breeze**.
+::: 
+
+:::
+
+
++++ Key Differences
+
+| Aspect             | Valley Breeze (Day)              | Mountain Breeze (Night)      |
+| ------------------ | -------------------------------- | ---------------------------- |
+| Time of occurrence | Daytime                          | Nighttime                    |
+| Direction of flow  | From valley floor → up slope     | From mountain slope → valley |
+| Cause              | Sun heats slopes, warm air rises | Slopes cool, cold air sinks  |
+| Temperature of air | Warm, rising air                 | Cold, descending air         |
++++
+</md></sn><sn><md>## What is Monsoon?
+
+Monsoon is a ++seasonal reversal of winds++ that brings distinct `wet and dry seasons`, especially in tropical and subtropical regions. The word *monsoon* comes from the Arabic word *“mausim”*, meaning **season**.
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Key Features of Monsoon{.text-center}
+
+* **Seasonal Winds:** Winds change direction with the seasons.
+* **Summer Monsoon:** Moist oceanic winds blow from sea to land, causing heavy rainfall.
+* **Winter Monsoon:** Dry continental winds blow from land to sea, causing dry weather.
+* **Driven by Heating Contrast:** Caused mainly by the ++differential heating of land and sea++ and the ++shifting of the Intertropical Convergence Zone (ITCZ)++.
+:::
+
+:::.col-12 .col-lg-6
+### Examples of Monsoon Regions{.text-center}
+
+* **South Asia (India, Bangladesh, Nepal, Pakistan, Sri Lanka)**
+* **Southeast Asia (Thailand, Myanmar, Vietnam, Philippines)**
+* **Parts of Africa (West Africa, East Africa)**
+* **Northern Australia**
+:::
+
+:::
+</md></sn><sn><md>## Moonsoon
+
+#### What is ITCZ?
+
+The **Intertropical Convergence Zone (ITCZ)** is a **low-pressure belt** near the equator where the **northeast and southeast trade winds converge**. This zone is marked by rising warm, moist air, cloud formation, and heavy rainfall.
+
+![diagram](https://www.insightsonindia.com/wp-content/uploads/2021/08/Indian-Monsoon2.jpg)
+
+### How ITCZ Controls Monsoon
+
+1. **Summer (Southwest Monsoon)**
+
+   * During summer, the landmass (like India and South Asia) heats up strongly.
+   * The ITCZ shifts **northward** (around 20–25°N).
+   * This attracts the **moist southwest monsoon winds** from the Indian Ocean toward the land.
+   * Result: Heavy rainfall across tropical and subtropical Asia.
+
+2. **Winter (Northeast Monsoon)**
+
+   * In winter, the land cools down, and high pressure develops over the continent.
+   * The ITCZ shifts **southward** back toward the equator.
+   * Winds reverse direction and blow from land to sea (northeast monsoon).
+   * Result: Dry weather over most of Asia, though southeast India and Sri Lanka get rain.
+
+### Key Point
+
+The **north-south shifting of the ITCZ** with the **apparent movement of the sun** is the **main driver of monsoon winds**.
+
+| Season | ITCZ Position                   | Wind Direction                             | Effect                       |
+| ------ | ------------------------------- | ------------------------------------------ | ---------------------------- |
+| Summer | Shifts northward (20–25°N)      | Moist winds from ocean → land (SW Monsoon) | Heavy rainfall               |
+| Winter | Shifts southward (near equator) | Dry winds from land → ocean (NE Monsoon)   | Dry season (except SE India) |
+</md></sn><sn></sn>
