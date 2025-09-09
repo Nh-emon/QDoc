@@ -17,7 +17,29 @@ Condensation is more likely when relative humidity is high. The following situat
 		<tags>#07.condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 22:09:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 22:14:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JYR3q3h2Pe</id>
 		<duration></duration>
 	</config>
+<sn><md>## Types of Condensation in the Troposphere
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Condensation at or Near the Earth’s Surface{.text-center}
+* When warm moist air cools to its dew-point temperature by `contact or radiative cooling`.
+* Leads to the formation of **dew, fog, or frost**.
+* These are mostly `non-adiabatic (diabatic)` processes, as heat is exchanged between the ++surface and the air++.
+* Follows the `Second Law of Thermodynamics`: ++heat transfers from hot to cold++.
+:::
+
+:::.col-12 .col-lg-6
+#### Condensation Aloft within the Troposphere{.text-center}
+* Air masses are forced upward by `convection or mechanical` lifting.
+* Rising air cools `adiabatically` until it reaches the dew-point temperature, leading to cloud formation.
+* Follows the `First Law of Thermodynamics`: if no heat is added or removed, expansion does work on air molecules, lowering internal energy and cooling the air.
+:::
+**Aloft** : up in the air or at a higher level above the ground.
+
+:::
+</md></sn>
