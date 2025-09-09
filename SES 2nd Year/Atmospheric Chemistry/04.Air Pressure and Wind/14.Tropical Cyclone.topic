@@ -1,10 +1,68 @@
 
-	<sn></sn>		
+	<sn><md>## Tropical Cyclone{.text-center}
+
+A **Tropical Cyclone** is a powerful, rotating storm system that forms over warm tropical and subtropical oceans. It is characterized by strong winds, heavy rainfall, thunderstorms, and a well-defined low-pressure center known as the **eye**. Depending on the region, tropical cyclones are also called **hurricanes** (Atlantic and Eastern Pacific), **typhoons** (Western Pacific), and **cyclones** (Indian Ocean and South Pacific).
+
+![diagram](https://www.researchgate.net/publication/371935554/figure/fig1/AS:11431281170979393@1687967715525/a-Top-view-of-a-tropical-cyclone-The-red-solid-circle-indicates-the-eye-wall-line-the.jpg)
+
+
+### Conditions for Formation
+
+Tropical cyclones require specific conditions to develop:
+
+1. **Warm Ocean Water:** Sea surface temperature above **26.5°C** provides energy.
+2. **High Humidity:** Moist air in the lower and middle troposphere.
+3. **Coriolis Force:** Needed to initiate rotation (cyclones do not form near the equator).
+4. **Low Wind Shear:** Minimal change in wind speed and direction with height to maintain structure.
+5. **Pre-existing Disturbance:** Such as a tropical wave or low-pressure zone.
+
+---
+
+### Structure of a Tropical Cyclone
+
+1. **Eye:** Calm, clear, low-pressure center with light winds.
+2. **Eyewall:** Surrounding the eye, this zone has the **strongest winds and heaviest rainfall**.
+3. **Rainbands:** Curved bands of clouds and rain spiraling outward from the center.
+4. **Outflow:** Upper-level winds spreading away from the storm, allowing further growth.
+
+---
+
+### Stages of Development
+
+1. **Tropical Disturbance:** Cluster of thunderstorms forms over warm waters.
+2. **Tropical Depression:** Organized system with wind speeds up to **61 km/h**.
+3. **Tropical Storm:** Winds between **62–118 km/h**, system receives a name.
+4. **Tropical Cyclone (Hurricane/Typhoon):** Winds exceed **118 km/h**, storm becomes severe.
+
+---
+
+### Impacts of Tropical Cyclones
+
+* **Strong Winds:** Cause destruction of infrastructure, trees, and power lines.
+* **Storm Surge:** Abnormal rise of seawater leading to coastal flooding.
+* **Heavy Rainfall &amp; Flooding:** Can trigger landslides and damage crops.
+* **Economic Losses:** Destruction of property, agriculture, and disruption of trade.
+* **Human Losses:** Death, displacement, and health hazards.
+
+---
+
+### Distribution
+
+* **North Atlantic &amp; Eastern Pacific:** Hurricanes.
+* **Western Pacific:** Typhoons (most intense storms).
+* **Indian Ocean &amp; South Pacific:** Cyclones.
+
+---
+
+### Conclusion
+
+Tropical cyclones are among the **most destructive natural hazards**, fueled by the energy of warm oceans. With climate change and rising sea temperatures, their **frequency and intensity are expected to increase**, making preparedness and early warning systems crucial for reducing their devastating impacts.
+</md></sn>		
 	<config>
 		<tags>#14.tropical cyclone</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 18:04:19 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 18:05:14 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-boVgKQVdBW</id>
 		<duration></duration>
 	</config>
