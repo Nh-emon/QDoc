@@ -134,13 +134,15 @@
 		<tags>#15.elnino and lannina</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 12:57:01 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 14:38:24 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-5Ux1Cu88eY</id>
 		<duration></duration>
 	</config>
 <sn><md>## Normal Condition or Walker Cycle{.text-center}
 
 ![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/walker-cycle-diagram.svg)
+
+![diagram](https://i.imgur.com/KgjYXRk.png)
 
 ### Mechanism of the Walker Cycle
 
@@ -153,4 +155,96 @@
 * After releasing rainfall, the air becomes dry. This dry air diverges aloft and contributes to the development of **high pressure** over South America and the eastern Pacific.
 
 * As the dry air sinks back over South America, it creates a stable, high-pressure system. This leads to **clear skies, minimal rainfall, drought conditions, and even desert formation** along the western coast of South America.
-</md></sn><sn></sn>
+
++++ see another diagram
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8Gb-mjYZZicFS4DkFEs8pQmuA8x88ZuKpQ&amp;s)
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlE4ifwmDBwMuArdetC9trGqEZ1FmlAnfNhwxqZYQuxe4T5jFMkqs7oAVDK76lDai90Hw&amp;usqp=CAU)
++++
+
+### Consequences{.text-center}
+
+| Region                                     | Condition in Normal Walker Cycle                                        | Effects                                                                                                                               |
+| ------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **South America (Peru, Ecuador)**          | High pressure, dry sinking air                                          | Clear skies, little or no rainfall, frequent droughts, desert-like conditions, strong upwelling bringing nutrients and rich fisheries |
+| **Australia (Northern &amp; Eastern)**         | Low pressure, warm rising air                                           | Heavy rainfall, thunderstorms, fertile soil, strong agriculture support                                                               |
+| **India (linked via monsoon circulation)** | Generally influenced by low pressure in Indian Ocean–Pacific connection | Normal monsoon rains, supporting agriculture and water resources                                                                      |
+
+
+
+</md></sn><sn><md>## El-Nino{.text-center}
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/El-Nino%20Diagram2.svg)
+
+![diagram](https://i.imgur.com/8cvjlC0.png)
+
+### Mechanism of El Niño
+
+* During **El Niño**, the normal trade winds that usually blow from east to west across the Pacific Ocean become weak or even reverse direction. This disturbance reduces the usual movement of warm surface water toward Australia and Indonesia.
+
+* As a result, the **warm water accumulates near the coast of South America**, while the process of upwelling (which normally brings cold, nutrient-rich water to the surface) is suppressed. This leads to poor fisheries and a decline in marine life along the South American coast.
+
+* The central and eastern Pacific Ocean become unusually warm, causing increased evaporation. This triggers **heavy rainfall and floods in South America** (Peru, Ecuador), regions that are normally dry under the Walker circulation.
+
+* On the other side, **Australia and parts of Indonesia experience dry conditions**, as the warm moist air no longer reaches them in sufficient amounts. This leads to droughts, crop failure, and water shortages in these regions.
+
+* The disruption also affects distant regions like **India**, where the weakening of pressure differences in the Indian Ocean reduces the strength of the monsoon winds, often causing **weaker or delayed monsoons**.
+
+* Overall, El Niño creates a large-scale disturbance in global climate, shifting rainfall patterns, weakening fisheries, and intensifying weather extremes across multiple continents.
+
++++ see more diagram
+![diagram](https://www.researchgate.net/profile/Ashfaq-Ahmed-15/publication/370878585/figure/fig2/AS:11431281159807277@1684501258287/llustration-of-the-physical-process-of-El-Nino-Courtesy-of-concern-worldwide-US.jpg)
+![diagram](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/08/el_nino/17643630-2-eng-GB/El_Nino_pillars.jpg)
+![diagram](https://www.climateandweather.net/wp-content/uploads/2022/08/El-Nino-And-La-Nina-Side.jpg)
+![diagram](https://images.theconversation.com/files/69537/original/image-20150120-24438-1rddwf0.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=1000&amp;fit=clip)
+![diagram]()
++++
+
+
+
+### Consequences
+
+| Region                             | Normal Walker Cycle                                                             | El Niño Condition                                                     | Effects of El Niño                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **South America (Peru, Ecuador)**  | High pressure, dry air, little to no rain, strong upwelling supports fisheries  | Low pressure, warm water accumulates near coast, suppressed upwelling | Heavy rainfall, floods, destruction of fisheries, poor marine productivity |
+| **Australia (Northern &amp; Eastern)** | Low pressure, warm rising air, heavy rainfall, fertile soil, strong agriculture | High pressure, dry air, reduced convection                            | Droughts, crop failure, wildfires, water shortages                         |
+| **India**                          | Normal monsoon supported by Indian Ocean–Pacific link                           | Weakened pressure gradient and disrupted circulation                  | Weak or delayed monsoons, reduced rainfall, agricultural stress            |
+
+</md></sn><sn><md>### La Niña{.text-center}
+
+![diagram](https://www.shutterstock.com/shutterstock/photos/2334147163/display_1500/stock-vector-la-ni-a-world-map-with-continents-and-arrows-that-indicating-the-direction-of-warm-and-cold-water-2334147163.jpg)
+
+
+### Mechanism of La Niña
+
+* La Niña is the ++intensification of the Normal Walker Cycle++. In this phase, the trade winds blowing from east to west across the Pacific Ocean become stronger than usual.
+
+* These stronger trade winds push **warm surface water even farther west**, allowing more **cold, nutrient-rich water** to rise along the coast of South America through enhanced upwelling.
+
+* The **eastern Pacific (South America)** becomes unusually cold and dry, while the **western Pacific (Australia, Indonesia)** becomes warmer and wetter than normal.
+
+* This creates extreme **rainfall and flooding in Australia and Southeast Asia**, while South America faces **harsher droughts and stronger desert-like conditions**.
+
+* In **India**, the stronger Pacific trade winds and pressure differences enhance the Indian Ocean circulation, often leading to **stronger-than-normal monsoon rains**.
+
+---
+
+### Consequences
+| Region                             | Normal Walker Cycle                                                                  | La Niña Condition                                              | Effects of La Niña                                                                          |
+| ---------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **South America (Peru, Ecuador)**  | High pressure, dry sinking air, little rainfall, strong upwelling supports fisheries | Stronger high pressure, colder sea surface, enhanced upwelling | Intense drought, very dry climate, stronger fisheries productivity                          |
+| **Australia (Northern &amp; Eastern)** | Low pressure, warm rising air, heavy rainfall, fertile soil                          | Intensified low pressure, more convection and moisture         | Heavy rainfall, floods, cyclones, fertile agricultural conditions                           |
+| **India**                          | Normal monsoon rains                                                                 | Strengthened monsoon circulation                               | Stronger monsoon rains, possible flooding, good water supply but risk to crops if excessive |
+</md></sn><sn><md>## Normal Condition vs La Niña vs El Niño
+
+![diagram](https://d2av8kbir6lh9m.cloudfront.net/uploads/979_661af94b1ce95.png)
+
+* **Normal Condition (Walker Circulation):**
+  Trade winds blow strongly from east (South America) to west (Australia–Indonesia). Warm water piles up in the west Pacific, causing convection and rainfall there, while the east Pacific remains relatively cool due to upwelling.
+
+* **El Niño Condition:**
+  Trade winds weaken or reverse. Warm water shifts eastward toward South America. Convection and heavy rainfall occur in central/eastern Pacific, while drought develops in western Pacific regions. Upwelling of cold water near Peru decreases.
+
+* **La Niña Condition:**
+  Trade winds intensify. Warm water is pushed further west, and strong upwelling of cold water occurs in the eastern Pacific. Western Pacific (Australia, Indonesia, India) gets more rainfall, while eastern Pacific (South America) faces dry and cool conditions.
+
+</md></sn>
