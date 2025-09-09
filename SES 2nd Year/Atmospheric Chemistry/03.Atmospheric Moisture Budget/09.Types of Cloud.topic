@@ -1,10 +1,45 @@
 
-	<sn></sn>		
+	<sn><md>## Cloud{.text-center}
+
+&gt; A **cloud** is a visible `mass of tiny water droplets or ice crystals` suspended in the atmosphere.
+
+Clouds form when moist air rises, expands, and cools, causing water vapor to condense around small particles like dust, salt, or smoke. They play a vital role in Earth’s weather and climate system by controlling precipitation, reflecting sunlight, and trapping heat.
+
+![diagram](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/images/SkySci_.cloud_chart_1.png.webp?itok=vpJv5gEZ)
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Cirrus Clouds{.text-center}
+* Appearance: Thin, wispy, feather-like
+* Altitude: High-level (above `6,000 m`)
+* Weather Indication: Usually `signal fair weather` but can indicate an approaching `warm front or storm system`.
+:::
+
+:::.col-12 .col-lg-6
+### Cumulus Clouds{.text-center}
+* Appearance: Puffy, white, cotton-like with a flat base
+* Altitude: Low to middle level (up to `2,000 m`)
+* Weather Indication: ++Fair weather when isolated++, but large `cumulus` (cumulonimbus) can bring `thunderstorms`.
+
+:::
+
+:::.col-12
+### Stratus Clouds{.text-center}
+* Appearance: Gray, uniform, sheet-like covering the sky
+* Altitude: Low-level (below `2,000 m`)
+* Weather Indication: Often bring overcast `skies, drizzle, or light rain`.
+:::
+
+
+:::
+</md></sn>		
 	<config>
 		<tags>#09.types of cloud</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:41:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 18:57:16 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ac1m1hlwey</id>
 		<duration></duration>
 	</config>
+<sn></sn>
