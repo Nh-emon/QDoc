@@ -1,10 +1,48 @@
 
-	<sn></sn>		
+	<sn><md>### Air Parcel Lifting Mechanisms{.text-center}
+
+Air parcels are lifted in the atmosphere by different processes that cause cooling, condensation, and cloud formation. The four main lifting mechanisms are:
+
+![diagram](https://avalanche.org/wp-content/uploads/2022/10/atmospheric-lifting-mechanisms1-n.jpg)
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Convective Lifting{.text-center}
+* Occurs when the surface is heated unevenly.
+* Warm air at the surface becomes buoyant and rises upward due to its lower density.
+* Leads to the development of cumulus-type clouds and sometimes thunderstorms.
+:::
+
+:::.col-12 .col-lg-6
+#### Convergence Lifting
+* Happens when air flows from different directions meet (converge).
+* Since air cannot move downward into the ground, it is forced to rise.
+* Common in low-pressure zones, such as the Intertropical Convergence Zone (ITCZ).
+:::
+
+:::.col-12 .col-lg-6
+#### Orographic Lifting
+* Air is forced to ascend when it encounters a mountain or high terrain.
+* As it rises, the air cools, condenses, and forms clouds on the windward side.
+* The leeward side experiences descending dry air, creating a “rain shadow effect.”
+:::
+
+:::.col-12 .col-lg-6
+#### Frontal Lifting
+* Occurs when two different air masses (warm and cold) meet at a front.
+* At a cold front, denser cold air pushes the warm air upward.
+* At a warm front, lighter warm air glides over the denser cold air.
+* Both cases lead to cloud formation and precipitation.
+:::
+
+:::
+</md></sn>		
 	<config>
 		<tags>#08.air parcel lifting</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:41:37 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 21:03:28 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-6b12s17Gku</id>
 		<duration></duration>
 	</config>
