@@ -14,6 +14,8 @@ Clouds form when moist air rises, expands, and cools, causing water vapor to con
 * Appearance: Thin, wispy, feather-like
 * Altitude: High-level (above `6,000 m`)
 * Weather Indication: Usually `signal fair weather` but can indicate an approaching `warm front or storm system`.
+* Family - Cirrus,cirro-stratus,cirro-Cumulus
+
 :::
 
 :::.col-12 .col-lg-6
@@ -21,16 +23,17 @@ Clouds form when moist air rises, expands, and cools, causing water vapor to con
 * Appearance: Puffy, white, cotton-like with a flat base
 * Altitude: Low to middle level (up to `2,000 m`)
 * Weather Indication: ++Fair weather when isolated++, but large `cumulus` (cumulonimbus) can bring `thunderstorms`.
+* Family - Cumulus,alto-stratus,alto-Cumulus,cumulo-nimbus
 
 :::
 
-:::.col-12
+:::.col-12 .col-lg-5
 ### Stratus Clouds{.text-center}
 * Appearance: Gray, uniform, sheet-like covering the sky
 * Altitude: Low-level (below `2,000 m`)
 * Weather Indication: Often bring overcast `skies, drizzle, or light rain`.
+* Family - Stratus,Strato-Cumulus,nimbo-Stratus
 :::
-
 
 :::
 </md></sn>		
@@ -38,7 +41,7 @@ Clouds form when moist air rises, expands, and cools, causing water vapor to con
 		<tags>#09.types of cloud</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 18:57:16 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 19:22:13 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ac1m1hlwey</id>
 		<duration></duration>
 	</config>
