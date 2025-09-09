@@ -1,10 +1,156 @@
 
-	<sn><md>### Markdown Template</md></sn>		
+	<sn><md>## Concept{.text-end}
+
++++ see concept
+
+### World Map{.text-center}
+![diagram](https://freevector-images.s3.amazonaws.com/uploads/vector/preview/165256/vecteezy-CountryName_-WorldMap-RH0223_generated.jpg)
+
+### Pacific Map{.text-center}
+![diagram](https://cdn.britannica.com/20/89920-004-E0275152.gif)
+
+* From a world map perspective, Australia lies to the east while America is positioned to the west.
+* However, when viewed in terms of the Pacific Ocean:
+
+  * The western side is marked by Australia
+  * The eastern side is defined by America
+
+---
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Dry Air{.text-center}
+
+* **Properties**:
+
+  * Contains very little water vapor.
+  * Higher density compared to moist air.
+  * Heats and cools quickly.
+* **Relation to Rain**:
+
+  * Dry air resists cloud formation since it lacks sufficient moisture.
+  * Often associated with clear skies and low chances of rain.
+:::
+
+:::.col-12 .col-lg-6
+#### Moist Air{.text-center}
+
+* **Properties**:
+
+  * Rich in water vapor.
+  * Lighter (less dense) than dry air at the same temperature.
+  * Retains heat for longer periods.
+* **Relation to Rain**:
+
+  * Essential for cloud formation and rainfall.
+  * Rising moist air cools, condenses, and forms clouds that may lead to precipitation.
+:::
+
+:::.col-12 .col-lg-6
+#### Warm Air{.text-center}
+
+* **Properties**:
+
+  * Can hold more water vapor than cold air.
+  * Rises upward because it is lighter.
+  * Expands as it rises, leading to cooling.
+* **Relation to Rain**:
+
+  * Warm air rising into the atmosphere cools, condenses, and contributes to cloud development.
+  * Plays a key role in convectional rainfall and thunderstorms.
+:::
+
+:::.col-12 .col-lg-6
+#### Cold Air{.text-center}
+
+* **Properties**:
+
+  * Can hold less water vapor.
+  * Denser and tends to sink.
+  * Moves slowly compared to warm air.
+* **Relation to Rain**:
+
+  * When cold air meets warm moist air, it forces the warm air upward, causing rapid condensation.
+  * Responsible for frontal rainfall, especially in temperate regions.
+  * require more temperature to evaporate
+:::
+
+
+:::
+
+### Overall Relation with Rain
+
+* **Moisture availability (moist air)** and **temperature (warm or cold air)** are the two key factors.
+* **Warm moist air** rising and cooling leads to rainfall.
+* **Cold air** acts as a trigger by lifting warm air and causing condensation.
+* **Dry air** generally suppresses rainfall, leading to arid conditions.
+
+
+### Trade Wind Mechanism{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+* Air moves from the high-pressure subtropical regions toward the low-pressure equatorial belt.
+   Due to the Earth’s rotation, moving air is deflected. In the Northern Hemisphere, winds are deflected to the right, while in the Southern Hemisphere, they are deflected to the left.
+* Warm air rises near the Equator due to intense solar heating → creates a **low-pressure zone**.
+* Rising air cools and diverges toward the poles in the upper atmosphere.
+* Surface air then moves back toward the Equator, but due to the **Coriolis effect**, it does not move straight and instead creates **trade winds**.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://i.imgur.com/zha2XAA.png)
+:::
+
+:::
+
+### Hadely Cell Diagram{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-7
+* When a region experiences high temperatures, the air pressure decreases, causing air to rise upward.
+* As the air ascends to higher altitudes, it cools and condenses. Since warmer air from below continues to rise, the upper air cannot descend and instead diverges sideways.
+* Eventually, the cooled air becomes heavier, sinks downward, and creates a zone of high pressure where it descends.
+* This difference in pressure establishes a **pressure gradient force**, which sets air in motion and generates wind.
+:::
+
+:::.col-12 .col-lg-5
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9L3JsovCpHK1SwFYT3DvQ0y9hBz4xWvMsA&amp;s)
+:::
+:::
+
+
+### Cold water Upwilling{.text-center}
+
+++need free diagram++
+
+![diagram](https://i.imgur.com/9kN36rr.png)
+
++++
+</md></sn>		
 	<config>
 		<tags>#15.elnino and lannina</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 11:34:28 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 12:57:01 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-5Ux1Cu88eY</id>
 		<duration></duration>
 	</config>
+<sn><md>## Normal Condition or Walker Cycle{.text-center}
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Atmospheric%20Chemistry/media/svg/walker-cycle-diagram.svg)
+
+### Mechanism of the Walker Cycle
+
+* South America (Peru, Ecuador) lies along the equatorial tropic zone where the Sun’s rays are intense. This strong solar heating warms the sea surface, producing warm air that rises. Due to the trade winds, this warm air mass is pushed from **east to west**, moving from South America toward Australia and Indonesia.
+
+* As warm air is displaced westward, the colder water below rises to the surface to replace it. This process, called **upwelling**, brings nutrients and supports rich fisheries along the South American coast.
+
+* When the warm air reaches the western Pacific (Australia and Indonesia), the high temperatures cause rapid evaporation. Moisture condenses to form clouds, resulting in heavy rainfall in these regions.
+
+* After releasing rainfall, the air becomes dry. This dry air diverges aloft and contributes to the development of **high pressure** over South America and the eastern Pacific.
+
+* As the dry air sinks back over South America, it creates a stable, high-pressure system. This leads to **clear skies, minimal rainfall, drought conditions, and even desert formation** along the western coast of South America.
+</md></sn><sn></sn>
