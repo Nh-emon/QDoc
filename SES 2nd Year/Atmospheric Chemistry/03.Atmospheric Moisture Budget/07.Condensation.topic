@@ -1,10 +1,23 @@
 
-	<sn></sn>		
+	<sn><md>### Condensation{.text-center}
+
+* &gt; **Definition**:Condensation is the process by which ++water vapor++ cools and `changes into` ++liquid water droplets++ or ++solid ice crystals++. 
+* It occurs after air becomes `saturated`, either due to cooling or the addition of extra water vapor.
+* **Latent Heat Release**
+* During condensation, `latent heat is released` as the state changes from ++gas to liquid or solid++. This heat does not require an external energy source.
+* **Favorable Conditions for Condensation**
+Condensation is more likely when relative humidity is high. The following situations help lower air temperature and cause condensation:
+
+1. **Surface/Contact Cooling** – Warm moist air passes over a cold land surface.
+2. **Radiative Cooling** – Strong radiation on a clear winter night forms dew, hoar frost, or radiation fog in valleys.
+3. **Mixing of Air Masses** – Different temperature air masses mix, become supersaturated, and condensation begins.
+4. **Lifting and Adiabatic Cooling** – Warm moist air rises and cools dynamically (adiabatic process).
+</md></sn>		
 	<config>
 		<tags>#07.condensation</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Aug 24 2025 09:41:22 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Sep 09 2025 22:09:38 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JYR3q3h2Pe</id>
 		<duration></duration>
 	</config>
