@@ -4,7 +4,7 @@
 		<tags>#01.solar energy and principles of electromagnetic waves</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Tue Sep 09 2025 07:12:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Sep 10 2025 07:38:20 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-NRAWiYCbYp</id>
 		<duration></duration>
 	</config>
@@ -461,102 +461,7 @@ The energy created in the core must travel outward before it can escape into spa
 :::
 
 :::
-</md></sn><sn><md>### Reactions at the Core{.text-center}
-
-+++ later
-
-The Sun’s energy comes from **nuclear fusion**.
-
-* **Process**: Hydrogen nuclei (protons) fuse to form helium nuclei, releasing massive amounts of energy.
-* **Main reaction chain**: The **proton-proton chain reaction**.
-
-:::.row
-
-:::.col-12 .col-lg-7
-Steps of proton-proton chain:
-
-1. Two protons fuse → deuterium + positron + neutrino.
-2. Deuterium fuses with another proton → helium-3.
-3. Two helium-3 nuclei combine → helium-4 + 2 protons.
-
-This reaction:
-
-* Converts **hydrogen into helium**.
-* Releases **light and heat energy**.
-* Produces neutrinos that escape into space.
-:::
-
-:::.col-12 .col-lg-5
-![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkHr_W2B2_TxIzQOYmWvvYFvak310zhq0x-Kjtp87VWTfbZdVLDoOZzB9YWvgPLLrw3M&amp;usqp=CAU)
-:::
-
-:::
-
-
-Every second, the Sun fuses about `600 million tons of hydrogen` into helium, releasing energy equivalent to **billions of hydrogen bombs**.
-+++</md></sn><sn class="position-relative"><md>### Structure of the Sun {.text-center}
-
-+++ later
-
-:::.row
-
-:::.col-12 .col-lg-7
-The Sun has several distinct layers, each with unique properties:
-
-1. **Core**
-
-   * Innermost region where `nuclear fusion occurs`.
-   * Temperature: about `15 million °C`.
-   * Source of the `Sun’s energy`.
-
-2. **Radiative Zone**
-
-   * Energy from the core moves outward mainly by `radiation`.
-   * Photons may take ++thousands to millions++ of years to pass through.
-
-3. **Convective Zone**
-
-   * Energy is transported by convection currents (rising hot plasma and sinking cooler plasma).
-   * Creates the granulated appearance of the Sun’s surface.
-
-4. **Photosphere**
-
-   * The `visible surface` of the Sun.
-   * Temperature: about `5,500 °C`.
-   * Appears as a bright disk with sunspots.
-
-5. **Chromosphere**
-
-   * Lies above the photosphere.
-   * Appears reddish during solar eclipses.
-
-6. **Corona**
-
-   * `Outermost layer` extending millions of kilometers into space.
-   * Visible during total solar eclipses as a `glowing halo`.
-   * Extremely hot (over `1 million` °C).
-:::
-
-:::.col-12 .col-lg-5
-![diagram](https://pmfias.b-cdn.net/wp-content/uploads/2023/05/The-Sun-Structure.png)
-![diagram](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect8/sun_interior.jpg)
-:::
-
-:::
-
-+++</md></sn><sn><md>### Composition of the Sun{.text-center}
-
-+++ later
-
-The Sun is made up *mostly of gases*, primarily:
-
-* **Hydrogen (≈ 74%)**
-* **Helium (≈ 24%)**
-* **Other elements (≈ 2%)**, including oxygen, carbon, neon, and iron in trace amounts.
-
-This composition explains why the Sun is often referred to as a `giant ball of plasma`.
-
-+++</md></sn><sn><md>## The Sun {.text-center}
+</md></sn><sn><md>## The Sun {.text-center}
 
 +++ later
 
