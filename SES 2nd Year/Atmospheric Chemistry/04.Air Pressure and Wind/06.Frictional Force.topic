@@ -1,50 +1,41 @@
 
-	<sn><md>## Friction Force {.fg-red .text-center}
+	<sn><md>## Geostrophic Wind
 
-* Friction acts as a force affecting wind flow `within 600 meters` (sometinncs first few kilometers) on the earth's Surface.
-* Friction force (FF) acts to `slow down wind velocity` and `directed opposite` to the wind velocity.
---- 
-:::.row
+### Definition
 
-:::.col-12 .col-md-7
-* FF also `modifies` (weakens) Coriclis force (`CF`) as CF is dependent on wind velocity.
-* Pressure gradient force (`PGF`) is `not modified` by frictional force (FF) as PGF is not affected by wind speed.
-* In equilibrium state, `vector sum of Coriolis and friction` componcnts ++balances tha PGF++
-:::
+**Geostrophic Wind** is the type of wind that results when the **Pressure Gradient Force (PGF)** and the **Coriolis Force** are `in perfect balance`. It flows **parallel to the isobars** (lines of equal pressure) at high altitudes, where the effect of surface friction is negligible.
 
-:::.col-12 .col-md-5
-![diagram](https://i.imgur.com/o0mFyZb.png)
-:::
+### Formation Mechanism
 
-:::
+1. **Pressure Gradient Force (PGF)**: Air initially moves from **high pressure to low pressure**.
+2. **Coriolis Force**: Due to Earth’s rotation, the moving air is deflected **to the right** in the Northern Hemisphere and **to the left** in the Southern Hemisphere.
+3. **Balance**: When PGF pushing air across isobars and Coriolis deflecting it reach equilibrium, the wind no longer crosses isobars but flows **parallel** to them. This balanced flow is called **geostrophic wind**.
+
+### Characteristics
+
+* Found at **high altitudes** (above \~1 km), where friction is minimal.
+* Moves **parallel to isobars**, not across them.
+* Direction depends on hemisphere:
+
+  * **Northern Hemisphere**: Wind blows with low pressure on the left side.
+  * **Southern Hemisphere**: Wind blows with low pressure on the right side.
+* Speed is proportional to the **pressure gradient** (closer isobars → stronger wind).
+
+### Importance
+
+* Explains the **upper-air circulation** in the atmosphere.
+* Helps meteorologists analyze **weather maps** and predict storm tracks.
+* Acts as the foundation for more complex wind systems, such as **gradient wind** and **ageostrophic wind**.
+
 ---
-* The FF acts to the right of the sur face wind (in the northern hemisphere). Thus wind turns to right more gradually.
-* Thus, balanced wind blows obliqucly at an angle across the isobars toward the area to low pressure.
+
+Do you want me to also create a **diagrammatic explanation** (step-by-step balance between PGF and Coriolis) for easier understanding?
 </md></sn>		
 	<config>
-		<tags>#06.frictional force</tags>
+		<tags>#05.centripetal force</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Aug 30 2025 21:50:57 GMT+0600 (Bangladesh Standard Time)</udate>
-		<id>article-9MnQ3VFl9q</id>
+		<udate>Wed Sep 10 2025 09:55:11 GMT+0600 (Bangladesh Standard Time)</udate>
+		<id>article-EoYzIxMQqe</id>
 		<duration></duration>
 	</config>
-<sn><md>### Angle{.text-center}
-
-* The `roughness` of he terrain determines the `angles` at which the wind will flow across the isobars as well as the `speed` at which it will move.
-* Over relativeiy `smooth surface` (1.e. sec) ++friction is low++. Thus, wind moves at `10-20°` angle to the isobars at speed roughly `two-thirds` of greostrophic wind.
-* Over `rugged` terrain (i.e., !and surface) friction is `high`. Therefore, wind moves as high as `25-45°` angle from the isobárs at speeds `50%` of geostrophic flow.
-* By changing the direction of air flow, frictions plav a major role in `redistributing air within ihe atmosphere`. This is specially important on surface cycłonic and anti-cyclonic airflow.
-
-</md></sn><sn><md>### Cyclonic and Anticyclonic{.text-center}
-
-* On surface, ++cyclonic and anti Cyclonsc++ arfiow will `across the isobars` at varying argles depcndıng on terrain roughness.
-
-* In a *cyclone airflow*, friction causcs a net air flow `towards its centre`. 
-  &gt; A net inflow around cyclone is known as ++covergence++. 
-  Surface convergence is usually associated with `cloud formation and precipitation`
-
-* In an *anti-Cyclonic* airflow friction causesa net air flow `outwards its centre`.
-  &gt; A net outflow around an anti-cyclonc is known as ++divergence++.
-  Surface divergence is associated with `clean sky and dy weather`
-</md></sn>
