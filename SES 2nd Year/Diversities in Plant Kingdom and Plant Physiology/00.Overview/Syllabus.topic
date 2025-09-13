@@ -1,10 +1,50 @@
 
-	<sn></sn>		
+	<sn><md>## Course Contents
+
+| Unit / Topic                                                 | Sub-Topics / Details                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introduction to Plant Diversity**                          | - Plants of the past and present<br>- Overview of the Plant Kingdom<br>- Classification systems of Plant Kingdom<br>- Major plant groups: algae, bryophytes, pteridophytes, gymnosperms, angiosperms, and their evolutionary relationships                                                                                      |
+| **Classification and Characteristics of Major Plant Groups** | - Morphological, anatomical, and reproductive features of:<br>• Prokaryotes<br>• Algae<br>• Fungi and Lichens<br>- Ecological roles with typical examples                                                                                                                                                                       |
+| **Plant–Soil–Environment Interactions**                      | - Role of plant diversity in soil formation, nutrient cycling, organic matter accumulation, and microbial activity<br>- Plant diversity in relation to environmental factors: light, temperature, water, habitats, atmospheric gases, seasonal changes, and natural catastrophes                                                |
+| **Plant Pathology**                                          | - Definition of disease in plants<br>- Causes of plant diseases and mechanisms of pathogenesis<br>- Kinds and amount of losses owing to plant diseases<br>- Koch’s postulates and their application in diagnosis<br>- Examples: Bacterial blight of rice, Late blight of potato, Powdery mildew of cucurbit, Stem rust of wheat |
+| **Photosynthesis and Respiration**                           | - Mechanisms:<br>• Light reaction (transformation of light energy into chemical energy in plastids)<br>• Chemical reaction phase (C3, C4, and CAM pathways)<br>- Factors affecting efficiency and impact on plant growth and soil carbon dynamics<br>- Mechanisms of glycolysis, Krebs cycle, and electron transport system     |
+| **Plant Hormones and Growth Regulation**                     | - Functions of plant hormones: auxins, gibberellins, cytokinins, etc.<br>- Growth regulation and response to soil conditions<br>- Physiology of flowering:<br>• Photoperiodism: role of phytochrome, light and dark periods<br>• Vernalization: role of low temperature with reference to winter wheat                          |
+</md></sn>		
 	<config>
 		<tags>#syllabus</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 13 2025 16:30:04 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 13 2025 16:41:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Q09H3hd2to</id>
 		<duration></duration>
 	</config>
+<sn><md>## Course Description{.text-center}
+
+* **Course Code:** 05110201201
+* **Course Title:** Diversities in Plant Kingdom and Plant Physiology
+* **Course Status:** GED
+* **Credit:** 30
+* **Year:** Second
+</md></sn><sn><md>## Course Learning Outcomes
+
+Upon completion of this course, the students will be able to:
+
+* **CLO1:** Identify and classify major plant groups based on morphological and reproductive characteristics with emphasis on their ecological roles and relevance to soil–plant systems.
+* **CLO2:** Describe key physiological processes in plants, including photosynthesis, respiration, water and nutrient uptake, and their influence on plant growth and soil interactions.
+* **CLO3:** Apply plant physiology to propose agricultural and land use practices that enhance soil productivity and ecosystem resilience.
+
+</md></sn><sn><md>## Teaching–Learning and Assessment Strategy
+
+| CLOs | Teaching–Learning Strategy                                         | Assessment Method                   |
+| ---- | ------------------------------------------------------------------ | ----------------------------------- |
+| CLO1 | Lecture and Interactive Discussion                                 | Quiz, Mid-term, Final Examination   |
+| CLO2 | Group Discussion, Assignment, Class Test/Quiz, Class Participation | Presentation, Viva Voce, Final Exam |
+| CLO3 | Lecture, Practical Applications                                    | Final Examination                   |
+</md></sn><sn><md>## Recommended Readings
+
+* Pandey, B.P. (2011). *Botany for Degree Students*. New Delhi: S. Chand &amp; Company Ltd.
+* Devlin, R. &amp; Ross, C.W. (1992). *Plant Physiology* (4th ed.). Wadsworth Publishing.
+* Hopkins, W\.G. &amp; Hüner, N.P.A. (2008). *Introduction to Plant Physiology* (4th ed.). John Wiley &amp; Sons.
+* Schimper, A.F.W. (1903). *Plant Geography upon a Physiological Basis*. Clarendon Press.
+* Sharma, P.D. (2010). *Microbiology and Plant Pathology*. Rastogi Publications.
+</md></sn>
