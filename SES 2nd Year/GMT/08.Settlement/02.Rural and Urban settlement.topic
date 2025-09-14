@@ -1,10 +1,26 @@
 
-	<sn></sn>		
+	<sn><md>## Rural vs Urban{.text-center}
+
+![diagram-rural-vs-urban](https://theraise.eu/wp-content/uploads/2023/07/Artboard5-1024x565-1.png)
+
+| Characteristics          | Rural Settlements                                                   | Urban Settlements                                                             |
+| ------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Population Size**      | Small population, low density                                       | Large population, high density                                                |
+| **Main Occupation**      | Agriculture, fishing, forestry, mining (primary activities)         | Industry, trade, transport, services (secondary &amp; tertiary activities)        |
+| **Settlement Pattern**   | Dispersed, clustered, or linear, often irregular                    | Planned, compact, nucleated with grid or radial patterns                      |
+| **Infrastructure**       | Limited roads, electricity, water supply, and healthcare facilities | Advanced infrastructure with transport, hospitals, schools, and entertainment |
+| **Social Life**          | Close-knit, traditional, community-based                            | Diverse, modern, individualistic, cosmopolitan                                |
+| **Economic Development** | Subsistence economy, limited employment opportunities               | Commercial economy, varied job opportunities, higher income levels            |
+| **Environment**          | Natural surroundings, open space, greenery                          | Artificial environment, high pollution, less open space                       |
+| **Cultural Features**    | Traditional lifestyle, folk culture, strong customs                 | Modern lifestyle, exposure to global culture, fast-paced life                 |
+| **Governance**           | Local self-government (panchayat, village councils)                 | Municipal corporations, metropolitan authorities                              |
+| **Growth Trend**         | Slow change, gradual growth                                         | Rapid expansion, urban sprawl, and migration-driven growth                    |
+</md></sn>		
 	<config>
 		<tags>#02.rural and urban settlement</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Sep 14 2025 19:24:42 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Sep 14 2025 19:35:48 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-kDvaND47xR</id>
 		<duration></duration>
 	</config>
