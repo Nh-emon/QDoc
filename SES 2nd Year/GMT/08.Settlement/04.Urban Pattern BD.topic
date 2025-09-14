@@ -1,10 +1,40 @@
 
-	<sn></sn>		
+	<sn><md>## Urban Settlement Pattern of Bangladesh{.text-center}
+
+Urban settlements in Bangladesh have developed under different functions and purposes. These patterns can be classified into several categories:
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Administrative{.fg-blue}
+
+* These are cities that serve as the center of political and administrative functions.
+* Example: **Dhaka**, the capital of Bangladesh, functions as the prime administrative hub with government offices, ministries, and headquarters of national institutions.
+
+### Defence{.fg-red}
+
+* Developed around military and strategic defense establishments.
+* Example: **Cantonment areas** in Dhaka, Chattogram, and Comilla have grown as defense-based urban settlements.
+:::
+
+:::.col-12 .col-lg-6
+### Cultural{.fg-teal}
+
+* Cities known for their historical, educational, and cultural significance.
+* Example: **Rajshahi** (educational and cultural center with universities, silk heritage), **Sylhet** (cultural identity and religious heritage), and **Khulna** (traditional and cultural activities).
+
+### Commercialized Market{.fg-pink}
+
+* These settlements are based on trade, business, and industrial activities.
+* Example: **Chattogram**, the main seaport city, serves as the commercial capital of Bangladesh. Narayanganj is another important commercial and industrial hub.
+:::
+
+:::</md></sn>		
 	<config>
 		<tags>#04.urban pattern bd</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Sep 14 2025 20:01:25 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Sep 14 2025 20:02:24 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-d5yFGwosXD</id>
 		<duration></duration>
 	</config>
