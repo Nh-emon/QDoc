@@ -1,10 +1,64 @@
 
-	<sn></sn>		
+	<sn><md>## Plate Boundary{.text-center}
+
+A **plate boundary** is a **region where two tectonic plates meet and interact**. The type of interaction at the boundary determines the geological features and activities, such as earthquakes, volcanoes, or mountain formation.
+
+**Types of Plate Boundaries** :
+
+* Divergent Boundary
+* Convergent Boundary
+* Transform Boundary
+</md></sn>		
 	<config>
 		<tags>#plate boundary</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 12:15:43 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 12:24:50 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3b9FKYbK0P</id>
 		<duration></duration>
 	</config>
+<sn><md>#### Divergent Boundary{.text-center}
+
+:::.row
+:::.col-12 .col-lg-6
+* **Definition:** A boundary where two plates move **away from each other**.
+* **Features/Effects:** Formation of new crust, mid-ocean ridges, rift valleys, volcanic activity.
+* **Example:** Mid-Atlantic Ridge.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://science8sc.weebly.com/uploads/1/3/2/7/132773018/mid-ocean-ridge-gif_orig.gif)
+:::
+:::
+</md></sn><sn><md>#### Convergent Boundary{.text-center}
+
+:::.row
+:::.col-12 .col-lg-6
+* **Definition:** A boundary where two plates move **towards each other**.
+* **Features/Effects:** Mountain formation, deep ocean trenches, volcanic eruptions, earthquakes.
+* **Types:**
+
+   * **Continental-Continental Collision:** Forms mountains (e.g., Himalayas)
+   * **Oceanic-Continental Subduction:** Oceanic plate sinks beneath continental plate (e.g., Andes Mountains)
+   * **Oceanic-Oceanic Subduction:** One oceanic plate sinks under another, forming island arcs (e.g., Japan)
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://i.makeagif.com/media/9-27-2021/BMwMaB.gif)
+:::
+:::
+</md></sn><sn><md>#### Transform Boundary{.text-center}
+:::.row
+
+:::.col-12 .col-lg-6
+* **Definition:** A boundary where two plates **slide past each other horizontally**.
+* **Features/Effects:** Frequent earthquakes, little or no volcanic activity.
+* **Example:** San Andreas Fault, California.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://i.makeagif.com/media/9-27-2021/YQ39TW.gif)
+:::
+
+:::
+</md></sn>
