@@ -1,10 +1,36 @@
 
-	<sn></sn>		
+	<sn><md>### Geomorphology{.text-center}
+
+Geomorphology is the branch of physical geography that studies the **origin, development, and characteristics of landforms** on the Earth’s surface. It focuses on understanding how mountains, valleys, plains, plateaus, rivers, coasts, and other features are formed and modified over time through natural processes.
+
+---
+
+### Geomorphic Processes
+
+Geomorphic processes are the **natural physical and chemical actions** that bring about changes in the Earth’s surface, leading to the formation and transformation of landforms. These processes continuously shape and reshape the landscape.
+
+Geomorphic processes are broadly classified into:
+
+1. **Endogenic Processes** (internal forces)
+
+   * Origin: From energy generated inside the Earth.
+   * Examples: Volcanism, earthquakes, mountain building, faulting, folding.
+
+2. **Exogenic Processes** (external forces)
+
+   * Origin: From energy derived from the sun and atmosphere.
+   * Examples: Weathering, erosion, transportation, deposition by rivers, glaciers, wind, and sea waves.
+
+3. **Extraterrestrial Processes**
+
+   * Origin: From cosmic forces beyond the Earth.
+   * Example: Impact of meteors and asteroids creating craters.
+</md></sn>		
 	<config>
 		<tags>#03.geomorphology and geomorphic process</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 09:50:40 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 11:27:53 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-Nl7F7oVi7H</id>
 		<duration></duration>
 	</config>
