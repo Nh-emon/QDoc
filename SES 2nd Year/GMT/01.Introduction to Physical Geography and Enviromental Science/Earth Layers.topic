@@ -1,10 +1,134 @@
 
-	<sn></sn>		
+	<sn><md>## Earth Layers{.text-center}
+
+:::.row
+:::.col-12 .col-lg-6
+The Earth is composed of several distinct layers, each with unique properties, composition, and physical characteristics. These layers are arranged in a spherical structure from the surface to the center, influencing geological processes such as earthquakes, volcanoes, and plate tectonics.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://scitechdaily.com/images/Earth-Core-Animation.gif)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#earth layers</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 12:32:13 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 12:46:45 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-dyQhLZLbIR</id>
 		<duration></duration>
 	</config>
+<sn><md>### Crust{.text-center}
+
+The **crust** is the Earth's outermost solid layer. It is thin compared to the other layers and forms the Earth's surface, including continents and ocean basins. The crust varies in composition and thickness.
+
+:::.row
+:::.col-12 .col-lg-6
+* **Continental Crust**
+
+  * Forms the continents.
+  * Thicker (30–70 km) and less dense than oceanic crust.
+  * Mainly composed of granitic rocks rich in silica and aluminum (SIAL).
+
+* **Oceanic Crust**
+
+  * Forms the ocean floors.
+  * Thinner (5–10 km) and denser than continental crust.
+  * Mainly composed of basaltic rocks rich in silica and magnesium (SIMA).
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://www.shutterstock.com/image-vector/continental-crust-oceanic-3-dimensions-260nw-1497339509.jpg)
+:::
+:::
+
+:::.row
+:::.col-12 .col-lg-6
+* **SIAL** : Refers to rocks rich in **Silicon (Si)** and **Aluminum (Al)**, characteristic of the continental crust.
+* **SIMA** : Refers to rocks rich in **Silicon (Si)** and **Magnesium (Mg)**, characteristic of the oceanic crust.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://media.licdn.com/dms/image/v2/D4D22AQHrovWhJxGrsQ/feedshare-shrink_800/feedshare-shrink_800/0/1695616779243?e=2147483647&amp;v=beta&amp;t=dZNazAKryQW6nNz6qjlu-YWcJpNirlOJdYyr-DfOZbs)
+:::
+:::
+</md></sn><sn><md>### Mantle{.text-center}
+
+The **mantle** lies beneath the crust and extends to a depth of about 2,900 km. It is composed of silicate rocks rich in iron and magnesium and behaves as a solid that can slowly flow over long periods.
+
+:::.row
+:::.col-12 .col-lg-6
+* **Upper Mantle**
+
+  * Extends from the crust to about 670 km deep.
+  * Partially molten in some areas, allowing tectonic plates to move over it.
+  * Includes the **asthenosphere**, a semi-fluid layer that facilitates plate motion.
+
+* **Lower Mantle**
+
+  * Extends from 670 km to 2,900 km deep.
+  * Denser and more rigid than the upper mantle.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://as2.ftcdn.net/v2/jpg/05/04/35/79/500_F_504357965_CRhgULoEFX0YTtK7JcXyu5XMc7aSn4Tz.jpg)
+:::
+:::
+</md></sn><sn><md>### Lithosphere
+
+The **lithosphere** is the rigid outer layer of the Earth, including the crust and the uppermost part of the mantle. It is broken into **tectonic plates** that float on the underlying asthenosphere.
+
+### Asthenosphere
+
+* The **asthenosphere** lies below the lithosphere in the upper mantle.
+* It is semi-fluid and partially molten, allowing the lithospheric plates to move.
+* Plays a critical role in plate tectonics, volcanic activity, and earthquakes.
+</md></sn><sn><md>### Core{.text-center}
+
+The **core** is the innermost layer of the Earth, composed primarily of iron and nickel. It is divided into two parts:
+
+:::.row
+:::.col-12 .col-lg-6
+* **Outer Core**
+
+  * Liquid layer extending from 2,900 km to 5,150 km deep.
+  * Responsible for generating the Earth's magnetic field.
+
+* **Inner Core**
+
+  * Solid layer extending from 5,150 km to the Earth's center at 6,371 km.
+  * Extremely dense and hot, with temperatures reaching up to 5,700°C.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://images.nagwa.com/figures/explainers/216173989151/4.svg)
+:::
+:::
+</md></sn><sn><md>### Summary
+
+The Earth’s structure can be summarized as concentric layers:
+
+| Layer             | Subdivision          | Characteristics                                                               |
+| ----------------- | -------------------- | ----------------------------------------------------------------------------- |
+| **Crust**         | Continental, Oceanic | Solid, thin, less dense (continental), dense (oceanic), composed of SIAL/SIMA |
+| **Mantle**        | Upper, Lower         | Semi-fluid (upper), rigid (lower), silicate rocks rich in Mg &amp; Fe             |
+| **Lithosphere**   | –                    | Rigid outer layer including crust and upper mantle                            |
+| **Asthenosphere** | –                    | Semi-fluid part of upper mantle allowing plate movement                       |
+| **Core**          | Outer, Inner         | Outer: liquid, generates magnetic field; Inner: solid, very dense and hot     |
+</md></sn><sn><md>### Important Definition
+
+| Term                | Definition                                                                                                                                            |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Magma Chamber**   | A large underground pool of molten rock located beneath the Earth's surface.                                                                          |
+| **Magma**           | Molten rock beneath the Earth's surface, which can solidify to form igneous rocks.                                                                    |
+| **Lava**            | Molten rock that reaches the Earth’s surface during a volcanic eruption.                                                                              |
+| **Crater**          | A bowl-shaped depression at the top of a volcano formed by volcanic activity.                                                                         |
+| **Caldera**         | A large, circular depression formed when a volcano collapses after a major eruption.                                                                  |
+| **Hot Spring**      | A natural spring where heated groundwater emerges from the Earth’s crust.                                                                             |
+| **Asthenosphere**   | The semi-fluid layer of the mantle below the lithosphere that allows tectonic plates to move.                                                         |
+| **Fault**           | A fracture or zone of fractures between two blocks of rock, along which movement has occurred.                                                        |
+| **Fold**            | A bend in rock layers caused by compressional forces in the Earth's crust.                                                                            |
+| **Tectonic Plate**  | A large, rigid piece of the Earth's lithosphere that moves over the asthenosphere.                                                                    |
+| **Plate Tectonics** | The scientific theory explaining the movement of Earth's tectonic plates and resulting phenomena like earthquakes, volcanoes, and mountain formation. |
+</md></sn>
