@@ -1,10 +1,83 @@
 
-	<sn></sn>		
+	<sn><md>## Concept{.text-end .fg-pink}
+
++++ see
+@[embed-poh-earthquake-video](https://youtube.com/embed/QszRdG4-Ujw?)
+
+![earth-layer-diagram](https://img.freepik.com/premium-vector/diagram-showing-layers-earth-lithosphere_1308-129185.jpg?semt=ais_hybrid&amp;w=740&amp;q=80)
+### Tectonic Plates{.text-center}
+![tectonic-plates-diagram](https://upload.wikimedia.org/wikipedia/commons/6/67/Tectonic_plates_%282022%29.svg)
+![tectonic-plate-movement](https://www.shutterstock.com/image-vector/diagram-showing-plate-tectonic-theory-260nw-2318676853.jpg)
+
++++</md></sn>		
 	<config>
 		<tags>#01.earthquake</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 09:51:26 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 11:04:55 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-hozuwoeTy1</id>
 		<duration></duration>
 	</config>
+<sn><md>## Earthquake{.text-center .fg-red}
+
+:::.row
+
+:::.col-12 .col-lg-6
+&gt; An earthquake is a `sudden shaking or vibration` of the Earth’s surface caused by the `movement of rocks` deep inside the Earth’s crust.
+
+It occurs when ==energy stored in the Earth’s lithosphere is suddenly released==, producing ++seismic waves++. Earthquakes are one of the most powerful natural hazards, capable of causing massive destruction to life, property, and the environment.
+:::
+
+:::.col-12 .col-lg-6
+![earthquake](https://www.gifcen.com/wp-content/uploads/2021/03/earthquake-gif-16.gif)
+:::
+
+:::
+</md></sn><sn><md>## Components of an Earthquake{.text-center}
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Fault-zone{.text-center}
+A fault-zone is a fractured area in the Earth’s crust where blocks of rock move past each other. Earthquakes usually occur along these fault lines due to the sudden release of stress.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://asapeducate.com/wp-content/uploads/2022/11/EPICENTER.jpg)
+:::
+
+:::.col-12 .col-lg-6
+### Hypocenter (Focus){.text-center}
+The hypocenter, also called the focus, is the exact point inside the Earth where the earthquake originates. It is the location of the initial rupture.
+:::
+
+:::.col-12 .col-lg-6
+### Epicenter{.text-center}
+The epicenter is the point on the Earth’s surface that lies directly above the hypocenter. It is usually the area where the effects of the earthquake are felt most strongly.
+:::
+
+:::
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Seismic Waves{.text-center}
+
+Seismic waves are energy waves that spread out from the hypocenter during an earthquake. They are of two main types:
+
+* **Body Waves** – Travel through the Earth’s interior.
+
+  * **P-waves (Primary waves):** The fastest waves, move in a push-pull motion, can travel through solids, liquids, and gases.
+  * **S-waves (Secondary waves):** Slower than P-waves, move in a side-to-side motion, can only travel through solids.
+
+* **Surface Waves** – Travel along the Earth’s surface and usually cause the most destruction.
+
+  * They move more slowly but with greater amplitude, producing strong ground shaking.
+:::
+
+:::.col-12 .col-lg-6
+![gif-of-earthquake](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/eq-ed-seismic-waves.gif)
+:::
+
+:::
+</md></sn>
