@@ -1,10 +1,31 @@
 
-	<sn></sn>		
+	<sn><md>### Q. Describe the Effects of Earthquakes{.text-center .fg-red}
+
+Ans: The effects of earthquakes are described below—
+
+1. `Damage to Human Structures`
+   Earthquakes can cause serious destruction to property, injury to people, and even death. They damage buildings, roads, railways, factories, dams, bridges, and other structures, leading to heavy loss of human property.
+
+2. `Landslides`
+   The shocks produced by earthquakes, particularly in hilly and tectonically sensitive areas, trigger landslides and debris falls. These damage human settlements and transportation systems on lower slope segments.
+
+3. `Fires`
+   Strong vibrations caused by severe earthquakes shake buildings, leading to fires in houses, mines, and factories. These occur due to overturned cooking gas cylinders, contact of live electric wires, disruption of blast furnaces, and displacement of other fire-related appliances.
+
+4. `Flash Floods`
+   Seismic waves can damage dams, causing severe flash floods. Floods may also occur when rivers are blocked by rocks and debris from tremors on hill slopes. In extreme cases, rivers may even change their main course.
+
+5. `Deformation of Ground Surface`
+   Severe tremors and vibrations result in the deformation of the ground surface due to rise, subsidence, and faulting activity (formation of faults).
+
+6. `Tsunamis`
+   Earthquakes measuring more than 7 on the Richter scale can generate seismic waves in the sea, producing high sea waves (tsunamis) that cause great loss of life and property.
+</md></sn>		
 	<config>
 		<tags>#02.effect of earthquake</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 09:51:06 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 11:25:13 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-uqNKr7ZH8j</id>
 		<duration></duration>
 	</config>
