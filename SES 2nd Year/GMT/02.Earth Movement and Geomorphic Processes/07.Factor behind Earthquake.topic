@@ -1,10 +1,42 @@
 
-	<sn></sn>		
+	<sn><md>### Factors Behind Earthquakes{.text-center}
+
+Earthquakes are caused mainly by the sudden release of energy in the Earth’s crust, leading to seismic waves. The major factors behind earthquakes include:
+
+1. **Tectonic Plate Movements**
+
+   * The Earth’s lithosphere is divided into plates that constantly move.
+   * Collisions, subduction, divergence, and sliding of these plates generate stress, which is released as earthquakes.
+   * Example: Himalayan earthquakes due to the collision of the Indian Plate and Eurasian Plate.
+
+2. **Volcanic Activity**
+
+   * Movement of magma and pressure buildup beneath volcanoes can fracture rocks, causing volcanic earthquakes.
+   * Example: Earthquakes in volcanic zones like Japan or Indonesia.
+
+3. **Faulting and Fractures in the Crust**
+
+   * Sudden slips along geological faults release energy and cause earthquakes.
+   * Example: San Andreas Fault in California.
+
+4. **Isostatic Adjustment**
+
+   * Uplift or subsidence of the Earth’s crust due to melting glaciers, erosion, or sediment loading can trigger earthquakes.
+
+5. **Human-Induced (Anthropogenic) Activities**
+
+   * Large-scale mining, deep drilling, construction of dams (reservoir-induced seismicity), and underground nuclear tests can cause artificial earthquakes.
+   * Example: Koyna Dam region in India.
+
+6. **Other Natural Causes**
+
+   * Landslides or sudden collapse of large caves in limestone regions may generate minor local earthquakes.
+</md></sn>		
 	<config>
 		<tags>#07.factor behind earthquake</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 09:49:20 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 11:32:14 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-UsTsoG1WmN</id>
 		<duration></duration>
 	</config>
