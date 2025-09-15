@@ -1,10 +1,47 @@
 
-	<sn></sn>		
+	<sn><md>### Exogenic and Endogenic Processes
+
+Geomorphic processes that shape the Earth’s surface are broadly classified into two main categories: **Exogenic processes** and **Endogenic processes**.
+
+---
+
+### 1. Exogenic Processes (External Forces)
+
+* **Definition:** Exogenic processes are the external processes that derive their energy from the **sun’s radiation, atmosphere, and gravity**. They continuously wear down the Earth’s surface.
+* **Nature:** These processes are destructive in nature (degradation) but may also result in constructive activities (deposition).
+* **Examples:**
+
+  * **Weathering:** Breaking down of rocks due to temperature, water, wind, or biological activity.
+  * **Erosion:** Wearing away of land by rivers, glaciers, wind, and sea waves.
+  * **Transportation:** Movement of eroded materials by natural agents.
+  * **Deposition:** Laying down of sediments to form floodplains, deltas, dunes, beaches, etc.
+
+---
+
+### 2. Endogenic Processes (Internal Forces)
+
+* **Definition:** Endogenic processes are the internal processes that originate from the **Earth’s interior due to geothermal energy and tectonic forces**. They build new landforms and modify the Earth’s crust.
+* **Nature:** These processes are generally constructive (building up relief), but they can also be destructive (earthquakes, volcanic eruptions).
+* **Examples:**
+
+  * **Volcanism:** Formation of volcanic cones, lava plateaus, and islands.
+  * **Earthquakes:** Sudden shaking of the Earth’s crust causing faults, fractures, and uplift.
+  * **Tectonic Movements:** Folding, faulting, uplift, and subsidence leading to mountains, rift valleys, and plateaus.
+  * **Mountain Building (Orogeny):** Formation of large mountain chains like the Himalayas or the Rockies.
+
+---
+
+**Key Difference:**
+
+* **Exogenic processes** wear down (degradational) the Earth’s surface.
+* **Endogenic processes** build up (aggradational) or restructure the Earth’s crust.
+
+</md></sn>		
 	<config>
 		<tags>#04.exogenic and endogenic processes</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 09:50:20 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 11:29:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-43Nu3XBKgR</id>
 		<duration></duration>
 	</config>
