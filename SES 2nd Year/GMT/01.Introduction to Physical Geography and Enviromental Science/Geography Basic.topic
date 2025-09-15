@@ -1,10 +1,92 @@
 
-	<sn></sn>		
+	<sn><md>## Geography{.text-center}
+
+The term **Geography** was first used by the ancient geologist **Eratosthenes** (Father of Geography). Geography comes from two Greek words: **“geo”** meaning “the Earth” and **“graphy”** meaning “description.” Therefore, geography means the **description of the Earth**.
+
+* According to **Rhoads Murphy (1961)**:
+  *"Geography is basically concerned with how man is distributed over and has used the Earth, why he uses it differently in diverse places or at different times, and how this is related to the whole of his cultures and economics."*
+
+* **Dudley Stamp (1966)** defined geography as:
+  *"Geography is the science of human circumstance. It describes the Earth’s surface, its inhabitants, and discusses the relation of different areas."*
+
+* According to **H. Rojoshky (1994)**:
+  *"Geography is the study of Earth’s surface and its people."*
+
+There are two main branches of geography:
+
+1. **Physical Geography** – studies natural features and processes of the Earth.
+2. **Human Geography** – studies human activities and their interactions with the environment.
+</md></sn>		
 	<config>
 		<tags>#geography basic</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Mon Sep 15 2025 12:55:42 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Sep 15 2025 13:01:05 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-L72sgVroaQ</id>
 		<duration></duration>
 	</config>
+<sn><md>### Five Themes/Concepts in Geography{.text-center}
+
+The **five themes/concepts of geography** were developed by the National Council to provide an organizing framework for geographic study.
+
+::: .row
+
+:::.col-12 .col-lg-6 .p-2 .bg-indigo
+#### Location
+Geographic study begins with the **location** of places, which can be described in two ways:
+
+* **Absolute Location:** The exact position of a place on the Earth using a reference system like **latitude and longitude**.
+* **Relative Location:** Describes a place in relation to its surroundings, neighbors, borders, or other connections.
+
+*Example:* North Dakota has an absolute location that can be identified on a map, and a relative location based on its position in the world market.
+:::
+
+:::.col-12 .col-lg-6 .p-2 .bg-red
+#### Place
+
+**Place** describes the physical and human characteristics of a location:
+
+* **Physical characteristics:** Plant and animal life, rivers, mountains, climate.
+* **Human characteristics:** Population, land use, architecture, forms of livelihood, agriculture, industry, trade, transportation, and cultural features.
+:::
+
+:::.col-12 .col-lg-6 .p-2 .bg-teal
+#### Human-Environment Interaction
+This theme examines the **relationship between people and their environment**, including how people adapt to and modify it.
+
+*Examples:*
+
+* Ancient Egyptians rebuilt homes after the annual Nile flooding and later constructed homes above the floodplain.
+* They built **irrigation ditches** to water crops, and in modern times, constructed a **dam** to control floodwaters.
+:::
+
+:::.col-12 .col-lg-6 .p-2 .bg-purple
+#### Movement
+
+**Movement** refers to the interaction and mobility of people, goods, and ideas across the Earth.
+
+* It includes travel, communication, trade, and cultural exchange.
+:::
+
+:::.col-12 .col-lg-6 .p-2 .bg-pink
+#### Regions
+A **region** is a unit of space unified by some characteristic, either physical or human.
+
+**Types of Regions:**
+
+* **Formal Regions:** Defined by official boundaries, e.g., Union, Upazilla, District.
+* **Functional Regions:** Defined by a function or activity area, e.g., circulation area of a major city.
+* **Vernacular Regions:** Defined by cultural perception or identity, e.g., The South, The North, The Middle East.
+:::
+
+:::</md></sn><sn><md>### Approaches in Geography{.text-center}
+
+Geography can be studied using different approaches:
+
+1. **Systematic Approach:** Focuses on individual themes like climate, soil, population.
+2. **Regional Approach:** Studies specific regions and their unique characteristics.
+3. **Descriptive Approach:** Describes geographic phenomena as they exist.
+4. **Analytical Approach:** Examines causes, effects, and relationships of geographic phenomena.
+
+This structured understanding of geography allows us to **analyze both the Earth and human activities** in a systematic and organized way.
+</md></sn>
