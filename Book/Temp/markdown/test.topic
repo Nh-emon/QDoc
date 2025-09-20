@@ -1,10 +1,208 @@
 
-	<sn></sn>		
+	<sn><md>## Data Structures and Algorithms in JavaScript{.fg-orange}
+
+### Introduction
+
+Data Structures and Algorithms (DSA) are the backbone of programming and problem-solving. In JavaScript, mastering DSA improves efficiency, performance, and scalability of applications. Data structures define **how data is stored and organized**, while algorithms define **how data is manipulated or processed**.
+
+---
+
+### Data Structures in JavaScript
+
+#### 1. Arrays
+
+Arrays are ordered collections of elements. They are the most commonly used data structure in JavaScript.
+
+```javascript
+// Array example
+let numbers = [10, 20, 30, 40];
+numbers.push(50);   // Insert at end
+numbers.pop();      // Remove from end
+console.log(numbers[0]); // Access element
+```
+
+#### 2. Objects (Hash Maps)
+
+Objects store data as **key-value pairs**, similar to hash maps or dictionaries.
+
+```javascript
+// Object example
+let student = {
+  name: "Emon",
+  age: 22,
+  grade: "A"
+};
+console.log(student.name); // Access value
+```
+
+#### 3. Stack
+
+A **LIFO (Last In First Out)** structure. Useful in undo operations, recursion, and expression evaluation.
+
+```javascript
+class Stack {
+  constructor() {
+    this.items = [];
+  }
+  push(element) {
+    this.items.push(element);
+  }
+  pop() {
+    return this.items.pop();
+  }
+}
+
+let stack = new Stack();
+stack.push(10);
+stack.push(20);
+console.log(stack.pop()); // 20
+```
+
+#### 4. Queue
+
+A **FIFO (First In First Out)** structure. Useful in scheduling and buffering.
+
+```javascript
+class Queue {
+  constructor() {
+    this.items = [];
+  }
+  enqueue(element) {
+    this.items.push(element);
+  }
+  dequeue() {
+    return this.items.shift();
+  }
+}
+
+let queue = new Queue();
+queue.enqueue(1);
+queue.enqueue(2);
+console.log(queue.dequeue()); // 1
+```
+
+#### 5. Linked List
+
+A collection of nodes where each node contains data and a pointer to the next node.
+
+```javascript
+class Node {
+  constructor(data) {
+    this.data = data;
+    this.next = null;
+  }
+}
+
+class LinkedList {
+  constructor() {
+    this.head = null;
+  }
+  append(data) {
+    let newNode = new Node(data);
+    if (!this.head) {
+      this.head = newNode;
+      return;
+    }
+    let current = this.head;
+    while (current.next) {
+      current = current.next;
+    }
+    current.next = newNode;
+  }
+}
+
+let list = new LinkedList();
+list.append(10);
+list.append(20);
+```
+
+---
+
+### Algorithms in JavaScript
+
+#### 1. Searching Algorithms
+
+**Linear Search**
+
+```javascript
+function linearSearch(arr, target) {
+  for (let i = 0; i &lt; arr.length; i++) {
+    if (arr[i] === target) return i;
+  }
+  return -1;
+}
+
+console.log(linearSearch([1,2,3,4], 3)); // 2
+```
+
+**Binary Search (Sorted Array)**
+
+```javascript
+function binarySearch(arr, target) {
+  let left = 0, right = arr.length - 1;
+  while (left &lt;= right) {
+    let mid = Math.floor((left + right) / 2);
+    if (arr[mid] === target) return mid;
+    else if (arr[mid] &lt; target) left = mid + 1;
+    else right = mid - 1;
+  }
+  return -1;
+}
+
+console.log(binarySearch([1,2,3,4,5], 4)); // 3
+```
+
+#### 2. Sorting Algorithms
+
+**Bubble Sort**
+
+```javascript
+function bubbleSort(arr) {
+  for (let i = 0; i &lt; arr.length; i++) {
+    for (let j = 0; j &lt; arr.length - i - 1; j++) {
+      if (arr[j] &gt; arr[j + 1]) {
+        [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
+      }
+    }
+  }
+  return arr;
+}
+
+console.log(bubbleSort([5,3,8,4,2]));
+```
+
+**Quick Sort**
+
+```javascript
+function quickSort(arr) {
+  if (arr.length &lt;= 1) return arr;
+  let pivot = arr[arr.length - 1];
+  let left = [], right = [];
+  for (let i = 0; i &lt; arr.length - 1; i++) {
+    if (arr[i] &lt; pivot) left.push(arr[i]);
+    else right.push(arr[i]);
+  }
+  return [...quickSort(left), pivot, ...quickSort(right)];
+}
+
+console.log(quickSort([5,3,8,4,2]));
+```
+
+---
+
+### Why DSA Matters in JavaScript
+
+1. **Efficient problem-solving** – write optimized solutions.
+2. **Interview preparation** – DSA is core in coding interviews.
+3. **Scalability** – better handling of large datasets.
+4. **Performance** – reduces execution time and memory usage.
+
+</md></sn>		
 	<config>
 		<tags>#test</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 20 2025 10:17:53 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 20 2025 10:26:37 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-WreJvwqL4i</id>
 		<duration></duration>
 	</config>
