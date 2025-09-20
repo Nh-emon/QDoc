@@ -4,8 +4,45 @@
 		<tags>#topic</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Thu Aug 21 2025 20:40:47 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sat Sep 20 2025 23:53:16 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-UxJ1SztvbJ</id>
 		<duration></duration>
 	</config>
-<sn></sn>
+<sn><md>### Event Test
+
+Yesterday the cat gone viral ,here is the photo of the [viral cat](https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg)
+
+Read [Caution](#caution)
+</md></sn><sn id="section-2"><h2>Esha</h2><p>Many people ask me who is esha,what should i tell them ,that i loved her,still love her,The angel sit on my left hand write something i feel</p></sn><sn><md>Got it 👍
+If your link is a **direct image URL** (`.jpg`, `.png`, `.gif`, etc.), you can put it inside an `<iframe>` just like an HTML page:
+
+```html
+<iframe src="https://example.com/picture.jpg" width="400" height="300"></iframe>
+```
+
+✅ What happens:
+
+* The browser will load the image **inside the iframe**, treating it as a standalone document.
+* You can scroll/resize the iframe, but it won’t behave like `<img>` (no automatic fit).
+
+---
+::: #caution
+#### ⚠️ Cases when it won’t work
+
+* If the URL is **not a direct image** (e.g., it’s an HTML wrapper page like `https://example.com/view?id=123`), the iframe will just show that page.
+* If the server sets security headers like `X-Frame-Options: DENY` or CSP restrictions, the iframe may be blocked.
+:::
+---
+
+#### Alternative (better for images)
+
+Normally, you use `<img>` instead of `<iframe>`:
+
+```html
+<img src="https://example.com/picture.jpg" width="400" height="300" alt="My image">
+```
+
+---
+
+👉 Question for you: Do you specifically need the image inside an **iframe container** (like isolating it from the page), or do you just want to **embed and display the image**?
+</iframe></md></sn>
