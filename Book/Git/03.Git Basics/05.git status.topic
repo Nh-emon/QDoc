@@ -1,5 +1,4 @@
-<sn><md>## **Git `status`: Checking the Current State of Your Repository**
----
+<sn><md>## Git Status {.text-center .fg-red}
 
 #### **Introduction**
 
@@ -110,7 +109,7 @@ Pair `git status` with:
 | Syntax      | Simple: `git status`                         |
 | Side Effect | Safe and read-only (doesn’t change anything) |
 
-</file></file></md></sn><config style="display:none"><tags>#05.git status</tags><thumbnail></thumbnail><heading></heading><udate>Fri Jul 04 2025 20:03:31 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Yf85aO7TQQ</id><duration></duration></config><sn><md>## **Git `status -s`: The Short Status View**
+</file></file></md></sn><config style="display:none"><tags>#05.git status</tags><thumbnail></thumbnail><heading></heading><udate>Sat Sep 20 2025 16:02:32 GMT+0600 (Bangladesh Standard Time)</udate><id>article-Yf85aO7TQQ</id><duration></duration></config><sn><md>## **Git `status -s`: The Short Status View**
 ---
 
 #### **Introduction**
