@@ -5,6 +5,8 @@
 
 Data Structures and Algorithms (DSA) are the backbone of programming and problem-solving. In JavaScript, mastering DSA improves efficiency, performance, and scalability of applications. Data structures define **how data is stored and organized**, while algorithms define **how data is manipulated or processed**.
 
+[see important](#importance)
+
 ---
 
 ### Data Structures in JavaScript
@@ -189,20 +191,20 @@ console.log(quickSort([5,3,8,4,2]));
 ```
 
 ---
-
+::: #important
 ### Why DSA Matters in JavaScript
 
 1. **Efficient problem-solving** – write optimized solutions.
 2. **Interview preparation** – DSA is core in coding interviews.
 3. **Scalability** – better handling of large datasets.
 4. **Performance** – reduces execution time and memory usage.
-
+:::
 </md></sn>		
 	<config>
 		<tags>#new topic</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 20 2025 10:38:49 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Thu Oct 02 2025 19:01:48 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-JIIQL5sw8h</id>
 		<duration></duration>
 	</config>
