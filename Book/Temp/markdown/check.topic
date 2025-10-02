@@ -1,10 +1,54 @@
 
-  <sn></sn>
+  <sn><md>[check](#el-js)</md></sn>
   <config>
     <tags>#check</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Oct 02 2025 18:51:05 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Oct 02 2025 18:59:15 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Iwq4REVPKs</id>
     <duration></duration>
   </config>
+<sn><md>Got it — you want the extracted classes joined back into a single string.
+
+::: #el-js
+
+In JavaScript you can do this:
+
+### Regex version
+
+```js
+const s = "col-12 col-md-10 col-lg-7 col-xxl-6 p-3 p-md-4 p-lg-5";
+
+const result = (s.match(/col(?:-[a-z]+)?-\d+/g) || []).join(" ");
+
+console.log(result);
+```
+
+**Output:**
+
+```
+col-12 col-md-10 col-lg-7 col-xxl-6
+```
+
+---
+
+### Split + Filter version
+
+```js
+const s = "col-12 col-md-10 col-lg-7 col-xxl-6 p-3 p-md-4 p-lg-5";
+
+const result = s.split(" ").filter(c =&gt; c.startsWith("col-")).join(" ");
+
+console.log(result);
+```
+
+**Output:**
+
+```
+col-12 col-md-10 col-lg-7 col-xxl-6
+```
+
+---
+
+Do you want me to also make the function **reusable** (so you can pass any string and always get back only the `col-*` classes in one string)?
+:::</md></sn>
