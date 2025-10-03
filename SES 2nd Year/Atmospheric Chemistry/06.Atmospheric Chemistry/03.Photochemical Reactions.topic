@@ -1,5 +1,5 @@
 
-	<sn><md>## Photochemical Reactions{.fg-red .text-center}
+	<sn class="col-12 col-md-10 ignore col-xxl-8 p-3 p-md-4 p-lg-5"><md>## Photochemical Reactions{.fg-red .text-center}
 
 | Reaction                                                | Comments                                                                                                             |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 		<tags>#03.photochemical reactions</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Aug 20 2025 08:52:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Oct 03 2025 09:06:35 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-62PnISu9Px</id>
 		<duration></duration>
 	</config>
