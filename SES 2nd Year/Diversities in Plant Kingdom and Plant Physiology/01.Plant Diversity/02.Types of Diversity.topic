@@ -1,10 +1,33 @@
 
-  <sn></sn>
+  <sn><md>### Genetic Diversity{.text-center}
+
+:::.row
+:::.col-12 .col-lg-6
+**Genetic diversity** refers to the `diversity within a species`. It represents the variety of genes expressed at the genetic level by each individual within a species.
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://www.biologyonline.com/wp-content/uploads/2019/10/genetic-diversity-definition.jpg)
+:::
+:::
+
+
+* No two individuals belonging to the same species are exactly similar. For example, in the species of human beings, each person shows a great deal of diversity compared to another. People living in different regions exhibit noticeable genetic variations.
+
+* This variation forms the basis for `natural selection` and `adaptation` to changing environmental conditions, making it highly important for the survival of a species. If, in the future, there is an outbreak of disease in a crop, all plants could be affected if they are genetically similar. Hence, genetic diversity is also crucial for the **evolution of new species**.
+
+* It is found both **within** and **between populations** of a species. Examples include variations among humans (*Homo sapiens*) from different continents like Asia and Africa, or among different varieties of rice (*Oryza sativa*) and mango (*Mangifera indica*).
+![diagram](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-71065-5_53-1/MediaObjects/457371_0_En_53-1_Fig2_HTML.png)
+
+* This variation arises from `differences in the genetic makeup` (nucleotide sequence of DNA) of organisms. It involves the occurrence of different versions of a gene (**alleles**) and various combinations of genes among individuals of a species.
+
+* Sources of genetic variation include `genetic recombination` (meiosis, crossing over, and sexual reproduction) and **spontaneous mutations** in DNA. Therefore, no two individuals of a population are ever completely identical (except identical twins); `there is always some degree of genetic difference`.
+</md></sn>
   <config>
     <tags>#02.types of diversity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 05 2025 23:00:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 05 2025 23:20:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-M8ByyNt8Cc</id>
     <duration></duration>
   </config>
