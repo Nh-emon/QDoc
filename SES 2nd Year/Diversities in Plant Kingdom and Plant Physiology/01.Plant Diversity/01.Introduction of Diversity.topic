@@ -1,10 +1,27 @@
 
-  <sn></sn>
+  <sn><md>### Diversity{.text-center}
+
+:::.row
+:::.col-12 .col-lg-6
+Diversity is about what `makes each of us unique` and includes our *backgrounds*, *personality*, *life experiences* and *beliefs*, all of the things that make us who we are. It is a `combination of our differences` that shape our view of the world, our perspective and our approach .
+:::
+
+:::.col-12 .col-lg-6
+![diagram](https://www.researchgate.net/publication/376104851/figure/fig2/AS:11431281209252028@1701703059593/mages-that-try-to-represent-visually-the-concept-of-biodiversity-tend-to-cover-a-limited.png)
+:::
+:::
+
+
+The term biodiversity (from “biological diversity”) refers to the `variety of life on Earth` at all its levels, from genes to ecosystems, and can encompass the evolutionary, ecological, and cultural processes that sustain life.
+
+&gt; Plant diversity refers to the `existence of wide variety of plant species in their natural environments`.
+
+There are around `300,000-500,000` species of vascular plants that exist on earth Plant biodiversity is invaluable because it balances ecosystems, protects watersheds, mitigates erosion, moderates climate, and provides shelter for animals. Threats to plant biodiversity include the increasing human population, pollution, deforestation, and species extinction</md></sn>
   <config>
     <tags>#01.introduction of diversity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 05 2025 21:48:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 05 2025 22:32:56 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-v1ZW1Ca2Vz</id>
     <duration></duration>
   </config>
