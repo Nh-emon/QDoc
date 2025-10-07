@@ -27,7 +27,85 @@
     <tags>#02.types of diversity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 05 2025 23:20:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Oct 07 2025 21:09:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-M8ByyNt8Cc</id>
     <duration></duration>
   </config>
+<sn><md>## Species Diversity
+
+* It refers to the `variety of species` present in a community. However, not all the species present in a community are found in equal proportions; usually a few are relatively `more abundant` and most are `less abundant`.
+* Therefore, the species diversity of an area or a community has two components:
+
+| Component                                                | Description                                                                                                                                                                                           |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Species richness or variety component**             | Represents the `total number of species per unit area` (species density).                                                                                                                               |
+| **The relative abundance or apportionment component** | Represents the `relative proportion of each species in an area` (i.e. number of individuals of each species are also considered to estimate relative abundance of each species over others in an area). |
+
+* The second component is very important to be included while comparing two communities for species diversity.
+
++++ Example
+
+There are **two communities** (Community 1 and Community 2).
+Each has **5 species** — so **species richness** is the same (5 species per unit area).
+
+---
+
+### Community 1
+
+| Species   | Number of Individuals |
+| --------- | --------------------- |
+| Species A | 10                    |
+| Species B | 10                    |
+| Species C | 10                    |
+| Species D | 10                    |
+| Species E | 10                    |
+| **Total** | **50 individuals**    |
+
+✅ Here, **each species has the same number of individuals (10)**.
+→ So, this community is **evenly balanced** — it has **high species evenness**.
+
+---
+
+### Community 2
+
+| Species   | Number of Individuals |
+| --------- | --------------------- |
+| Species A | 30                    |
+| Species B | 5                     |
+| Species C | 5                     |
+| Species D | 5                     |
+| Species E | 5                     |
+| **Total** | **50 individuals**    |
+
+❌ Here, **one species (A)** is **much more abundant** than the others.
+→ So, this community is **less even** — it has **low species evenness**.
+
+---
+
+### Conclusion
+
+* Both communities have the **same species richness** (5 species).
+* But they differ in **species evenness** —
+
+  * **Community 1** → high evenness
+  * **Community 2** → low evenness
+
+That’s why, when measuring **species diversity**, both **richness** and **relative abundance (evenness)** must be considered.
+
++++
+
+* So, though the two communities have same species richness, they differ in relative proportion of each species or in other words, community 2 is less even in terms of distribution of species over number of individuals. This property of a community is also called as **species evenness**.
+* Species diversity is of three types depending upon the spatial scale:
+
+| Type of Species Diversity    | Description                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------- |
+| **i) Alpha-(α)-diversity**   | Species diversity `within a community`.                                               |
+| **ii) Beta-(β)-diversity**   | Measure of variation in species diversity between `two or more adjacent communities`. |
+| **iii) Gamma-(γ)-diversity** | Total number of species in a `landscape or geographic region`.                        |
+
+</md></sn><sn><md>## Ecosystem Diversity
+
+* It is the measure of `ecological variation`. It includes variation within an ecosystem in terms of variety of **niches, trophic levels, interactions among organisms viz. parasitism, predation, mutualism, etc. and ecological processes** that are vital for sustaining ecosystems.
+* For example, a `forest` community is more `ecologically diverse` than a wheat field because it has variety of `interactions among different species`, different species are having different `trophic positions and functions`.
+* It also includes variation in terms of variety of ecosystems found within `larger geographical` region like forests, prairies, deserts, freshwater wetlands, lakes, rivers, coral reefs, estuaries etc. in a landscape, country, sub-continent, or a continent.For example, `India` has rich ecological diversity.
+</md></sn>
