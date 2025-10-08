@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md>## Type of Plant Diversity
+
+| **Type**     | **Description**                                                                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Non-vascular vs. Vascular**   | Non-vascular plants like mosses[^4] `lack` specialized tissues for water `transport`, while vascular plants (like trees) have these tissues. |
+| **Seedless vs. Seeded**         | Seedless plants like ferns[^3] reproduce via spores, while seeded plants like flowering plants produce seeds.                          |
+| **Flowering vs. Non-flowering** | Flowering plants angiosperms[^2] have flowers and fruits, while non-flowering plants like conifers[^1] do not.                             |
+
+
+#### Example
+
+* Giant sequoias, titan arums, and water lilies[^5] illustrate the range of plant sizes and habitats.
+* Cacti and African euphorbias[^6] show how plants adapt to deserts and arid regions.
+* Indian pipe[^7] highlights unique plant adaptations. 
+* Kudzu[^8] demonstrates the impact of invasive species and their adaptability to new environments.
+
+[^1]:[conifers](https://media.gettyimages.com/id/1173733640/photo/green-forest.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=P3DgfHI-FCOMX4vLtCaw3M-7nRdGiAsATfRZRqs9E4E=)
+[^2]:[angiosperms](https://microbenotes.com/wp-content/uploads/2022/08/Angiosperm-Flower-Anatomy.jpg)
+[^3]:[fern](https://www.heyrooted.com/cdn/shop/products/6FERN_COMPACTA-2_ba261f64-f324-4877-b3a2-24825ec95be6.jpg?v=1677282690&amp;width=533)
+[^4]:[moses](https://i.etsystatic.com/14149621/r/il/0f5302/2342927773/il_600x600.2342927773_tis4.jpg)
+[^5]:[sequoias](https://media.gettyimages.com/id/107915291/photo/giant-sequoias-yosemite-national-park.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=yQtrcPEekxeeSP6X2JO9URUjd_vtfCAqpgnFK9yFiFc=) [titan arums](https://media.istockphoto.com/id/2161671538/photo/titan-arum.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=n2IizKePb4aMX1Rs-Dk-pWiB8iDnFAfKjF8D2pVRjwI=) [water-lilies](https://cdn.pixabay.com/photo/2021/05/05/11/02/water-lilies-6230802_640.jpg)
+[^6]:[cacti](https://media.istockphoto.com/id/1227338817/photo/starry-night-over-a-cacti-garden.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=x_auKD_fGIFlo-PVOYkWIPKt5UCdaiyX_xpiLHu5I_U=) [african-euphorbias](https://media.istockphoto.com/id/1141282678/photo/euphorbia-trigona-african-milk-tree-or-cathedral-cactus-is-perennial-succulent-plant.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=_nyQ_3iBhMZcKSKfT9W4hJmp90mE0meQXNGyfVD4eLs=)
+[^7]:[indian-pipe](https://media.gettyimages.com/id/637648126/photo/solitary-dry-tree.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=o7mdAu_gIVRk2ySD3KBMhF0nQhbGM58abeuAiC4MpsQ=)
+[^8]:[kudzu](https://www.invasivespeciesinfo.gov/sites/default/files/styles/extra_large/public/media/image/kudzu-0016123.jpg?itok=2q6WgMM3)
+</md></sn>
   <config>
     <tags>#03.types of plant diversity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Oct 08 2025 07:55:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Oct 08 2025 09:03:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Y8mMIGyp32</id>
     <duration></duration>
   </config>
