@@ -1,10 +1,24 @@
 
-	<sn></sn>		
+	<sn><md>## Disease
+
+According to **Horsfall and Diamond** (1959), 
+
+&gt; Disease may be defined as a `malfunctioning process` that is caused by continuous irritation by a *pathogen* and/or *environmental factor* resulting in some `suffering producing symptoms`.
+
+
+#### Disorder
+
+The **diseases** caused by the `deficiency of nutrients or unfavorable environmental` are sometimes termed as disorders or physiological disorders
+
+#### Disease results from:
+* Direct damage to cells 
+* Toxins, growth regulators, or other byproducts that affect metabolism
+* Use of nutrients and water or interference with their uptake</md></sn>		
 	<config>
 		<tags>#02.plant disease</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:16:40 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Oct 17 2025 18:27:37 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-9WjJjMVArr</id>
 		<duration></duration>
 	</config>
