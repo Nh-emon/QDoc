@@ -17,7 +17,7 @@ Plant pathology is related to many other sciences such as **virology, mycology,b
 		<tags>#01.introduction</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 16:38:38 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Oct 17 2025 18:12:31 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-aCSw6ORzyk</id>
 		<duration></duration>
 	</config>
@@ -42,15 +42,44 @@ All of our food, most of our `clothing`, `building materials`, and much of the `
 
 A few examples of devastating diseases are:
 
-| Disease | Image |
-|----------|----------|
-| Potato Late Blight | ![potato-late-blight](https://www.potatoesincanada.com/wp-content/uploads/2019/06/9e1e330841e5c9af625a673fa615378c.jpg) |
-| Ergot of Rye | ![Ergot-of-Rye](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF_tbcOop9w04bCYukxKLJpqqOKNHCX7spA&amp;s) |
-| Black Stem Rust of Wheat | ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3JNbTJJ3ikiLc8OoCqvn6p6mTsNzOHSuzQ&amp;s) |
-| Southern Corn Leaf Blight | ![image](https://images1.farms.com/farms-production-images/Portals/0/southern-corn-leaf-blight-300-3_1.png) |
-| Dutch Elm Disease | ![image](https://www.elitetreecare.com/wp-content/uploads/2016/06/dutch-elm-disease.jpg) |
-| Bacterial Canker on Citrus | ![image](https://www.greenlife.co.ke/wp-content/uploads/2022/04/citrus_canker.jpg) |
-| Palm Pox virus on Stone Fruit | ![image](https://assets.isu.pub/document-structure/221215230904-c6e3797db5403ad9707c1774ad2aba3e/v1/f755437941ae038435d284cbb542205b.jpeg?width=720&amp;quality=85%2C50) |
+:::.row .row-cols-1 .row-cols-md-3
+
+:::.col
+Potato Late Blight
+![potato-late-blight](https://www.potatoesincanada.com/wp-content/uploads/2019/06/9e1e330841e5c9af625a673fa615378c.jpg)
+:::
+
+:::.col
+Ergot of Rye
+![Ergot-of-Rye](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF_tbcOop9w04bCYukxKLJpqqOKNHCX7spA&amp;s)
+:::
+
+:::.col
+Black Stem Rust of Wheat
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3JNbTJJ3ikiLc8OoCqvn6p6mTsNzOHSuzQ&amp;s)
+:::
+
+:::.col
+Southern Corn Leaf Blight
+![image](https://images1.farms.com/farms-production-images/Portals/0/southern-corn-leaf-blight-300-3_1.png)
+:::
+
+:::.col
+Dutch Elm Disease
+![image](https://www.elitetreecare.com/wp-content/uploads/2016/06/dutch-elm-disease.jpg)
+:::
+
+:::.col
+Bacterial Canker on Citrus
+![image](https://www.greenlife.co.ke/wp-content/uploads/2022/04/citrus_canker.jpg)
+:::
+
+:::.col
+Palm Pox virus on Stone Fruit
+![image](https://assets.isu.pub/document-structure/221215230904-c6e3797db5403ad9707c1774ad2aba3e/v1/f755437941ae038435d284cbb542205b.jpeg?width=720&amp;quality=85%2C50)
+:::
+
+:::
 
 
 All of these are infectious diseases caused by [plant pathogens]{.fg-red .fs-4}</md></sn><sn><md>## Late Blight of Potato
