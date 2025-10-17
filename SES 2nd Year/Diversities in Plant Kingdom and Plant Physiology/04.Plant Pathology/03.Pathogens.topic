@@ -5,12 +5,36 @@
 * **Pathogenicity** is the `ability` of a pathogen to `cause disease under` a given set ofenvironmental conditions. 
 * Whereas, **pathogenesis** is the `chain of events` that leads to development of a disease in the host.
 * **Virulence** is a measure or degree of `pathogenicity` of an isolate or race of the pathogen.This term like virulence is used as measure of pathogenicity
-* The term **aggressiveness** is often used to describe the `capacity` of a pathogen to `invadeand grow in the host plant` and to reproduce on or in it. </md></sn>		
+* The term **aggressiveness** is often used to describe the `capacity` of a pathogen to `invadeand grow in the host plant` and to reproduce on or in it.
+
+---
+ 
+* **Disease resistance** is the `ability` of an organism to `overcome` completely or in some degree the effect of a pathogen or other damaging factor; 
+* whereas **susceptibility** is the `inability` of the plant to resist the effect of the pathogen or other damaging factor.
+* **Immunity** of a plant against a disease is absolute quality. It denotes the `freedom of plant from disease`, when the pathogen cannot establish `parasitic relationship with the host`.
+* High resistance and low susceptibility approach immunity.
+* **Hypersensitivityis** the `extreme degree of susceptibility` in which there is rapid death of the cells in the vicinity of the invading pathogen. It halts the further progress of the pathogen. Thus,hypersensitivity is a sign of very high resistance approaching immunity</md></sn>		
 	<config>
 		<tags>#03.pathogens</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 18:44:29 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Oct 17 2025 19:55:38 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-FzrH6ix1px</id>
 		<duration></duration>
 	</config>
+<sn><md>## Parasite
+
+&gt; The organisms which `derive` the food materials needed for their growth `from other living organism` (the host).
+
+All the pathogens are parasites but all the parasites are not pathogens. As some of the parasites live on their hosts without causing any damage to them as symbiotic relationships,e.g., `Rhizobium bacterium` in legume roots, `mycorrhizae and lichens`
+
+A **biotroph** is a type of organism, usually a pathogen (like fungi, bacteria, or viruses), that `feeds on living host tissue` to survive and reproduce. Unlike other pathogens that kill host cells quickly, biotrophs `maintain the host alive` while extracting nutrients.They were earlier also called ++obligate parasites++, e.g., `rusts, smuts, powdery mildews` etc.
+
+**Saprophytes/saprobes** are the organisms which `derive` their nutrition from the `dead organic matter`.Some parasites and saprophytes may have the faculty or (ability) to `change their mode of nutrition`.
+
+**Facultative saprophytes** are ordinarily parasites which can `grow and reproduce on dead organic matter` under certain circumstances. They are also called **hemibiotrophs** which attack the living tissues in such a way as biotrophs but continue to grow and reproduce after the tissues is dead
+
+
+A parasite is called **necrotroph** when it `kills the host tissue` in advance of penetration and then lives aprophytically, e.g. Sclerotium rolfsii and Pythium species. 
+
+Similar to **necrotrophs** are facultative parasites which live as ++saprophytes++ but under favourable conditions they `can attack living plants` and become parasites. The necrotrophs are also known as **perthotrophs or perthophytes**.</md></sn>
