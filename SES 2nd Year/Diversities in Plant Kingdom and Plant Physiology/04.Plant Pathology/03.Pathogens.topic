@@ -1,10 +1,16 @@
 
-	<sn></sn>		
+	<sn><md>### Pathogen
+
+* Pathogen is the **agent** responsible for `inciting pathos` i.e. ailment or damage.
+* **Pathogenicity** is the `ability` of a pathogen to `cause disease under` a given set ofenvironmental conditions. 
+* Whereas, **pathogenesis** is the `chain of events` that leads to development of a disease in the host.
+* **Virulence** is a measure or degree of `pathogenicity` of an isolate or race of the pathogen.This term like virulence is used as measure of pathogenicity
+* The term **aggressiveness** is often used to describe the `capacity` of a pathogen to `invadeand grow in the host plant` and to reproduce on or in it. </md></sn>		
 	<config>
 		<tags>#03.pathogens</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:16:57 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Fri Oct 17 2025 18:44:29 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-FzrH6ix1px</id>
 		<duration></duration>
 	</config>
