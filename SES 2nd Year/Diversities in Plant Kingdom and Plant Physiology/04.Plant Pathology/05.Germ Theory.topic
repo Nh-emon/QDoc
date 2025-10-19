@@ -1,10 +1,42 @@
 
-	<sn></sn>		
+	<sn><md>### Germ theory of disease
+
+* The germ theory of disease states that `contagious diseases are caused by "germs," or microorganisms`, which are organisms that are too small to be seen without magnification.
+* Microorganisms that cause disease are called `pathogens`.
+* After the development of the germ theory of disease by `Louis Pasteur`, the French-Algerian physician Charles **Louis Alphonse Laveran** examined and described `malarial organisms in the red blood cells` of his patients in 1870.
+</md></sn>		
 	<config>
 		<tags>#05.germ theory</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:17:32 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 07:13:27 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-6hvLnMYurE</id>
 		<duration></duration>
 	</config>
+<sn><md>## Koch's postulates
+
+:::.row
+
+:::.col-12 .col-md-6
+![koch-postulate-diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Diversities%20in%20Plant%20Kingdom%20and%20Plant%20Physiology/media/diagram/koch-postulate-experiment-diagram.png)
+:::
+
+
+:::.col-12 .col-md-6
+* The microorganism must be `found in` abundance in all `organisms suffering from
+the disease`, but should not be found in healthy organisms.
+* The microorganism must be `isolated` from a diseased organism and grown in pure
+culture.
+* The cultured microorganism should `cause disease when introduced` into a healthy
+organism.
+* The microorganism must be `reisolated` from the inoculated, diseased
+experimental host and identified as being identical to the original specific
+causative agent.
+:::
+:::
+
+
+
++++ VIDEO: How a few scientists transformed the way we think about disease - Tien Nguyen
+@[yt](https://youtube.com/N9LC-3ZKiok?embed) 
++++</md></sn><sn></sn>
