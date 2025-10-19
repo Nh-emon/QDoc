@@ -32,7 +32,7 @@ This triangle helps in **disease management** by controlling one or more of the 
 		<tags>#08.mazzs disease pyramid</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 11:30:17 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 11:34:55 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-cUF6KsH9hq</id>
 		<duration></duration>
 	</config>
@@ -65,4 +65,12 @@ The **Maas Disease Pyramid** is an `extension` of the traditional Disease Triang
 * Disease severity often increases with **longer duration** of favorable conditions.
 * This model helps explain why some diseases appear suddenly and others take longer to develop.
 * Management strategies can target **any of the four factors** to reduce disease impact.
-* The `human` equation can affect the three components of the disease triangle and should be considered as a `fifth component` in disease development.</md></sn>
+* The `human` equation can affect the three components of the disease triangle and should be considered as a `fifth component` in disease development.</md></sn><sn><md>### Factors Affecting Disease Development
+
+
+| Factor Type               | Description                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Host Factors**          | - All plants can be considered hosts.<br>- Degree of genetic uniformity: e.g., crop plants, inbred lines.<br>- Age affects disease development depending on plant–pathogen interaction.<br>- Levels of susceptibility:<br>  - **Immune** – cannot be infected.<br>  - **Susceptible** – can be infected.<br>  - **Resistant** – may or may not be infected; plant can prevent pathogen from killing it via defense compounds. |
+| **Pathogen Factors**      | - Amount of inoculum.<br>- Pathogen genetics.<br>- Virulence of the pathogen.<br>- Type of reproduction:<br>  - **Monocyclic**<br>  - **Polycyclic**<br>- Ecology and mode of spread:<br>  - Air<br>  - Soil<br>  - Seed<br>  - Vector dependency                                                                                                                                                                             |
+| **Environmental Factors** | - Moisture.<br>- Temperature.<br>- Effect of human cultural practices:<br>  - Monoculture<br>  - Amount of inoculum: seed quality, disease residues, rotation, alternate hosts.<br>  - Introduction of new pathogens                                                                                                                                                                                                          |
+</md></sn>
