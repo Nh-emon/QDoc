@@ -1,10 +1,43 @@
 
-	<sn></sn>		
+	<sn><md>### Disease Development
+
+Every infectious disease requires a `series of sequential events` in order for disease to develop.Specific events are unique for each disease.
+
+#### General events are:
+1. dispersal of the pathogen to the host
+2. penetration and infection of the host
+3. invasion and colonization of the host
+4. reproduction of the pathogen
+5. pathogen dispersal
+6. pathogen survival between growing seasons and/or in the absence of a host</md></sn>		
 	<config>
 		<tags>#06.disease developement</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:17:50 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 08:02:44 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-BQrxKxox0h</id>
 		<duration></duration>
 	</config>
+<sn><md>## Disease Developement and Trnasmission{.text-center}
+
+#### Pathogenesis and saprogenesis
+
+:::.row
+:::.col-12 .col-md-6
+Pathogenesis is the `stage` of disease in which the ++pathogen++ is in `intimate association` with ++living host tissue++. Three fairly distinct stages are involved:
+:::
+:::.col-12 .col-md-6
+![img](https://www.americanscientist.org/sites/americanscientist.org/files/2003426101017_307.jpg)
+:::
+:::
+
+* **Inoculation**: Transfer of the pathogen to the infection court, or area in which invasion of the plant occurs.The infection court may be 
+  * The unbroken plant surface, 
+  * a variety of wounds or natural openings—e.g.
+  * stomata [microscopic pores in leaf surfaces]
+  * hydathodes [stomata-like openings that secrete water]
+  * lenticels [small openings in tree bark])
+
+* **Incubation**: The `period of time` between the arrival of the pathogen in the infection court and the appearance of symptoms
+
+* **Infection**: The `appearance of disease symptoms` accompanied by the establishment and spread of the pathogen.</md></sn>
