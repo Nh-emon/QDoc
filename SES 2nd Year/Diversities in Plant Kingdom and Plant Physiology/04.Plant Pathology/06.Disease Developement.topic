@@ -14,7 +14,7 @@ Every infectious disease requires a `series of sequential events` in order for d
 		<tags>#06.disease developement</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 08:02:44 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 08:32:42 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-BQrxKxox0h</id>
 		<duration></duration>
 	</config>
@@ -40,4 +40,21 @@ Pathogenesis is the `stage` of disease in which the ++pathogen++ is in `intimate
 
 * **Incubation**: The `period of time` between the arrival of the pathogen in the infection court and the appearance of symptoms
 
-* **Infection**: The `appearance of disease symptoms` accompanied by the establishment and spread of the pathogen.</md></sn>
+* **Infection**: The `appearance of disease symptoms` accompanied by the establishment and spread of the pathogen.</md></sn><sn><md>### Plant Disease Cycle
+
+Disease developement occurs over a period as a series of events.This `series of events` is called disease cycle.
+
+The basic steps in most disease cycles are as follows :
+
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Diversities%20in%20Plant%20Kingdom%20and%20Plant%20Physiology/media/diagram/disease-cycle-dgm.png)
+
+| Step | Description |
+|------|--------------|
+| Inoculation | The process by which a pathogen comes into `contact` with the host plant, usually through spores, seeds, or infected tools. |
+| Penetration | The `entry` of the pathogen into the host tissue through natural openings, wounds, or direct penetration. |
+| Infection | The `establishment` of the pathogen within the host, starting the disease process and interfering with normal plant functions. |
+| Growth and Reproduction | The pathogen `multiplies and spreads` within the host tissues, producing structures like spores or mycelium. |
+| Dissemination | The `spread` of the pathogen from `one plant to another` by wind, water, insects, animals, or human activities. |
+| Survival | The `pathogen remains alive` during unfavorable conditions through resting spores, infected debris, or alternate hosts. |
+</md></sn>
