@@ -1,10 +1,68 @@
 
-	<sn></sn>		
+	<sn><md>## Disease Triangle
+
+The **Disease Triangle** is a fundamental concept in plant pathology that explains the conditions required for a disease to occur. It states that **disease develops only when three factors interact simultaneously**:
+
+1. **Host** – a susceptible plant or crop.
+2. **Pathogen** – a disease-causing organism (fungus, bacteria, virus, etc.).
+3. **Environment** – favorable conditions (temperature, humidity, soil, etc.) that allow the pathogen to infect the host.
+
+If **any one of these three factors is missing or unfavorable**, disease will **not occur**.
+
+### Diagram:
+
+```
+         Pathogen
+           /\
+          /  \
+         /    \
+        /      \
+    Host--------Environment
+```
+
+**Key Points:**
+
+* Host must be `susceptible`.
+* Pathogen must be `virulent`.
+* Environment must favor disease development.
+
+This triangle helps in **disease management** by controlling one or more of the factors, e.g., using resistant varieties (host), applying fungicides (pathogen), or altering cultural practices (environment).
+</md></sn>		
 	<config>
 		<tags>#08.mazzs disease pyramid</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:18:49 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 11:30:17 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-cUF6KsH9hq</id>
 		<duration></duration>
 	</config>
+<sn><md>## Maas’ Disease Pyramid
+
+The **Maas Disease Pyramid** is an `extension` of the traditional Disease Triangle. It adds a `fourth factor, time`, to explain disease development more comprehensively.
+
+#### Four Components:
+1. **Host** – The susceptible plant or crop.
+2. **Pathogen** – The disease-causing organism (fungus, bacteria, virus, etc.).
+3. **Environment** – Favorable conditions (temperature, humidity, soil, etc.).
+4. **Time** – Duration over which the host, pathogen, and environment interact.
+
+#### Diagram:{.text-end}
+
+```
+             Pathogen
+                /\
+               /  \
+              /    \
+             /      \
+    Host --------- Environment
+               \
+                \
+                 Time
+```
+
+**Key Points:**
+
+* Disease severity often increases with **longer duration** of favorable conditions.
+* This model helps explain why some diseases appear suddenly and others take longer to develop.
+* Management strategies can target **any of the four factors** to reduce disease impact.
+* The `human` equation can affect the three components of the disease triangle and should be considered as a `fifth component` in disease development.</md></sn>
