@@ -1,10 +1,63 @@
 
-	<sn></sn>		
+	<sn><md>## Classification of Plant Diseases
+
+#### Based on Plant Part Affected{.text-center}
+
+* **Localized:** Affect only `specific organs or parts` of the plant.
+* **Systemic:** Affect the entire plant.
+* **Examples:** Root diseases, stem diseases, foliage/foliar diseases, etc.
+
+---
+
+#### Based on Perpetuation and Spread{.text-center}
+
+* **Soil-borne:** Pathogen perpetuates through the soil.
+* **Seed-borne:** Pathogen perpetuates through seeds or other propagation materials.
+* **Air-borne:** Disseminated by wind (e.g., rusts and powdery mildews).
+
+---
+
+####  Based on Signs and Symptoms Produced by Pathogens{.text-center}
+
+Diseases are classified according to the most conspicuous symptom appearing on the host surface, such as:
+
+* Rusts,Smuts
+* Powdery mildews,Downy mildews
+*  Wilts,Blights,Cankers
+* Root rots,Fruit rots,Leaf spots
+
+---
+
+#### Based on Host Plants Affected{.text-center}
+
+* Cereal,Forage,Flax diseases
+* Millet,Plantation crop diseases
+* Fruit,Vegetable,Flowering plant diseases
+
+---
+
+#### Based on Major Causes{.text-center}
+
+* Fungal diseases
+* Bacterial diseases
+* Viral diseases
+* Mycoplasmal diseases
+
+---
+
+#### Based on Infection Process{.text-center}
+
+
+| Type of Disease    | Description                                                                                                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Infectious**     | Caused by `animate agents` such as fungi, bacteria, viruses, and viroids. These diseases can be transmitted from infected to healthy plants.                                                                                                    |
+| **Non-infectious** | Also called *non-parasitic* or *physiological disorders.* They cannot be transmitted to healthy plants and are caused by abiotic factors such as `nutrient deficiency or excess`, unfavorable soil or weather conditions, or mechanical injury. |
+</md></sn>		
 	<config>
 		<tags>#07.classification of plant disease</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Fri Oct 17 2025 15:18:05 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 10:47:22 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-pOOMLhbG6x</id>
 		<duration></duration>
 	</config>
