@@ -14,7 +14,7 @@ Every infectious disease requires a `series of sequential events` in order for d
 		<tags>#06.disease developement</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 08:32:42 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 09:34:38 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-BQrxKxox0h</id>
 		<duration></duration>
 	</config>
@@ -53,8 +53,28 @@ The basic steps in most disease cycles are as follows :
 |------|--------------|
 | Inoculation | The process by which a pathogen comes into `contact` with the host plant, usually through spores, seeds, or infected tools. |
 | Penetration | The `entry` of the pathogen into the host tissue through natural openings, wounds, or direct penetration. |
-| Infection | The `establishment` of the pathogen within the host, starting the disease process and interfering with normal plant functions. |
-| Growth and Reproduction | The pathogen `multiplies and spreads` within the host tissues, producing structures like spores or mycelium. |
+| Infection | The `establishment` of the pathogen within the host, starting the disease process and interfering with normal plant functions.Successful infection will produce symptomps. If host infected by pathogen but does not show any symptomps then it is called `latent infection`|
+| Growth and Reproduction | The pathogen `multiplies and spreads` within the host tissues, producing structures like spores or mycelium.Example : fungi-spore,virus-replicate,nematode-eggs |
 | Dissemination | The `spread` of the pathogen from `one plant to another` by wind, water, insects, animals, or human activities. |
 | Survival | The `pathogen remains alive` during unfavorable conditions through resting spores, infected debris, or alternate hosts. |
-</md></sn>
+</md></sn><sn><md>### Inoculation
+
+It is the initial `contact` of a pathogen with a site of plant where infection is possible
+
+#### Inoculum
+
+The `pathogen or part of pathogen` that can inititate infection
+
+| Inoculum | Description |
+|----------|----------|
+| Primary | Survives during dormant period and causes the first infection |
+| Secondary | Produced from primary infections |
+</md></sn><sn><md>## Penetration
+
+Initial `invasion` of host by a pathogen.
+
+| Type | Description |
+|----------|----------|
+| Direct | haustoria,subcuticular,intercellular,intercellular mycelium,appresorium,ppeg |
+| Natural Opening | stomata,lenticels,hydathodes |
+| Wounds | injuries,natural crack,lateral roots,opening made by fungus |</md></sn>
