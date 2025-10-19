@@ -57,7 +57,19 @@ Diseases are classified according to the most conspicuous symptom appearing on t
 		<tags>#07.classification of plant disease</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 10:47:22 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 11:11:33 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-pOOMLhbG6x</id>
 		<duration></duration>
 	</config>
+<sn><md>### Disease Occurrence
+
+Here’s a clear table summarizing **Endemic, Epidemic, Pandemic, and Sporadic** diseases:
+
+| Term         | Description                                                                                                                                                           |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Endemic`  | Diseases that are *constantly present* in a **particular geographical area** or population at a moderate to severe level. Example: `Malaria` in certain tropical regions. |
+| `Epidemic` | Diseases that **occur widely but periodically** in a region, often in severe form. Example: `Influenza` outbreaks in a city or country.                                 |
+| `Pandemic` | Diseases that **spread over a large region or worldwide**, affecting a large population. Example: `COVID-19`.                                                           |
+| `Sporadic` | Diseases that **occur occasionally and irregularly**, without a predictable pattern. Example: `Rabies` in a population where vaccination is routine.                    |
+
+</md></sn>
