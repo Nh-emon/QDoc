@@ -1,10 +1,102 @@
 
-	<sn></sn>		
+	<sn><md>## Classification
+
+:::.row
+:::.col-12 .col-md-6
+Classification - basic method humans use to organize the living world.
+
+* Easy and time-saving
+* Tells us about `organism interrelationships`
+* Allows information to `cross language` and cultural barriers
+* Various fields depend on the `correct identification of disease-causing organisms` and insect pests
+
+Organisms are grouped into smaller and smaller groups based on their differences and similarities.
+:::
+
+:::.col-12 .col-md-6
+![hierarchy](https://i.pinimg.com/736x/d3/e7/18/d3e71840e22e4ea212cf73c41e7426e9.jpg)
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#01.classification basics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sat Sep 13 2025 17:01:52 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Sun Oct 19 2025 20:53:36 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ghy0sY9Ifu</id>
 		<duration></duration>
 	</config>
+<sn><md>### LUCA
+
+```bash
+                         ┌─────────────────────┐
+                         │   First Cell / LUCA │
+                         │ (Last Universal     │
+                         │  Common Ancestor)   │
+                         └─────────┬───────────┘
+                                   │
+           ┌───────────────────────┼────────────────────────┐
+           │                       │                        │
+  ┌────────▼────────┐     ┌────────▼────────┐      ┌────────▼────────┐
+  │   Bacteria      │     │    Archaea      │      │    Eukarya      │
+  │ (Prokaryote)    │     │ (Prokaryote)    │      │ (Eukaryote)     │
+  │ - Peptidoglycan │     │ - Unique lipids │      │ - Nuclear       │
+  │   cell wall     │     │ - Extremophiles │      │   membrane      │
+  │ - 70S ribosomes │     │ - 70S ribosomes │      │ - Membrane-     │
+  │ - Binary fission│     │ - Binary fission│      │   bound organelles
+  └─────────────────┘     └─────────────────┘      └─────────────────┘
+
+```
+
+![first-cell-to-domain](https://ngsmagnified.com/wp-content/uploads/Kingdom-and-domains-1024x828.jpg)
+
+#### Each kindom is broken into kingdoms
+* Domain-Bacteria -&gt; Kindom Eubacteria
+* Domain Archaea  -&gt; Kindom Archaebacteria
+* Domain Eukarya  -&gt; Protista,Plantae,Animalia,Fungi
+
+</md></sn><sn><md>### Prokaryot vs Eukaryot
+
+![img](https://uen.pressbooks.pub/app/uploads/sites/382/2024/06/U04-001-Comparison-of-prokaryote-and-eukaryote.png)
+
+| Feature                       | Prokaryotes                                | Eukaryotes                                                           |
+| ----------------------------- | ------------------------------------------ | -------------------------------------------------------------------- |
+| **Cell type**                 | Simple, primitive                          | Complex, advanced                                                    |
+| **Nucleus**                   | Absent (DNA lies in nucleoid)              | Present (DNA enclosed in nuclear membrane)                           |
+| **Size**                      | Small (1–10 µm)                            | Large (10–100 µm)                                                    |
+| **Cell wall**                 | Present (mainly peptidoglycan in bacteria) | Present in plants and fungi (cellulose or chitin), absent in animals |
+| **Membrane-bound organelles** | Absent                                     | Present (e.g., mitochondria, ER, Golgi body)                         |
+| **DNA**                       | Circular and naked                         | Linear and associated with histone proteins                          |
+| **Ribosomes**                 | 70S type (smaller)                         | 80S type (larger)                                                    |
+| **Cell division**             | By binary fission                          | By mitosis or meiosis                                                |
+| **Examples**                  | Bacteria, Archaea                          | Plants, Animals, Fungi, Protists                                     |
+| **Flagella structure**        | Simple, made of flagellin                  | Complex, made of microtubules (9+2 arrangement)                      |
+
+</md></sn><sn><md>### How does classification work
+
+:::.row
+:::.col-12 .col-md-6
+All prokaryotic organisms are in Domain Archaea or Domain Bacteria.Organisms are divided between them by the slight differences in the organisms’ cell structure.
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Diversities%20in%20Plant%20Kingdom%20and%20Plant%20Physiology/media/diagram/how-classification-work-bacteria-archaea-part.png)
+:::
+
+:::.col-12 .col-md-6
+Sorting eukaryotic organisms into Kingdoms:
+– prokaryotic or eukaryotic
+– unicellular or multicellular
+– autotrophic or
+heterotrophic
+– mode of reproduction
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Diversities%20in%20Plant%20Kingdom%20and%20Plant%20Physiology/media/diagram/how-classification-work-eukaryot-part.png)
+:::
+:::</md></sn><sn><md>### Introduction
+
+* All the living organism divided in two groups- Plant, Animal
+* In 1866 Heckel proposed another group- Protista for lower organism
+* After that Group Protista again divided in two group, lower Protista is named as Monera, Protista, Plantae, Animalia
+* In 1969 Whittaker proposed a unique classification for all organism and he divided all organism in five group. 
+
+This system is known as Whitakers Five Kingdom concept
+
+![diagram](https://microbenotes.com/wp-content/uploads/2024/04/Five-Kingdom-Classification.jpeg)
+![diagram](https://image.slidesharecdn.com/5kingdomclassification-200618190824/75/5-kingdom-classification-Whittaker-classification-4-2048.jpg)</md></sn>
