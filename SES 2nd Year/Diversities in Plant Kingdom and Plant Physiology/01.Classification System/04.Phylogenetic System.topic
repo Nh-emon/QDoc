@@ -1,10 +1,44 @@
 
-	<sn></sn>		
+	<sn><md>### The Phylogenetic system of Classification
+
+* This system is based on `evolutionary sequence and genetic relationship`.
+* The phylogenetic system of classification was developed `after the publication of Darwin’s theory of evolution`. 
+* Apart from the morphological characteristics `found from fossil records`, genetic constituents were also considered.
+* It has been `widely accepted` by biologists all over the world. According to this system, all the organisms belonging to the same taxa originated from the common ancestor.
+* Various scientists namely Engler and Prantl, Hutchinson, Takhtajan, Cronquist, Rolf Dahlgren and Robert F Thorne contributed to the phylogenetic system of classification.
+
+##### The two main phylogenetic systems of classification are:
+* **Engler and Prantl** system of classification
+* **Hutchinson’s** classification</md></sn>		
 	<config>
 		<tags>#04.phylogenetic system</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 19:04:55 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Oct 20 2025 20:02:47 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-T6H9uOTY1N</id>
 		<duration></duration>
 	</config>
+<sn><md>### Engler and Prantl system of classification
+
+In this type of phylogenetic system of classification, floral characters like `single whorl or no
+perianth, unisexual flowers pollinated by wind` were considered primitive characters as compared to two whorls in the perianth and bisexual flowers pollinated by insects. They arranged plants based on the increasing complexity of the flower morphology.
+
+
+The plant kingdom was divided into `13 divisions`:
+
+* 11 are `Thallophytes`
+* 12th Embryophyta `Asiphonogama`, i.e. plants [having embryos]{.fg-teal} but [pollen tubes are
+absent]{.fg-red} (bryophytes and pteridophytes)
+* 13th Embryophyta `Siphonogama`, i.e. plants [with embryo and pollen tubes]{.fg-teal} (seed
+plants)</md></sn><sn><md>### Hutchinson’s classification
+
+John Hutchinson, a British botanist gave the phylogenetic system of classification in his
+book named `The Families of Flowering Plants` in two volumes in 1926 and 1934. In his
+classification, Hutchinson `divided angiosperms into monocotyledons and dicotyledons`.
+
+`Dico`tyledons were further divided into **two divisions**, namely, `Lignosae` (woody plants)
+and `Herbaoae` (herbaceous plants)
+
+`Monocots` were divided into **3 divisions** on the basis of flower morphology, namely,
+`Calyci`flerae (calyx present), `Corolli`ferae (petaloid perianth) and `Glumi`florae (perianth
+absent)</md></sn>
