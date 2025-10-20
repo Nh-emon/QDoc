@@ -1,10 +1,27 @@
 
-	<sn></sn>		
+	<sn><md>### List of Systems of Plant Classification
+
+The earliest system of classification considered only a few vegetative characters.Modern taxonomic studies have been more elaborate and taken into consideration various morphological, cellular and molecular characteristics, e.g.
+* cellular and reproductive features, 
+* mode of nutrition, 
+*habitat, 
+* evolutionary relationships, etc. along with 
+* orphological features.
+
+There are three main types of systems for plant classification-
+
+
+| Type of Classification                    | Description                                                                                                                                                                                       |
+| :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Artificial system of Classification**   | Based on a few easily  `observable characteristics` such as habit, color, or number of stamens, without considering natural relationships. Example: Linnaeus’ system.                                |
+| **Natural system of Classification**      | Based on a `large number of characteristics`, including morphological, anatomical, and physiological features, showing natural relationships among organisms. Example: Bentham and Hooker’s system. |
+| **Phylogenetic system of Classification** | Based on `evolutionary relationships` and genetic similarities among organisms, showing common ancestry and descent. Example: Engler and Prantl’s system.                                           |
+</md></sn>		
 	<config>
 		<tags>#02.introduction to plant classification</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 19:03:58 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Oct 20 2025 18:19:02 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-tpz9KcXzjG</id>
 		<duration></duration>
 	</config>
