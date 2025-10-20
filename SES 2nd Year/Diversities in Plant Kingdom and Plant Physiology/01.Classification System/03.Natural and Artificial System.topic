@@ -1,10 +1,77 @@
 
-	<sn></sn>		
+	<sn><md>## Artificial Systems
+
+* Artificial systems were the `earliest systems`, which attempted to classify organisms based on a `few superficial characters`.
+* These were important in the history of biological classification as this was a `novel attempt` to organise living organisms.
+* The demerit was that it didn’t consider `morphological details and the evolutionary
+relationship`.
+* They gave `equal importance` to `vegetative and sexual characters` but it is not
+true. 
+* Vegetative characters are greatly influenced by the environment. As a result, the closely related species were kept apart.
+
+:::.row
+:::.col-12 .col-md-6 .p-3 .bg-red
+`Aristotle` classified plants more than *2000 years ago* on the basis of `simple morphological characters` into **herb, shrub and trees**.
+:::
+
+:::.col-12 .col-md-6 .p-3 .bg-teal
+`Theophrastus` in his book `Historia Plantarum or Enquiry into plants` attempted to arrange plants in various groups based on how plants `reproduce and its uses`. He is called ++Father of Botany++.
+:::
+:::
+</md></sn>		
 	<config>
 		<tags>#03.natural and artificial system</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 19:04:34 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Oct 20 2025 19:21:45 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-S2hNwHJxQv</id>
 		<duration></duration>
 	</config>
+<sn><md>### Carl Linnaus Artificial Classification System
+
+:::.row
+:::.col-12 .col-md-10
+`Carl Linnaeus` is known as the `Father of Modern Taxonomy`. In his book `Systema Naturae` (1735), he gave the hierarchical system of classification of the natural world into the `plant` kingdom, the `animal` kingdom and `mineral` kingdom.
+:::
+
+:::.col-12 .col-md-2
+![img](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ3-wTHR9V1ReC5gpdMQBtCTgEU4sRI0cQvQT4uLD6JRsi8ZbUplcix0EP-IaRS-dIqfJKvvxdzkk0DPX8)
+:::
+:::
+
+
+He understood the importance of `floral characters` and classified plants based on the `number of stamens present` in them. It is also known as the `sexual system of classification`. He divided the `plant kingdom into 24 classes` based on the structure,union, length and the number of stamens.
+
+| Term             | Description                                                       |
+| :--------------- | :---------------------------------------------------------------- |
+| **Monoandria**   | Flowers having `1` stamen                                       |
+| **Diandria**     | `2` stamens                                      |
+| **Polyandria**   | more than `12` stamens                           |
+| **Monoadelphia** | Stamens `united into a single bundle`                           |
+| **Monoecia**     | **Male and female flowers** present on the `same plant`         |
+| **Dioecia**      | **Male and female flowers** present on `separate plants`        |
+| **Polygamia**    | **Polygamous plants** having both `unisexual and bisexual flowers`  |
+| **Cryptogamia**  | **Flowerless plants**, reproducing by `spores instead of seeds` |
+</md></sn><sn><md>## Natural Systems
+
+* In this system of classification, `more characters were considered` while classifying. It was based on
+the natural similarities of vegetative and floral characters among the organisms. It took into
+consideration various external and internal features like the `anatomy of a cell, types of embryo and
+phytochemistry`.
+
+* `Bentham and Hooker system of classification` was the most important natural system of
+classification `of flowering plants`. They classified plants into `Cryptogams` (non-flowering plants) and
+`Phanerogams` (flowering plants).
+
+* In the Bentham and Hooker classification system, `97,205 species` of seed plants were classified into
+7569 genera and `202 families`. The flowering plants were further classified into three classes namely
+`Dico`tyledon, `Gymnosperm` and `Monoco`tyledon.
+
+* The Bentham and Hooker system of classification was published in the book `Genera Plantarum` in
+three issues over the years 1862 to 1883.
+
+* It helped to determine relationships between the various groups of plants but `failed to identify
+phylogenetic relationships` among different groups of plants. It `wrongly placed gymnosperms
+between monocotyledons and dicotyledons`.
+
+![diagram](https://imgv2-1-f.scribdassets.com/img/document/249835938/original/4bc9b9c6d2/1?v=1)</md></sn>
