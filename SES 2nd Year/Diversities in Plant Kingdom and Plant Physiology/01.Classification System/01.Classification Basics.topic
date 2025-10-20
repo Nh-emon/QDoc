@@ -22,7 +22,7 @@ Organisms are grouped into smaller and smaller groups based on their differences
 		<tags>#01.classification basics</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 20:53:36 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Mon Oct 20 2025 16:49:23 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-ghy0sY9Ifu</id>
 		<duration></duration>
 	</config>
@@ -99,4 +99,14 @@ heterotrophic
 This system is known as Whitakers Five Kingdom concept
 
 ![diagram](https://microbenotes.com/wp-content/uploads/2024/04/Five-Kingdom-Classification.jpeg)
-![diagram](https://image.slidesharecdn.com/5kingdomclassification-200618190824/75/5-kingdom-classification-Whittaker-classification-4-2048.jpg)</md></sn>
+![diagram](https://image.slidesharecdn.com/5kingdomclassification-200618190824/75/5-kingdom-classification-Whittaker-classification-4-2048.jpg)</md></sn><sn><md>## Overview Chart
+
+| Factor          | Monera                       | Protista                                   | Fungi                                    | Plantae                         | Animalia                              |
+| :-------------- | :--------------------------- | :----------------------------------------- | :--------------------------------------- | :------------------------------ | :------------------------------------ |
+| **Cell Type**   | Prokaryotic                  | Eukaryotic                                 | Eukaryotic                               | Eukaryotic                      | Eukaryotic                            |
+| **Cell Number** | Unicellular (some colonial)  | Mostly unicellular                         | Mostly multicellular (some unicellular)  | Multicellular                   | Multicellular                         |
+| **Cell Wall**   | Present (peptidoglycan)      | Present in some (cellulose or silica)      | Present (chitin)                         | Present (cellulose)             | Absent                                |
+| **Nutrition**   | Autotrophic or heterotrophic | Autotrophic or heterotrophic               | Heterotrophic (saprophytic or parasitic) | Autotrophic (photosynthetic)    | Heterotrophic (ingestive)             |
+| **Motility**    | Some motile (flagella)       | Some motile (cilia, flagella, pseudopodia) | Non-motile                               | Non-motile                      | Motile                                |
+| **Organisms**   | Bacteria, cyanobacteria      | Amoeba, Paramecium, Euglena                | Yeast, Molds, Mushrooms                  | Mosses, Ferns, Flowering plants | Sponges, Insects, Fish, Birds, Humans |
+</md></sn>
