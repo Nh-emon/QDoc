@@ -1,10 +1,48 @@
 
-	<sn></sn>		
+	<sn><md>## Classification of Plant Kingdom
+
+| **Category**   | **Details**                                                                                                                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kingdom**    | **Plantae (Plant Kingdom)**                                                                                                                                                                                                   |
+| **Definition** | Kingdom Plantae includes all plants. They are eukaryotic, multicellular, and autotrophic organisms. The plant cell contains a rigid cell wall, chloroplasts, and chlorophyll pigment, which are essential for photosynthesis. |
+
+### **Characteristics of Kingdom Plantae**
+
+| **Features**   | **Description**                                                                   |
+| -------------- | --------------------------------------------------------------------------------- |
+| Motility       | Plants are non-motile.                                                            |
+| Nutrition      | They make their own food through photosynthesis, so they are autotrophic.         |
+| Reproduction   | Reproduce sexually or asexually (vegetative propagation).                         |
+| Cell Structure | Multicellular eukaryotes with a rigid cell wall and a large central vacuole.      |
+| Pigments       | Contain photosynthetic pigments like chlorophyll in plastids.                     |
+| Organ Systems  | Have specialized organs for anchorage, reproduction, support, and photosynthesis. |
+
+### **Basis of Classification**
+
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Diversities%20in%20Plant%20Kingdom%20and%20Plant%20Physiology/media/diagram/plant-classification-diagram.png)
+
+| **Criteria**        | **Description**                                                                                  | **Examples**                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Plant Body**      | Based on presence or absence of a well-differentiated plant body such as root, stem, and leaves. | Thallophyta (undifferentiated), Bryophyta, Pteridophyta (differentiated).                  |
+| **Vascular System** | Presence or absence of vascular tissues (xylem and phloem) for water and nutrient transport.     | Bryophyta (absent), Pteridophyta, Gymnosperms, Angiosperms (present).                      |
+| **Seed Formation**  | Based on presence or absence of seeds, and whether seeds are naked or enclosed in fruits.        | Pteridophyta (no seeds), Gymnosperms (naked seeds), Angiosperms (seeds enclosed in fruit). |
+
+### **Major Divisions of Plant Kingdom**
+
+| **Division**     | **Description**                                                                                                         |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Thallophyta**  | Simple, body not differentiated into root, stem, and leaves. E.g. Algae                                                 |
+| **Bryophyta**    | Amphibians of the plant kingdom; have root-like, stem-like, and leaf-like structures but no vascular tissues. E.g. Moss |
+| **Pteridophyta** | Have vascular tissues and differentiated body parts but do not produce seeds. E.g. Ferns                                |
+| **Gymnosperms**  | Produce naked seeds not enclosed in fruit. E.g. Pine, Cycas                                                             |
+| **Angiosperms**  | Flowering plants with seeds enclosed within fruits. E.g. Mango, Rose                                                    |
+</md></sn>		
 	<config>
 		<tags>#05.classification of plant kingdom</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 19:05:11 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Oct 21 2025 07:06:11 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-dvzeVqaYzn</id>
 		<duration></duration>
 	</config>
