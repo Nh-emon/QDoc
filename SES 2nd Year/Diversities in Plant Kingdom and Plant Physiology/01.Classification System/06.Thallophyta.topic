@@ -1,10 +1,33 @@
 
-	<sn></sn>		
+	<sn><md>:::.row
+:::.col-10
+### Thallophyta
+:::
+:::.col-2
+![algea-image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs9pgLeXd1PwetnArrCDWT06deWCBRJdaMsQ&amp;s)
+
+:::
+:::
+
+
+* These are the `lowermost` plants of the plant kingdom, `without a well-differentiated` body design. This means that the plant body is not differentiated as roots, stem, and leaves.
+* Thallophytes `lack a well-differentiated body` structure and the plant body is thallus like.
+* The plant `body is thallus`, they may be filamentous, colonial, branched or unbranched.
+* Examples include green algae, red algae and brown `algae`. Common examples are `Volvox`, Fucus, Spirogyra, Chara, Polysiphonia, Ulothrix, etc.
+</md></sn>		
 	<config>
 		<tags>#06.thallophyta</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Sun Oct 19 2025 19:05:28 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Tue Oct 21 2025 07:21:13 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-3dwc9f4KOC</id>
 		<duration></duration>
 	</config>
+<sn><md>### Importance of Algae
+
+1. Algae produce a large portion of the world’s `oxygen` through photosynthesis.
+2. They serve as the `base of aquatic food chains`, supporting marine and freshwater life.
+3. Algae are used as food for humans and animals (e.g., seaweeds like `Spirulina`).
+4. They are valuable in industries for producing `agar, algin, and biofuels`.
+5. Algae help in `wastewater treatment` by absorbing nutrients and pollutants.
+</md></sn>
