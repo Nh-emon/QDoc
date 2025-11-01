@@ -1,10 +1,35 @@
 
-  <sn></sn>
+  <sn><md>::: .text-center
+## Courses for 2nd Year
+### SES 201 – [Mineralogy and Soil Colloids]{.fg-red}
+**Credit:** 2{.float-end}
+:::
+
+| **Chapter / Unit**        | **Topics Covered**                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Rocks and Minerals** | • Kinds of rocks – essential and accessory minerals<br>• Primary and secondary minerals<br>• Silicate and non-silicate minerals<br>• Stability of minerals<br>• Time sequence of mineral occurrence<br>• Common minerals in different size fractions of soils                                                                                                                                                                                                                        |
+| **2. Clay Minerals**      | • General properties of clay minerals<br>• Classification, structure, and genesis<br>• Sources of charges and identification methods<br>• Oxide and hydroxide minerals in soils<br>• Factors affecting types of clay minerals<br>• Amorphous materials in soils<br>• Distribution of clay minerals in major soil groups of the world and soils of Bangladesh                                                                                                                         |
+| **3. Soil Colloids**      | • Characteristics of coarse dispersion, colloidal systems, and solutions<br>• Classification, preparation, and purification of sols<br>• Optical and kinetic properties of sols<br>• Structure of colloidal systems – electrical double-layer and triple-layer theory<br>• Donnan’s theory of membrane equilibrium<br>• Surface behavior of colloids<br>• Adsorption-desorption phenomenon<br>• Adsorption capacities of various soil components<br>• Different adsorption equations |
+
+
+### Books Recommended
+
++++ see
+
+1. *Rocks and Rock Minerals* – Richard V. Dietrich &amp; Brian J. Skinner
+2. *Petrology* – Walter T. Huang
+3. *The Nature and Properties of Soils* – N.C. Brady &amp; R.R. Weil
+4. *Handbook of Soil Science* – Malcolm E. Sumner
+5. *Principles of Soil Chemistry* – Kim H. Tan
+6. *A Textbook of Colloid Chemistry* – H.B. Weiser
+7. *Essentials of Physical Chemistry* – B.S. Bahl &amp; G.D. Tuli
+
++++</md></sn>
   <config>
     <tags>#syllabus</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 01 2025 08:23:12 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 01 2025 09:02:19 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2yBaO2b6Up</id>
     <duration></duration>
   </config>
