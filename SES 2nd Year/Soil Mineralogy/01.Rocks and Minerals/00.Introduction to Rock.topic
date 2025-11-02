@@ -1,10 +1,131 @@
 
-  <sn></sn>
+  <sn><md>## Rock {.text-end}
+---
+
+:::.row
+
+:::.col-12 .col-md-6
+A rock is a `naturally occurring solid mass` made of minerals or mineraloids, classified by its composition, minerals, and formation process. Rocks make up the Earth's crust and most of its interior, excluding the liquid core. The **study of rocks**, known as `petrology` and mineralogy, may include Earth and other celestial bodies.
+:::
+
+:::.col-12 .col-md-6
+![mount-sinar](https://i.pinimg.com/originals/2c/66/74/2c66746999b87e2d7caa994938a71fee.jpg)
+:::
+
+:::
+
+
+Rocks are divided into three main types:
+
+* **Igneous rocks** – formed by `cooling of magma or lava`.
+* **Sedimentary rocks** – formed by `compaction and cementation of sediments` from weathered rocks.
+* **Metamorphic rocks** – formed when `existing rocks change under high heat and pressure` without melting.
+
+Humans have used rocks `since the Stone Age` for tools, construction, and mining. Modern technology has also created artificial rock-like materials such as concrete.
+</md></sn>
   <config>
     <tags>#00.introduction to rock</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 02 2025 18:56:01 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 02 2025 20:07:46 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-0UIs3F7eTf</id>
     <duration></duration>
   </config>
+<sn><md>### Study
+
+&gt; **Geology** is the `study of Earth and its structure`, including rocks. <br>
+&gt; **Petrology** focuses on the `origin and nature of rocks` <br>
+&gt; While **Mineralogy** `examines the minerals` that form them.
+
+These studies have deepened understanding of Earth’s history, human development, and technological progress.
+
+The scientific study of rocks became formalized in the `19th century` with the rise of **Plutonism**. The discovery of `radioactive decay` in 1896 enabled `radiometric dating`, and the `plate tectonics theory` in the 20th century further advanced geological science.
+</md></sn><sn><md>### Classification
+
+Rocks are `mainly made up of mineral grains`—++crystalline solids++ formed by atoms arranged in an orderly pattern. Some rocks also contain `mineraloids`, such as volcanic glass, which ++lack a crystalline structure++. The types and amounts of minerals in a rock depend on how the rock was formed.
+
+Most rocks are rich in `silicate minerals`, which make up about `95% of Earth’s crust`. The **silica content** of a rock largely determines its `properties and classification`.
+
+Rocks are categorized by features like **mineral and chemical composition**, **texture**, **permeability**, and **particle size**, all of which reflect their formation process. Through the **rock cycle**, rocks can change from one type to another, forming the three main classes: **igneous**, **sedimentary**, and **metamorphic**.
+
+These classes have many subgroups, but their boundaries are gradual rather than distinct—rocks often blend into one another as mineral proportions and structures vary continuously.
+</md></sn><sn><md>### Igneous Rock
+
+:::.row
+:::.col-12 .col-md-6
+**Igneous rocks** (from the Latin *igneus*, meaning “of fire”) form when `magma or lava cools and solidifies`. Magma originates from partial melting of pre-existing rocks in the **mantle or crust**, usually due to increased temperature, decreased pressure, or compositional changes.
+:::
+
+:::.col-12 .col-md-6
+![igneous-rock-image](https://image-v2.cdn.app.senecalearning.com/2018-08/67b01384-1a52-440e-ac1e-48d85833ffd4/igneous-rock-magma-molten-lava-,h_400,q_80,w_640.jpg)
+:::
+:::
+
+
+There are two main types of igneous rocks:
+
+* **Plutonic (intrusive) rocks** – form when `magma cools slowly beneath the Earth’s surface`, e.g., **granite**.
+* **Volcanic (extrusive) rocks** – form when `lava or ejecta cools on the surface`, e.g., **basalt** or **pumice**.
+
+As magma rises, it undergoes **magma differentiation**, becoming `richer in silica`—the key factor in classifying igneous rocks, followed by alkali oxide content.
+
+Igneous rocks make up about **65% of Earth’s crust**:
+
+* **66%** basalt and gabbro
+* **16%** granite
+* **17%** granodiorite and diorite
+* **0.6%** syenite
+* **0.3%** ultramafic rocks
+
+The `oceanic crust` is almost entirely ++basalt++,<br> while ++granite and granitoids++ dominate the `continental crust`.
+</md></sn><sn><md>### Sedimentary Rock
+
+:::.row
+
+:::.col-12 .col-md-6
+**Sedimentary rocks** form at the Earth’s surface through the `accumulation, compaction, and cementation` of fragments of pre-existing rocks, minerals, or organic matter, or by chemical precipitation from water. This process, called **sedimentation**
+:::
+
+:::.col-12 .col-md-6
+![sedimentary-rock-image](https://t4.ftcdn.net/jpg/08/83/71/33/360_F_883713332_PduhHLKCqld0zhPGJAMiQvpla7rG1wbP.jpg)
+:::
+
+:::
+
+
+**Sediments** originate from the `weathering and erosion` of earlier rocks and are **transported** by agents such as **water, wind, ice, or gravity** before settling in layers. These layers, known as `strata`, give sedimentary rocks their typically horizontal, **stratified** appearance and often contain **fossils**.
+
+By volume, sedimentary rocks make up about `7.9%` of Earth’s crust, consisting of:
+
+* **82% shale**
+* **12% sandstone and arkose**
+* **6% limestone**
+
+Sediments are also classified by **grain size**:
+**clay → silt → sand → gravel**, with larger particles like **cobbles** and **boulders** in some systems.
+</md></sn><sn><md>### Metamorphic Rock
+
+:::.row
+
+:::.col-12 .col-md-6
+**Metamorphic rocks** form when existing rocks—igneous, sedimentary, or older metamorphic—are `exposed to high temperatures and pressures` different from their original formation conditions, a process known as **metamorphism** (“change in form”). This causes `recrystallization` of minerals, altering the rock’s structure and composition. Metamorphism typically occurs at `temperatures above 150–200°C` and `pressures above 1500 bars`, such as during **continental plate collisions**. Metamorphic rocks make up about `27.4%` of Earth’s crust.
+:::
+
+:::.col-12 .col-md-6
+![metamorphic-rock-image](https://cdn.zmescience.com/wp-content/uploads/2024/01/slate_warp_west_coast_portugal-736525-1024x768.jpg)
+:::
+
+:::
+
+
+The main types of metamorphism are:
+
+* **Contact metamorphism** – caused by heat from nearby magma.
+* **Pressure (burial) metamorphism** – caused by deep burial under sediment.
+* **Regional metamorphism** – caused by both heat and pressure, often in mountain-building zones.
+
+Based on texture, metamorphic rocks are classified as:
+
+* **Foliated** – with `layered or banded` structures (e.g., **schist**, **gneiss**, **slate**, **phyllite**, **mylonite**).
+* **Non-foliated** – `without distinct layering` (e.g., **marble**, **quartzite**, **soapstone**, **serpentine**, **hornfels**).
+</md></sn>
