@@ -1,10 +1,61 @@
 
-  <sn></sn>
+  <sn><md>### Soil Colloids
+
+The **physical chemistry** of soils is essentially a `study of the most reactive fractions of soils`, or the so-called `colloidal phase`. The colloidal particles play an important role in determining the `physical` and `physico-chemical properties` and `reactions` that occur in soils.
+
+---
+
+&gt; A **colloid** is a very tiny particle, usually `smaller than 1 micrometer in diameter`.
+
+`Nutrients are adsorbed on soil colloidal particles`. Hence, the constituents of soil which are in the colloidal state are the **seats of reactions in soil**.
+
+---
+
+#### Clay and Colloidal Materials{.text-center}
+
+`Clays` are important colloidal materials.<br>
+
+The term **‘clay fraction’** should not be confused with the term **‘clay minerals’**:
+* The **clay fraction** may contain `clay-sized particles` which are not clay minerals.
+* Similarly, **clay minerals** may occur in particles that are too large to be included in the clay fraction.
+
+---
+
++++ explain
+* **Clay fraction** বলতে মাটির সেই অংশকে বোঝায়, যার কণাগুলোর আকার খুব ছোট — অর্থাৎ *clay-sized particles* (সাধারণত ২ মাইক্রোমিটারের কম ব্যাসের কণা)। কিন্তু এই ছোট কণাগুলো সবসময় **clay mineral** (মাটির খনিজ মাটি গঠনকারী খনিজ) নাও হতে পারে। অর্থাৎ, এদের গঠন ভিন্ন হতে পারে, যদিও আকারে তারা মাটির কণার মতো ছোট।
+
+* অন্যদিকে, **clay minerals** বা মাটির খনিজ পদার্থ কখনও কখনও এমন কণার আকারে থাকতে পারে, যা অনেক বড় — এতটাই বড় যে সেগুলোকে **clay fraction** বা মাটির ক্ষুদ্রাংশের মধ্যে ধরা যায় না।
+
+👉 সহজভাবে বলতে গেলে:
+সব ছোট কণাই **clay mineral** নয়, আর সব **clay mineral** কণাও ছোট আকারের নয়।
++++
+
+---
+
+#### The Colloidal State{.text-center}
+
+The **colloidal state** refers to a `two-phase system` in which one phase, in a very `finely divided state`, is **dispersed through a second one**.<br>
+The `most active portions of soil` are those in the ++colloidal state++.
+
+---
+
+#### Classification of Soil Colloids{.text-center}
+
+1. **Inorganic colloids(clays)**
+
+   * a) The `silicate` clays
+   * b) The `iron and aluminium oxide` clays
+     *(Prominent in well-weathered soils of tropical and semitropical regions)*
+
+2. **Organic colloids**
+
+   * `Humus`
+</md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:42:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 03 2025 18:06:17 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-NwaXvh4eFx</id>
     <duration></duration>
   </config>
