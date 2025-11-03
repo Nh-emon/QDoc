@@ -34,8 +34,26 @@ The term **‘clay fraction’** should not be confused with the term **‘clay 
 
 #### The Colloidal State{.text-center}
 
+মাটির কলোয়েড অবস্থা (Soil Colloidal State) হলো এমন একটি অবস্থা যেখানে অতি ক্ষুদ্র কণাগুলো (colloidal particles) আরেকটি পদার্থের (সাধারণত পানির) মধ্যে সমভাবে ছড়িয়ে থাকে।
+
 The **colloidal state** refers to a `two-phase system` in which one phase, in a very `finely divided state`, is **dispersed through a second one**.<br>
 The `most active portions of soil` are those in the ++colloidal state++.
+
++++ Qna
+
+Colloid state in Soil and Cloud
+
+| **System**       | **Dispersed Phase**           | **Dispersion Medium** | **Example Type**                 |
+| ---------------- | ----------------------------- | --------------------- | -------------------------------- |
+| **Soil colloid** | Solid particles (clay, humus) | Water                 | Solid-in-liquid (suspension/sol) |
+| **Cloud / Fog**  | Liquid water droplets         | Air                   | Liquid-in-gas (aerosol)          |
+
+---
+
+✅ **So, in soil colloid → solid dispersed in water** <br>
+✅ **In clouds → water dispersed in air**
+
++++
 
 ---
 
@@ -55,7 +73,7 @@ The `most active portions of soil` are those in the ++colloidal state++.
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 18:06:17 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 03 2025 18:46:28 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-NwaXvh4eFx</id>
     <duration></duration>
   </config>
