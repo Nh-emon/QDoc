@@ -1,10 +1,73 @@
 
-  <sn></sn>
+  <sn><md>### Properties of Colloids
+
+Since `colloidal particles occur in a colloidal state`, soil colloids form a `dispersed phase`, dispersed in a **dispersion medium (soil solution)**.
+Colloids exhibit distinct properties such as **adsorption, electronegative charge, Tyndall effect, Brownian movement, cataphoresis, electro-osmosis, coagulation**, and other related characteristics.
+
+#### Summary of Key Colloidal Properties
++++ table
+| **Property**               | **Description**                                              | **Key Concept**            |
+| -------------------------- | ------------------------------------------------------------ | -------------------------- |
+| **Adsorption**             | Large surface area allows colloids to `hold ions &amp; molecules`. | Surface activity           |
+| **Electronegative Charge** | `Clay surfaces are negatively charged`, attracting cations.    | Ionic double layer         |
+| **Tyndall Effect**         | `Visible scattering of light` through colloidal suspension.    | Light diffusion            |
+| **Brownian Movement**      | `Random motion` due to particle repulsion.                     | Stability of colloid       |
+| **Cataphoresis**           | `Movement of charged particles` in electric field.             | Determines particle charge |
+| **Electro-osmosis**        | `Movement of liquid medium` under electric field.              | Charge effect on water     |
+| **Coagulation / Dialysis** | Settling of colloids or `purification` by membrane.            | Stability &amp; separation     |
++++
+</md></sn>
   <config>
     <tags>#02.properties of colloids</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:42:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 03 2025 21:43:46 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UP5llJTjcD</id>
     <duration></duration>
   </config>
+<sn><md>### Adsorption
+
+The `surface area` exposed by colloidal particles is `very large` because of their `small size`.
+The internal interface between `plate-like crystals` and `external surfaces` further increases the surface area of clays.
+
+**Specific surface** is defined as the `surface area per unit volume`.
+For a spherical particle:
+
+$$\text{Specific surface } S = \frac{6}{d}$$
+
+If the clay particles are assumed spherical with **d = 0.002 mm**,
+then ( $S = \frac{6}{0.002} = 3000 , \text{mm}^2/\text{mm}^3$ )
+
+For finer clay particles **(&lt; 0.0002 mm)**,
+( S = $\frac{6}{0.0002}$ = 30,000 , $\text{mm}^2/\text{mm}^3$ )
+
+However, this is a **theoretical value** because clay particles are **plate-like**, not spherical.
+
+#### Example using cubes:
+
+If a cube of **1 cm edge** has a surface area of **6 cm²**,
+and it is subdivided into smaller cubes, the surface area increases:
+
+| Cube size | Number of cubes | Total Surface Area (cm²) |
+| --------- | --------------- | ------------------------ |
+| 4 cm      | 1               | 96                       |
+| 1 cm      | 64              | 384                      |
+
+Thus, **smaller particles expose greater surface area**, giving **colloidal particles tremendous adsorptive properties**.
+The **external surface area of 1 g of colloidal clay** is about **1000 times greater** than that of 1 g of coarse sand.
+</md></sn><sn><md>### Electronegative Charge
+
+:::.row
+:::.col-12 .col-md-6
+Clay particles are usually `negatively charged`.<br>
+This causes `positively charged cations` to be `attracted and held` on their surface, forming an `ionic double layer`:
+* **Inner layer:** `Negatively charged` clay surface.
+* **Outer layer:** `Loosely held cations` associated with water molecules.
+:::
+:::.col-12 .col-md-6
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/clay-charge-diagram.png)
+:::
+:::
+
+Because these `cations are weakly bound`, they are `exchangeable` — forming the basis of `cation exchange capacity` in soils.
+</md></sn><sn></sn>
