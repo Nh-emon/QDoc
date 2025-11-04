@@ -1,10 +1,98 @@
 
-  <sn></sn>
+  <sn><md>### Secondary Minerals
+
+Secondary minerals are those that form as a result of the `weathering, alteration, or decomposition` of *primary minerals*.<br> They originate when primary minerals react with water, carbon dioxide, and other agents in the environment. The process often involves chemical weathering, hydrolysis, oxidation, and hydration, leading to the formation of new, more stable minerals under surface conditions.
+
+Common secondary minerals include clay minerals, oxides, hydroxides, carbonates, and sulfates. These minerals play an essential role in soil formation and fertility, influencing the chemical and physical properties of soils.
+
+Examples of secondary minerals:
+
+* **Clay minerals:** Kaolinite, montmorillonite, illite
+* **Oxides and hydroxides:** Goethite (FeO(OH)), hematite (Fe₂O₃), gibbsite (Al(OH)₃)
+* **Carbonates:** Calcite (CaCO₃), dolomite (CaMg(CO₃)₂)
+* **Sulfates:** Gypsum (CaSO₄·2H₂O)
+</md></sn>
   <config>
     <tags>#secondary minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 04 2025 11:35:45 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 11:52:04 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PvacDZijYe</id>
     <duration></duration>
   </config>
+<sn><md>### Silicate Minerals
+
+Silicate minerals are the `most abundant group` of minerals in the Earth's crust, composed mainly of `silicon (Si), oxygen` (O), and various metal cations. Their `fundamental building block` is the **silicate tetrahedron** (SiO₄⁴⁻), where one silicon atom is surrounded by four oxygen atoms.
+
+Silicate minerals can be **primary** (formed directly from cooling magma) or **secondary** (formed by alteration of primary silicates). Secondary silicates, especially **phyllosilicates (clay minerals)**, are vital in soil formation and nutrient retention.
+
+#### Phyllosilicates{.text-center}
+
+Phyllosilicates are `sheet silicates`, where silicate tetrahedra are `linked in two-dimensional layers`. The layers are `weakly bonded` by cations or hydrogen bonds, giving rise to characteristic properties such as cleavage, softness, and plasticity in clays.
+
+**Examples and structure:**
+
+* **Kaolinite group (1:1 type):** One tetrahedral sheet + one octahedral sheet
+* **Smectite group (2:1 type):** Two tetrahedral sheets + one octahedral sheet with interlayer water
+* **Illite:** 2:1 structure with `potassium ions` in interlayer
+* **Chlorite:** 2:1:1 structure with additional hydroxide sheet
+
+Phyllosilicates are secondary products of weathering processes and greatly influence soil texture, water retention, and cation exchange capacity.
+
+#### Amorphous Silicates{.text-center}
+
+Amorphous silicates are secondary silicates that `lack a well-defined crystalline structure`. They are often formed during the early stages of weathering or through volcanic glass alteration.
+
+**Common amorphous silicates:**
+
+* **Allophane:** A `hydrous` aluminosilicate, commonly found in volcanic ash soils
+* **Imogolite:** A `tubular` aluminosilicate, similar in composition to allophane
+
+These amorphous minerals have high surface area and reactive sites, making them important in nutrient adsorption and soil chemical reactions.
+</md></sn><sn><md>### Non-Silicate Minerals
+
+Non-silicate minerals constitute a `smaller proportion` of the Earth’s crust compared to silicates but are crucial for specific geochemical and soil processes. They do not contain silicon-oxygen tetrahedra as their fundamental structure.
+
+#### Oxides and Hydroxides{.text-center}
+
+These minerals consist of `oxygen or hydroxide ions` combined with `metallic` elements. They are typically formed by the `oxidation and hydration of primary minerals`.
+
+**Examples:**
+
+* **Oxides:** Hematite (Fe₂O₃), Magnetite (Fe₃O₄)
+* **Hydroxides:** Goethite (FeO(OH)), Gibbsite (Al(OH)₃), Brucite (Mg(OH)₂)
+
+They are important in controlling soil color, drainage properties, and nutrient fixation (especially phosphorus).
+
+#### Carbonates{.text-center}
+
+Carbonates are formed through the `reaction of carbon dioxide with metal ions` in aqueous environments, commonly during weathering or sedimentation processes.
+
+**Examples:**
+
+* **Calcite (CaCO₃)**
+* **Dolomite (CaMg(CO₃)₂)**
+* **Siderite (FeCO₃)**
+
+Carbonate minerals influence soil pH, buffering capacity, and nutrient availability, particularly calcium and magnesium.
+
+#### Sulfates{.text-center}
+
+Sulfate minerals form through the `oxidation of sulfide minerals` or `precipitation from sulfate-rich waters`. They are often associated with arid and semi-arid environments.
+
+**Examples:**
+
+* **Gypsum (CaSO₄·2H₂O)**
+* **Anhydrite (CaSO₄)**
+
+Gypsum is significant in improving soil structure, providing calcium and sulfur, and reclaiming sodic soils.
+
+#### Sulfides{.text-center}
+
+Sulfides consist of `sulfur combined with one or more metals`. They usually form in `reducing environments` and are common in `ore deposits`. On exposure to air and water, they can oxidize to form sulfates and acidic conditions (acid sulfate soils).
+
+**Examples:**
+
+* **Pyrite (FeS₂)**
+* **Galena (PbS)**
+* **Sphalerite (ZnS)**</md></sn>
