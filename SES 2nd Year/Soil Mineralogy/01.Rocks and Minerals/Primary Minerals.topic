@@ -1,10 +1,33 @@
 
-  <sn></sn>
+  <sn><md>### Minerals
+
+A **mineral** is a `naturally occurring`, `inorganic solid` with a `definite chemical composition` and an `ordered internal atomic structure`. Minerals are the building blocks of rocks and are essential components of the Earth’s crust. Each mineral is characterized by specific physical and chemical properties such as hardness, color, luster, crystal form, cleavage, and density.
+
+Minerals `form` through various geological processes such as `cooling of magma, precipitation from solution, or alteration of pre-existing minerals`. Based on their origin and composition, minerals are broadly classified into **primary** and **secondary** types.
+
+---
+
+### Primary Minerals
+
+**Primary minerals** are those `formed directly from the solidification of molten magma or lava`. They crystallize under high-temperature and pressure conditions deep within the Earth’s crust. These minerals are chemically `stable under such conditions` but may `become unstable when exposed to the Earth’s surface` environment, where they undergo weathering and form **secondary minerals**.
+
+Primary minerals are generally found in `igneous and metamorphic rocks` and are less affected by weathering compared to secondary minerals.
+</md></sn><sn><md>### Classification of Silicate Minerals
+
+| **Type of Silicate**          | **Standard Arrangement**                                             | **Structural Unit**                                           | **Si : O Ratio**                                       | **Examples**                                                                                            |
+| ----------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Nesosilicate (Isolated)**   | Independent SiO₄ tetrahedra not sharing oxygen atoms                 | SiO₄⁴⁻                                                        | 1 : 4                                                  | Olivine ((Mg,Fe)₂SiO₄), Zircon (ZrSiO₄), Garnet (Fe₃Al₂(SiO₄)₃)                                         |
+| **Sorosilicate (Double)**     | Two tetrahedra share one oxygen atom forming pairs                   | Si₂O₇⁶⁻                                                       | 2 : 7                                                  | Epidote (Ca₂(Fe,Al)₃(SiO₄)₃(OH)), Vesuvianite (Ca₁₀(Mg,Fe)₂Al₄(SiO₄)₅(Si₂O₇)₂(OH)₄)                     |
+| **Cyclosilicate (Ring)**      | Tetrahedra linked in closed rings by sharing two oxygens             | (Si₆O₁₈)¹²⁻ (commonly 6-membered ring)                        | 1 : 3                                                  | Beryl (Be₃Al₂Si₆O₁₈), Tourmaline, Cordierite                                                            |
+| **Inosilicate (Chain)**       | Tetrahedra linked in single or double chains by sharing oxygen atoms | **Single chain:** (SiO₃)²⁻  <br> **Double chain:** (Si₄O₁₁)⁶⁻ | **Single chain:** 1 : 3  <br> **Double chain:** 4 : 11 | **Single chain:** Pyroxene (Augite, Enstatite) <br> **Double chain:** Amphibole (Hornblende, Tremolite) |
+| **Phyllosilicate (Sheet)**    | Tetrahedra share three oxygens forming continuous sheets             | (Si₂O₅)²⁻                                                     | 2 : 5                                                  | Mica (Muscovite, Biotite), Clay minerals (Kaolinite, Montmorillonite), Chlorite                         |
+| **Tectosilicate (Framework)** | All four oxygens of each tetrahedron shared forming a 3D network     | SiO₂                                                          | 1 : 2                                                  | Quartz (SiO₂), Feldspars (Orthoclase, Albite, Anorthite), Zeolites                                      |
+</md></sn>
   <config>
     <tags>#primary minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 04 2025 12:36:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 12:38:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-lGrH6AELkk</id>
     <duration></duration>
   </config>
