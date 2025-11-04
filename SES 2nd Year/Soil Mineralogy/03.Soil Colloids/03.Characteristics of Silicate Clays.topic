@@ -1,10 +1,59 @@
 
-  <sn></sn>
+  <sn><md>## Characteristics of Silicate Clays
+
+Apart from the general properties of colloids, `silicate clays` exhibit several important characteristics related to their **shape**, **structure**, and **interaction with water and heat**.
+
++++ overview table
+
+| **Characteristic**  | **Description**                                                       | **Key Concept**                     |
+| ------------------- | --------------------------------------------------------------------- | ----------------------------------- |
+| **Shape**           | Layered, plate-like, crystalline particles with high cohesion.        | Structure and surface area          |
+| **Hydration**       | Adsorption of water on internal/external surfaces and between layers. | Water of hydration                  |
+| **Heat of Wetting** | Heat released when clay adsorbs water or other liquids.               | Ion hydration and adsorption energy |
+
++++</md></sn>
   <config>
     <tags>#03.characteristics of silicate clays</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:43:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 07:03:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-KFBAx8hhER</id>
     <duration></duration>
   </config>
+<sn><md>### Shape
+
+* Clay particles are `crystalline` in nature and composed of `layers of plates`.
+* The **shape** of these particles determines the **effective surface area per unit mass**.
+* Because of their platy structure, the particles can `easily slide over each other` and exhibit **high cohesion**.
+</md></sn><sn><md>### Hydration
+
+Clay particles can adsorb a **large and indefinite amount of water** on their surfaces.<br>
+The **cations** adjacent to clay minerals are also **hydrated**.
+
+Water is held:
+
+* On `internal and external surfaces` of ++clay particles++.
+* `Between the silica and alumina plates` of ++clay crystals++.
+
+The total water held by clay is known as `water of hydration`.
+
+There are two main forms:
+
+* **Planer water of hydration** – water molecules `held on crystal surfaces` by ++electrical fields++; large in quantity.
+* **Edge-held water** – water tightly bound to `unsatisfied valence bonds` at the edges of ++clay crystals++.
+</md></sn><sn><md>### Heat of Wetting
+
+When **dry soil or clay** is placed in **water, alcohol, or an organic solvent**, `heat is evolved due to **adsorption** of molecules`.
+This heat is known as the **heat of wetting**.
+
+#### Key Points:
+
+* The `heat of wetting decreases` as the `moisture content` of clay increases.
+* It is measured in `calories per gram` of dried clay (at **110°C**).
+* The phenomenon results mainly from:
+
+  1. `Change in the state of water` adjacent to the adsorbing surface.
+  2. `Hydration of adsorbed ions`, which is the **major cause** of heat evolution.
+
+The **heat of wetting** is also used as a **method for estimating the colloidal content** of soil.
+</md></sn>
