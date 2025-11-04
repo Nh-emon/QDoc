@@ -1,10 +1,91 @@
 
-  <sn></sn>
+  <sn><md>### Physical Properties of Soil Colloids
+
+Since **shape, size, surface area, adsorption, and hydration** are all prominent characteristics of clays, they give rise to several **physical properties**.
+These are surface-related phenomena that depend on the **amount and nature of interfaces** presented by soil colloids.
+
++++ Overview Table Physical Properties of Soil Colloids
+
+| **Property**                       | **Description**                                               | **Main Cause / Influence**                         | **Effect on Soil**                    |
+| ---------------------------------- | ------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
+| **Plasticity**                     | Ability of moist clay to be molded or shaped.                 | Plate-like structure, adsorbed water, cation type. | High plasticity → poor workability.   |
+| **Cohesion**                       | Attraction between colloidal particles as moisture decreases. | Hydrogen bonding among clay surfaces and water.    | Increases soil compactness.           |
+| **Swelling &amp; Shrinkage**           | Expansion and contraction with changing moisture.             | Water in layers and adsorbed ions.                 | Causes cracking and sealing behavior. |
+| **Flocculation &amp; De-flocculation** | Aggregation or dispersion of colloidal particles.             | Type of adsorbed cations.                          | Determines soil structure stability.  |
++++
+</md></sn>
   <config>
     <tags>#04.physical properties of colloids</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:43:43 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 07:52:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-xX0Hi4eAfv</id>
     <duration></duration>
   </config>
+<sn><md>### Plasticity
+
+**Plasticity** is the `capacity of clay` to be `molded or shaped` when moist.<br>
+It arises due to the `plate-like nature` of clay particles and the **binding effect of adsorbed water** between them.<br>
+The **water films** allow the particles to `slide over each other` easily.
+
+* Soils containing `more than 15% clay` generally exhibit plasticity.
+* Plasticity is measured between two limits: the **lower plastic limit** and the **upper plastic limit**.
+* A **wide range** between these limits indicates **poor workability**.
+
+#### Factors Affecting Plasticity:{.text-center .border-bottom}
+
+1. **Type of clay mineral** –
+
+   * Soils dominated by `montmorillonite` show ++high plasticity++ (wide range between plastic limits).
+   * Soils with `kaolinite` or **illite** are ++less plastic++ and easier to handle.
+2. **Type of exchangeable cation** –
+
+   * `Sodium clays` are ++more plastic++ than **calcium** or **hydrogen** clays.
+   * Sodium increases the range between upper and lower plastic limits.
+
+&gt; **Note:** High plasticity is **not desirable** in soils.
+&gt; Heavy (clayey) soils, when ploughed wet, become **puddled**, `harming aeration and drainage`.
+
++++ Plastic Limits of Important Clays (Snow, 1949)
+
+| **Type of Clay**    | **Calcium-Saturated (Lower)** | **Calcium-Saturated (Upper)** | **Sodium-Saturated (Lower)** | **Sodium-Saturated (Upper)** |
+| ------------------- | ----------------------------- | ----------------------------- | ---------------------------- | ---------------------------- |
+| **Montmorillonite** | 63                            | 177                           | 97                           | 700                          |
+| **Illite**          | 40                            | 90                            | 34                           | 61                           |
+| **Kaolinite**       | 36                            | 73                            | 26                           | 52                           |
++++
+</md></sn><sn><md>### Cohesion
+
+When the [water content of wet clay decreases]{.fg-red}, the [attraction among colloidal particles increases]{.fg-teal}.<br>
+This is due to the `attraction for remaining water molecules` held between them.
+
+Cohesion involves:
+
+* **Hydrogen bonding** between `clay surfaces and water molecules` (++adhesion++)
+* **Hydrogen bonding** among `water molecules themselves` (++cohesion++)
+
+* `Montmorillonite` and **illite** ++show more cohesion++ than **kaolinite**.
+* `Humus` ++reduces cohesion++ by decreasing the attraction between clay particles.
+</md></sn><sn><md>### Swelling and Shrinkage
+
+Swelling বা ফোলাভাব হচ্ছে সেই প্রক্রিয়া, যেখানে কাদামাটি (clay) পানি শোষণ করে আকারে বড় হয়ে যায়। <br>
+এই বৈশিষ্ট্য মূলত মাটির কলোয়েডিক কণার গঠন ও প্রকৃতির উপর নির্ভর করে।
+
+**Swelling** occurs in clay due to:
+
+1. Water between `crystal layers`
+2. Water attracted to `adsorbed ions`
+3. Water `entrapped in small soil pores`
+
+This property is ++most distinct++ in `montmorillonite` because of its `expanding lattice` and `fine particle size`.
+In contrast, `kaolinite` shows the ++least swelling++ due to its `non-expanding lattice`.
+
+&gt; Soils dominated by `montmorillonite` develop **deep cracks** after drying, allowing rainfall to penetrate easily.
+&gt; But upon rewetting, they form `impervious layers` because of **shrinkage** during drying.
+</md></sn><sn><md>### Flocculation and De-flocculation
+
+* **Flocculation** refers to the `aggregation of colloidal particles` into small clusters or **floccules**.<br>
+  It leads to the formation of `stable soil aggregates` depending on the **type of cation** adsorbed on the clay surface.
+
+*  **De-flocculation**, on the other hand, is the `dispersion of colloidal particles`, which `destabilizes soil structure`.
+</md></sn>
