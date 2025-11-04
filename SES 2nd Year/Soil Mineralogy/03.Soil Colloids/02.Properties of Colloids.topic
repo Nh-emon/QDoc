@@ -21,11 +21,13 @@ Colloids exhibit distinct properties such as **adsorption, electronegative charg
     <tags>#02.properties of colloids</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 21:43:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 06:12:48 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UP5llJTjcD</id>
     <duration></duration>
   </config>
 <sn><md>### Adsorption
+
+![example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48Y0OeoFVRumcPY5YT5tpPr64UMT9mlU8hw&amp;s)
 
 The `surface area` exposed by colloidal particles is `very large` because of their `small size`.
 The internal interface between `plate-like crystals` and `external surfaces` further increases the surface area of clays.
@@ -70,4 +72,63 @@ This causes `positively charged cations` to be `attracted and held` on their sur
 :::
 
 Because these `cations are weakly bound`, they are `exchangeable` — forming the basis of `cation exchange capacity` in soils.
-</md></sn><sn></sn>
+</md></sn><sn><md>### Tyndall Effect
+
+:::.row
+:::.col-12 .col-md-6
+When a **strong beam of light** passes through a **colloidal suspension**, the `particles become visible and appear larger`.<br>
+This happens due to `scattering (diffusion) of light` by colloidal particles.<br>
+This phenomenon, first studied by **Tyndall**, is called the **Tyndall Effect**.
+:::
+
+:::.col-12 .col-md-6
+![image](https://cdn1.byjus.com/wp-content/uploads/2018/07/Tyndall-effect-700x315.png)
+:::
+:::
+</md></sn><sn><md>### Brownian Movement
+
+:::.row
+:::.col-12 .col-md-6
+* When observed under a microscope, `colloidal particles show continuous zigzag motion`.
+* This occurs because the particles are `negatively charged` and `repel each other`, preventing them from settling.
+* This random motion was discovered by **Sir Robert Brown in 1827**.
+:::
+
+:::.col-12 .col-md-6
+![image](https://www.sciencefacts.net/wp-content/uploads/2023/02/Brownian-Motion.jpg)
+:::
+:::
+
+</md></sn><sn><md>### Cataphoresis
+
+:::.row
+:::.col-12 .col-md-6
+* **Cataphoresis** is the `migration of colloidal particles` under the influence of an **electric field**.
+* Because colloidal particles are charged, they `move toward the electrode of opposite charge`.
+* This property helps to `determine the charge type` (positive or negative) of colloidal particles.
+:::
+
+:::.col-12 .col-md-6
+![image](https://d10lpgp6xz60nq.cloudfront.net/physics_images/FM_CHE_XII_V02_C10_E02_391_S01.png)
+:::
+:::
+</md></sn><sn><md>### Electro-osmosis
+
+:::.row
+:::.col-12 .col-md-6
+* When colloidal particles are `held stationary` by a `porous diaphragm`, and an **electric field** is applied,
+the `dispersion medium (water) moves` instead of the colloids.
+* This movement of the `dispersion medium` under ++electric influence++ is called **Electro-osmosis**.
+* It also occurs due to the **electrical charge** present on colloidal surfaces.
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://www.researchgate.net/publication/342823165/figure/fig5/AS:962193004703785@1606416097910/Electroosmosis-flow-in-a-capillary-tube.png)
+:::
+:::</md></sn><sn><md>### Coagulation (or Dialysis)
+
+* Colloidal particles can be `coagulated` (made to settle) by adding `oppositely charged ions`.
+   For example, **clay particles** can be coagulated by adding **alum (Al³⁺ ions)**.
+* In **dialysis**, the `colloids are separated from smaller impurities` (crystalloids).
+* Crystalloids pass through a `semi-permeable membrane`, leaving behind a **pure colloidal suspension**.
+</md></sn>
