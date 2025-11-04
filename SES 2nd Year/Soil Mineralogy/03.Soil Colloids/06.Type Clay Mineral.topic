@@ -1,10 +1,44 @@
 
-  <sn></sn>
+  <sn><md>### Two-layer Type
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/silica-alumina-sheet.png)
+
+* It consists of `one silica tetrahedral layer` and `one alumina octahedral layer` (Fig. 13.6, 13.7). **Kaolinite** is prominent in this group.
+* One silica tetrahedral layer is joined with one aluminium octahedral layer. The top oxygen of the silica tetrahedral layer occupies the position of the oxygen of the octahedral layer and is **common to both tetrahedral and octahedral layers** (Fig. 13.8).
+* A ++weak negative charge++ develops on the `surface of the basal oxygen of the silica tetrahedral layer` and a ++weak positive charge++ develops on the `surface of the hydrogen of the hydroxyl of the aluminium octahedral layer`.
+* The positive charge on the hydroxyl surface attracts the negative charge on the oxygen surface. Hence, the **kaolinite units are tightly bound by hydrogen bonds.**
+* Cations and water do not enter between the structural layers of the particle. Therefore, the **effective surface of kaolinite** is restricted to its outer faces and external surface area.
+
++++ structure of kaolinite
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/structure-of-kaolinite.png)
++++</md></sn>
   <config>
     <tags>#06.type clay mineral</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:48:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 09:09:57 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-JOhwtJxzbY</id>
     <duration></duration>
   </config>
+<sn><md>### Halloysite
+
+* **Halloysite** is the second most common member of the group and has a composition similar to **kaolinite**, but it contains a `sheet of water between kaolinite layers`.
+
+* The crystals have a `tubular appearance`. Water molecules are firmly attached through **hydrogen bonding**, which results in a **rigid structure**.
+
+* However, `dehydration` can occur very easily, causing the structure to `collapse` and form a mineral similar to kaolinite.
+
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/2-1-clay-minerals.png)
+
+#### Nacrite and Dickite
+
+**Nacrite** and **Dickite** differ from **Kaolinite** in the **orientation of OH groups** that are involved in **interlayer bonding**.
+</md></sn><sn><md>### Three layer type
+
+It consists of ++two silica tetrahedral layers++ and ++one alumina octahedral layer++ between them (Fig 13.9-A and 13.9-B).<br>
+These are further divided into 
+* (a) 2:1 type expanding 
+* b) 2:1 type non¬expanding.
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/structure-of-montmorillonite.png)</md></sn>
