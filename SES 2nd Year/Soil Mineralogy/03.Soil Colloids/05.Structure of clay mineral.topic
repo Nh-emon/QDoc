@@ -1,10 +1,92 @@
 
-  <sn></sn>
+  <sn><md>### Basic Structural Units of Silicate Clays
+
+Silicate clays are composed of `two fundamental structural units`<br> 
+* the **silica** `tetrahedron` and 
+* the **alumina** `octahedron`.
+ 
+These two units form sheets that `combine in different arrangements` to produce various types of clay minerals.
+
+</md></sn>
   <config>
     <tags>#05.structure of clay mineral</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 03 2025 17:47:33 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 04 2025 08:32:52 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-VancW1qcbp</id>
     <duration></duration>
   </config>
+<sn><md>### Silica Tetrahedron
+
+:::.row
+:::.col-12 .col-md-6
+A **silica tetrahedron** consists of `one silicon ion (Si⁴⁺)` surrounded by `four oxygen anions (O²⁻)`.<br>
+When multiple tetrahedrons are linked `horizontally` by sharing oxygen atoms, they form a ++tetrahedral sheet++.
+:::
+
+:::.col-12 .col-md-6
+![image](https://cdn1.byjus.com/wp-content/uploads/2022/02/Silicates-1-1.png)
+:::
+:::
+
+
+### Alumina Octahedron
+
+:::.row
+:::.col-12 .col-md-6
+An **alumina octahedron** consists of `one aluminium ion (Al³⁺)` surrounded by `six oxygen or hydroxyl ions (O²⁻ / OH⁻)`, forming an **eight-sided block**.<br>
+Numerous octahedrons linked together `horizontally` form an ++octahedral sheet++.
+:::
+:::.col-12 .col-md-6
+![diagram](https://archive.nptel.ac.in/content/storage2/courses/105103097/web/chap4final/s1_clip_image001.gif)
+:::
+:::
+
+#### Types of Octahedral Sheets
+
+| **Type**                | **Dominant Ion** | **Description**                                 |
+| ----------------------- | ---------------- | ----------------------------------------------- |
+| `Diocta`hedral Sheet  | Aluminium (`Al³⁺`) | Two out of three octahedral sites are occupied. |
+| `Triocta`hedral Sheet | Magnesium (`Mg²⁺`) | All three octahedral sites are occupied.        |
+
+</md></sn><sn><md></md><md>## Classification of Clay Minerals
+
+Clay minerals are classified based on their `crystalline structure` — primarily by the arrangement of **silica tetrahedral** and **alumina octahedral** sheets.
+
+---
+
+###  Crystalline Clay Minerals{.text-center}
+
+#### a) **Two-Layer Type**
+
+&gt; Sheet structure composed of `one layer` of ++silica tetrahedron++ and `one layer` of ++alumina octahedron++
+
+| **Form**            | **Group**        | **Examples**             |
+| ------------------- | ---------------- | ------------------------ |
+| **Equidimensional** | Kaolinite group  | Kaolinite, Nacrite, etc. |
+| **Elongate**        | Halloysite group | Halloysite               |
+
+#### b) **Three-Layer Type**
+
+&gt; Sheet structure composed of `two layers` of ++silica tetrahedrons++ and `one central` ++octahedral or trioctahedral++ layer)*
+
+---
+
+### Expanding Lattice{.text-center}
+
+| **Form**            | **Group**             | **Examples**                            |
+| ------------------- | --------------------- | --------------------------------------- |
+| **Equidimensional** | Montmorillonite group | Montmorillonite, Sauconite, Vermiculite |
+| **Elongate**        | Montmorillonite group | Nontronite, Saponite, Hectorite         |
+
+---
+
+#### Non-Expanding Lattice{.text-center}
+
+| **Group**        | **Examples**                |
+| ---------------- | --------------------------- |
+| **Illite group** | Illite and related minerals |
+
+c) **Regular Mixed-Layer Type**
+
+*(Ordered stacking of alternate layers of different types of clay minerals)*</md></sn>
