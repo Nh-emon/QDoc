@@ -1,10 +1,21 @@
 
-  <sn></sn>
+  <sn><md>| **Topic**                               | **Subtopics**                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GIS**                                 | Components of a GIS; GIS related special hardware and software; Purpose of GIS or GIS in planning and management; Major functions of GIS; Instrumental setup of a GIS laboratory.                                                                                                                                                         |
+| **Maps**                                | Base map and thematic map; Purpose of a map and map scale; Map sources in Bangladesh; Map features and characteristics; Map projections.                                                                                                                                                                                                  |
+| **Systems and Geographic Data**         | Computer as a system; AEZ in the GIS system; Spatial analysis and overlay operations; GIS software and their geometric storage, attribute storage (ARCINFO and ARCView); Geographic data; Presentation of geographic data; Topology Raster and Vector GIS; GIS activities in Bangladesh; GIS application areas.                           |
+| **GIS Functional Elements**             | Data acquisition; Preprocessing; Data management; Advancement in data management; Characteristics of DBMS; Advantages of databases; Database design; DBMS structure; RDBMS; Data joining and linking; Data layering or superimposing.                                                                                                     |
+| **Data Quality and Product Generation** | Importance of data quality; Data processing and metadata; Sources of data error; Remedies of data errors; Primary data and secondary data.                                                                                                                                                                                                |
+| **Relation between GIS and RS**         | —                                                                                                                                                                                                                                                                                                                                         |
+| **Remote Sensing**                      | Principles of RS; Advantages of RS; RS application.                                                                                                                                                                                                                                                                                       |
+| **GIS Applications**                    | GIS in agricultural planning and resource management; Technology dissemination; Environmental hazards; Assessment; Agro-environmental research.                                                                                                                                                                                           |
+| **Books Recommended**                   | Understanding GIS – ESRI; GIS An Introduction – Jeffrey Star and John Estes; Fundamentals of Computers – V. Rajaraman; Fundamentals of GIS – Michael N. Demers; Proceedings of the First Meeting of GIS Technology Users Forum Lot Project GIS Laboratory Publication No. 3, Department of Soil, Water and Environment, Dhaka University. |
+</md></sn>
   <config>
     <tags>#syllabus</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Nov 06 2025 05:25:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Nov 06 2025 05:25:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-6S14rHyHKQ</id>
     <duration></duration>
   </config>
