@@ -1,10 +1,51 @@
 
-  <sn></sn>
+  <sn><md>### Remote Sensing
+
+:::.row
+:::.col-12 .col-md-6
+&gt; **Remote sensing** is the science and technology of `obtaining information` about objects, areas, or phenomena on the Earth’s surface `without direct physical contact`. 
+:::
+:::.col-12 .col-md-6
+![diagram](https://cdn1.byjus.com/wp-content/uploads/2023/03/Remote-Sensing.png)
+:::
+:::
+
+It involves `detecting and measuring radiation` of different wavelengths reflected or emitted from distant targets by sensors mounted on platforms such as **satellites, aircraft, drones, or balloons**.
+
+Remote sensing provides valuable data for mapping, environmental monitoring, resource management, disaster assessment, and scientific research.</md></sn>
   <config>
     <tags>#temp</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Nov 06 2025 09:22:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Nov 06 2025 09:53:58 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-opjaWqURMK</id>
     <duration></duration>
   </config>
+<sn><md>### Principles of Remote Sensing
+
+The basic principles are:
+
+1. **Energy Source** – The Sun or an active sensor provides electromagnetic energy.
+2. **Interaction with the Atmosphere** – The energy passes through the atmosphere, which may scatter or absorb part of it.
+3. **Interaction with the Surface** – When energy reaches the Earth’s surface, it is reflected, absorbed, or transmitted depending on the material.
+4. **Detection by Sensor** – Sensors record the reflected or emitted energy.
+5. **Data Processing and Interpretation** – The recorded data are processed and analyzed to extract useful information.
+</md></sn><sn><md>### Relation between GIS and Remote Sensing
+
+**Remote sensing** `provides spatial data through satellite` or aerial images, while **GIS** `stores, analyzes, and displays that data`. Remote sensing `supplies up-to-date information` about the Earth’s surface, and GIS `integrates this information` with other data layers for mapping, planning, and decision-making. Together, they form a powerful tool for environmental monitoring, resource management, and spatial analysis.
+
+RS provides the **raw spatial data** (images and measurements) about the Earth’s surface, while **GIS** is the **system** that stores, processes, analyzes, and visualizes that data along with other geographic information.
+
+#### So, remote sensing is a `data source` for GIS, and GIS uses that data for mapping and analysis.{.text-center}
+
+</md></sn><sn><md>### Applications of Remote Sensing
+
+Remote sensing is used in many fields, including:
+
+* **Agriculture** – Crop monitoring and yield estimation
+* **Forestry** – Forest cover and health assessment
+* **Geology** – Mineral and landform mapping
+* **Water Resources** – Flood mapping and water quality study
+* **Environment** – Pollution and climate change monitoring
+* **Disaster Management** – Detecting and assessing floods, droughts, and earthquakes
+</md></sn>
