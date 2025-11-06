@@ -17,7 +17,7 @@ Remote sensing provides valuable data for mapping, environmental monitoring, res
     <tags>#temp</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Nov 06 2025 09:53:58 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Nov 06 2025 10:11:34 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-opjaWqURMK</id>
     <duration></duration>
   </config>
@@ -33,8 +33,6 @@ The basic principles are:
 </md></sn><sn><md>### Relation between GIS and Remote Sensing
 
 **Remote sensing** `provides spatial data through satellite` or aerial images, while **GIS** `stores, analyzes, and displays that data`. Remote sensing `supplies up-to-date information` about the Earth’s surface, and GIS `integrates this information` with other data layers for mapping, planning, and decision-making. Together, they form a powerful tool for environmental monitoring, resource management, and spatial analysis.
-
-RS provides the **raw spatial data** (images and measurements) about the Earth’s surface, while **GIS** is the **system** that stores, processes, analyzes, and visualizes that data along with other geographic information.
 
 #### So, remote sensing is a `data source` for GIS, and GIS uses that data for mapping and analysis.{.text-center}
 
