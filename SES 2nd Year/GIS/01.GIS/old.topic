@@ -28,7 +28,7 @@ GIS software provides `tools for input, storage, analysis, and visualization of 
     <tags>#old</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Nov 06 2025 06:13:52 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Nov 06 2025 07:07:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-S6n9QlMePd</id>
     <duration></duration>
   </config>
@@ -38,22 +38,22 @@ GIS software provides `tools for input, storage, analysis, and visualization of 
 
 GIS operations require specialized hardware components designed to manage and process spatial data efficiently:
 
-* **Digitizer/Tablets** – For converting maps or drawings into digital form.
-* **Scanners** – For scanning paper maps and aerial photographs into raster data.
-* **Plotters and Printers** – For producing large-format maps and layouts.
-* **GPS Devices** – For accurate field data collection and georeferencing.
-* **Servers and Workstations** – For high-performance data storage, sharing, and processing.
-* **Monitors and Graphic Cards** – High-resolution displays for clear map visualization.
+* `Digitizer/Tablets` – For converting maps or drawings into digital form.
+* `Scanners` – For scanning paper maps and aerial photographs into raster data.
+* `Plotters and Printers` – For producing large-format maps and layouts.
+* `GPS Devices` – For accurate field data collection and georeferencing.
+* `Servers and Workstations` – For high-performance data storage, sharing, and processing.
+* `Monitors and Graphic Cards` – High-resolution displays for clear map visualization.
 
 #### Special Software
 
 GIS software packages are designed to handle spatial data and provide tools for analysis and visualization. Examples include:
 
-* **ArcGIS (ESRI)** – A comprehensive system for spatial analysis and cartography.
-* **QGIS** – An open-source GIS platform with wide functionality.
-* **ERDAS Imagine** – Specialized in image processing and remote sensing data.
+* **ArcGIS (ESRI)** – A `comprehensive system` for spatial analysis and cartography.
+* **QGIS** – An `open-source` GIS platform with wide functionality.
+* **ERDAS Imagine** – Specialized in `image processing and remote sensing data`.
 * **GRASS GIS** – Useful for spatial modeling and geostatistics.
-* **AutoCAD Map 3D** – Integrates CAD and GIS capabilities.
+* **AutoCAD Map 3D** – Integrates `CAD and GIS` capabilities.
 
 These software systems include modules for **data input**, **storage**, **spatial analysis**, **query**, **overlay**, and **map generation**.
 </md></sn><sn><md>### Purpose of GIS or GIS in Planning and Management
@@ -62,22 +62,22 @@ The primary purpose of GIS is to support decision-making through spatial analysi
 
 #### Applications in Planning and Management
 
-* **Urban Planning:** Helps in land-use zoning, infrastructure development, and transportation planning.
-* **Environmental Management:** Used for monitoring pollution, deforestation, and resource depletion.
-* **Agriculture:** Supports crop monitoring, soil mapping, and irrigation planning.
-* **Disaster Management:** Aids in hazard mapping, risk assessment, and emergency response planning.
+* **Environmental Management:** Used for monitoring `pollution, deforestation, and resource depletion`.
 * **Resource Management:** Assists in managing forests, water bodies, and mineral resources.
+* **Urban Planning:** Helps in land-use zoning, `infrastructure development, and transportation planning`.
+* **Agriculture:** Supports `crop monitoring, soil mapping, and irrigation planning`.
+* **Disaster Management:** Aids in `hazard mapping`, `risk assessment`, and `emergency response planning`.
 * **Public Health:** Maps disease outbreaks and helps in healthcare facility planning.
 
 GIS thus acts as a critical decision-support tool, combining spatial and statistical data to optimize planning and sustainable management.</md></sn><sn><md>### Major Functions of GIS
 
 A GIS performs several key functions that make it an effective analytical tool:
 
-1. **Data Input** – Converting raw geographic information from maps, satellite images, and surveys into a digital format.
-2. **Data Storage and Retrieval** – Storing data in databases for efficient retrieval and management.
-3. **Data Manipulation** – Transforming data to a consistent coordinate system or projection for analysis.
-4. **Data Analysis** – Performing spatial analysis, buffering, overlay operations, and network analysis to derive new information.
-5. **Data Output and Visualization** – Presenting results through maps, graphs, and tables for interpretation and communication.
+1. `Data Input` – Converting raw geographic information from maps, satellite images, and surveys into a digital format.
+2. `Data Storage and Retrieval` – Storing data in databases for efficient retrieval and management.
+3. `Data Manipulation` – Transforming data to a consistent coordinate system or projection for analysis.
+4. `Data Analysis` – Performing spatial analysis, buffering, overlay operations, and network analysis to derive new information.
+5. `Data Output and Visualization` – Presenting results through maps, graphs, and tables for interpretation and communication.
 
 Each of these functions works together to provide a powerful system for spatial problem-solving and planning.
 </md></sn><sn><md>### Instrumental Setup of a GIS Laboratory
