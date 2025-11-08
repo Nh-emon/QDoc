@@ -1,10 +1,67 @@
 
-  <sn></sn>
+  <sn><md>### Photosynthesis
+
+Sunshine plays a bigger role in our lives than you may think. All the `food we eat` and the `fossil fuels` we burn are `products of photosynthesis`.
+
+Plants turn solar energy into food — which is nice of them because animals can’t eat sunshine. When animals eat plants and other animals, that original `solar energy is passed along the food chain`.
+
+Photosynthesis is the process that `converts solar energy into chemical energy` that is used by biological systems (that means us).
+
+
+:::.row
+:::.col-12 .col-md-6
+#### Major Events of Photosynthesis
+1. Sunlight is converted into chemical energy
+2. Water (H₂O) is split into oxygen (O₂)
+3. Carbon dioxide (CO₂) is fixed into sugars (C₆H₁₂O₆)
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://bartonhillfarms.com/wp-content/uploads/2021/08/photosynthesis-1015x1024.jpg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#00.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 08 2025 17:27:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 08 2025 18:28:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-38MFUkNDIZ</id>
     <duration></duration>
   </config>
+<sn><md>### Photosynthesis Reaction
+
+$$
+6 CO_2 + 12 H_2O + \text{sunlight} \rightarrow C_6H_{12}O_6 + 6 H_2O + 6 O_2
+$$
+</md></sn><sn><md>### Absorption of Chlrophyll
+
+![diagram](https://assets.workybooks.com/INTERACTIVE/media/1755068780436-31438812-chlorophyll-4.webp)</md></sn><sn><md>### Site of Photosynthesis
+
+Photosynthesis takes place inside specialized cell structures called `chloroplasts`, which are found mainly in the green parts of plants such as leaves. These chloroplasts contain a [green pigment]{.fg-green} called [chlorophyll]{.fg-green .gw-500} that ++captures sunlight++ for energy conversion.
+
+![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3Ju5PdVUDV1X7HtsNN3lP3huZgPxXuztkg&amp;s)
+
+Each chloroplast is surrounded by a double membrane and contains internal components where photosynthesis occurs. The two main sites are the `stroma` and the `thylakoids`
+</md></sn><sn><md>### Chloroplast
+
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240412111206/Diagram-of-chloroplast.webp)
+
+:::.row
+:::.col-12 .col-md-6 
+
+**Stroma :** <br>
+The **stroma** is the `fluid-filled space` inside the chloroplast that surrounds the thylakoids. It is the site of the ++dark reaction++ or **Calvin cycle**, where carbon dioxide (CO₂) is fixed into glucose using the chemical energy produced in the light reaction.
+:::
+:::.col-12 .col-md-6
+
+**Thylakoid :** <br>
+The **thylakoids** are `flattened, disc-like membranes arranged in stacks` called **grana**. They contain chlorophyll and are the site of the ++light reaction++ of photosynthesis, where sunlight energy splits water molecules and produces ATP and oxygen.
+:::
+:::
+</md></sn><sn><md>### Organisms Involved
+
+Photosynthesis occurs in **plants**, **algae**, and some **bacteria** (like cyanobacteria). These organisms are known as `photoautotrophs` because they **use light energy** to produce their own food.
+
+In summary, photosynthesis takes place mainly in the **chloroplasts**, with **light reactions** occurring in the **thylakoid membranes** and **carbon fixation** happening in the **stroma**.
+</md></sn>
