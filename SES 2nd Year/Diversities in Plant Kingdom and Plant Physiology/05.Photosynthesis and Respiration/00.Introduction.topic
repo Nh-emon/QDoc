@@ -25,7 +25,7 @@ Photosynthesis is the process that `converts solar energy into chemical energy` 
     <tags>#00.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 08 2025 18:28:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 08 2025 19:51:43 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-38MFUkNDIZ</id>
     <duration></duration>
   </config>
@@ -64,4 +64,58 @@ The **thylakoids** are `flattened, disc-like membranes arranged in stacks` calle
 Photosynthesis occurs in **plants**, **algae**, and some **bacteria** (like cyanobacteria). These organisms are known as `photoautotrophs` because they **use light energy** to produce their own food.
 
 In summary, photosynthesis takes place mainly in the **chloroplasts**, with **light reactions** occurring in the **thylakoid membranes** and **carbon fixation** happening in the **stroma**.
+</md></sn><sn><md>### Mechanism of Photosynthesis
+
+Photosynthesis occurs in two main stages — the [light reaction]{.fg-orange} and the [dark reaction]{.fg-purple} (also called the **Calvin cycle**). These two processes work together to `convert solar energy into chemical energy stored in glucose`.
+
+![diagram](https://cdn1.byjus.com/wp-content/uploads/2019/04/Light-reaction-And-Dark-reaction.png)
+</md></sn><sn><md>### Light Reaction {.text-center .fg-orange}
+
+It is the first phase,light dependent and photochemical phase
+
+**Site:** Thylakoid membranes of the chloroplast<br>
+**Requirement:** Sunlight, water (H₂O), chlorophyll<br>
+**Process:**
+
+![diagram](https://cdn.kastatic.org/ka-perseus-images/faeb1179a538a3a8106fa5f3b9bd90c92f9834a7.png)
+
+* When sunlight strikes the chlorophyll, the light energy `excites electrons`.
+* These high-energy `electrons move` through the **electron transport chain**.
+* `Water molecules are split` into hydrogen (H⁺), oxygen (O₂), and electrons — a process called **photolysis**.
+* The `oxygen is released` into the atmosphere.
+* The `light energy is converted into chemical energy` in the form of **ATP** and **NADPH**.
+
+:::.row
+:::.col-12 .col-md-6
+**Equation (simplified):**
+$$2H_2O + \text{light energy} \rightarrow 4H^+ + 4e^- + O_2$$
+:::
+:::.col-12 .col-md-6
+**End Products:**
+
+* ATP (energy carrier)
+* NADPH (reducing power)
+* O₂ (by-product)
+:::
+:::
+</md></sn><sn><md>### Dark Reaction{.text-center .fg-purple}
+
+It is the second phase,biosynthetic phase,Light-Independent Phase or Calvin Cycle
+
+**Site:** Stroma of the chloroplast<br>
+**Requirement:** ATP and NADPH (from the light reaction), CO₂<br>
+**Process:**
+
+![diagram](https://image.slidesharecdn.com/sindhuphotosynthesis1-190621053009/75/Biochemistry-Photosynthesis-light-and-dark-reactions-20-2048.jpg)
+
+* Carbon dioxide (`CO₂`) is `fixed into an organic compound` through a series of enzyme-controlled reactions.
+* The enzyme **RuBisCO** helps combine CO₂ with a 5-carbon compound (RuBP).
+* This leads to the `formation of a 3-carbon compound` that is later converted into **glucose (C₆H₁₂O₆)**.
+* `ATP` provides ++energy++, and `NADPH` provides ++hydrogen++ for sugar formation.
+
+**Equation (simplified):**
+$$6CO_2 + 12NADPH + 18ATP \rightarrow C_6H_{12}O_6 + 12NADP^+ + 18ADP + 18P_i$$
+
+**End Product:** Glucose (C₆H₁₂O₆)
+
 </md></sn>
