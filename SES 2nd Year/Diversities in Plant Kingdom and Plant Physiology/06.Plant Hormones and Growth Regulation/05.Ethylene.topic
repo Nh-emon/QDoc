@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md>### Ethylene
+
+:::.row
+:::.col-12 .col-md-6
+* In the 1800s, it was recognized that street lights that burned gas could cause neighboring plants `to develop short, thick stems and shed their leaves`. In 1901, Dimitry Neljubow identified that a byproduct of gas combustion was ethylene gas and that this gas could affect plant growth.
+* R. Gane later showed that this same gas was naturally produced by plants and caused `faster ripening of many fruits`.
+• `Gaseous` in form and rapidly diffusing.
+• Gas produced by one plant will affect nearby plants.
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://images.examples.com/wp-content/uploads/2024/04/Ethylene.png)
+![diagram](https://cdn1.byjus.com/wp-content/uploads/2019/05/structure-of-ethylene.png)
+:::
+:::
+</md></sn>
   <config>
     <tags>#05.ethylene</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 12:04:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 12:31:43 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XI9Rz62A7C</id>
     <duration></duration>
   </config>
+<sn><md>### Functionality
+
+* Important in the `fruit-ripening process` and early petal drop of flowers.
+* Encourages `senescence` and abscission.
+*  Flowering: Ethylene `inhibits flowering` in most species but promotes it in a few plants such as pineapple, bromeliads, and mango.
+*  `Epinasty` – downward curvature of leaves.
+* Initiation of stem elongation and bud development.
+* Cucumber buds treated with ++ethylene++ become `carpellate` (female) flowers,<br> whereas those treated with ++gibberellins++ become `staminate` (male) flowers.
+</md></sn>
