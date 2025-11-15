@@ -1,10 +1,60 @@
 
-  <sn></sn>
+  <sn><md>### Auxin
+
+:::.row
+:::.col-12 .col-md-6
+* Discovered as substance associated with `phototropic response`.
+* Occurs in very `low concentrations`.
+* Differential response depending on dose.
+:::
+:::.col-12 .col-md-6
+![diagram](https://bam.files.bbci.co.uk/bam/live/content/z27f97h/small)
+:::
+:::
+
++++ read...
+When light falls on one side of a plant, auxin moves to the shaded side.
+The shaded side, having more auxin, undergoes faster cell elongation.
+The lighted side elongates more slowly because it has less auxin.
+This unequal growth causes the stem to curve toward the light.
+Thus, bending occurs due to differential growth controlled by auxin distribution.
++++
+</md></sn>
   <config>
     <tags>#02.different kind of plant hormones</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 10:41:33 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 11:13:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-lIGwVbJEHh</id>
     <duration></duration>
   </config>
+<sn><md>### Commonly Used Auxins
+
+* IAA (indoleacetic acid)
+* IBA (indolebutyric acid)
+* NAA (naphthaleneacetic acid)
+* 2,4-D (Dichloro Phenoxy Acetic Acid)
+* NOA (Naphthoxy Acitic Acid)
+
+The `2,4-D` is used for ++callus induction++ whereas the <br> `other auxins` are used for ++root induction++.
+</md></sn><sn><md>### Function of Auxins
+
+| **Function Category**                                | **Details**                                                                                           |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Cell Enlargement**                                 | **Shoot Growth** : <br>Internodes<br>Tubers<br>Bulbs                                                               |
+| **Root Growth**                                      | Storage Roots<br>Adventicious Roots                                                                     |
+| **Fruit Growth**                                     | Strawberry – Receptacle enlargement                                                                   |
+| **Rooting of Cuttings**                              | Propagation;<br> Greenhouse and Nursery Crops:<br> Hormodin, Rootone, etc.; Commercial preps of 2,4-D         |
+| **Apical Dominance**                                 | **Auxin:Cytokinin Ratio**<br> High – Dormant Axillary Buds;<br> Low – Axillary Bud Growth                       |
+| **Herbicide**                                        | **High Concentration 2,4-D**<br>Dicots more sensitive<br>Monocots less sensitive<br>Weed control in cereal crop |
+| **Prevent Abscission of Leaves, Flowers and Fruits** | Older leaves; Ripe Fruit                                                                              |
+| **Tissue Culture Propagation (Differentiate Organ)** | **Auxin:Cytokinin Ratio**<br>High – Roots<br>Low – Shoots<br>Equal – Callus                                    |
+</md></sn><sn><md>### Additional Response
+
+* Differentiate sensitivity of developing fruit
+* Direction of growth (tropism of stems or roots)
+* Parthenocarpy in some plants
+* Enlargement and cell division of callus tissue culture
+* Flower initiation and development
+* Sex determination
+* Fruit set, growth and development</md></sn>
