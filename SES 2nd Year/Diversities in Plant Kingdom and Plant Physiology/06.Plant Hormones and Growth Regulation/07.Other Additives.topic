@@ -1,10 +1,58 @@
 
-  <sn></sn>
+  <sn><md>## Vitamins
+
+It is not essential but it has some stimulating factors that support the growth and development of plants.
+
+### Description
+
+The most widely used vitamins are **thiamine (Vitamin B1), niacin (Vitamin B3), pyridoxine (Vitamin B6)** and **myo-inositol** (a member of the Vitamin B complex).
+Thiamine (B1) and myo-inositol are essential for the culture of plant cells *in vitro*, while other vitamins are often added for historical reasons.
+
+### Functions
+
+* Inositol acts as a second messenger to the primary action of auxins.
+* Myo-inositol serves as a precursor in the biosynthetic pathway of cell-wall synthesis and may help in the uptake and utilization of ions.
+* Thiamine is involved in the biosynthesis of certain amino acids.
+* Thiamine also functions as an essential co-factor in carbohydrate metabolism.
+
+---
+
+## Amino Acids
+
+### Description
+
+The most commonly used amino acid is **glycine**. Other amino acids such as **arginine, asparagine, aspartic acid, alanine, glutamic acid, glutamine**, and **proline** are also used.
+
+### Functions
+
+* They provide a source of reduced nitrogen similar to ammonium ions.
+* They act as antioxidants to control the oxidation of phenolics and prevent tissue blackening.
+* In vitro dwarf apple rootstocks produce more roots in the presence of arginine.
+
+---
+
+## Undefined Supplements
+
+### Description
+
+Numerous undefined supplements are used to promote the growth of certain calli and organs. These include:
+
+* Casein hydrolysate (CH)
+* Coconut milk (CM)
+* Corn milk
+* Malt extract (ME)
+* Tomato juice (TJ)
+* Yeast extract (YE)
+
+### Functions
+
+These complex nutritive mixtures act as sources of **hormones, vitamins, and polyamines**, contributing to the enhanced growth and development of plant tissues *in vitro*.
+</md></sn>
   <config>
     <tags>#07.other additives</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 19:11:44 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 19:13:15 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-ejEE8lhIeX</id>
     <duration></duration>
   </config>
