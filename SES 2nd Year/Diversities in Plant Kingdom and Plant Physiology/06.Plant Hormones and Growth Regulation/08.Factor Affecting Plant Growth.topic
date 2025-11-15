@@ -1,10 +1,27 @@
 
-  <sn></sn>
+  <sn><md>## Factors Affecting Plant Growth
+
+### Light
+
+Light is essential for photosynthesis, the process by which plants produce food. The **intensity**, **duration** (photoperiod), and **quality** (wavelength) of light influence plant height, leaf size, flowering, and overall productivity. Insufficient light leads to weak, elongated plants, while too much light can cause leaf burn.
+
+### Water
+
+Water is required for nutrient transport, photosynthesis, cell turgor, and metabolic activities. Both **water deficiency** and **water excess** affect growth. Too little water causes wilting and reduced growth, while overwatering leads to poor aeration and root rot.
+
+### Temperature
+
+Temperature regulates enzyme activity, respiration, germination, and flowering. Each plant has an **optimal temperature range** for growth. Too low or too high temperatures slow physiological processes and may cause stress, affecting growth and development.
+
+### Nutrients
+
+Plants require **macro- and micronutrients** for structural and physiological functions. Macronutrients (N, P, K, Ca, Mg, S) are needed in larger amounts, while micronutrients (Fe, Zn, Mn, Cu, B, Mo, Cl) are needed in small amounts. Nutrient deficiency or excess leads to visible disorders and reduced growth.
+</md></sn>
   <config>
     <tags>#08.factor affecting plant growth</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 18:43:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 18:55:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-oJCS7SGqhE</id>
     <duration></duration>
   </config>
