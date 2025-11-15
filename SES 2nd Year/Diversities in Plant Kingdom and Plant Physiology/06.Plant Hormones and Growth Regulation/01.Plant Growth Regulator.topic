@@ -1,5 +1,13 @@
 
-  <sn><md>### Plant Growth Regulator
+  <sn><md>:::.row
+:::.col-7
+### Plant Growth Regulator
+:::
+:::.col-5
+![diagram](https://www.researchgate.net/publication/345177860/figure/fig5/AS:977400670212114@1610041887869/Chemical-structures-of-plant-growth-regulators.png)
+:::
+:::
+
 
 * Plant growth is influenced by a combination of `internal and external signals`. These signals operate through **plant growth-regulating substances**, commonly known as **plant hormones** or **phytohormones** (from the Greek *hormaein*, meaning *“to excite”*). 
 * These substances do not directly control every growth process, but they are `essential for coordinating and regulating` many stages of plant development. 
@@ -14,8 +22,139 @@
     <tags>#01.plant growth regulator</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 09:31:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 09:59:29 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-izd43RofEE</id>
     <duration></duration>
   </config>
-<sn></sn>
+<sn><md>### What Phytohormones Do to Plants
+
+Phytohormones regulate a wide range of activities in plants:
+
+* Stimulate or inhibit growth
+* Control cell division and cell elongation
+* Influence root and shoot formation
+* Regulate flowering, fruiting, and seed development
+* Coordinate responses to environmental stresses such as drought, salinity, and light changes
+* Trigger dormancy or senescence
+
+The overall effect depends on the **hormone type**, **amount**, and **interaction with other hormones**.
+</md></sn><sn><md>## Types of Plant Growth Regulators {.text-center}
+
+### Natural vs. Synthetic Regulators
+
+:::.row
+:::.col-12 .col-md-6
+#### Natural Plant Regulators {.text-center .fg-teal}
+
+These are `produced naturally` within plant tissues.
+Examples include:
+
+* Auxins
+* Gibberellins
+* Cytokinins
+* Ethylene
+* Abscisic Acid
+
+They maintain internal regulation of plant physiology.
+:::
+
+:::.col-12 .col-md-6
+#### Synthetic Plant Regulators {.text-center .fg-blue}
+
+These are `artificially produced` compounds used in agriculture and horticulture to mimic or modify natural hormone activity.
+Examples:
+
+* NAA (Naphthalene Acetic Acid)
+* 2,4-D (2,4-Dichlorophenoxyacetic acid)
+* CCC (Chlormequat chloride)
+
+They are used for rooting, fruit set, growth control, and weed management.
+:::
+:::
+</md></sn><sn><md>### Promoters vs. Inhibitors
+
+:::.row
+:::.col-12 .col-md-6
+#### Growth Promoters {.text-center}
+These hormones stimulate growth-related activities such as cell division, elongation, and differentiation.
+Major promoters:
+
+* **Auxins**
+* **Gibberellins**
+* **Cytokinins**
+
+Their functions include root initiation, stem elongation, overcoming dormancy, and enhancing fruit development.
+:::
+
+:::.col-12 .col-md-6
+#### Growth Inhibitors {.text-center}
+
+These substances slow down or suppress growth.
+Key inhibitors:
+
+* **Abscisic Acid (ABA)** – induces dormancy and stress resistance
+* **Ethylene** – promotes fruit ripening but may inhibit growth in many tissues
+
+They play crucial roles in controlling unwanted or excessive growth and preparing plants for stress conditions.
+:::
+:::
+</md></sn><sn><md>### Endogenous vs. Exogenous Regulators
+
+:::.row
+:::.col-12 .col-md-6
+#### Endogenous Regulators{.text-center}
+Produced internally by the plant.<br>
+These include all natural plant hormones that arise in roots, shoots, meristems, or developing seeds.
+:::
+
+:::.col-12 .col-md-6
+#### Exogenous Regulators
+Applied from outside the plant (spraying, dipping, or soil application).<br>
+These can be:
+
+* Synthetic compounds
+* Natural plant extracts
+* Commercial formulations
+
+They are used to control agricultural processes like rooting, fruit growth, or delaying senescence.
+:::
+:::</md></sn><sn><md>### Primary vs. Secondary Regulators
+
+:::.row
+:::.col-12 .col-md-6
+#### Primary Regulators{.text-center}
+Well-established, major hormones responsible for essential developmental processes.<br>
+These include:
+
+* Auxins
+* Gibberellins
+* Cytokinins
+* Ethylene
+* Abscisic Acid
+
+They are universally recognized and thoroughly studied.
+:::
+
+:::.col-12 .col-md-6
+#### Secondary Regulators
+Compounds that influence growth but are not considered core hormones. They may act indirectly or be involved in stress and defense responses.<br>
+Examples:
+
+* Jasmonates
+* Salicylic acid
+* Brassinosteroids
+
+These regulators often modulate specialized or conditional physiological responses.
+:::
+:::
+</md></sn><sn><md>### Other Plant Regulators (Not Yet Confirmed or Newly Discovered)
+
+There are several plant-derived compounds whose hormonal roles are still under investigation. These are not fully categorized but show regulatory potential:
+
+* Strigolactones
+* Polyamines
+* Peptides and small RNAs
+* Karrikins (smoke-derived chemicals influencing germination)
+
+These substances open new fields of research into plant signalling and developmental biology.
+</md></sn>
