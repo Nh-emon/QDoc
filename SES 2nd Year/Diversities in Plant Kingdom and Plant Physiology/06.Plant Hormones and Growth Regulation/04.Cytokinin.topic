@@ -1,10 +1,40 @@
 
-  <sn></sn>
+  <sn><md>### Cytokinins
+
+* G. Haberlandt in 1913 reported an unknown compound that `stimulated cellular division`.
+* Cytokinins are `adenine derivatives` mainly involved in cell division, modification of apical dominance, and shoot differentiation in tissue culture.
+* Cytokinins are present in `angiosperms, gymnosperms, mosses, and ferns`. In angiosperms, they are produced in the roots, seeds, fruits, and young leaves.
+* Cytokinins `activate RNA synthesis` and stimulate protein and enzymatic activity in certain tissues.
+* Most cytokinins are produced in the `root apical meristems` and transported throughout the plant.
+* Movement of cytokinins is `nonpolar` in xylem, phloem, and parenchyma cells.
+</md></sn>
   <config>
     <tags>#04.cytokinin</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 11:52:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 12:01:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-50e1QMeATd</id>
     <duration></duration>
   </config>
+<sn><md>### Commonly Used Cytokinins
+
+* BAP (6-Benzylamino purine)
+* BA (Benzy adenine)
+* 2ip (Isopentyl adenine)
+* Kinetine (6–furfur aminopurine)
+* Zeatin (4–hydroxy 3 methyl trans 2 butinyl aminopurine)
+</md></sn><sn><md>### Function of Cytokinins
+
+* Promote `cell division` and delay leaf aging
+* Used as a `growth promoter` in **tissue culture**
+* Micropropagation
+* `Shoot proliferation` in tissue culture
+* `Slow the process of senescence` by preventing chlorophyll breakdown in leaves
+* In `combination with auxin`, stimulate cell division and differentiation
+* Inhibit formation of `lateral roots`
+</md></sn><sn><md>### Organogenesis
+
+Cytokinins and auxin together influence organogenesis
+* High cytokinin/auxin ratio → formation of shoots
+* Low cytokinin/auxin ratio → formation of roots
+</md></sn>
