@@ -1,10 +1,23 @@
 
-  <sn></sn>
+  <sn><md>### Abscisic Acid (ABA)
+
+* In the 1940s, scientists began searching for hormones that would inhibit plant growth and development—compounds that Hemberg referred to as *dormins*. Abscisic acid was later identified as a `natural plant growth retardant that opposes the action of gibberellins and auxins`.
+* Natural plant growth inhibitor
+* Opposes the action of GA and auxin
+* In culture media, ABA may stimulate or inhibit growth depending on the species
+* `Cycocel` and `B-Nine` are two synthetic ABA-type growth inhibitors commonly used
+</md></sn>
   <config>
     <tags>#06.aba</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 15 2025 13:00:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 15 2025 13:02:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-5FI0j6xTev</id>
     <duration></duration>
   </config>
+<sn><md>### Functions of Abscisic Acid
+* Growth inhibitor that `closes stomata under water stress`
+* Plays an important role in controlling stomatal opening and closing
+* Counteracts the effects of auxins and gibberellins
+* Commonly used to `promote specific developmental pathways`, such as somatic embryogenesis
+</md></sn>
