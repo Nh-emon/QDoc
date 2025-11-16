@@ -1,10 +1,140 @@
 
-  <sn></sn>
+  <sn><md>### Respiration Overview
+
+Respiration is the `biochemical process` through which living organisms `release energy from food`. It occurs in multiple steps, starting from the simple exchange of gases to complex cellular reactions `inside mitochondria`.
+
+* **Breathing** :<br>
+Breathing is the **physical process** of taking in oxygen (inhalation) and releasing carbon dioxide (exhalation). It is a mechanical activity carried out by lungs in animals.
+* **External Respiration** : <br>
+External respiration is the **exchange of gases between the lungs and the blood**. Oxygen diffuses into the blood, and carbon dioxide diffuses out.
+* **Internal Respiration** : <br>
+Internal respiration is the **exchange of gases between the blood and body tissues**. Oxygen enters the cells, and carbon dioxide (from tissues) enters the blood.
+* **Cellular Respiration** :
+Cellular respiration is a **biochemical process inside cells** where glucose is broken down to release energy in the form of ATP. It occurs in the cytoplasm and mitochondria.
+</md></sn>
   <config>
     <tags>#06.respiration overview</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 03:59:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 04:24:35 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UTZFRPqnGS</id>
     <duration></duration>
   </config>
+<sn><md>### Basic Concept of Respiration
+
+* Respiration releases the stored energy of food molecules.
+* It involves oxidation of glucose.
+* The final product is ATP, which drives all cellular work.
+* Carbon dioxide and water are formed as end products in aerobic respiration.
+</md></sn><sn><md>### Respiration With and Without Oxygen
+
++++ ASCII Diagram of Respiration Pathway
+
+```text
+                    RESPIRATION PATHWAY OVERVIEW
+
+                    Glucose (C6H12O6)
+                             |
+                             v
+                        Glycolysis
+                     (Cytoplasm, No O2)
+                             |
+                             v
+          +------------------+------------------+
+          |                                     |
+          v                                     v
+   Pyruvate (3C)                         If No O2 Present
+          |                                 Anaerobic
+          |                           (Lactic Acid / Ethanol)
+          |
+          v
+   Acetyl Co-A Formation
+    (Link Reaction)
+   (Mitochondrial Matrix)
+          |
+          v
+        Krebs Cycle (TCA Cycle)
+      (Mitochondrial Matrix)
+          |
+          v
+  NADH, FADH2, CO2, Small ATP
+          |
+          v
+    Electron Transport System (ETS)
+        (Inner Mitochondrial Membrane)
+          |
+          v
+         O2 as Final Electron Acceptor
+          |
+          v
+           Water + ~34 ATP
+
+LEGENDS:
+ETS = Electron Transport System
+TCA = Tricarboxylic Acid (Krebs Cycle)
+Co-A = Coenzyme A
+```
++++
+
+:::.row
+:::.col-12 .col-md-6
+#### Aerobic Respiration{.text-center}
+* Occurs **in the presence of oxygen**.
+* Complete breakdown of glucose.
+* Produces **large amount of ATP** (36–38 ATP).
+* Happens in mitochondria.
+:::
+:::.col-12 .col-md-6
+#### Anaerobic Respiration{.text-center}
+* Occurs **without oxygen**.
+* Incomplete breakdown of glucose.
+* Produces **very little ATP** (2 ATP).
+* Produces **ethanol + CO₂** in yeast and **lactic acid** in animals.
+:::
+:::
+</md></sn><sn><md>### Mechanism of Respiration
+
+Respiration occurs through a **series of enzymatic steps**:
+
+1. **Glycolysis** – glucose is partially oxidized in the cytoplasm.
+2. **Formation of Acetyl Co-A** – pyruvate enters mitochondria and forms Acetyl Co-A.
+3. **Krebs Cycle** – Acetyl Co-A is oxidized to CO₂, producing NADH and FADH₂.
+4. **Electron Transport System (ETS)** – electrons flow through proteins, releasing energy to form ATP.
+5. **Oxygen acts as the final electron acceptor**, forming water.
+</md></sn><sn><md>### Basics of Major Steps
+
+:::.row
+:::.col-12 .col-md-6
+ Glycolysis (Cytoplasm)
+* First stage of respiration.
+* Glucose → 2 Pyruvate + 2 ATP + 2 NADH
+* Anaerobic organisms stop here.
+:::
+
+:::.col-12 .col-md-6
+Acetyl Co-A Formation (Link Reaction)
+* Pyruvate enters mitochondria.
+* Pyruvate → Acetyl Co-A + CO₂ + NADH
+* Connects glycolysis to Krebs cycle.
+:::
+
+:::.col-12 .col-md-6
+Krebs Cycle (Mitochondrial Matrix)
+* Acetyl Co-A enters cycle.
+* Produces:
+
+  * CO₂
+  * NADH &amp; FADH₂
+  * ATP
+* Releases electrons for ETS.
+:::
+
+:::.col-12 .col-md-6
+Electron Transport System (Inner Mitochondrial Membrane)
+* NADH and FADH₂ donate electrons.
+* Electrons flow through complexes, creating proton gradient.
+* ATP is formed by **ATP synthase**.
+* Oxygen combines with hydrogen to form **water**.
+:::
+:::
+</md></sn>
