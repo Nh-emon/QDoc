@@ -1,10 +1,87 @@
 
-  <sn></sn>
+  <sn><md>### CAM Pathway
+
+(Crassulacean Acid Metabolism)
+
+CAM pathway is a photosynthetic adaptation found in `plants of arid and desert environments` (e.g., cactus, pineapple, agave).
+These plants `open stomata at night` to conserve water and store CO₂ as organic acids.
+During **daytime**, stored CO₂ is released internally for photosynthesis.
+
++++ ascii diagram
+
+```text
+                    CAM PATHWAY (CRASSULACEAN ACID METABOLISM)
+
+============================== NIGHT (STOMATA OPEN) ==============================
+
+                   ATM CO₂ (Atmospheric Carbon Dioxide)
+                               |
+                               v
+                     CO₂ + PEP (Phosphoenolpyruvate)
+                               |
+                               v
+                       [PEPC / PEPCase]
+                  (PEP Carboxylase Enzyme)
+                               |
+                               v
+                OAA (Oxaloacetic Acid, 4C compound)
+                               |
+                               v
+                     Converted to Malate (4C)
+                               |
+                               v
+                Stored as Malic Acid in Vacuole (Night Storage)
+
+
+============================== DAY (STOMATA CLOSED) ==============================
+
+                 Vacuole Releases Malic Acid (Malate)
+                               |
+                               v
+                        Decarboxylation
+                               |
+                               v
+               CO₂ Released Internally for Calvin Cycle (C₃)
+                               |
+                               v
+                     Sugar Synthesis (Photosynthesis)
+                               |
+                               v
+                     Pyruvate → Regenerates PEP
+                               |
+                               v
+                           CYCLE CONTINUES
+
+
+---------------------------
+LEGENDS
+---------------------------
+ATM CO₂ = Atmospheric Carbon Dioxide  
+PEP = Phosphoenolpyruvate  
+PEPC / PEPCase = PEP Carboxylase  
+OAA = Oxaloacetic Acid (4C)  
+Malate = 4-carbon organic acid  
+Calvin Cycle (C₃) = CO₂ fixation pathway  
+Vacuole = Storage organelle  
+```
+
++++
+
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20220913113707/CAMPhotosynthesis.png)
+</md></sn>
   <config>
     <tags>#05.cam pathway</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 03:36:41 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 03:39:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-MOA8bfXgC1</id>
     <duration></duration>
   </config>
+<sn><md>### Significance
+
+1. Stomata open at night, saving large amounts of water.
+2. Very high water-use efficiency, ideal for drought.
+3. Low photorespiration due to internal CO₂ release.
+4. Helps plants survive in hot, dry, desert climates.
+5. Time-separated CO₂ fixation increases photosynthesis efficiency.
+</md></sn>
