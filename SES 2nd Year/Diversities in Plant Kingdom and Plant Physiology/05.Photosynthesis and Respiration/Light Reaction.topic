@@ -1,10 +1,22 @@
 
-  <sn></sn>
+  <sn><md>### Light Reactions Summary{.text-center}
+
+![diagram](https://www.sciencefacts.net/wp-content/uploads/2020/11/Light-Dependent-Reactions.jpg)
+
+* `Photons are absorbed by the pigments` to power photosystem I and photosystem II.
+* Photosystem II `splits water` molecules into two protons (H+) and oxygen atoms are expelled as $O_2$ gas through the stomata.
+* Protons cross the thylakoid membrane and `power protein complex` ATP synthase to make ATP.
+* NADP+ is `powered up by photosystem I` to make NADPH to be used in the dark reactions.
+* Light dependent reactions finish with charged `NADPH, ATP, and released O2`.
+
++++ watchlist
+* [photosynthesis](https://youtu.be/c4x-o_4a1dQ?si=cY93zxi10_zgkU-w)
++++</md></sn>
   <config>
     <tags>#light reaction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 08 2025 20:07:58 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 16 2025 10:22:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-RmOfH0xRJm</id>
     <duration></duration>
   </config>
