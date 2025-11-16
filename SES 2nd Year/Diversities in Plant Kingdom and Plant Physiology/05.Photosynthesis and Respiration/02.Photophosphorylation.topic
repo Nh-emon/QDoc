@@ -1,10 +1,86 @@
 
-  <sn></sn>
+  <sn><md>### Photophosphorylation
+
+&gt; Photophosphorylation is the process of `producing ATP from ADP` during the **light-dependent reactions of photosynthesis** using light energy.
+
++++ watchlist
+* [cyclic and non-cyclic photophosphorylation](https://youtu.be/IRg9NJAS2Q8?si=sA3PRJWEjIcqkjHH)
++++</md></sn>
   <config>
     <tags>#02.photophosphorylation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 16 2025 09:13:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 16 2025 09:46:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-InVui3Mb19</id>
     <duration></duration>
   </config>
+<sn><md>### Cyclic Photophosphorylation{.text-center}
+
+In cyclic photophosphorylation, `only ATP is produced`, and the `excited electrons` from **Photosystem I (PS I)** `return to the same photosystem`, forming a **cyclic pathway**.
+
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20221116130645/CyclicPhosphorylation.png)
+
+#### Process
+
+* Electrons are excited from **PS I** and move through: <br>
+  &gt; `Primary Acceptor` → `Ferredoxin` → `Cytochrome b6f` → `Plastocyanin` → `back to PS I`
+* This electron flow generates a `proton motive force` across the thylakoid membrane.
+* The proton gradient drives `ATP synthase` to produce ATP.
+* **No NADPH or O₂ is produced**.
+</md></sn><sn><md>### Non-Cyclic Photophosphorylation{.text-center}
+
+In non-cyclic photophosphorylation, `both Photosystem II (PS II) and Photosystem I (PS I)` are involved, and electrons move in a `unidirectional (non-cyclic)` manner.
+
+![diagram](https://cdn1.byjus.com/wp-content/uploads/2018/11/biology/2015/12/05072420/Non-Cyclic-Photophosphorylation.png)
+
+#### Process
+
+* P680 of **PS II** loses electrons, which do not return; instead, they move to **PS I (P700)**.
+* Water undergoes **photolysis**, producing **electrons, H⁺ ions, and O₂**.
+* Electrons from PS I are transferred through carriers to **NADP⁺**, forming **NADPH**.
+* ATP is also generated through chemiosmosis.
+
+#### Key events
+
+* **Splitting of water** releases O₂.
+* Both **ATP and NADPH** are produced.
+</md></sn><sn><md>### Differences {.text-end}
+
+```
+CYCLIC PHOTOPHOSPHORYLATION
+---------------------------
+PS I (P700) -&gt; FR -&gt; Cyt b6f -&gt; PC -&gt; PS I
+
+
+NON-CYCLIC PHOTOPHOSPHORYLATION
+-------------------------------
+H2O → PS II (P680) -&gt; PQ -&gt; Cyt b6f -&gt; PC -&gt; PS I (P700) -&gt; FR -&gt; NADP+ → NADPH
+                    | 
+                    → (H+ pump) → ATP
+
+
+LEGENDS
+-------
+PS I  = Photosystem I (P700)
+PS II = Photosystem II (P680)
+FR    = Ferredoxin
+PQ    = Plastoquinone
+PC    = Plastocyanin
+Cyt b6f = Cytochrome b6f complex
+NADP+ = Final electron acceptor → NADPH
+ATP   = Produced by chemiosmosis during H+ flow
+```
+
+
+| Cyclic Photophosphorylation           | Non-Cyclic Photophosphorylation               |
+| ------------------------------------- | --------------------------------------------- |
+| Only **Photosystem I** involved       | **Photosystem I and II** both involved        |
+| Reaction center: **P700**             | Reaction center: **P680**                     |
+| Electrons move in a **cyclic** manner | Electrons move in a **non-cyclic** manner     |
+| Electrons return to PS I              | Electrons from PS I are accepted by **NADP⁺** |
+| Produces **ATP only**                 | Produces **ATP and NADPH**                    |
+| No water needed                       | Water is split (photolysis)                   |
+| No NADPH produced                     | NADPH produced                                |
+| No O₂ evolved                         | O₂ evolved                                    |
+| Common in bacteria                    | Common in higher plants                       |
+</md></sn>
