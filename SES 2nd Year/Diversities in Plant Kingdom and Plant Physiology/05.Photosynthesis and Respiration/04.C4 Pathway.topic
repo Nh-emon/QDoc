@@ -1,10 +1,291 @@
 
-  <sn></sn>
+  <sn><md><pre class="d-none data">+++ ### Kranz Anatomy
+
+:::.row
+:::.col-12 .col-md-6
+Kranz anatomy is a `special type of leaf anatomy` found in **C₄ plants** (such as maize, sugarcane, sorghum). The word **“Kranz”** means *wreath* in German, referring to the `ring-like arrangement of cells`.
+:::
+:::.col-12 .col-md-6
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240318092155/Kranz-Anatomy.png)
+:::
+:::
+
+1. **Bundle Sheath Cells (BSCs)** form a `thick ring around the vascular bundles`.
+2. **Mesophyll Cells** surround the bundle sheath cells.
+3. **Chloroplast Distribution**
+
+   * `Mesophyll` cells have ++smaller, granal++ chloroplasts.<br>
+    `Bundle sheath` cells have ++large, agranal++ chloroplasts.
+4. **Low Photorespiration** due to spatial separation of initial CO₂ fixation and the Calvin cycle.
+5. `C₄ Cycle` occurs in ++mesophyll cells++,<br> while `Calvin cycle (C₃ cycle)` occurs in ++bundle sheath++ cells.
+
+Kranz anatomy helps the plant `concentrate CO₂ inside bundle sheath cells`, minimizing the oxygenase activity of RuBisCO and `reducing photorespiration`.
+
+
++++
+
+
++++ ### Photorespiration
+
+Photorespiration is a `wasteful process` in **C₃ plants** where `RuBisCO binds O₂ instead of CO₂`. This happens when the internal CO₂ concentration is low.
+
+#### Why It Happens{.text-center}
+
+RuBisCO has two functions:
+
+* **Carboxylase activity** → fixes CO₂ (useful)
+* **Oxygenase activity** → binds O₂ (wasteful)
+
+When it **binds O₂**, the plant enters the `photorespiratory pathway`.
+
+#### Process (Simplified){.text-center}
+
+1. RuBisCO adds O₂ to RuBP instead of CO₂.
+2. This forms `one molecule of 3-PGA` and **one molecule of phosphoglycolate**.
+3. Phosphoglycolate is converted through a long pathway involving chloroplasts, peroxisomes, and mitochondria.
+4. The cycle `releases CO₂ instead of fixing it`.
+5. The plant `loses ATP and NADPH` → no glucose production.
+
+#### Why It Is Harmful{.text-center}
+
+* Wastes already-fixed CO₂.
+* Consumes ATP and reducing power.
+* Reduces photosynthetic efficiency.
+* More prominent in hot, dry conditions when stomata remain closed.
+
+#### Relationship Between Kranz Anatomy and Photorespiration
+
+* **C₄ plants have Kranz anatomy**, which `increases CO₂ concentration around RuBisCO`.
+* High CO₂ prevents RuBisCO from reacting with O₂.
+* Therefore, **C₄ plants show negligible photorespiration**, making them more efficient in hot climates.
+
++++
+</pre><temp><dl>
+<div class="row">
+<div class="col-12 col-md-6 col">
+<p>Kranz anatomy is a <code>special type of leaf anatomy</code> found in <strong>C₄ plants</strong> (such as maize, sugarcane, sorghum). The word <strong>“Kranz”</strong> means <em>wreath</em> in German, referring to the <code>ring-like arrangement of cells</code>.</p>
+</div>
+<div class="col-12 col-md-6 col">
+<p><img src="https://media.geeksforgeeks.org/wp-content/uploads/20240318092155/Kranz-Anatomy.png" alt="diagram"></p>
+</div>
+</div>
+<ol>
+<li>
+<p><strong>Bundle Sheath Cells (BSCs)</strong> form a <code>thick ring around the vascular bundles</code>.</p>
+</li>
+<li>
+<p><strong>Mesophyll Cells</strong> surround the bundle sheath cells.</p>
+</li>
+<li>
+<p><strong>Chloroplast Distribution</strong></p>
+<ul>
+<li><code>Mesophyll</code> cells have <ins>smaller, granal</ins> chloroplasts.<br>
+<code>Bundle sheath</code> cells have <ins>large, agranal</ins> chloroplasts.</li>
+</ul>
+</li>
+<li>
+<p><strong>Low Photorespiration</strong> due to spatial separation of initial CO₂ fixation and the Calvin cycle.</p>
+</li>
+<li>
+<p><code>C₄ Cycle</code> occurs in <ins>mesophyll cells</ins>,<br> while <code>Calvin cycle (C₃ cycle)</code> occurs in <ins>bundle sheath</ins> cells.</p>
+</li>
+</ol>
+<p>Kranz anatomy helps the plant <code>concentrate CO₂ inside bundle sheath cells</code>, minimizing the oxygenase activity of RuBisCO and <code>reducing photorespiration</code>.</p>
+</dl>
+<dl>
+<p>Photorespiration is a <code>wasteful process</code> in <strong>C₃ plants</strong> where <code>RuBisCO binds O₂ instead of CO₂</code>. This happens when the internal CO₂ concentration is low.</p>
+<h4 class="text-center">Why It Happens</h4>
+<p>RuBisCO has two functions:</p>
+<ul>
+<li><strong>Carboxylase activity</strong> → fixes CO₂ (useful)</li>
+<li><strong>Oxygenase activity</strong> → binds O₂ (wasteful)</li>
+</ul>
+<p>When it <strong>binds O₂</strong>, the plant enters the <code>photorespiratory pathway</code>.</p>
+<h4 class="text-center">Process (Simplified)</h4>
+<ol>
+<li>RuBisCO adds O₂ to RuBP instead of CO₂.</li>
+<li>This forms <code>one molecule of 3-PGA</code> and <strong>one molecule of phosphoglycolate</strong>.</li>
+<li>Phosphoglycolate is converted through a long pathway involving chloroplasts, peroxisomes, and mitochondria.</li>
+<li>The cycle <code>releases CO₂ instead of fixing it</code>.</li>
+<li>The plant <code>loses ATP and NADPH</code> → no glucose production.</li>
+</ol>
+<h4 class="text-center">Why It Is Harmful</h4>
+<ul>
+<li>Wastes already-fixed CO₂.</li>
+<li>Consumes ATP and reducing power.</li>
+<li>Reduces photosynthetic efficiency.</li>
+<li>More prominent in hot, dry conditions when stomata remain closed.</li>
+</ul>
+<h4>Relationship Between Kranz Anatomy and Photorespiration</h4>
+<ul>
+<li><strong>C₄ plants have Kranz anatomy</strong>, which <code>increases CO₂ concentration around RuBisCO</code>.</li>
+<li>High CO₂ prevents RuBisCO from reacting with O₂.</li>
+<li>Therefore, <strong>C₄ plants show negligible photorespiration</strong>, making them more efficient in hot climates.</li>
+</ul>
+</dl>
+</temp>++ ### Kranz Anatomy
+
+:::.row
+:::.col-12 .col-md-6
+Kranz anatomy is a `special type of leaf anatomy` found in **C₄ plants** (such as maize, sugarcane, sorghum). The word **“Kranz”** means *wreath* in German, referring to the `ring-like arrangement of cells`.
+:::
+:::.col-12 .col-md-6
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240318092155/Kranz-Anatomy.png)
+:::
+:::
+
+1. **Bundle Sheath Cells (BSCs)** form a `thick ring around the vascular bundles`.
+2. **Mesophyll Cells** surround the bundle sheath cells.
+3. **Chloroplast Distribution**
+
+   * `Mesophyll` cells have ++smaller, granal++ chloroplasts.<br>
+    `Bundle sheath` cells have ++large, agranal++ chloroplasts.
+4. **Low Photorespiration** due to spatial separation of initial CO₂ fixation and the Calvin cycle.
+5. `C₄ Cycle` occurs in ++mesophyll cells++,<br> while `Calvin cycle (C₃ cycle)` occurs in ++bundle sheath++ cells.
+
+Kranz anatomy helps the plant `concentrate CO₂ inside bundle sheath cells`, minimizing the oxygenase activity of RuBisCO and `reducing photorespiration`.
+
+
++++
+
+
++++ ### Photorespiration
+
+Photorespiration is a `wasteful process` in **C₃ plants** where `RuBisCO binds O₂ instead of CO₂`. This happens when the internal CO₂ concentration is low.
+
+#### Why It Happens{.text-center}
+
+RuBisCO has two functions:
+
+* **Carboxylase activity** → fixes CO₂ (useful)
+* **Oxygenase activity** → binds O₂ (wasteful)
+
+When it **binds O₂**, the plant enters the `photorespiratory pathway`.
+
+#### Process (Simplified){.text-center}
+
+1. RuBisCO adds O₂ to RuBP instead of CO₂.
+2. This forms `one molecule of 3-PGA` and **one molecule of phosphoglycolate**.
+3. Phosphoglycolate is converted through a long pathway involving chloroplasts, peroxisomes, and mitochondria.
+4. The cycle `releases CO₂ instead of fixing it`.
+5. The plant `loses ATP and NADPH` → no glucose production.
+
+#### Why It Is Harmful{.text-center}
+
+* Wastes already-fixed CO₂.
+* Consumes ATP and reducing power.
+* Reduces photosynthetic efficiency.
+* More prominent in hot, dry conditions when stomata remain closed.
+
+#### Relationship Between Kranz Anatomy and Photorespiration
+
+* **C₄ plants have Kranz anatomy**, which `increases CO₂ concentration around RuBisCO`.
+* High CO₂ prevents RuBisCO from reacting with O₂.
+* Therefore, **C₄ plants show negligible photorespiration**, making them more efficient in hot climates.
+
++++
+</md></sn>
   <config>
     <tags>#04.c4 pathway</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 16 2025 12:13:56 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 03:23:24 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-HoCSGSt7Jx</id>
     <duration></duration>
   </config>
+<sn><md>### C₄ Cycle
+
+The C₄ cycle (`Hatch–Slack` pathway) is a photosynthetic carbon-fixation pathway `found in C₄ plants`. It `concentrates CO₂ in bundle sheath cells` to prevent photorespiration and increase efficiency in hot climates.
+
++++ ascii-diagram
+
+#### (Mesophyll → Bundle Sheath → Back to Mesophyll){.text-center}
+
+```text
+                 C4 CYCLE (HATCH–SLACK PATHWAY)
+
+                   ATM CO₂ (Atmospheric Carbon Dioxide)
+                               |
+                               v
+                    +---------------------+
+                    |   MESOPHYLL CELL    |
+                    +---------------------+
+                               |
+                               |  CO₂ + PEP
+                               |   (Phosphoenolpyruvate)
+                               v
+                        [PEPCase / PEPC]
+                 (Phosphoenolpyruvate Carboxylase)
+                               |
+                               v
+                      OAA (Oxaloacetic Acid - 4C)
+                               |
+                               v
+                     Malate / Aspartate (4C)
+                               |
+                               v
+            ===================================================
+                    TRANSPORT TO BUNDLE SHEATH (BS)
+            ===================================================
+                               |
+                               v
+                    +-------------------------+
+                    |   BUNDLE SHEATH (BS)    |
+                    +-------------------------+
+                               |
+                               |  Decarboxylation
+                               v
+                    CO₂ Released → Enters Calvin Cycle (C3)
+                               |
+                               v
+                       Pyruvate (3C compound)
+                               |
+                               v
+            ===================================================
+                  RETURNS TO MESOPHYLL FOR PEP REGENERATION
+            ===================================================
+                               |
+                               v
+                   Pyruvate + ATP → PEP (Phosphoenolpyruvate)
+                               |
+                               v
+                         CYCLE RESTARTS
+
+
+--------------------------
+LEGENDS
+--------------------------
+CO₂ = Carbon Dioxide  
+PEP = Phosphoenolpyruvate  
+PEPC / PEPCase = PEP Carboxylase  
+OAA = Oxaloacetic Acid (4C compound)  
+BS = Bundle Sheath  
+C3 = Calvin Cycle (C₃ Pathway)  
+4C = Four-carbon compound  
+3C = Three-carbon compound  
+```
++++
+
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20220621172508/C2.png)
+
+</md></sn><sn><md>### Significance of the C₄ Cycle
+
+* **Reduces Photorespiration** :  High CO₂ concentration around RuBisCO `minimizes wasteful oxygenation`.
+* **High Photosynthetic Efficiency** : C₄ plants produce `more glucose per unit time` under high temperature and light.
+* **Efficient Nitrogen Use** : Lower demand for RuBisCO `reduces the nitrogen requirement`.
+* **Better Water Use Efficiency** : Stomata remain partially closed → `less water loss` → good for arid regions.
+* **Adaptation to Hot Tropical Climates** : C₄ pathway evolved to `overcome limitations of C₃ photosynthesis in warm climates`.
+</md></sn><sn><md>### C₃ vs C₄ Plants
+
+| Feature                        | C₃ Plants           | C₄ Plants                 |
+| ------------------------------ | ------------------- | ------------------------- |
+| **Primary CO₂ Fixing Enzyme**  | RuBisCO             | PEP Carboxylase           |
+| **First Stable Product**       | 3-PGA (3C)          | OAA (4C)                  |
+| **Anatomy**                    | No Kranz anatomy    | Kranz anatomy present     |
+| **Photorespiration**           | High                | Negligible                |
+| **Optimum Temperature**        | Moderate climates   | Hot/tropical climates     |
+| **Water Use Efficiency**       | Low                 | High                      |
+| **Bundle Sheath Chloroplasts** | Not prominent       | Large and agranal         |
+| **CO₂ Compensation Point**     | High                | Very low                  |
+| **Examples**                   | Wheat, Rice, Potato | Maize, Sugarcane, Sorghum |
+</md></sn>
