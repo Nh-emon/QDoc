@@ -10,7 +10,7 @@
     <tags>#02.photophosphorylation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 16 2025 09:46:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 16 2025 10:15:15 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-InVui3Mb19</id>
     <duration></duration>
   </config>
@@ -74,13 +74,13 @@ ATP   = Produced by chemiosmosis during H+ flow
 
 | Cyclic Photophosphorylation           | Non-Cyclic Photophosphorylation               |
 | ------------------------------------- | --------------------------------------------- |
-| Only **Photosystem I** involved       | **Photosystem I and II** both involved        |
-| Reaction center: **P700**             | Reaction center: **P680**                     |
-| Electrons move in a **cyclic** manner | Electrons move in a **non-cyclic** manner     |
-| Electrons return to PS I              | Electrons from PS I are accepted by **NADP⁺** |
-| Produces **ATP only**                 | Produces **ATP and NADPH**                    |
-| No water needed                       | Water is split (photolysis)                   |
-| No NADPH produced                     | NADPH produced                                |
-| No O₂ evolved                         | O₂ evolved                                    |
-| Common in bacteria                    | Common in higher plants                       |
+| Only Photosystem `I` involved       | Photosystem `I and II` both involved        |
+| Reaction center: `P700`             | Reaction center: `P680`                     |
+| Electrons move in a `cyclic` manner | Electrons move in a `non-cyclic` manner     |
+| Electrons `return` to PS I              | Electrons from PS I are `accepted by` **NADP⁺** |
+| Produces `ATP only`                 | Produces `ATP` and `NADPH`                    |
+| No `water` needed                       | Water is split (photolysis)                   |
+| No `NADPH` produced                     | NADPH produced                                |
+| No `O₂` evolved                         | O₂ evolved                                    |
+| Common in `bacteria`                    | Common in `higher plants`                       |
 </md></sn>
