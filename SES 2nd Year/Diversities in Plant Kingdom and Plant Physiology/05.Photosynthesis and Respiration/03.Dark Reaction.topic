@@ -1,10 +1,173 @@
 
-  <sn></sn>
+  <sn><md>## Calvin Cycle {.text-center}
+
+The **Calvin Cycle**, also known as the **C₃ cycle** or **light-independent reactions**, is the biochemical pathway through which plants, algae, and some bacteria convert **carbon dioxide (CO₂)** into **glucose**. It takes place in the **stroma of chloroplasts** and uses the **ATP and NADPH** generated during the light reactions.
+
+Although the Calvin Cycle does not directly require light, it depends on light-produced molecules (ATP &amp; NADPH), so it is `indirectly light-dependent`.
+
+
++++ watchlist
+* [calvin cycle tedEd](https://youtu.be/0UzMaoaXKaM?si=7UYpjFyTIsBHTFZM)
++++
+</md></sn>
   <config>
     <tags>#03.dark reaction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 16 2025 11:03:34 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 16 2025 12:06:28 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-aroCBiIVwU</id>
     <duration></duration>
   </config>
+<sn><md>### Overview of the Calvin Cycle{.text-center}
+
+The Calvin Cycle consists of **three main stages**:
+
+1. `Carbon Fixation`
+2. `Reduction`
+3. `Regeneration of RuBP`
+
+The cycle must turn **three times** to fix **three molecules of CO₂**, generating `one molecule of glyceraldehyde-3-phosphate (G3P)`, the ++precursor for glucose++.
+
+![diagram](https://www.sciencephoto.com/image/f0419794/800wm)</md></sn><sn><md>### Carbon Fixation
+
+```
+CO₂ + RuBP --(RuBisCO)--&gt; 3-PGA
+```
+
+:::.row
+:::.col-12 .col-md-6
+#### Step Details{.text-center}
+* The enzyme **RuBisCO** (Ribulose-1,5-bisphosphate carboxylase/oxygenase) captures **CO₂** from the environment.
+* CO₂ combines with **RuBP** (Ribulose-1,5-bisphosphate), a 5-carbon compound.
+* RuBP + CO₂ → **unstable 6-carbon compound** → splits immediately into:
+
+  * **Two molecules of 3-phosphoglycerate (3-PGA)**
+:::
+
+:::.col-12 .col-md-6
+#### Key Points{.text-center}
+* RuBisCO is the **most abundant enzyme on Earth**.
+* This is the “fixing” of inorganic carbon into an organic form.
+:::
+:::
+</md></sn><sn><md>### Reduction Phase{.text-center}
+
+```
+3-PGA + ATP + NADPH → G3P
+```
+
+During this phase, **ATP and NADPH** from light reactions are used to convert 3-PGA into a more `energy-rich molecule`.
+
+:::.row
+:::.col-12 .col-md-6
+#### Steps{.text-center}
+1. ATP phosphorylates 3-PGA → **1,3-bisphosphoglycerate**
+2. NADPH reduces it → **Glyceraldehyde-3-phosphate (G3P)**
+:::
+:::.col-12 .col-md-6
+#### Importance of G3P {.text-center}
+* G3P is a **3-carbon sugar**.
+* Two G3P molecules combine to form **glucose (C₆H₁₂O₆)**.
+* Out of every 6 molecules of G3P produced, **only 1 exits the cycle** to make sugars; the rest regenerate RuBP.
+:::
+:::
+</md></sn><sn><md>### Regeneration of RuBP{.text-center}
+
+To keep the cycle running, the CO₂ acceptor **RuBP** must be regenerated.
+
+```
+G3P → (1 exits for glucose)
+Remaining G3P + ATP → RuBP (regenerated)
+```
+
+:::.row
+:::.col-12 .col-md-6
+#### Steps{.text-center}
+* The remaining **5 molecules of G3P** (out of 6) are rearranged using **ATP** to regenerate **3 molecules of RuBP**.
+* These RuBP molecules can again accept CO₂ and restart the cycle.
+:::
+
+:::.col-12 .col-md-6
+#### Energy Requirement{.text-center}
+* This step also consumes ATP, emphasizing dependence on the light reaction products.
+:::
+:::
+</md></sn><sn><md>### Energy and Input–Output Summary
+
+:::.row
+:::.col-12 .col-md-6
+#### Inputs:{.text-center}
+* **3 CO₂**
+* **9 ATP**
+* **6 NADPH**
+:::
+:::.col-12 .col-md-6
+#### Outputs:{.text-center}
+* **1 G3P (net)**
+* **9 ADP + 8 Pi (return to light reactions)**
+* **6 NADP⁺ (return to light reactions)**
+:::
+:::
+</md></sn><sn><md>### Overall Significance
+
+* **Production of Glucose** : The main purpose is to create **G3P**, which is used to synthesize-Glucose,Sucrose,Starch,Cellulose
+* **Carbon Fixation** :  The Calvin Cycle helps remove CO₂ from the atmosphere, influencing global carbon balance.
+* **Universal Pathway in C₃ Plants** :  The cycle is used by all plants using C₃ photosynthesis (most plants on Earth).
+</md></sn><sn><md>### Simplified Diagram
+
+```
+CO₂ + RuBP --(RuBisCO)--&gt; 3-PGA
+3-PGA + ATP + NADPH → G3P
+G3P → (1 exits for glucose)
+Remaining G3P + ATP → RuBP (regenerated)
+```
+</md></sn><sn><md>### Full Diagram
+
+```
+                    CALVIN CYCLE (C₃ CYCLE)
+                    -------------------------
+
+                          ┌──────────┐
+                  CO₂ ---&gt;│  RuBisCO │
+                          └────┬─────┘
+                               │  Carbon Fixation
+                               v
+                     ┌─────────────────────┐
+                     │   Unstable 6-C      │
+                     └───────┬─────────────┘
+                             v
+                    ┌───────────────────────┐
+                    │   3-PGA (3C)          │
+                    └───────┬───────────────┘
+                            │  + ATP
+                            │  + NADPH
+                            v  Reduction Phase
+                 ┌──────────────────────────────┐
+                 │     G3P (Glyceraldehyde-3-P) │
+                 └───────────┬──────────────────┘
+                             │
+        (One G3P exits →→→ used to form glucose)
+                             │
+                             v
+           ┌──────────────────────────────────────┐
+           │       5 G3P rearranged (uses ATP)    │
+           └───────────────────┬──────────────────┘
+                               v
+                     ┌───────────────────────┐
+                     │     RuBP (5C)         │
+                     └─────────┬─────────────┘
+                               │
+                               └─────→ cycle repeats
+
+
+LEGENDS
+-------
+CO₂           = Carbon dioxide
+RuBisCO       = Ribulose-1,5-bisphosphate carboxylase/oxygenase (fixes CO₂)
+3-PGA         = 3-phosphoglycerate
+G3P           = Glyceraldehyde-3-phosphate (sugar output)
+RuBP          = Ribulose-1,5-bisphosphate (CO₂ acceptor)
+ATP &amp; NADPH   = Energy carriers from light reactions
+"1 G3P exits" = Net sugar gain; used for glucose formation
+"5 G3P rearranged" = Regeneration phase to reform RuBP
+```</md></sn>
