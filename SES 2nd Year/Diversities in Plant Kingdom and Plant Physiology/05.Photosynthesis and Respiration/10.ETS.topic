@@ -1,10 +1,19 @@
 
-  <sn></sn>
+  <sn><md>### Electron Transport System (ETS)
+
+The **Electron Transport System (ETS)** is the `final stage` of aerobic respiration, occurring in the **inner mitochondrial membrane**. It is responsible for `producing the maximum amount of ATP` by ++transferring electrons through a sequence of carriers++.
+
+* The **electron transport chain (ETC)** is a series of electron carriers located in the **inner membrane of mitochondria**.
+* Electrons released from **NADH and FADH₂** are passed from one carrier to another through a series of **redox reactions**.
+* As electrons flow through the chain, energy is released and used to **pump protons (H⁺)** across the membrane, creating a **proton gradient**.
+* This gradient provides the force for **ATP formation** when protons flow back through **ATP synthase**. This ATP formation through proton movement is called **chemiosmosis**.
+* At the end of the chain, electrons combine with **oxygen (the final electron acceptor)** and hydrogen ions to form **water**.
+* Because oxygen is required directly at the end of the chain, the entire process is part of **aerobic respiration**.</md></sn>
   <config>
     <tags>#10.ets</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 07:01:36 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 07:14:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qDjy7AC8zc</id>
     <duration></duration>
   </config>
