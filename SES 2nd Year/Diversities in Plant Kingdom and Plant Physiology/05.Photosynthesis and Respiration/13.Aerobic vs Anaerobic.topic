@@ -1,10 +1,66 @@
 
-  <sn></sn>
+  <sn><md>### Biological Efficiency
+
+**Biological efficiency** refers to how effectively an organism converts the **energy stored in food (glucose)** into **usable energy (ATP)** during respiration.
+It is measured by comparing:
+
+$$
+\text{Biological Efficiency} = \frac{\text{Energy captured as ATP}}{\text{Total energy present in glucose}} \times 100
+$$
+
+The total energy stored in **1 mole of glucose = 686 kcal** (approx).
+</md></sn>
   <config>
     <tags>#13.aerobic vs anaerobic</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 08:50:04 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 09:04:19 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XravcOluMT</id>
     <duration></duration>
   </config>
+<sn><md>### Biological Efficiency of Aerobic Respiration
+
+* **ATP produced:** 36–38 ATP (average considered = 38 ATP)
+
+* **Energy captured:**
+  $$
+  38 \text{ ATP} \times 7.3 \text{ kcal per ATP} = 277.4 \text{ kcal}
+  $$
+
+* **Efficiency:**
+  $$
+  \frac{277.4}{686} \times 100 \approx 40%
+  $$
+
+✔ **Aerobic respiration efficiency ≈ 40%**
+(remaining 60% lost as heat)
+</md></sn><sn><md>### Biological Efficiency of Anaerobic Respiration
+
+* **ATP produced:** Only **2 ATP**
+
+* **Energy captured:**
+  $$
+  2 \text{ ATP} \times 7.3 \text{ kcal per ATP} = 14.6 \text{ kcal}
+  $$
+
+* **Efficiency:**
+  $$
+  \frac{14.6}{686} \times 100 \approx 2%
+  $$
+
+✔ **Anaerobic respiration efficiency ≈ 2%**
+(very low because most energy remains in lactic acid/ethanol)
+</md></sn><sn><md>### Table: Aerobic vs Anaerobic Respiration
+
+| **Feature**                | **Aerobic Respiration**                      | **Anaerobic Respiration**                    |
+| -------------------------- | -------------------------------------------- | -------------------------------------------- |
+| **Oxygen Requirement**     | Requires oxygen                              | Occurs without oxygen                        |
+| **Location**               | Mitochondria                                 | Cytoplasm                                    |
+| **Number of ATP Produced** | 36–38 ATP                                    | 2 ATP                                        |
+| **End Products**           | CO₂ + H₂O                                    | Lactic acid (animals), Ethanol + CO₂ (yeast) |
+| **Biological Efficiency**  | ~40%                                         | ~2%                                          |
+| **Pathway Involved**       | Glycolysis → Acetyl Co-A → Krebs Cycle → ETS | Glycolysis → Fermentation                    |
+| **Energy Release**         | High                                         | Very low                                     |
+| **Organisms**              | Plants, animals, aerobic microbes            | Yeast, bacteria, muscle cells under low O₂   |
+| **By-products**            | Non-toxic                                    | Often toxic (lactic acid, ethanol)           |
+</md></sn>
