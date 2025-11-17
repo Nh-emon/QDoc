@@ -1,10 +1,73 @@
 
-  <sn></sn>
+  <sn><md>### Acetyl Co-A Formation (Arranged Content)
+
+Before pyruvic acid (PA) can enter the **Krebs cycle**, it must first be converted into a **2-carbon compound** called **Acetyl Co-A**.
+This conversion happens in the **mitochondrial matrix**.
+
+Pyruvic acid (a **3-carbon** compound) loses one carbon as **CO₂**, and the remaining 2-carbon fragment combines with **Coenzyme A** to form **Acetyl Co-A**.
+This reaction is known as **Oxidative Decarboxylation**.
+
+:::.row
+:::.col-12 .col-md-6
+#### Co-factors Required (5 Total){.text-center}
+* **TPP** (Thiamine pyrophosphate)
+* **NAD⁺**
+* **FAD**
+* **Coenzyme A (Co-A)**
+* **Lipoic acid**
+:::
+
+:::.col-12 .col-md-6
+#### Enzymes Involved{.text-center}
+* **Carboxylase**
+* **Transacetylase**
+* **Dehydrogenase**
+:::
+:::
+
+
+
++++ ASCII Diagram
+
+```text
+                 OXIDATIVE DECARBOXYLATION OF PYRUVATE
+
+               Pyruvate (3C)
+                     |
+                     |  Pyruvate Dehydrogenase Complex
+                     |  (Carboxylase + Transacetylase + Dehydrogenase)
+                     |
+                     v
+       -------------------------------
+       |  Removal of CO₂ (Decarboxylation) |
+       -------------------------------
+                     |
+                     v
+         2C Fragment (Acetyl group)
+                     |
+                     |  + Coenzyme A (CoA)
+                     v
+             Acetyl Co-A (2C)
+                     |
+                     v
+             Enters Krebs Cycle
+
+
+----------------------
+LEGENDS
+----------------------
+3C = Three-carbon compound  
+2C = Two-carbon compound  
+CoA = Coenzyme A  
+CO₂ = Carbon dioxide  
+PDH Complex = Pyruvate Dehydrogenase complex  
+```
++++</md></sn>
   <config>
     <tags>#08.acetyle coa formation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 06:21:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 06:30:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-7npfZrrWCf</id>
     <duration></duration>
   </config>
