@@ -1,10 +1,228 @@
 
-  <sn></sn>
+  <sn><md>### Krebs Cycle
+
+The **Krebs cycle**, also called the **Citric Acid Cycle** or **TCA Cycle**, is the **second major stage of cellular respiration** (after glycolysis and acetyl Co-A formation).
+It was discovered by **Hans Krebs** in 1937.
+
+In this cycle, **pyruvic acid (as Acetyl Co-A)** is completely broken down into **carbon dioxide** through a series of **energy-extracting reactions**.
+The **first compound formed is citric acid**, therefore the pathway is also known as the **Citric Acid Cycle**.
+
+During the cycle:
+
+* **CO₂ is released as a waste product** (exhaled).
+* **ATP** is produced for immediate cellular use.
+* High-energy electron carriers **NADH and FADH₂** are generated, which later produce a **large amount of ATP** in the Electron Transport System (ETS).
+</md></sn>
   <config>
     <tags>#09.krebs cycle</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 06:34:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 07:01:19 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-q45aE6aqgx</id>
     <duration></duration>
   </config>
+<sn><md><pre class="d-none data">+++ ASCII Diagram
+
+```text
+                        KREBS / CITRIC ACID CYCLE
+
+                         Acetyl Co-A (2C)
+                               |
+                               |  Combines with
+                               |  Oxaloacetate (4C)
+                               v
+                         Citric Acid (Citrate) (6C)
+                               |
+                               |  Enzyme reactions
+                               v
+                       Isocitrate (6C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                       α-Ketoglutarate (5C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                        Succinyl Co-A (4C)
+                               |
+                               |  ATP (or GTP) formed
+                               v
+                          Succinate (4C)
+                               |
+                               |  FAD → FADH2
+                               v
+                          Fumarate (4C)
+                               |
+                               v
+                          Malate (4C)
+                               |
+                               |  NAD+ → NADH
+                               v
+                       Oxaloacetate (4C)
+                               |
+                               |  Cycle repeats with new Acetyl Co-A
+                               v
+                          (Cycle Restarts)
+
+
+-------------------------
+LEGENDS
+-------------------------
+2C = 2-carbon compound  
+4C = 4-carbon compound  
+5C = 5-carbon compound  
+6C = 6-carbon compound  
+NADH, FADH2 = High-energy electron carriers  
+ATP = Energy molecule  
+CO₂ = Carbon dioxide (waste product)  
+```
++++</pre><temp><dl>
+<pre class="copy-container"><i class="fa-light fa-clone i-btn hover rounded-1 copy-btn code-copy-btn" title="Copy"></i><code class="copy-text language-text hljs language-plaintext" data-highlighted="yes">                        KREBS / CITRIC ACID CYCLE
+
+                         Acetyl Co-A (2C)
+                               |
+                               |  Combines with
+                               |  Oxaloacetate (4C)
+                               v
+                         Citric Acid (Citrate) (6C)
+                               |
+                               |  Enzyme reactions
+                               v
+                       Isocitrate (6C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                       α-Ketoglutarate (5C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                        Succinyl Co-A (4C)
+                               |
+                               |  ATP (or GTP) formed
+                               v
+                          Succinate (4C)
+                               |
+                               |  FAD → FADH2
+                               v
+                          Fumarate (4C)
+                               |
+                               v
+                          Malate (4C)
+                               |
+                               |  NAD+ → NADH
+                               v
+                       Oxaloacetate (4C)
+                               |
+                               |  Cycle repeats with new Acetyl Co-A
+                               v
+                          (Cycle Restarts)
+
+
+-------------------------
+LEGENDS
+-------------------------
+2C = 2-carbon compound  
+4C = 4-carbon compound  
+5C = 5-carbon compound  
+6C = 6-carbon compound  
+NADH, FADH2 = High-energy electron carriers  
+ATP = Energy molecule  
+CO₂ = Carbon dioxide (waste product)  
+</code></pre>
+</dl>
+</temp>++ ASCII Diagram
+
+```text
+                        KREBS / CITRIC ACID CYCLE
+
+                         Acetyl Co-A (2C)
+                               |
+                               |  Combines with
+                               |  Oxaloacetate (4C)
+                               v
+                         Citric Acid (Citrate) (6C)
+                               |
+                               |  Enzyme reactions
+                               v
+                       Isocitrate (6C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                       α-Ketoglutarate (5C)
+                               |
+                               |  CO2 released
+                               |  NAD+ → NADH
+                               v
+                        Succinyl Co-A (4C)
+                               |
+                               |  ATP (or GTP) formed
+                               v
+                          Succinate (4C)
+                               |
+                               |  FAD → FADH2
+                               v
+                          Fumarate (4C)
+                               |
+                               v
+                          Malate (4C)
+                               |
+                               |  NAD+ → NADH
+                               v
+                       Oxaloacetate (4C)
+                               |
+                               |  Cycle repeats with new Acetyl Co-A
+                               v
+                          (Cycle Restarts)
+
+
+-------------------------
+LEGENDS
+-------------------------
+2C = 2-carbon compound  
+4C = 4-carbon compound  
+5C = 5-carbon compound  
+6C = 6-carbon compound  
+NADH, FADH2 = High-energy electron carriers  
+ATP = Energy molecule  
+CO₂ = Carbon dioxide (waste product)  
+```
++++</md></sn><sn><md>### Net Reaction of **Acetyl Co-A Formation**
+
+(From one molecule of pyruvate)
+
+$$
+\text{Pyruvate} + \text{NAD}^+ + \text{CoA}
+;\longrightarrow;
+\text{Acetyl–CoA} + \text{NADH} + \text{H}^+ + \text{CO}_2
+$$
+
+#### Key Points
+
+* Occurs in **mitochondrial matrix**
+* Produces: **1 NADH**, **1 CO₂**
+* Prepares pyruvate for the Krebs cycle
+
+---
+
+### Net Reaction of **Krebs Cycle**
+
+(For one Acetyl Co-A)
+
+$$
+\text{Acetyl–CoA} + 3\text{NAD}^+ + \text{FAD} + \text{ADP} + \text{Pi} + 2\text{H}_2\text{O}
+;\longrightarrow;
+2\text{CO}_2 + 3\text{NADH} + 3\text{H}^+ + \text{FADH}_2 + \text{ATP} + \text{CoA}
+$$
+
+#### Key Points
+
+* Produces: **3 NADH**, **1 FADH₂**, **1 ATP (or GTP)**
+* Releases: **2 CO₂**
+* Regenerates **Oxaloacetate**
+* Must run **twice per glucose** (because glucose → 2 pyruvate → 2 Acetyl Co-A)
+</md></sn>
