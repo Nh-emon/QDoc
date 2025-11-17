@@ -1,10 +1,17 @@
 
-  <sn></sn>
+  <sn><md>### Summary
+
+| **Stage**                    | **Location**                      | **Oxygen Requirement** | **Key Processes / Products**                                                |
+| ---------------------------- | --------------------------------- | ---------------------- | --------------------------------------------------------------------------- |
+| **Glycolysis**               | Cytoplasm                         | With or without oxygen | Glucose (6C) → 2 Pyruvates (3C); produces small amount of ATP and NADH      |
+| **TCA Cycle (Krebs Cycle)**  | Mitochondrial matrix              | Only with oxygen       | Pyruvate → Acetyl Co-A → CO₂; generates NADH and FADH₂, some ATP            |
+| **Electron Transport Chain** | Mitochondrial membranes (cristae) | Only with oxygen       | Transfers electrons from NADH &amp; FADH₂ to O₂ → H₂O; produces majority of ATP |
+</md></sn>
   <config>
     <tags>#11.summary of aerobic respiration</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 07:16:52 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 07:19:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-zVjee2bgzH</id>
     <duration></duration>
   </config>
