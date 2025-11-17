@@ -1,10 +1,55 @@
 
-  <sn></sn>
+  <sn><md>### Anaerobic Respiration
+
+Anaerobic respiration is the process by which **cells generate energy without using oxygen**. It is an ancient form of energy production, occurring in **many microorganisms** and some animal cells when oxygen is scarce. Unlike aerobic respiration, anaerobic respiration **yields less ATP per glucose molecule**.
+
+
+#### Key Features of Anaerobic Respiration
+
+* Occurs **without oxygen**.
+* Produces **2 ATP per glucose** (net) through glycolysis.
+* Involves **fermentation pathways** to regenerate NAD⁺ for glycolysis.
+* End products vary depending on the organism and pathway: **lactic acid, ethanol, CO₂, or other organic acids**.
+
+
+Anaerobic respiration is **less efficient than aerobic respiration**, but it allows organisms to survive and produce ATP **in environments lacking oxygen**.
+</md></sn>
   <config>
     <tags>#12.anaerobic respiration</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 07:23:29 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 07:30:57 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-G1LEpgoikB</id>
     <duration></duration>
   </config>
+<sn><md>### Fermentation
+
+Fermentation is a type of anaerobic respiration where **pyruvate from glycolysis is converted into different end products** to regenerate NAD⁺, allowing glycolysis to continue.
+
+There are two main types of fermentation in living organisms:
+</md></sn><sn><md>### Alcoholic Fermentation{.text-center}
+
+* **Occurs in:** Yeasts, some bacteria
+* **Purpose:** Regenerate NAD⁺ from NADH to maintain glycolysis
+* **Process:** Pyruvate is first decarboxylated to acetaldehyde and CO₂, then reduced to ethanol.
+* **Net Reaction (per glucose molecule):**
+
+$$
+\text{Glucose} \rightarrow 2 \text{Ethanol} + 2 \text{CO}_2 + 2 \text{ATP}
+$$
+
+* **Applications:** Brewing, wine, beer, and bioethanol production.
+</md></sn><sn><md>### Lactic Acid Fermentation{.text-center}
+
+* **Occurs in:** Animal muscle cells (during intense exercise), some bacteria
+* **Purpose:** Regenerate NAD⁺ from NADH to allow glycolysis to continue
+* **Process:** Pyruvate is directly reduced by NADH to form **lactic acid**.
+* **Net Reaction (per glucose molecule):**
+
+$$
+\text{Glucose} \rightarrow 2 \text{Lactic Acid} + 2 \text{ATP}
+$$
+
+* **Applications:** Yogurt, cheese production, and temporary energy supply in muscles.
+* **Note:** Accumulation of lactic acid causes muscle fatigue and soreness.
+</md></sn>
