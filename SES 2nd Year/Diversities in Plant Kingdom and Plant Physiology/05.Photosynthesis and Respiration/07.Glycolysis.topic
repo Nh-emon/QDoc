@@ -1,10 +1,315 @@
 
-  <sn></sn>
+  <sn><md>### Glycolysis
+
+Glycolysis is the `first` and most `ancient` stage of respiration. It occurs in the `cytosol` of all living organisms and does `not require oxygen`, making it the only pathway that can `occur both aerobically and anaerobically`.
+It is also known as the **EMP pathway** (Embden–Meyerhof–Parnas).
+
+During glycolysis, **one molecule of glucose(6c)** is converted into **two molecules of pyruvate(3c)**.
+
+* **With oxygen**, pyruvate enters the mitochondria for the **TCA cycle**.
+* **Without oxygen**, pyruvate is converted to **lactate** (animals) or **ethanol + CO₂** (yeast).
+
+Net energy yield under anaerobic conditions: **2 ATP per glucose**.
+
+#### Net Reaction of Glycolysis
+
+$$
+\text{Glucose} \rightarrow 2\text{ Pyruvate} + 2\text{ ATP} + 2\text{ NADH} + 2\text{ H}_2\text{O}
+$$
+
+</md></sn>
   <config>
     <tags>#07.glycolysis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 17 2025 05:34:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 17 2025 06:13:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-jPJbs7jLEN</id>
     <duration></duration>
   </config>
+<sn><md><pre class="d-none data">+++ ascii-diagram
+
+```text
+                         GLYCOLYSIS PATHWAY (EMP)
+
+              Glucose
+                 |
+                 |  (1) Hexokinase
+                 v
+         Glucose-6-Phosphate (G6P)
+                 |
+                 |  (2) Phosphoglucose Isomerase
+                 v
+         Fructose-6-Phosphate (F6P)
+                 |
+                 |  (3) Phosphofructokinase-1 (PFK-1)
+                 v
+         Fructose-1,6-Bisphosphate (F1,6BP)
+                 |
+                 |  (4) Aldolase
+                 v
+      +-------------------------------+
+      |                               |
+      v                               v
+ Glyceraldehyde-3-P (G3P)       DHAP (Dihydroxyacetone-P)
+      |                               |
+      |  (5) Triose Phosphate Isomerase
+      +---------------&gt; G3P -----------
+                             |
+                             |  (6) G3P Dehydrogenase
+                             v
+                1,3-Bisphosphoglycerate (1,3-BPG)
+                             |
+                             |  (7) Phosphoglycerate Kinase
+                             v
+                3-Phosphoglycerate (3-PG)
+                             |
+                             |  (8) Phosphoglycerate Mutase
+                             v
+                2-Phosphoglycerate (2-PG)
+                             |
+                             |  (9) Enolase
+                             v
+                   Phosphoenolpyruvate (PEP)
+                             |
+                             |  (10) Pyruvate Kinase
+                             v
+                       Pyruvate (End Product)
+
+
+------------------------
+LEGENDS
+------------------------
+G6P  = Glucose-6-phosphate
+F6P  = Fructose-6-phosphate
+F1,6BP = Fructose-1,6-bisphosphate
+DHAP = Dihydroxyacetone phosphate
+G3P  = Glyceraldehyde-3-phosphate
+1,3-BPG = 1,3-bisphosphoglycerate
+3-PG = 3-phosphoglycerate
+2-PG = 2-phosphoglycerate
+PEP = Phosphoenolpyruvate
+```
+
+#### **Enzymes Mnemonic:**
+
+&gt; **“Hungry Pirates Pick All The Greatest Pickled Pumpkins Ever Produced.”**
+
+1. **H**ungry → **Hexokinase**
+2. **P**irates → **Phosphoglucose Isomerase**
+3. **P**ick → **Phosphofructokinase-1 (PFK-1)**
+4. **A**ll → **Aldolase**
+5. **T**he → **Triose Phosphate Isomerase**
+6. **G**reatest → **G3P Dehydrogenase**
+7. **P**ickled → **Phosphoglycerate Kinase**
+8. **P**umpkins → **Phosphoglycerate Mutase**
+9. **E**ver → **Enolase**
+10. **P**roduced → **Pyruvate Kinase**
+
+
+#### Mnemonic for All Glycolysis Products (in order)
+
+&gt; **“Good Fathers Find Delicious Goodies; Big Plates Provide Energy.”**
+
+Now match each word to the glycolysis product:
+
+1. **Good** → **G6P** (Glucose-6-phosphate)
+2. **Fathers** → **F6P** (Fructose-6-phosphate)
+3. **Find** → **F1,6BP** (Fructose-1,6-bisphosphate)
+4. **Delicious** → **DHAP** (Dihydroxyacetone phosphate)
+5. **Goodies** → **G3P** (Glyceraldehyde-3-phosphate)
+6. **Big** → **1,3-BPG** (1,3-bisphosphoglycerate)
+7. **Plates** → **3-PG** (3-phosphoglycerate)
+8. **Provide** → **2-PG** (2-phosphoglycerate)
+9. **Energy** → **PEP** (Phosphoenolpyruvate)
+
++++</pre><temp><dl>
+<pre class="copy-container"><i class="fa-light fa-clone i-btn hover rounded-1 copy-btn code-copy-btn" title="Copy"></i><code class="copy-text language-text hljs language-plaintext" data-highlighted="yes">                         GLYCOLYSIS PATHWAY (EMP)
+
+              Glucose
+                 |
+                 |  (1) Hexokinase
+                 v
+         Glucose-6-Phosphate (G6P)
+                 |
+                 |  (2) Phosphoglucose Isomerase
+                 v
+         Fructose-6-Phosphate (F6P)
+                 |
+                 |  (3) Phosphofructokinase-1 (PFK-1)
+                 v
+         Fructose-1,6-Bisphosphate (F1,6BP)
+                 |
+                 |  (4) Aldolase
+                 v
+      +-------------------------------+
+      |                               |
+      v                               v
+ Glyceraldehyde-3-P (G3P)       DHAP (Dihydroxyacetone-P)
+      |                               |
+      |  (5) Triose Phosphate Isomerase
+      +---------------&gt; G3P -----------
+                             |
+                             |  (6) G3P Dehydrogenase
+                             v
+                1,3-Bisphosphoglycerate (1,3-BPG)
+                             |
+                             |  (7) Phosphoglycerate Kinase
+                             v
+                3-Phosphoglycerate (3-PG)
+                             |
+                             |  (8) Phosphoglycerate Mutase
+                             v
+                2-Phosphoglycerate (2-PG)
+                             |
+                             |  (9) Enolase
+                             v
+                   Phosphoenolpyruvate (PEP)
+                             |
+                             |  (10) Pyruvate Kinase
+                             v
+                       Pyruvate (End Product)
+
+
+------------------------
+LEGENDS
+------------------------
+G6P  = Glucose-6-phosphate
+F6P  = Fructose-6-phosphate
+F1,6BP = Fructose-1,6-bisphosphate
+DHAP = Dihydroxyacetone phosphate
+G3P  = Glyceraldehyde-3-phosphate
+1,3-BPG = 1,3-bisphosphoglycerate
+3-PG = 3-phosphoglycerate
+2-PG = 2-phosphoglycerate
+PEP = Phosphoenolpyruvate
+</code></pre>
+<h4><strong>Enzymes Mnemonic:</strong></h4>
+<blockquote>
+<p><strong>“Hungry Pirates Pick All The Greatest Pickled Pumpkins Ever Produced.”</strong></p>
+</blockquote>
+<ol>
+<li><strong>H</strong>ungry → <strong>Hexokinase</strong></li>
+<li><strong>P</strong>irates → <strong>Phosphoglucose Isomerase</strong></li>
+<li><strong>P</strong>ick → <strong>Phosphofructokinase-1 (PFK-1)</strong></li>
+<li><strong>A</strong>ll → <strong>Aldolase</strong></li>
+<li><strong>T</strong>he → <strong>Triose Phosphate Isomerase</strong></li>
+<li><strong>G</strong>reatest → <strong>G3P Dehydrogenase</strong></li>
+<li><strong>P</strong>ickled → <strong>Phosphoglycerate Kinase</strong></li>
+<li><strong>P</strong>umpkins → <strong>Phosphoglycerate Mutase</strong></li>
+<li><strong>E</strong>ver → <strong>Enolase</strong></li>
+<li><strong>P</strong>roduced → <strong>Pyruvate Kinase</strong></li>
+</ol>
+<h4>Mnemonic for All Glycolysis Products (in order)</h4>
+<blockquote>
+<p><strong>“Good Fathers Find Delicious Goodies; Big Plates Provide Energy.”</strong></p>
+</blockquote>
+<p>Now match each word to the glycolysis product:</p>
+<ol>
+<li><strong>Good</strong> → <strong>G6P</strong> (Glucose-6-phosphate)</li>
+<li><strong>Fathers</strong> → <strong>F6P</strong> (Fructose-6-phosphate)</li>
+<li><strong>Find</strong> → <strong>F1,6BP</strong> (Fructose-1,6-bisphosphate)</li>
+<li><strong>Delicious</strong> → <strong>DHAP</strong> (Dihydroxyacetone phosphate)</li>
+<li><strong>Goodies</strong> → <strong>G3P</strong> (Glyceraldehyde-3-phosphate)</li>
+<li><strong>Big</strong> → <strong>1,3-BPG</strong> (1,3-bisphosphoglycerate)</li>
+<li><strong>Plates</strong> → <strong>3-PG</strong> (3-phosphoglycerate)</li>
+<li><strong>Provide</strong> → <strong>2-PG</strong> (2-phosphoglycerate)</li>
+<li><strong>Energy</strong> → <strong>PEP</strong> (Phosphoenolpyruvate)</li>
+</ol>
+</dl>
+</temp>++ ascii-diagram
+
+```text
+                         GLYCOLYSIS PATHWAY (EMP)
+
+              Glucose
+                 |
+                 |  (1) Hexokinase
+                 v
+         Glucose-6-Phosphate (G6P)
+                 |
+                 |  (2) Phosphoglucose Isomerase
+                 v
+         Fructose-6-Phosphate (F6P)
+                 |
+                 |  (3) Phosphofructokinase-1 (PFK-1)
+                 v
+         Fructose-1,6-Bisphosphate (F1,6BP)
+                 |
+                 |  (4) Aldolase
+                 v
+      +-------------------------------+
+      |                               |
+      v                               v
+ Glyceraldehyde-3-P (G3P)       DHAP (Dihydroxyacetone-P)
+      |                               |
+      |  (5) Triose Phosphate Isomerase
+      +---------------&gt; G3P -----------
+                             |
+                             |  (6) G3P Dehydrogenase
+                             v
+                1,3-Bisphosphoglycerate (1,3-BPG)
+                             |
+                             |  (7) Phosphoglycerate Kinase
+                             v
+                3-Phosphoglycerate (3-PG)
+                             |
+                             |  (8) Phosphoglycerate Mutase
+                             v
+                2-Phosphoglycerate (2-PG)
+                             |
+                             |  (9) Enolase
+                             v
+                   Phosphoenolpyruvate (PEP)
+                             |
+                             |  (10) Pyruvate Kinase
+                             v
+                       Pyruvate (End Product)
+
+
+------------------------
+LEGENDS
+------------------------
+G6P  = Glucose-6-phosphate
+F6P  = Fructose-6-phosphate
+F1,6BP = Fructose-1,6-bisphosphate
+DHAP = Dihydroxyacetone phosphate
+G3P  = Glyceraldehyde-3-phosphate
+1,3-BPG = 1,3-bisphosphoglycerate
+3-PG = 3-phosphoglycerate
+2-PG = 2-phosphoglycerate
+PEP = Phosphoenolpyruvate
+```
+
+#### **Enzymes Mnemonic:**
+
+&gt; **“Hungry Pirates Pick All The Greatest Pickled Pumpkins Ever Produced.”**
+
+1. **H**ungry → **Hexokinase**
+2. **P**irates → **Phosphoglucose Isomerase**
+3. **P**ick → **Phosphofructokinase-1 (PFK-1)**
+4. **A**ll → **Aldolase**
+5. **T**he → **Triose Phosphate Isomerase**
+6. **G**reatest → **G3P Dehydrogenase**
+7. **P**ickled → **Phosphoglycerate Kinase**
+8. **P**umpkins → **Phosphoglycerate Mutase**
+9. **E**ver → **Enolase**
+10. **P**roduced → **Pyruvate Kinase**
+
+
+#### Mnemonic for All Glycolysis Products (in order)
+
+&gt; **“Good Fathers Find Delicious Goodies; Big Plates Provide Energy.”**
+
+Now match each word to the glycolysis product:
+
+1. **Good** → **G6P** (Glucose-6-phosphate)
+2. **Fathers** → **F6P** (Fructose-6-phosphate)
+3. **Find** → **F1,6BP** (Fructose-1,6-bisphosphate)
+4. **Delicious** → **DHAP** (Dihydroxyacetone phosphate)
+5. **Goodies** → **G3P** (Glyceraldehyde-3-phosphate)
+6. **Big** → **1,3-BPG** (1,3-bisphosphoglycerate)
+7. **Plates** → **3-PG** (3-phosphoglycerate)
+8. **Provide** → **2-PG** (2-phosphoglycerate)
+9. **Energy** → **PEP** (Phosphoenolpyruvate)
+
++++</md></sn>
