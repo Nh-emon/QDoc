@@ -34,7 +34,7 @@ Given
     <tags>#solid phase math problem</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 20:25:18 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 03:43:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-D8XfSBEEJR</id>
     <duration></duration>
   </config>
@@ -209,4 +209,104 @@ $$
 #### **Final Answer**
 
 **Water to be added = 244 g (approximately)**
-</md></sn><sn></sn>
+</md></sn><sn><md>##### Qn4.Using Stokes’ law calculate the time needed for all silt particles to settle out of a depth of 20 cm in an aqueous solution at 30°C.
+
+### Assumptions
+
+* Particles are spherical and behave according to Stokes’ law (laminar flow, low Reynolds number).
+* Particle (silt) density $\rho_p = 2650\ \text{kg·m}^{-3}$ (typical mineral value).
+* Water at $30^\circ$C: fluid density $\rho_f = 995.65\ \text{kg·m}^{-3}$ and dynamic viscosity $\mu = 0.000797\ \text{Pa·s}$.
+* Depth to settle $H = 0.20\ \text{m}$.
+* I use the **smallest silt diameter** $d = 2\ \mu\text{m} = 2\times10^{-6}\ \text{m}$ — this gives the longest (conservative) settling time.
+
+### Stokes’ settling velocity
+
+$$
+v = \frac{(\rho_p-\rho_f),g,d^2}{18\mu}
+$$
+
+Substitute values:
+
+$$
+v=\frac{(2650-995.65)\times 9.80665 \times (2\times10^{-6})^2}{18\times 0.000797}
+=4.5235\times10^{-6}\ \text{m/s}
+$$
+
+### Time to settle 0.20 m
+
+$$
+t=\frac{H}{v}=\frac{0.20}{4.5235\times10^{-6}} \approx 44{,}213\ \text{s}\approx 12.28\ \text{hours}
+$$
+
+### Summary answer
+
+* **For 2 μm silt particles, time ≈ 44,200 s ≈ 12.3 hours.**
+</md></sn><sn><md>##### 4.Using Stokes’ law, calculate the time needed for all the particles to settle out of a depth of0.2 m in an aqueous solution at 30°C. Here viscosity η= 0.008gm/cm sec or 0.0008 kg/m sec; diameter d (50μm, 2μm and 1μm for the lower limits of sand, silt and coarse clay respectively), g=9.81 m/sec2 or 981 cm/sec2, average particle density is 2.65g/cm3 or 2.65×103kg/m3 or 2650 kg/m3 and water density (103 kg/m3 or 1 gm/cm3).
+
+Stokes’ terminal settling velocity for a spherical particle:
+$$
+v = \frac{(\rho_p-\rho_f),g,d^2}{18\mu}
+$$
+where
+$\rho_p$ = particle density, $\rho_f$ = fluid density, (g) = gravity, (d) = particle diameter, $\mu$ = dynamic viscosity.
+Time to settle a depth (H) is $t = H/v$.
+
+**Values used (SI):**
+
+* $H = 0.2\ \text{m}$
+* $\mu = 0.0008\ \text{kg·m}^{-1}\text{s}^{-1}$
+* $g = 9.81\ \text{m·s}^{-2}$
+* $\rho_p = 2650\ \text{kg·m}^{-3}$
+* $\rho_f = 1000\ \text{kg·m}^{-3})  (water$
+* $\rho_p-\rho_f = 1650\ \text{kg·m}^{-3}$
+* $18\mu = 18\times0.0008 = 0.0144\ \text{kg·m}^{-1}\text{s}^{-1}$
+
+
+### 1) Sand lower limit: $d = 50\ \mu\text{m} = 5.0\times10^{-5}\ \text{m}$
+
+* $d^2 = (5.0\times10^{-5})^2 = 2.500000\times10^{-9}\ \text{m}^2$
+* numerator = $(\rho_p-\rho_f),g,d^2 = 1650\times 9.81 \times 2.5\times10^{-9} = 4.046625\times10^{-5}$
+* denominator = (18\mu = 0.0144$
+* $v = \dfrac{4.046625\times10^{-5}}{0.0144} = 2.81015625\times10^{-3}\ \text{m·s}^{-1}$
+* $t = \dfrac{0.2}{2.81015625\times10^{-3}} = 71.1704\ \text{s} \approx 71.2\ \text{s} \approx 1.19\ \text{min})$
+
+Reynolds number check: $Re=\dfrac{\rho_f v d}{\mu} \approx 0.176 &lt;1$ → Stokes law valid.
+
+---
+
+### 2) Silt lower limit: $d = 2\ \mu\text{m} = 2.0\times10^{-6}\ \text{m}$
+
+* $d^2 = (2.0\times10^{-6})^2 = 4.000000\times10^{-12}\ \text{m}^2$
+* numerator = $1650\times9.81\times4.0\times10^{-12} = 6.4746\times10^{-8}$
+* $v = \dfrac{6.4746\times10^{-8}}{0.0144} = 4.49625\times10^{-6}\ \text{m·s}^{-1}$
+* $t = \dfrac{0.2}{4.49625\times10^{-6}} = 44,481.5124\ \text{s} \approx 12.356\ \text{hours}$
+  $≈ 12 h 21 min$
+
+Reynolds number: $Re \approx 1.12\times10^{-5}$ → Stokes regime valid.
+
+---
+
+### 3) Coarse clay lower limit: $d = 1\ \mu\text{m} = 1.0\times10^{-6}\ \text{m}$
+
+* $d^2 = (1.0\times10^{-6})^2 = 1.000000\times10^{-12}\ \text{m}^2$
+* numerator = $1650\times9.81\times1.0\times10^{-12} = 1.61865\times10^{-8}$
+* $v = \dfrac{1.61865\times10^{-8}}{0.0144} = 1.1240625\times10^{-6}\ \text{m·s}^{-1}$
+* $t = \dfrac{0.2}{1.1240625\times10^{-6}} = 177,926.0495\ \text{s} \approx 49.424\ \text{hours}$
+  $≈ 2.06 days)
+
+Reynolds number: $Re \approx 1.41\times10^{-6}$ → Stokes regime valid.
+
+---
+
+## Summary (sorted by particle size)
+
+* **50 μm:** $v = 2.81\times10^{-3}\ \mathrm{m/s}), (t \approx 71.2\ \mathrm{s}$ (≈ 1.19 min)
+* **2 μm:** $v = 4.50\times10^{-6}\ \mathrm{m/s}), (t \approx 44{,}482\ \mathrm{s}) (≈ 12.36 h$
+* **1 μm:** $v = 1.12\times10^{-6}\ \mathrm{m/s}), (t \approx 177{,}926\ \mathrm{s}) (≈ 49.42 h ≈ 2.06 days$
+
+**Notes / assumptions**
+
+* Used $\rho_f = 1000\ \text{kg·m}^{-3}$ for water (your message had a typo "103 kg/m³"); if you intended a different fluid density, results change.
+* Stokes’ law applies here (checked via Reynolds numbers — all ≪1). For larger particles or higher Re, corrections (Oseen, empirical drag) would be needed.
+* Particles assumed spherical and non-interacting (no flocculation, Brownian effects for the smallest, or hindered settling in concentrated suspensions).
+</md></sn>
