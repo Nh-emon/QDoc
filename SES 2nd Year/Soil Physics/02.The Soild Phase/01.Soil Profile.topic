@@ -1,10 +1,91 @@
 
-  <sn></sn>
+  <sn><md>### Soil Profile
+
+&gt; A **soil profile** is the `vertical section of soil` that shows its different layers, known as **horizons**.
+
+Each horizon has `unique physical, chemical, and biological characteristics` formed over thousands of years through `weathering, organic matter decomposition, and environmental interactions`. Understanding the soil profile is essential for `agriculture, soil science, geology, and environmental studies` because it reveals `soil fertility, drainage, age, and formation processes`.
+
+</md></sn>
   <config>
     <tags>#01.soil profile</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 08:18:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 09:11:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-uVshpMV3AB</id>
     <duration></duration>
   </config>
+<sn><md>### Horizons
+
+![diagram](https://www.sciencefacts.net/wp-content/uploads/2020/12/Soil-Horizons-Layers-Diagram-Chart.jpg)
+</md></sn><sn><md>### O-Horizon (Organic Layer)
+
+1. Composed mainly of leaf `litter`, `twigs`, and decomposing `plant/animal remains`.
+2. Contains the `highest percentage of organic matter` in the entire profile.
+3. `Dark` in color due to abundance of ++humus++.
+4. `Common` in ++forest++ ecosystems, <br> `rare` in ++cultivated fields++.
+5. Plays a major role in nutrient recycling.
+6. Hosts many decomposers such as fungi, bacteria, and insects.
+7. Acts as a `protective layer` that reduces soil erosion and evaporation.
+</md></sn><sn><md>### A-Horizon (Topsoil)
+
+1. Mixture of `mineral particles and humus`, making it fertile.
+2. Most `biologically active` horizon with roots and organisms.
+3. `Dark to brown` in color.
+4. Crucial for plant growth and crop productivity.
+5. Undergoes leaching of minerals to lower horizons.
+6. Usually `10–30 cm thick`, depending on climate and land use.
+7. Contains `granular or crumb soil` structure ideal for ++aeration++.
+</md></sn><sn><md>### E-Horizon (Eluviation Layer)
+
+1. Characterized by `loss (eluviation) of` clay, iron, aluminum, and organic compounds.
+2. `Light-colored` due to removal of minerals.
+3. Found `mainly in forest soils`, especially under coniferous vegetation.
+4. Has a `sandy or silt-rich` texture.
+5. `Poor in nutrients` because most soluble materials are leached out.
+6. Often forms `between A and B` horizons.
+7. Indicates strong leaching environments such as high rainfall regions.
+</md></sn><sn><md>### B-Horizon (Subsoil)
+
+1. Zone of `accumulation` (illuviation) where clay, iron oxides, and humus gather.
+2. `Denser and harder` than A-horizon ++due to compaction++.
+3. `Less fertile` but ++rich in minerals++.
+4. Color varies from `yellowish-brown to reddish` depending on *iron* content.
+5. Roots can penetrate but grow slower due to hardness.
+6. Strong influence on `soil drainage and water retention`.
+7. Often `thicker than topsoil`, developing over long periods.
+</md></sn><sn><md>### C-Horizon (Parent Material)
+
+1. Contains `partially weathered rock` fragments.
+2. `Low biological activity` and minimal organic matter.
+3. Influences `soil texture and mineral composition`.
+4. Weathering processes such as frost, heat, and water act slowly here.
+5. ++Loose structure++ makes it less `compact than B`-horizon.
+6. Represents the `transition between soil and bedrock`.
+7. Thickness varies greatly depending on type of parent material.
+</md></sn><sn><md>### R-Horizon (Bedrock)
+
+1. Made of `unweathered hard rock`.
+2. Not considered true `!soil`.
+3. Serves as the ultimate parent material of the soil profile.
+4. Extremely `low or no biological activity`.
+5. Very `compact and impermeable`.
+6. Determines `long-term mineral supply` for upper horizons.
+7. Weathering of this layer over time initiates soil formation.</md></sn><sn><md>### Formation of Soil Profile
+
+Soil profiles form as a result of five major soil-forming factors:
+
+* **Parent Material**: Determines mineral composition.
+* **Climate**: Temperature and rainfall influence weathering and organic matter decay.
+* **Organisms**: Plants, animals, and microbes alter structure and nutrient levels.
+* **Topography**: Slope affects erosion, drainage, and deposition.
+* **Time**: Profile development requires hundreds to thousands of years.
+
+These factors interact to create distinct horizons.
+</md></sn><sn><md>### Importance of Soil Profile
+
+* Helps determine **soil fertility** for agricultural use.
+* Indicates **drainage and water-holding capacity** of soil.
+* Helps classify soil types for scientific and engineering purposes.
+* Essential for understanding **ecosystem functioning**, including nutrient cycling.
+* Guides land-use decisions like construction, irrigation, and forestry.
+</md></sn>
