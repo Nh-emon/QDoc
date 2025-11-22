@@ -34,7 +34,7 @@ Given
     <tags>#solid phase math problem</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 18:25:23 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 19:28:56 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-D8XfSBEEJR</id>
     <duration></duration>
   </config>
@@ -57,10 +57,10 @@ $$
 
 Where
 
-* $ w $ = mass wetness (gravimetric water content) in g/g
-* $ \theta_v $ = volumetric water content
-* $ \rho_w $ = density of water
-* $ \rho_b $ = dry bulk density
+* $w$ = mass wetness (gravimetric water content) in g/g
+* $\theta_v$ = volumetric water content
+* $\rho_w$ = density of water
+* $\rho_b$ = dry bulk density
 
 ---
 
@@ -83,4 +83,43 @@ $$
 **Final Answer**
 
 **Mass wetness (gravimetric water content) = 0.231 g/g**
-</md></sn>
+</md></sn><sn><md>##### Calculate the porosity of a soil sample having a bulk density of 1.325 g/cm3.
+
+To calculate **porosity**, we need:
+
+* **Bulk density (BD) = 1.325 g/cm³**
+* **Particle density (PD)** — if not given, we assume the standard value:
+  $$
+  \text{PD} = 2.65 , \text{g/cm}^3
+  $$
+
+---
+
+#### **Porosity Formula**
+
+$$
+n = 1 - \frac{\text{BD}}{\text{PD}}
+$$
+
+---
+
+#### **Step-by-Step Calculation**
+
+$$
+n = 1 - \frac{1.325}{2.65}
+$$
+
+$$
+n = 1 - 0.5
+$$
+
+$$
+n = 0.5
+$$
+
+---
+
+### **Final Answer**
+
+**Porosity = 0.50 or 50%**
+</md></sn><sn></sn>
