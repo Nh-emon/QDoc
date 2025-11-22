@@ -1,10 +1,41 @@
 
-  <sn></sn>
+  <sn><md>##### Qn7. A moist soil sample has water content by dry mass of 0.211 g/g, a total mass of 1080 gm and total volume 650 g/cm3. Assume that particle density is 2.65 g/cm3. Calculate the percent porosity of a soil sample
+
+Given
+
+* water content (by dry mass) $w = 0.211\ \mathrm{g/g}$
+* total mass $M_{tot}=1080\ \mathrm{g}$
+* total volume $V_{t}=650\ \mathrm{cm^3}$  (assumed unit is cm³)
+* particle (solid) density $\rho_s = 2.65\ \mathrm{g/cm^3}$
+
+1. Compute dry mass $M_s$:
+   $$
+   M_s=\frac{M_{tot}}{1+w}=\frac{1080}{1.211}=891.8249381\ \mathrm{g}
+   $$
+
+2. Bulk density $\rho_b$:
+   $$
+   \rho_b=\frac{M_s}{V_t}=\frac{891.8249381}{650}=1.372038366\ \mathrm{g/cm^3}
+   $$
+
+3. Porosity (n) (fraction) using $n=1-\dfrac{\rho_b}{\rho_s}$:
+   $$
+   n=1-\frac{1.372038366}{2.65}=0.4822496731
+   $$
+
+4. Percent porosity:
+   $$
+   \text{Porosity} = n\times100 = 48.22%
+   $$
+
+**Answer: ≈ 48.22% porosity (about 48.2%).**
+</md></sn>
   <config>
     <tags>#solid phase math problem</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 16:53:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 18:15:31 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-D8XfSBEEJR</id>
     <duration></duration>
   </config>
+<sn></sn>
