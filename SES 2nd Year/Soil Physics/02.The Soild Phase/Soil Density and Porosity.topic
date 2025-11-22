@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 17:18:09 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 17:52:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -93,6 +93,11 @@ Because pore space reduces the mass in a given volume:
 $$
 \text{Bulk Density (BD)} &lt; \text{Particle Density (PD)}
 $$
+
+1. **Dry bulk density** uses only dry mass because it shows the true packing of soil solids and `does not change with moisture`.
+2. Wet bulk density includes water mass, so it changes whenever the soil becomes wetter or drier.
+3. Use `dry bulk density` for **porosity** and **compaction** studies;<br>
+use wet bulk density only for field moisture or hydrology calculations.
 </md></sn><sn><md>### Soil Porosity
 
 Porosity represents the % of soil volume not occupied by solids.
@@ -147,6 +152,13 @@ $$\text{Porosity} = \left(1 - \frac{\text{BD}}{\text{PD}}\right)$$
 For Percentage
 
 $$\text{Porosity} = \left(1 - \frac{\text{BD}}{\text{PD}}\right) \times 100$$
+
+</md></sn><sn><md>### Mass of moist water
+
+$$\text{Mass of moist soil} = \text{Mass of solid + Mass of water content} $$
+$$\text{Mass of moist soil} = M_s + wM_s $$
+
+here , **w** denote water content per g solid
 
 </md></sn><sn><md>### Equations
 
