@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 17:52:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 17:56:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -191,6 +191,8 @@ here , **w** denote water content per g solid
    $$
    SS = \frac{BD}{PD} \times 100
    $$
+
+Here BD refer Dry Bulk Density
 
 7. $$
    SS + n = 100
