@@ -34,7 +34,7 @@ Given
     <tags>#solid phase math problem</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 19:28:56 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 20:25:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-D8XfSBEEJR</id>
     <duration></duration>
   </config>
@@ -122,4 +122,91 @@ $$
 ### **Final Answer**
 
 **Porosity = 0.50 or 50%**
+</md></sn><sn><md>##### 02. A moist soil sample has total mass of 2350 g and water content (by dry mass) of 0.103 gm/gm. How many gm of water must be added to the sample to raise the water content from 0.103g/g to 0.217 g/g. 
+
+* Total mass of moist soil:
+  $$
+  M_t = 2350 \text{ g}
+  $$
+
+* Initial water content (gravimetric):
+  $$
+  w_i = 0.103 , \text{g/g}
+  $$
+
+* Final water content required:
+  $$
+  w_f = 0.217 , \text{g/g}
+  $$
+
+We must find: **How much water to add?**
+
+---
+
+### Find mass of dry soil
+
+Gravimetric water content:
+
+$$
+w_i = \frac{M_w}{M_s}
+$$
+
+Where
+
+* $M_w$ = initial water mass
+* $M_s$ = dry soil mass
+
+Total moist mass:
+
+$$
+M_t = M_s + M_w
+$$
+
+Substitute (M_w = w_i M_s):
+
+$$
+2350 = M_s + (0.103 M_s)
+$$
+
+$$
+2350 = 1.103 M_s
+$$
+
+$$
+M_s = \frac{2350}{1.103} = 2130.1 \text{ g}
+$$
+
+---
+
+### Calculate initial water mass
+
+$$
+M_{w_i} = w_i M_s = 0.103 \times 2130.1 = 219.0 \text{ g}
+$$
+
+---
+
+### Calculate final required water mass
+
+$$
+M_{w_f} = w_f M_s = 0.217 \times 2130.1 = 462.7 \text{ g}
+$$
+
+---
+
+### Water to be added
+
+$$
+\Delta M_w = M_{w_f} - M_{w_i}
+$$
+
+$$
+\Delta M_w = 462.7 - 219.0 = 243.7 \text{ g}
+$$
+
+---
+
+#### **Final Answer**
+
+**Water to be added = 244 g (approximately)**
 </md></sn><sn></sn>
