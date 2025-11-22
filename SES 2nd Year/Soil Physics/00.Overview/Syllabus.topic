@@ -1,10 +1,56 @@
 
-  <sn></sn>
+  <sn><md>### Soil Physics Syllabus
+
+| **Section / Topic**                               | **Content**                                                                                                                                                      |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Soil and Environmental Physics in Perspective** | Definition of Soil and environmental physics<br> History of Soil Physics<br> Importance of Soil Physics<br> Soil Physical properties<br> physical phenomenon of Environment. |
+| **Measurement**                                   | Standards and units<br> International systems of units.                                                                                                             |
+| **Fluid Dynamics**                                | Definition of fluid dynamics<br> Navier-Stokes equations<br> Equation of motion relative to a rotating frame-coriolis force.                                           |
+| **Air Dynamics**                                  | Definition of air dynamics.<br> Thermodynamics of dry and moist air<br> Thermal structure of atmosphere and ocean.                                                      |
+
+### The Solid Phase
+
+| **Topic**            | **Content**                                                                                                                                                                                                                                                     |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Texture**          | Definition<br> Primary particles<br> Specific surface of soil particles<br> Particle size analysis and expression of results<br> Derivation of sedimentation equation (Stokes’ law)<br> assumptions and limitations of Stokes’ law<br> Determination of Textural class of a soil. |
+| **Structure**        | Definition<br> classification<br> and agricultural significance of soil structure; Genesis<br> Evaluation and management of soil structure.                                                                                                                              |
+| **Soil Consistence** | Soil Plasticity<br> Atterberg’s constants and their practical significance.                                                                                                                                                                                        |
+| **Soil Compaction**  | General Concept of Soil Compaction<br> occurrence of soil compaction in agricultural fields<br> Consequences of soil compaction<br> Control of soil compaction.                                                                                                          |
+
+### The Liquid Phase
+
+| **Topic**                                | **Content**                                                                                                                                                                                                                                  |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Molecular properties of water**        | Structure<br> H-bonding<br> States of water.                                                                                                                                                                                                       |
+| **Fluid properties of water**            | Surface tension<br> Capillarity<br> Viscosity<br> Density<br> Derivation of capillary rise equation.                                                                                                                                                     |
+| **Soil water contents**                  | Definition and measurements.                                                                                                                                                                                                                 |
+| **Energy state of water in Environment** | Soil water potential-definition<br> components<br> measurement<br> potential<br> kinetic and total energy status of water in soil and air.                                                                                                               |
+| **Water retention in soil**              | Water release curve<br> hysteresis.                                                                                                                                                                                                             |
+| **Water movement in Environment**        | Saturated flow<br> Darcy’s law<br> Poiseuille’s equation<br> Water flux through a uniform homogeneous soil profile<br> Flux through a layered soil profile<br> Hydraulic conductivity<br> Determination of saturated hydraulic conductivity in the laboratory. |
+
+### The Gaseous Phase
+
+| **Topic**                   | **Content**                                                                                                                                                                              |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Soil air &amp; gas exchange** | Composition of soil air and atmospheric air<br> Aeration<br> Mechanisms of soil gas exchange<br> Measurement of Soil aeration<br> Movement of gaseous component in different environmental segments. |
+
+### **Temperature**
+
+| **Topic**            | **Content**                                                                                                                                                                                                                                                                              |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Soil Temperature** | Introduction<br> Temperature in different environmental component. Temperature variability in Lithosphere<br> Hydrosphere and Atmosphere. Temperature based classification in the Soil Taxonomy<br> Heat capacity<br> Thermal conductivity<br> Thermal diffusivity<br> Factors affecting soil temperature. |
+
+### Spectroscopy
+
+| **Topic**                 | **Content**                                         |
+| ------------------------- | --------------------------------------------------- |
+| **Spectroscopy Concepts** | Concepts<br> Black body<br> Solar Spectrum<br> Ozone filter. |
+</md></sn>
   <config>
     <tags>#syllabus</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 06:57:15 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 07:09:27 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-5gQ7TmVJmu</id>
     <duration></duration>
   </config>
