@@ -1,10 +1,102 @@
 
-  <sn></sn>
+  <sn><md>### Soil Temperature
+
+Soil temperature refers to the `warmth found within the soil body`, influenced by solar radiation, atmospheric conditions, soil properties, vegetation, and moisture. It `controls` a wide variety of `biological, chemical, and physical` processes such as ++seed germination, root growth, microbial activity, nutrient availability, and water movement++. Because the soil acts as both a **heat sink** and a **heat source**, understanding soil temperature is essential in agriculture, ecology, geology, and climate studies.
+
+Soil temperature changes both **spatially** and **temporally**—varying with depth, season, time of day, and surface conditions. It reflects the heat exchange among three major environmental components: the **atmosphere**, **lithosphere**, and **hydrosphere**.
+</md></sn>
   <config>
     <tags>#temp part1</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 04:15:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 04:56:10 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Ro0fZHF6EP</id>
     <duration></duration>
   </config>
+<sn><md>Temperature in Different Environmental Components{.text-end}
+
+#### Atmosphere
+
+* The atmosphere receives heat primarily from the Earth’s surface through **radiation**, **conduction**, and **convection**.
+* Air temperature `fluctuates rapidly` because air has a `low heat capacity`, meaning it warms and cools quickly.
+* Atmospheric conditions—`cloud cover, humidity, and wind`—strongly influence soil temperature.
+* At night, longwave radiation loss cools the air and the soil surface, while daytime solar input warms them.
+
+#### Lithosphere (Earth’s Crust and Soil Layer)
+
+* The `upper part of the lithosphere` includes the **soil layer**, where temperature is `highly dynamic`.
+* Soil temperature is controlled by:
+
+  * Solar radiation at the surface
+  * Soil texture and structure
+  * Soil moisture
+  * Organic matter content
+  * Vegetation or surface cover
+* Heat moves in the soil mainly by `conduction`, and deeper layers show **less variation** than surface soil.
+* The lithosphere acts as a `long-term heat reservoir`, slowly releasing or absorbing thermal energy.
+
+#### Hydrosphere
+
+* The hydrosphere (oceans, lakes, rivers, groundwater) greatly moderates temperature because water has a `high heat capacity`.
+* Water bodies `heat more slowly and cool more slowly` than the atmosphere or soil.
+* Soil temperature is affected by:
+
+  * Moisture content in soil
+  * Proximity to water bodies
+  * Groundwater movement
+* Wet soils warm more slowly but retain heat longer.
+</md></sn><sn><md>#### Temperature Variability in the Atmosphere{.text-center}
+
+* `Diurnal Variability:`
+
+  * Air temperature increases after sunrise and peaks in mid-afternoon.
+  * Minimum temperature occurs just before sunrise.
+  * Cloud cover reduces day–night temperature differences.
+
+* `Seasonal Variability:`
+
+  * Temperatures rise in summer due to increased solar radiation and fall in winter.
+  * Latitude, altitude, and local climate influence seasonal patterns.
+
+* `Weather Influences:`
+
+  * Wind enhances mixing, reducing temperature differences.
+  * Humidity affects heat retention.
+  * Passing fronts cause abrupt temperature changes.
+
+The atmosphere responds quickly to heat changes, making its temperature patterns more dynamic than soil or water.
+
+---
+
+#### Temperature Variability in the Lithosphere (Soil Layer){.text-center}
+
+* **Surface soil exhibits the highest variability.**
+
+  * It heats rapidly during the day and cools rapidly at night.
+* **Diurnal wave:**
+
+  * Temperature changes propagate downward but diminish with depth.
+  * At around 1–2 meters, daily temperature variation becomes minimal.
+* **Seasonal wave:**
+
+  * Temperature variations at deeper layers (up to several meters) follow seasonal cycles.
+  * Peak soil temperature lags behind peak air temperature by several weeks.
+* **Factors influencing soil temperature variability**:
+
+  * Soil color (dark soils absorb more heat)
+  * Texture (sandy soils heat faster than clay)
+  * Moisture (wet soils heat slowly but store heat longer)
+  * Organic matter (insulating effect)
+  * Vegetation or mulch (shading reduces fluctuations)
+
+---
+
+#### Temperature Variability in the Hydrosphere{.text-center}
+
+* Water bodies show the `least variability`.
+* **Diurnal changes** are ++small++ due to `high heat capacity`.
+* **Seasonal variation** is more visible, especially in lakes and shallow seas, but still less than in soil or air.
+* Vertical water mixing distributes heat, reducing temperature gradients.
+* `Groundwater` temperature remains almost `constant` throughout the year—often close to mean annual air temperature.
+* Waterlogged soils have a thermal environment more similar to water than dry soil.
+</md></sn>
