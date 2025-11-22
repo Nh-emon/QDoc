@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 17:56:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 18:20:10 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -160,6 +160,33 @@ $$\text{Mass of moist soil} = M_s + wM_s $$
 
 here , **w** denote water content per g solid
 
+</md></sn><sn><md>### Mass Wetness (Gravimetric Water Content)
+
+It is the **amount of water in soil compared to the dry mass of the soil**.
+
+$$
+w = \frac{\text{Mass of water}}{\text{Mass of dry soil}}
+$$
+
+### **Meaning**
+
+If
+$$
+w = 0.23 , \text{g/g}
+$$
+
+It means:
+
+* Every **1 gram** of dry soil contains **0.23 gram of water**.
+* Or the soil contains **23% water by weight**.
+
+
+### Why it is useful
+
+* Helps determine how wet or dry the soil is.
+* Important for irrigation planning.
+* Used in soil mechanics for compaction and strength.
+* Used in hydrology to understand water movement.
 </md></sn><sn><md>### Equations
 
 1. **Density**
