@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 19:29:48 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 20:27:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -756,4 +756,54 @@ Because:
 * **Volumes add directly**
 * **Densities do NOT add directly**
 * Mixtures require a **harmonic mean**, not arithmetic mean.
+</md></sn><sn class=""><md class="">### Stokes Law
+
+Stokes' Law is a fundamental principle in fluid dynamics that describes the **drag force** (also called frictional or viscous force) experienced by a small, spherical object moving at a constant, low velocity through a viscous fluid.
+
+The law states that the drag force is directly proportional to three factors:
+1.  The `viscosity` of the fluid.
+2.  The `radius` of the spherical object.
+3.  The `velocity` of the object relative to the fluid.
+
+### Stokes' Law Formula
+
+The mathematical expression for the drag force $\left(F_D\right)$ is:
+
+$$F_D = 6 \pi \eta r v$$
+
+Where:
+* $F_D$ is the **drag force** (in Newtons, N).
+* $\pi$ (pi) is the mathematical constant (approximately $3.14159$).
+* $\eta$ (eta) is the **dynamic viscosity** of the fluid (in $\text{Pa} \cdot \text{s}$ or $\text{kg}/(\text{m} \cdot \text{s})$).
+* $r$ is the **radius** of the spherical object (in meters, $\text{m}$).
+* $v$ is the **velocity** of the object relative to the fluid (in $\text{m}/\text{s}$).
+
+### Terminal Velocity
+
+Stokes' Law is most often used to determine the **terminal velocity** ($v_t$) of a particle settling in a fluid, such as a dust particle in air or a sediment grain in water.
+
+Terminal velocity is the constant speed reached when the sum of the opposing forces (drag force and buoyant force) equals the downward gravitational force (weight). At this point, the net force on the object is zero, and its acceleration is zero.
+
+The formula for terminal velocity derived from Stokes' Law is:
+$$v_t = \frac{2 r^2 (\rho_p - \rho_f) g}{9 \eta}$$
+
+Where:
+* $v_t$ is the **terminal velocity** ($\text{m}/\text{s}$).
+* $r$ is the **radius** of the sphere ($\text{m}$).
+* $\rho_p$ is the **density of the particle** ($\text{kg}/\text{m}^3$).
+* $\rho_f$ is the **density of the fluid** ($\text{kg}/\text{m}^3$).
+* $g$ is the **acceleration due to gravity** ($\text{m}/\text{s}^2$).
+* $\eta$ is the **dynamic viscosity** of the fluid ($\text{Pa} \cdot \text{s}$).
+
+
+### Assumptions and Applications
+
+Stokes' Law is an idealization and is valid only under specific **assumptions**:
+
+### Assumptions
+* The particle must be perfectly **spherical**.
+* The flow of the fluid around the particle must be **laminar** (smooth and non-turbulent), which generally requires a **very low Reynolds number** (often $Re &lt; 1$).
+* The fluid must be **homogeneous** and of **infinite extent** (no wall effects).
+* The particle surface must be **smooth**.
+* The particle is moving at a **constant velocity** (terminal velocity).
 </md></sn>
