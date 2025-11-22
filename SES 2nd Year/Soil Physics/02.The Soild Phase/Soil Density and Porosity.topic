@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 18:20:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Nov 22 2025 19:29:48 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -629,4 +629,131 @@ $$
 **মোট ভর = শুকনো মাটি + পানি**,
 এবং পানি ভর = **জলাধার × শুকনো ভর**।
 
-+++</md></sn>
++++</md></sn><sn class=""><md class="">### Soil Particle Density by fractional method
+
+$$
+\rho_s=\frac{1}{\left(\frac{f_o}{\rho_o}+\frac{f_m}{\rho_m}\right)}
+$$
+
+
+#### Start with the basic definition of density
+
+Density of any material:
+
+$$
+\rho = \frac{M}{V}
+$$
+
+Where
+
+* ( M ) = mass
+* ( V ) = volume
+
+So volume:
+
+$$
+V = \frac{M}{\rho}
+$$
+
+
+### Consider a soil mixture
+
+A soil particle is made of:
+
+* **Mineral matter**
+* **Organic matter**
+
+Let
+
+* $f_m$ = mass fraction of mineral
+* $f_o$= mass fraction of organic
+* $f_m + f_o = 1$
+
+Example: if mineral = 80%, organic = 20%
+Then
+$f_m = 0.8$
+$f_o = 0.2$
+
+---
+
+### Write masses of each component
+
+Assume total mass of solids = **1 gram**
+(This is allowed because **we are using mass fractions**.)
+
+Then:
+
+* Mass of mineral = $1 \times f_m$
+* Mass of organic = $1 \times f_o$
+
+---
+
+### Convert mass to volume
+
+Use:
+
+$$
+V = \frac{M}{\rho}
+$$
+
+So:
+
+### Mineral volume
+
+$$
+V_m = \frac{f_m}{\rho_m}
+$$
+
+### Organic volume
+
+$$
+V_o = \frac{f_o}{\rho_o}
+$$
+
+
+### Total volume of soil solids
+
+$$
+V_s = V_m + V_o
+$$
+
+$$
+V_s = \frac{f_m}{\rho_m} + \frac{f_o}{\rho_o}
+$$
+
+
+### Compute particle density
+
+Particle density:
+
+$$
+\rho_s = \frac{\text{Total mass}}{\text{Total volume}}
+$$
+
+Total mass = 1 g (assumed)
+Total volume = ( V_s )
+
+So:
+
+$$
+\rho_s = \frac{1}{\left( \frac{f_m}{\rho_m} + \frac{f_o}{\rho_o} \right)}
+$$
+
+---
+
+### Final Equation
+
+$$
+\boxed{\rho_s=\frac{1}{\left(\frac{f_o}{\rho_o}+\frac{f_m}{\rho_m}\right)}}
+$$
+
+
+### Why This Equation Must Be Used
+
+Because:
+
+* **Mass fractions add directly**
+* **Volumes add directly**
+* **Densities do NOT add directly**
+* Mixtures require a **harmonic mean**, not arithmetic mean.
+</md></sn>
