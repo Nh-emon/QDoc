@@ -1,10 +1,207 @@
 
-  <sn></sn>
+  <sn><md>### Soil Texture
+
+Soil texture refers to the `relative proportion of primary soil particles`—**sand, silt and clay**—present in a soil sample. It describes the **feel**, **behavior**, and **physical properties** of soil. Texture strongly influences water holding capacity, aeration, permeability, fertility and root penetration.
+Soils are classified texturally based on the percentages of sand, silt and clay.
+</md></sn>
   <config>
     <tags>#overview</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 08:32:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 08:40:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qJuF7SImkJ</id>
     <duration></duration>
   </config>
+<sn><md>### Primary Particles
+
+Primary soil particles are the fundamental mineral particles resulting from the physical and chemical weathering of rocks.
+
+### **1. Sand**
+
+* Diameter: **0.05–2.0 mm**
+* Visible to the naked eye
+* Gritty feel
+* Good aeration and drainage
+* Low water-holding capacity
+
+### **2. Silt**
+
+* Diameter: **0.002–0.05 mm**
+* Feels smooth or floury
+* Moderate water-holding capacity
+* Intermediate properties between sand and clay
+
+### **3. Clay**
+
+* Diameter: **&lt; 0.002 mm**
+* Microscopic particles
+* Sticky when wet, hard when dry
+* High specific surface area
+* High water and nutrient retention capacity
+</md></sn><sn><md>### Specific Surface of Soil Particles
+
+Specific surface is the **total surface area per unit mass** (or volume) of soil particles, expressed as:
+
+* **m²/g** (most common)
+* **cm²/g**
+
+Smaller particles have much greater surface area.
+
+**Approximate specific surfaces:**
+
+* Sand: **0.01–1 m²/g**
+* Silt: **1–10 m²/g**
+* Clay: **10–800 m²/g**
+
+**Importance of specific surface:**
+
+* Controls water adsorption
+* Controls nutrient retention
+* Influences chemical reactivity
+* Affects soil structure and plasticity
+* Influences cation-exchange capacity (CEC)
+</md></sn><sn><md>### Particle Size Analysis and Expression of Results
+
+Particle size analysis determines the relative proportion of sand, silt and clay in a soil.
+
+### **Two Common Methods**
+
+#### **1. Mechanical (Sieve) Analysis**
+
+Used for **sand fractions** (&gt;0.05 mm).
+
+* Soil is dried and passed through a series of sieves with decreasing mesh sizes.
+* Mass retained on each sieve gives proportion of different sand sizes.
+
+#### **2. Sedimentation (Hydrometer / Pipette) Method**
+
+Used for **silt and clay fractions** (&lt;0.05 mm).
+Based on **Stokes’ Law**, which relates settling velocity of particles to their size.
+
+### **Expression of Results**
+
+* Percentage of sand, silt and clay
+* Reported on an **oven-dry basis**
+* Used to classify soil in the **USDA textural triangle**
+* Example:
+
+  * Sand = 30%
+  * Silt = 50%
+  * Clay = 20%
+    → Soil is **silt loam**
+</md></sn><sn><md>### Derivation of Sedimentation (Principle)
+
+Sedimentation analysis is based on the principle that:
+
+&gt; When soil particles are dispersed in water, they settle at velocities proportional to their size and density.
+
+For a spherical particle falling through water:
+
+1. **Gravitational force:**
+   $$
+   F_g = \frac{4}{3}\pi r^3 (\rho_s - \rho_w) g
+   $$
+
+2. **Viscous drag force (Stokes):**
+   $$
+   F_d = 6\pi \eta r v
+   $$
+
+At terminal velocity, forces balance:
+$$
+F_g = F_d
+$$
+
+$$
+\frac{4}{3}\pi r^3 (\rho_s - \rho_w) g = 6\pi \eta r v
+$$
+
+Simplifying:
+
+$$
+v = \frac{2r^2 (\rho_s - \rho_w) g}{9\eta}
+$$
+
+Solving for particle diameter:
+
+$$
+D = \sqrt{\frac{18 \eta h}{(\rho_s - \rho_w) g t}}
+$$
+
+This is the basis for the **hydrometer and pipette methods**, where **settling time** corresponds to **particle size**.
+</md></sn><sn><md>### Stokes’ Law
+
+Stokes’ Law gives the **settling velocity of spherical particles** in a fluid:
+
+$$
+v = \frac{2}{9} \frac{(d^2)(\rho_s - \rho_w)g}{\eta}
+$$
+
+Where:
+
+* **v** = settling velocity
+* **d** = particle diameter
+* **ρs, ρw** = density of soil particle and water
+* **g** = gravitational acceleration
+* **η** = viscosity of water
+
+---
+
+## **Assumptions of Stokes’ Law**
+
+For Stokes’ Law to be valid:
+
+1. Particles must be **spherical**.
+2. Particles must fall **independently** without interference.
+3. Flow around particles is **laminar**, not turbulent.
+4. Fluid viscosity remains constant.
+5. Particles are **rigid, smooth** and **uniform in density**.
+6. No Brownian motion effect (valid for particles &gt; 0.0002 mm).
+7. Suspension is dilute to avoid particle collisions.
+
+---
+
+## **Limitations of Stokes’ Law**
+
+* Soil particles (especially clay) are **not spherical**; often plate-like.
+* Clay particles **flocculate**, violating independence requirement.
+* Brownian movement affects very fine particles.
+* Organic coatings and colloids alter density and size.
+* Temperature changes viscosity, affecting results.
+* Turbulence may occur if particles fall too fast.
+* Not accurate for particles &gt; 0.05 mm (use sieve method instead).
+</md></sn><sn><md>### Determination of Textural Class of a Soil
+
+After obtaining percentages of sand, silt and clay:
+
+### **Use the USDA Soil Textural Triangle**
+
+* Locate the percentage of **clay** on the left axis.
+* Locate percentage of **sand** on the bottom axis.
+* Locate percentage of **silt** on the right axis.
+* The zone where the three lines intersect is the **textural class**.
+
+### **Common Textural Classes (12 Total)**
+
+* Sand
+* Loamy sand
+* Sandy loam
+* Loam
+* Silt loam
+* Silt
+* Clay loam
+* Silty clay loam
+* Sandy clay loam
+* Clay
+* Silty clay
+* Sandy clay
+
+### **Example**
+
+If:
+
+* Sand = 40%
+* Silt = 40%
+* Clay = 20%
+  → Soil textural class = **Loam**
+</md></sn>
