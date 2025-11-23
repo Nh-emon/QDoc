@@ -2,99 +2,59 @@
   <sn><md>##### Calculate the volumetric heat capacity C of a soil with a bulk density of 1.46 g/cm3 when completely dry, when completely saturated. Assume that the density of solids is 2.60 g/cm3 and that organic matter occupies 10% of the solid matter (volume). Volumetric heat capacities of mineral matter, organic matter and water are 0.48, 0.60 and 1.0 cal/cm3K respectively.
 
 
-#### Understanding the given data
+### Volumetric heat capacity of the soil
 
-- **Bulk density dry** $\rho_b = 1.46 \ \text{g/cm}^3$  
-- **Particle density** $\rho_s = 2.60 \ \text{g/cm}^3$  
-- Organic matter occupies **10% of the solid matter by volume**  
-- Volumetric heat capacities:  
-  - Mineral matter: $C_m = 0.48 \ \text{cal/cm}^3\text{K}$  
-  - Organic matter: $C_o = 0.60 \ \text{cal/cm}^3\text{K}$  
-  - Water: $C_w = 1.0 \ \text{cal/cm}^3\text{K}$  
+Given
 
----
+* Bulk density $\rho_b = 1.46\ \mathrm{g/cm^3}$
+* Particle (solid) density $\rho_s = 2.60\ \mathrm{g/cm^3}$
+* Organic matter occupies 10% of the **solid** volume $so mineral = 90% of solids$
+* Volumetric heat capacities: $C_{\text{mineral}}=0.48,; C_{\text{organic}}=0.60,; C_{\text{water}}=1.00) (all in (\mathrm{cal/cm^3K})$
+  Formula: $C=\sum_i V_i,C_i$ where $V_i$ are volume fractions per unit bulk volume.
 
-#### Volume fractions of solids
+1. Solid volume fraction (per bulk volume):
+   $$
+   V_s=\frac{\rho_b}{\rho_s}=\frac{1.46}{2.60}=0.56153846
+   $$
+   Porosity (pore volume fraction):
+   $$
+   n=1-V_s=0.43846154
+   $$
 
-Let’s take **1 cm³ of total soil volume**.
+2. Split solids into mineral and organic (fractions of bulk volume):
+   $$
+   V_{\text{organic}}=0.10\cdot V_s=0.05615385
+   $$
+   $$
+   V_{\text{mineral}}=0.90\cdot V_s=0.50538462
+   $$
 
-**Bulk density dry** = mass of solids / total volume = $1.46 \ \text{g}$.  
+3. Completely dry (pores are air, negligible heat capacity):
+   $$
+   C_{\text{dry}}=V_{\text{mineral}}C_{\text{mineral}}+V_{\text{organic}}C_{\text{organic}}
+   $$
+   $$
+   C_{\text{dry}}=0.50538462(0.48)+0.05615385(0.60)=0.27627692\ \mathrm{cal/cm^3K}
+   $$
 
-The particle density $\rho_s = 2.60 \ \text{g/cm}^3$ is the **average density of the solid phase** (mix of mineral + organic).  
+4. Completely saturated (pores filled with water):
+   $$
+   C_{\text{sat}}=V_{\text{mineral}}C_{\text{mineral}}+V_{\text{organic}}C_{\text{organic}}+n,C_{\text{water}}
+   $$
+   $$
+   C_{\text{sat}}=0.50538462(0.48)+0.05615385(0.60)+0.43846154(1.00)=0.71473846\ \mathrm{cal/cm^3K}
+   $$
 
-Volume of solids $f_s$:  
-$$
-f_s = \frac{\text{mass of solids}}{\rho_s} = \frac{1.46}{2.60} \approx 0.5615 \ \text{cm}^3
-$$
-So porosity $\phi = 1 - f_s = 1 - 0.5615 \approx 0.4385$.
+Final (rounded):
 
----
-
-#### Volume fractions of mineral and organic matter in solids
-
-Organic matter occupies **10% of solid volume**, mineral matter 90% of solid volume.  
-
-Thus:  
-$$
-f_o = 0.1 \times f_s = 0.1 \times 0.5615 = 0.05615 \ \text{cm}^3
-$$
-$$
-f_m = 0.9 \times f_s = 0.9 \times 0.5615 = 0.50535 \ \text{cm}^3
-$$
-
-Check: $f_m + f_o = 0.5615$ cm³.
-
----
-
-#### Volumetric heat capacity when dry
-
-For dry soil: only mineral and organic matter contribute (air’s heat capacity negligible).
-
-Volumetric heat capacity:
-$$
-C_{\text{dry}} = f_m \times C_m + f_o \times C_o
-$$
-$$
-C_{\text{dry}} = 0.50535 \times 0.48 + 0.05615 \times 0.60
-$$
-$$
-= 0.242568 + 0.03369 \approx 0.276258 \ \text{cal/cm}^3\text{K}
-$$
-$$
-C_{\text{dry}} \approx 0.276 \ \text{cal/cm}^3\text{K}
-$$
-
----
-
-#### Volumetric heat capacity when saturated
-
-Saturated means all pore space filled with water: $\phi = 0.4385$ filled with water.
-
-$$
-C_{\text{sat}} = C_{\text{dry}} + \phi \times C_w
-$$
-$$
-C_{\text{sat}} = 0.276258 + 0.4385 \times 1.0
-$$
-$$
-C_{\text{sat}} = 0.276258 + 0.4385 \approx 0.714758 \ \text{cal/cm}^3\text{K}
-$$
-$$
-C_{\text{sat}} \approx 0.715 \ \text{cal/cm}^3\text{K}
-$$
-
----
-
-**Final answer:**
-$$
-\boxed{0.276, \ 0.715}
-$$
-Units: cal/cm³K.</md></sn>
+* $C_{\text{dry}} \approx 0.276\ \mathrm{cal/cm^3K}$
+* $C_{\text{sat}} \approx 0.715\ \mathrm{cal/cm^3K}$
+</md></sn>
   <config>
     <tags>#math problem</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 04:06:49 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 11:57:43 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2pQgCPN8Pm</id>
     <duration></duration>
   </config>
