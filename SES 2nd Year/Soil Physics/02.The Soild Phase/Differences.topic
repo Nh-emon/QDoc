@@ -1,10 +1,55 @@
 
-  <sn></sn>
+  <sn><md>### Difference between Bulk Density and Particle Density
+
+| **Bulk Density**                                                                 | **Particle Density**                                                 |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Defined as the `mass of soil solid` per unit volume of `total soil`.             | Defined as the `mass of soil solid` per unit volume of `soil solid`. |
+| **Ms = Mass of soil solid**; **Vt = Volume of total soil**                       | **Ms = Mass of soil solid**; **Vs = Volume of soil solid**           |
+| Fine-textured soils: **1.1–1.3 g/cm³**; Coarse-textured soils: **1.4–1.8 g/cm³** | Normal soils ≈ **2.65 g/cm³**                                        |
+| `Value varies` with **pore volume** of the soil.                                   | `Value is specific` for a given soil.                              |
+| Determined by `core method`.                                                   | Determined by `pycnometer method`.                                 |
+| Influenced by **texture, organic matter, cultivation practices**, etc.           | Dependent on **chemical and mineral composition**.                   |
+| High bulk density indicates `soil compactness`.                                | Has `no relation` to compactness.                                  |
+| Also called `apparent density`.                                                | Also called `true` or `absolute density`.                        |
+</md></sn>
   <config>
     <tags>#differences</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 12:05:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 13:01:41 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-a1rToWozdh</id>
     <duration></duration>
   </config>
+<sn><md>### Difference between Mass Flow and Diffusion
+
+| **Mass Flow**                                                                                  | **Diffusion**                                         |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Movement of a body along with its masses.                                                      | Molecular transfer of gases through porous media.     |
+| Occurs due to `difference in total pressure`.                                                | Occurs due to a `concentration gradient`.           |
+| `Less important` than diffusion in total exchange of gases between soil air and atmospheric air. | Most gaseous interchange in soil occurs by diffusion. |
+</md></sn><sn><md>### Difference between Mass Wetness and Volume Wetness
+
+| **Mass Wetness**                                                 | **Volume Wetness**                                                                        |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Defined as the mass of water relative to the mass of soil solid. | Defined as the volume of water relative to the total volume of soil.                      |
+| $w = M_w / M_s$                                                |                                                                                           |
+| Where: $M_w$ Mass of water, $M_s =$ Mass of soil solid     | $\theta = V_w / V_t$                                                                    |
+| Where: $V_w =$ Volume of water, $V_t =$ Total soil volume    |                                                                                           |
+| Mass wetness ranges from `25–60%` in different soils.          | Sandy soils ≈ `40%`, medium-textured ≈ `50%`, clayey soils ≈ `60%` (at saturation). |
+| `Less convenient` than volume wetness.                             | `More convenient` than mass wetness.                                                        |
+</md></sn><sn><md>### Difference between Soil Texture and Soil Structure
+
+| **Soil Texture**                                      | **Soil Structure**                                         |
+| ----------------------------------------------------- | ---------------------------------------------------------- |
+| `Relative proportion of` sand, silt and clay particles. | `Arrangement of` sand, silt and clay into aggregates.        |
+| Can`not` be `modified` easily.                            | Can `be modified` by management.                             |
+| `Affects` soil structure.                               | Does `not affect` soil texture.                              |
+| A soil must have texture.                             | A soil may be structureless.                               |
+| Depends mostly on rocks and weathering.               | Depends on cohesion, adhesion, climate, and other factors. |</md></sn><sn><md>### Difference between Cohesion and Adhesion
+
+| **Cohesion**                                            | **Adhesion**                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------------- |
+| Force of attraction between `similar molecules`.      | Force of attraction between `dissimilar substances`.        |
+| Causes `surface tension`, meniscus, and capillary action. | Causes capillary action and meniscus formation in containers. |
+| Strong cohesion `forms water droplets` on surfaces.       | Strong adhesion helps `liquid spread` on surfaces.              |
+| Includes `Van der Waals` forces and `hydrogen` bonding.     | Includes `electrostatic` or `mechanical` forces.                  |</md></sn>
