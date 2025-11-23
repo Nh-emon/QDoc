@@ -7,7 +7,7 @@ Soil density describes `how much mass of soil is contained within a given volume
     <tags>#soil density and porosity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Nov 22 2025 20:27:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 10:42:26 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XtF9Sn8Zsk</id>
     <duration></duration>
   </config>
@@ -806,4 +806,104 @@ Stokes' Law is an idealization and is valid only under specific **assumptions**:
 * The fluid must be **homogeneous** and of **infinite extent** (no wall effects).
 * The particle surface must be **smooth**.
 * The particle is moving at a **constant velocity** (terminal velocity).
+</md></sn><sn class=""><md class="">## Gravimetric Water Content (θg)
+
+#### Definition
+
+Gravimetric water content is the **ratio of the mass of water** in a soil sample to the **mass of oven-dry soil**.
+
+It expresses water content **per unit mass**.
+
+#### Equation
+
+$$
+\theta_g = \frac{M_w}{M_s}
+$$
+
+Where:
+
+* **θg** = Gravimetric water content (g/g)
+* **Mw** = Mass of water (g)
+* **Ms** = Mass of oven-dry soil (g)
+
+Since
+$$
+M_w = M_{\text{wet}} - M_{\text{dry}}
+$$
+
+The equation becomes:
+$$
+\theta_g = \frac{M_{\text{wet}} - M_{\text{dry}}}{M_{\text{dry}}}
+$$
+
+#### Units
+
+* g/g
+* Often expressed as a **percentage (%)**
+
+#### Example
+
+Wet soil mass = 120 g
+Dry soil mass = 100 g
+
+$$
+\theta_g = \frac{120 - 100}{100} = 0.20 = 20%
+$$
+
+---
+
+## **2. Volumetric Water Content (θv)**
+
+### **Definition**
+
+Volumetric water content is the **ratio of the volume of water** in a soil sample to the **total volume of soil**.
+
+It expresses water content **per unit volume**.
+
+### **Equation**
+
+$$
+\theta_v = \frac{V_w}{V_t}
+$$
+
+Where:
+
+* **θv** = Volumetric water content (cm³/cm³)
+* **Vw** = Volume of water (cm³)
+* **Vt** = Total soil volume (cm³)
+
+Because **1 g of water = 1 cm³**, volume of water can be calculated from gravimetric water content:
+
+$$
+\theta_v = \theta_g \times \rho_b
+$$
+
+Where:
+
+* **ρb** = Bulk density of soil (g/cm³)
+
+### **Units**
+
+* cm³/cm³
+* Also expressed as **percentage (%)**
+
+#### Example
+
+Gravimetric water content = 0.20
+Bulk density = 1.4 g/cm³
+
+$$
+\theta_v = 0.20 \times 1.4 = 0.28 = 28%
+$$
+
+
+### Difference Between Gravimetric and Volumetric Water Content
+
+| Property                  | Gravimetric Water Content (θg) | Volumetric Water Content (θv)            |
+| ------------------------- | ------------------------------ | ---------------------------------------- |
+| Basis                     | Mass of soil                   | Volume of soil                           |
+| Formula                   | (Mw / Ms)                      | (Vw / Vt) or θg × ρb                     |
+| Units                     | g/g or %                       | cm³/cm³ or %                             |
+| Field relevance           | Less useful                    | Directly used for irrigation &amp; hydrology |
+| Affected by bulk density? | No                             | Yes                                      |
 </md></sn>
