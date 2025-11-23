@@ -1,10 +1,180 @@
 
-  <sn></sn>
+  <sn><md>### Soil Temperature
+
+Temperature is the condition of a body that determines the transfer of heat to or from other bodies. **Soil temperature** refers to the `thermal condition of the soil body` which governs the direction and rate of heat flow. It is measured in degrees and is one of the essential plant-growth factors just like water, air and nutrients.
+
+Soil temperature controls **seed germination**, **root development**, and **overall plant growth**. It also influences soil **moisture**, **aeration**, **structure**, **microbial and enzyme activities**, **decomposition of residues**, and **availability of plant nutrients**.
+It varies due to changes in radiant, thermal and latent heat-exchange processes occurring primarily at the soil surface.
+</md></sn>
   <config>
     <tags>#temp part2</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 04:16:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 07:05:49 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-7mcPbWuyAD</id>
     <duration></duration>
   </config>
+<sn><md>### Thermal Capacity / Heat Capacity
+
+Thermal or heat capacity of a substance is defined as the `amount of heat required to produce a unit change in temperature` of that substance.
+
+Example:
+To raise the temperature of a substance from 15 °C to 16 °C (a change of 1 °C), the amount of heat required is its heat capacity.
+
+The heat required depends on the nature and properties of the substance.
+
+**Formula:**
+$$
+C = \frac{Q}{\Delta T}
+$$
+
+Where:
+
+* **C** = Heat capacity / Thermal capacity
+* **Q** = Heat energy (J or cal)
+* **ΔT** = Change in temperature (°C or K)
+
+**Unit:** cal/°C, J/K or J/°C
+</md></sn><sn><md>### Specific Heat Capacity
+
+Specific heat capacity is the `quantity of heat required to change the temperature of 1 kg` (or 1 g) of a substance by 1 °C or 1 K.
+
+* Specific heat of water = **1.0 cal/g°C**
+* Specific heat of most soil-forming minerals ≈ **0.2 cal/g°C**
+* Almost all substances have smaller heat capacities than water.
+
+**Formula:**
+$$
+S = \frac{Q}{m\Delta T}
+$$
+
+Where:
+
+* **S** = Specific heat capacity
+* **Q** = Heat energy (J or cal)
+* **m** = Mass (kg or g)
+* **ΔT** = Change in temperature (°C or K)
+
+**Unit:** cal/g°C or J/kg·K</md></sn><sn><md>### Volumetric Heat Capacity
+
+Volumetric heat capacity is defined as the `change in heat content of a unit bulk volume of soil per unit change in temperature`. It depends on soil composition (mineral matter, organic matter, water), bulk density and soil moisture.
+
+According to Vries (1975):
+
+$$
+C = f_mC_m + f_oC_o + f_wC_w
+$$
+
+Where:
+
+* **C** = Volumetric heat capacity
+* **f** = Volume fraction of each component
+* **m** = Mineral fraction
+* **o** = Organic matter
+* **w** = Water
+* **C** = Respective heat capacities
+
+**Unit:** cal/cm³·K or cal/cm³·°C
+</md></sn><sn><md>### Definition
+
+Soil temperature is the `thermal condition of a soil body` that determines the transfer of heat to or from other bodies. It is a vital factor in plant growth similar to water, nutrients and air.
+
+#### Influences
+
+Soil temperature affects:
+
+* Seed germination and plant growth
+* Soil moisture and aeration
+* Soil structure
+* Microbial and enzyme activities
+* Decomposition of organic matter
+* Weathering and soil formation
+* Nutrient transformation and availability
+* Water movement (diffusion and viscous flow)
+
+#### Variation
+
+Soil temperature varies according to radiant, thermal and latent energy exchanges mainly occurring through the soil surface.
+</md></sn><sn><md>### Thermal Conductivity
+
+Thermal conductivity is the property of a material that `determines its ability to conduct or transmit heat` from a region of higher temperature to a region of lower temperature.
+
+* It represents how easily heat flows through a soil body.
+* Soils with high thermal conductivity transfer heat faster than soils with low conductivity.
+</md></sn><sn><md>### Thermal Diffusivity
+
+Thermal diffusivity is the measure of a soil’s `ability to transmit temperature changes`.
+It indicates **how quickly a temperature wave (such as daily heating and cooling) moves through the soil**.
+
+Thermal diffusivity combines both heat conduction and heat storage.
+
+$$
+\alpha = \frac{k}{C}
+$$
+
+Where:
+
+* **α** = Thermal diffusivity
+* **k** = Thermal conductivity
+* **C** = Volumetric heat capacity
+
+**Interpretation:**
+
+* High diffusivity → soil heats up and cools down quickly.
+* Low diffusivity → soil temperature changes slowly and more gradually.
+</md></sn><sn><md>### Factors Affecting Soil Temperature{.text-center}
+
+:::.row
+:::.col-12 .col-md-6
+#### Environmental Factors
+* Solar radiation
+* Atmospheric radiation
+* Heat conduction from the air
+* Condensation and evaporation
+* Rainfall
+* Insulation
+* Vegetation and canopy cover
+:::
+
+:::.col-12 .col-md-6
+#### Soil Factors
+* Thermal capacity
+* Thermal conductivity
+* Thermal diffusivity
+* Biological activity
+* Radiation from soil
+* Soluble salts
+* Soil structure and texture
+* Soil moisture content
+:::
+:::
+</md></sn><sn><md>### Importance of Soil Temperature
+
+* Directly or indirectly affects **seed germination** and **plant growth**
+* Influences **weathering** and **soil formation**
+* Regulates **decomposition** and **nutrient transformation**
+* Controls **water movement** (diffusion, viscous flow)
+* Affects **soil aeration**, **structure**, **moisture**, **microbial and enzyme activities**
+</md></sn><sn><md>### Management of Soil Temperature
+
+Soil temperature can be regulated to some extent under field conditions:
+
+* **Controlling soil water content**
+
+  * More water increases specific heat → soil warms slowly
+  * Less water increases air content → soil warms faster
+
+* **Tillage practices**
+  Improve heat flow and aeration.
+
+* **Mulching**
+
+  * Daytime: keeps soil cooler by blocking solar radiation
+  * Night: keeps soil warmer by reducing heat loss
+
+* **Vegetative cover**
+  Moderates soil heating and cooling.
+
+* **Changing soil color**
+  Dark soils absorb more heat; lighter surfaces reflect heat.
+</md></sn>
