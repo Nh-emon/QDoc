@@ -8,7 +8,7 @@ Soils are classified texturally based on the percentages of sand, silt and clay.
     <tags>#overview</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 08:40:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 23 2025 09:27:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qJuF7SImkJ</id>
     <duration></duration>
   </config>
@@ -16,29 +16,36 @@ Soils are classified texturally based on the percentages of sand, silt and clay.
 
 Primary soil particles are the fundamental mineral particles resulting from the physical and chemical weathering of rocks.
 
-### **1. Sand**
+![diagram](https://tualatinswcd.org/wp-content/uploads/2022/04/InfoGraphic-Soil03-Web_Hoopla-cropped-1.png)
 
+:::.row
+:::.col-12 .col-md-4
+#### Sand{.text-center}
 * Diameter: **0.05–2.0 mm**
 * Visible to the naked eye
 * Gritty feel
 * Good aeration and drainage
 * Low water-holding capacity
+:::
 
-### **2. Silt**
-
+:::.col-12 .col-md-4
+#### Slit{.text-center}
 * Diameter: **0.002–0.05 mm**
 * Feels smooth or floury
 * Moderate water-holding capacity
 * Intermediate properties between sand and clay
+:::
 
-### **3. Clay**
-
+:::.col-12 .col-md-4
+#### clay{.text-center}
 * Diameter: **&lt; 0.002 mm**
 * Microscopic particles
 * Sticky when wet, hard when dry
 * High specific surface area
 * High water and nutrient retention capacity
-</md></sn><sn><md>### Specific Surface of Soil Particles
+:::
+
+:::</md></sn><sn><md>### Specific Surface of Soil Particles
 
 Specific surface is the **total surface area per unit mass** (or volume) of soil particles, expressed as:
 
