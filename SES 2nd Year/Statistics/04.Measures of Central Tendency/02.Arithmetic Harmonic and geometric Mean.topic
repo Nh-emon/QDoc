@@ -1,10 +1,115 @@
 
-  <sn></sn>
+  <sn><md>### Types of Mean
+
+In statistics, the **mean** represents a central value. There are three commonly used means: <br>**Arithmetic Mean (AM),<br> Geometric Mean (GM), and<br> Harmonic Mean (HM)**. Each has different applications.
+
+</md></sn>
   <config>
     <tags>#02.arithmetic harmonic and geometric mean</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 10:05:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 10:21:01 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kH5bN4oQ7I</id>
     <duration></duration>
   </config>
+<sn><md>### Arithmetic Mean (AM)
+
+**Definition:** The arithmetic mean is the `simple average` of a set of numbers.
+
+### Formula
+
+For **n observations** $x_1, x_2, ..., x_n$:
+
+$$
+\text{AM} = \frac{x_1 + x_2 + \dots + x_n}{n} = \frac{\sum x_i}{n}
+$$
+
+#### Example
+
+Data: 4, 8, 12, 16
+
+$$
+\text{AM} = \frac{4 + 8 + 12 + 16}{4} = \frac{40}{4} = 10
+$$
+
+**Arithmetic Mean = 10**</md></sn><sn><md>### Geometric Mean (GM)
+
+**Definition:** Geometric mean is the `nth root of the product of n numbers`. It is useful for **growth rates, percentages, ratios**.
+
+$$
+\text{GM} = \sqrt[n]{x_1 \cdot x_2 \cdot \dots \cdot x_n}
+$$
+
+#### Example
+
+Data: 2, 8
+
+$$
+\text{GM} = \sqrt{2 \cdot 8} = \sqrt{16} = 4
+$$
+
+**Geometric Mean = 4**
+
+&gt; **Note:** GM is always ≤ AM.
+
++++ Another Example
+
+Data: 2, 4, 8, 16, 32
+
+**Multiply all numbers**
+
+$$
+2 \cdot 4 = 8
+$$
+$$
+8 \cdot 8 = 64
+$$
+$$
+64 \cdot 16 = 1024
+$$
+$$
+1024 \cdot 32 = 32768
+$$
+
+**Take the 5th root (since n = 5)**
+
+$
+\text{GM} = \sqrt[5]{32768}
+$
+
+$$
+\text{GM} = 8
+$$
+
+---
+
+**Geometric Mean = 8**
+
+&gt; Note: GM lies between the smallest value (2) and the largest value (32).
++++</md></sn><sn><md>### Harmonic Mean (HM)
+
+**Definition:** Harmonic mean is the `reciprocal of the arithmetic mean of reciprocals`.<br>Useful for **rates and speed problems**.
+
+$$
+\text{HM} = \frac{n}{\frac{1}{x_1} + \frac{1}{x_2} + \dots + \frac{1}{x_n}}
+$$
+
+#### example
+
+Data: 4, 8
+
+$$
+\text{HM} = \frac{2}{\frac{1}{4} + \frac{1}{8}} = \frac{2}{0.25 + 0.125} = \frac{2}{0.375} \approx 5.33
+$$
+
+**Harmonic Mean ≈ 5.33**
+</md></sn><sn><md>### Summary
+
+| Type                 | Formula                     | Example      | Result |
+| -------------------- | --------------------------- | ------------ | ------ |
+| Arithmetic Mean (AM) | $\sum x / n$                | 4, 8, 12, 16 | 10     |
+| Geometric Mean (GM)  | $\sqrt[n]{x_1 x_2 ... x_n}$ | 2, 8         | 4      |
+| Harmonic Mean (HM)   | $n / \sum (1/x_i)$          | 4, 8         | 5.33   |
+
+&gt; **Relation:** AM ≥ GM ≥ HM
+</md></sn>
