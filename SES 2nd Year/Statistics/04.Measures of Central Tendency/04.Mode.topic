@@ -1,80 +1,135 @@
 
-  <sn><md>### Mode
-
-**Mode** is the value that occurs `most frequently` in a dataset.<br>
-For **grouped data**, mode is found using a formula because we do not know the exact individual values—only intervals and frequencies.
-
-$$
-\text{Mode} = L + \frac{f_1}{(f_1 - f_0) + (f_1 - f_2)} \times h
-$$
-
-+++ Where:
-
-* **L** = lower limit of the modal class
-* **f₁** = frequency of the modal class
-* **f₀** = frequency of the class just before modal class
-* **f₂** = frequency of the class just after modal class
-* **h** = class width
-+++
-</md></sn>
+  
   <config>
     <tags>#04.mode</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 09:14:41 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 18:36:07 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-gj0gCnuaUC</id>
     <duration></duration>
   </config>
-<sn><md>### Example
+<sn><md>### Mode in Central Tendency
 
-Find the mode from the following distribution:
+The **Mode** is the value that `occurs most frequently` in a distribution. It represents the most typical or most common observation.
+Mode is especially `useful in qualitative data, categorical data`, and data with extreme values where mean or median may not be appropriate.
+
+Mode can be determined from:
+
+1. **Individual Series**
+2. **Discrete Series**
+3. **Continuous Series**
+
+   * **Inclusive Method**
+   * **Exclusive Method**
+</md></sn><sn><md>### Mode from an Individual Series
+
+In an individual series, mode is simply `the value that appears most often`.
+
+Find the mode from:
+12, `15`, 18, `15`, 20, `15`, 22
+
+Frequency count:
+
+* 12 → 1
+* 15 → 3
+* 18 → 1
+* 20 → 1
+* 22 → 1
+
+The value with highest frequency is **15**.
+So, **Mode = 15**
+</md></sn><sn><md>### Mode from a Discrete Series
+
+A discrete series shows distinct values and their frequencies. Mode is the `value with maximum frequency`.
+
+| Value (x) | Frequency (f) |
+| --------- | ------------- |
+| 2         | 3             |
+| 3         | `6`             |
+| 5         | 4             |
+| 6         | 2             |
+
+Here, maximum frequency is 6 at x = 3.
+So, **Mode = 3**
+</md></sn><sn><md>### Mode from a Continuous Series (Exclusive Method)
+
+In continuous exclusive classes, mode must be found using the **modal class** and the formula.
+
+$$\text{Mode} = L + (\dfrac{(f₁ - f₀)}{(2f₁ - f₀ - f₂)}) × h$$
+
+&gt; Modal class = class with **highest frequency**.
 
 | Class Interval | Frequency |
 | -------------- | --------- |
-| 0 – 10         | 5         |
-| 10 – 20        | 9         |
-| 20 – 30        | 14        |
-| 30 – 40        | 20        |
-| 40 – 50        | 12        |
-| 50 – 60        | 7         |
+| 0–10           | 5         |
+| 10–20          | 9         |
+| ==20–30==          | `14`        |
+| 30–40          | 7         |
 
-**Identify the modal class**
+$$\text{Mode} = L + (\dfrac{(f₁ - f₀)}{(2f₁ - f₀ - f₂)}) × h$$
 
-Highest frequency = **20**<br>
-So modal class = **30–40**
++++ Where:
+* L = lower limit of modal class
+* f₁ = frequency of modal class = 14
+* f₀ = frequency of class before modal class = 9
+* f₂ = frequency of class after modal class = 7
+* h = class width = 10
++++
 
-Thus:
+Modal class = **20–30** (highest frequency = 14)
 
-* **L = 30**
-* **f₁ = 20**
-* **f₀ = 14** (previous class)
-* **f₂ = 12** (next class)
-* **h = 10**
+$$Mode = 20 + (\dfrac{14 - 9}{2×14 - 9 - 7}) × 10$$
+$$= 20 + (\dfrac{5}{28 - 16}) × 10$$
+$$= 20 + (\dfrac{5}{12}) × 10$$
+$$= 20 + 4.17$$
+= **24.17**
+</md></sn><sn><md>### Mode from Continuous Series (Inclusive Method)
 
-**Apply the mode formula**
+&gt; Inclusive classes must be converted to exclusive before applying the formula.
 
-$$
-\text{Mode} = 30 + \frac{20 - 14}{(20 - 14) + (20 - 12)} \times 10
-$$
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0–9            | 4         |
+| 10–19          | 7         |
+| ==20–29==          | `12*`        |
+| 30–39          | 8         |
 
-Compute step by step:
+Modal class = **20–29**
 
-1. (20 - 14 = 6)
-2. (20 - 12 = 8)
-3. Denominator = (6 + 8 = 14)
-4. Fraction = (6/14 = 0.4286)
+**Convert Inclusive → Exclusive**
 
-Now,
+Subtract 0.5 from each lower limit
+Add 0.5 to each upper limit
 
-$$
-\text{Mode} = 30 + 0.4286 \times 10
-$$
+| Inclusive | Exclusive   |
+| --------- | ----------- |
+| 0–9       | -0.5 – 9.5  |
+| 10–19     | 9.5 – 19.5  |
+| 20–29     | 19.5 – 29.5 |
+| 30–39     | 29.5 – 39.5 |
 
-$$
-\text{Mode} = 30 + 4.286 = 34.286
-$$
+Now apply mode formula using **19.5–29.5** as modal class.
 
----
++++ **Values**
 
-**Final Answer** : **Mode ≈ 34.29**
+* L = 19.5
+* f₁ = 12
+* f₀ = 7
+* f₂ = 8
+* h = 10
++++
+
+$$\text{Mode} = 19.5 + (\dfrac{12 - 7}{2×12 - 7 - 8}) × 10$$
+$$= 19.5 + (\dfrac{5}{24 - 15}) × 10$$
+$$= 19.5 + (\dfrac{5}{9}) × 10$$
+$$= 19.5 + 5.56$$
+$$= **25.06**$$
+</md></sn><sn><md>### Formulas for Mode
+
+| **Type of Series**                       | **Formula / Rule for Mode**                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Individual Series**                    | Mode = `value occurring most frequently` (simply count frequencies)                                |
+| **Discrete Series**                      | Mode = value (x) having the `highest frequency` (f)                                                |
+| **Continuous Series (Exclusive Method)** | $\text{Mode} = L + \dfrac{(f_1 - f_0)}{(2f_1 - f_0 - f_2)} \times h$                           |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive classes to exclusive. <br> Step 2: Apply the exclusive series formula. |
 </md></sn>
