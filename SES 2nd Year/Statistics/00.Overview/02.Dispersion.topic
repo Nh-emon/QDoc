@@ -39,7 +39,7 @@ Relative<br>
     <tags>#02.dispersion</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 22:37:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 22:38:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-jHSPBtNgnq</id>
     <duration></duration>
   </config>
@@ -187,11 +187,25 @@ They tell you:
 * Income distribution is not normal
 * Typical value is far lower than mean
 * You should use median, not mean
-</md></sn><sn><md>### Difference Between Dispersion and Deviation (Table)
+</md></sn><sn><md>### Simple Example
 
-| Concept        | Meaning                                   | Use                                      |
-| -------------- | ----------------------------------------- | ---------------------------------------- |
-| **Dispersion** | Overall spread of the dataset             | Describes variability and consistency    |
-| **Deviation**  | Difference of each value from mean/median | Used to calculate measures of dispersion |
-| **Level**      | Dataset-level concept                     | Individual value–level concept           |
+For data:
+5, 7, 9
+
+### Mean
+
+$$
+\bar{x} = \frac{5+7+9}{3} = 7
+$$
+
+#### Deviations
+
+$$
+5 - 7 = -2,\quad 7 - 7 = 0,\quad 9 - 7 = 2
+$$
+
+#### Dispersion Example
+
+Range = 9 − 5 = 4
+(Standard deviation, variance, etc., can also be calculated.)
 </md></sn>
