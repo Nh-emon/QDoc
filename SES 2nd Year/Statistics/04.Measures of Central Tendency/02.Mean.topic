@@ -1,10 +1,140 @@
 
-  <sn></sn>
+  <sn><md>### Mean in Central Tendency
+
+**Mean** (also called **Arithmetic Mean**) is the `average` of all values in a dataset.
+It represents the central value around which the data tends to cluster.
+</md></sn>
   <config>
     <tags>#02.mean</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 07:37:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 10:02:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-r2IzMIRLzS</id>
     <duration></duration>
   </config>
+<sn><md>#### Mean for Ungrouped Data (Odd or Even)
+
+$$
+\text{Mean} = \frac{\sum x}{n}
+$$
+
++++ Where
+
+* $\sum x$ = sum of all observations
+* $n$ = total number of observations
++++
+</md></sn><sn><md>### Example (Ungrouped Data)
+
+Data: 5, 7, 9, 10, 14
+
+$$
+\sum x = 5 + 7 + 9 + 10 + 14 = 45
+$$
+
+Total observations:
+$$
+n = 5
+$$
+
+$$
+\text{Mean} = \frac{45}{5} = 9
+$$
+
+**Mean = 9**
+</md></sn><sn><md>#### Mean for Ungrouped Frequency Distribution
+
+$$
+\text{Mean} = \frac{\sum (fx)}{N}
+$$
+
++++ Where
+
+* $f$ = frequency
+* $x$ = value
+* $N = \sum f$ = total frequency
+
++++
+</md></sn><sn><md>### Example (Ungrouped Frequency)
+
+| x | f |
+| - | - |
+| 2 | 3 |
+| 4 | 5 |
+| 6 | 2 |
+
+Compute ( fx ):
+
+| x | f | fx |
+| - | - | -- |
+| 2 | 3 | 6  |
+| 4 | 5 | 20 |
+| 6 | 2 | 12 |
+
+$$
+\sum fx = 6 + 20 + 12 = 38
+$$
+
+$$
+N = 3 + 5 + 2 = 10
+$$
+
+$$
+\text{Mean} = \frac{38}{10} = 3.8
+$$
+
+**Mean = 3.8**
+</md></sn><sn><md>### Mean for **Grouped (Classified) Data**
+
+$$
+\text{Mean} = \frac{\sum (f \cdot x_m)}{N}
+$$
+
++++ Where
+
+* ( x_m = ) class midpoint
+* ( f = ) class frequency
+* ( N = \sum f )
++++
+</md></sn><sn><md>### Example (Grouped Data)
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0 – 10         | 5         |
+| 10 – 20        | 9         |
+| 20 – 30        | 14        |
+| 30 – 40        | 20        |
+| 40 – 50        | 12        |
+
+---
+
+**Find class midpoints**
+
+Midpoint $x_m = \frac{\text{lower} + \text{upper}}{2}$
+
+| Class Interval | f  | Midpoint (xm) | f·xm |
+| -------------- | -- | ------------- | ---- |
+| 0 – 10         | 5  | 5             | 25   |
+| 10 – 20        | 9  | 15            | 135  |
+| 20 – 30        | 14 | 25            | 350  |
+| 30 – 40        | 20 | 35            | 700  |
+| 40 – 50        | 12 | 45            | 540  |
+
+**Compute totals**
+
+$$
+\sum (f \cdot x_m) = 25 + 135 + 350 + 700 + 540 = 1750
+$$
+
+$$
+N = 5 + 9 + 14 + 20 + 12 = 60
+$$
+
+---
+
+**Apply mean formula**
+
+$$
+\text{Mean} = \frac{1750}{60} \approx 29.17
+$$
+
+**Mean ≈ 29.17**</md></sn>
