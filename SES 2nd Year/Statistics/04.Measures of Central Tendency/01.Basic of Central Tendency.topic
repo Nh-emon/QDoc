@@ -1,10 +1,152 @@
 
-  <sn></sn>
+  <sn><md>### Central Tendency
+
+**Central tendency** means `finding a single value` that represents the **center** or **typical value** of a dataset.
+
+&gt; It tells you “what is the middle or most common value in the data?” <br>
+&gt; It summarizes a whole set of numbers with one number.
+
+In statistics, **mean**, **median**, and **mode** are the three most common measures of **central tendency**. They describe the center or typical value of a dataset. These measures help us summarize large sets of numbers into a single representative value.
+
+
+:::.row
+:::.col-12 .col-md-6
+**Why we use central tendency :**  {.text-center}
+
+* To understand the **overall pattern** of data
+* To compare two groups
+* To reduce big data into a simple summary
+:::
+
+:::.col-12 .col-md-6
+**Measures of central tendency** {.text-center}
+
+1. **Mean** → average value
+2. **Median** → middle value
+3. **Mode** → most frequent value
+:::
+:::
+</md></sn>
   <config>
     <tags>#01.basic of central tendency</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 06:49:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 07:37:14 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-B912rWLuaE</id>
     <duration></duration>
   </config>
+<sn><md>### Mean
+
+The **mean** (often called the `average`) is ++the sum of all values++  / divided by ++the number of values++.
+
+$$
+\text{Mean} = \frac{\sum x}{n}
+$$
+
+#### Example
+
+Data: 5, 7, 8, 10
+
+Step:
+$$
+\text{Mean} = \frac{5 + 7 + 8 + 10}{4} = \frac{30}{4} = 7.5
+$$
+
+So, the mean value is **7.5**.
+
+#### When to Use Mean
+* When data has **no extreme outliers**
+* When you want a balanced, mathematical center
+</md></sn><sn><md>### Median
+
+The **median** is the `middle value` of an arranged (sorted) dataset.<br>
+If there are two middle values, the median is the average of those two.
+
+**Steps** <br>
+1. Arrange data in ascending order
+2. Find the middle position
+
+:::.row
+:::.col-12 .col-md-6
+#### Example (odd numbers of values)
+Data: 4, 9, 1<br>
+Sorted: 1, 4, 9<br>
+Middle value → **4** (median)
+:::
+
+:::.col-12 .col-md-6
+#### Example (even number of values)
+Data: 6, 3, 10, 2<br>
+Sorted: 2, 3, 6, 10<br>
+Median =
+$$
+\frac{3 + 6}{2} = 4.5
+$$
+:::
+:::
+
+#### When to Use Median
+* When data has **outliers**
+* When distribution is skewed (income, rainfall, population data)</md></sn><sn><md>### Mode
+
+The **mode** is the value that `occurs most frequently` in a dataset.
+
+:::.row
+:::.col-12 .col-md-6
+#### Example
+Data: 2, 5, 5, 7, 8, 8, 8, 10<br>
+The most frequent value is **8** → Mode = **8**
+:::
+
+:::.col-12 .col-md-6
+#### Multiple Modes
+If two or more values occur equally often:
+* Two modes → **Bimodal**
+* More than two → **Multimodal**
+
+Example:
+Data: 3, 4, 4, 6, 6, 9
+Modes = **4 and 6** (bimodal)
+:::
+:::
+
+#### When to Use Mode
+* When working with **categorical data**
+* When most common item is needed (most sold product, most used bus route, etc.)
+</md></sn><sn><md>### Comparison of Mean, Median, and Mode
+
+| Measure    | Meaning             | Best Use                               |
+| ---------- | ------------------- | -------------------------------------- |
+| **Mean**   | Arithmetic average  | When no extreme values are present     |
+| **Median** | Middle value        | When data has outliers or skew         |
+| **Mode**   | Most frequent value | For categorical or repeated-value data |
+</md></sn><sn><md>#### Final Example
+
+Data: 2, 2, 3, 5, 100
+
+:::.row
+:::.col-12 .col-md-6
+**Mean**
+$$
+\text{Mean} = \frac{2+2+3+5+100}{5} = \frac{112}{5} = 22.4
+$$
+:::
+
+:::.col-12 .col-md-4
+**Median**<br>
+Sorted → 2, 2, `3`, 5, 100<br>
+Middle value → **3**
+:::
+
+:::.col-12 .col-md-2
+**Mode**<br>
+Most frequent → **2**
+:::
+:::
+
+**Interpretation**
+
+* Mean = 22.4 (affected by outlier 100)
+* Median = 3 (good center for skewed data)
+* Mode = 2 (most common value)
+</md></sn>
