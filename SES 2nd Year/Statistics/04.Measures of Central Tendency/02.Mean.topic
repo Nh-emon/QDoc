@@ -4,7 +4,7 @@
     <tags>#02.mean</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 18:02:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 18:41:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-r2IzMIRLzS</id>
     <duration></duration>
   </config>
@@ -142,4 +142,12 @@ Sum of f = 35<br>
 Sum of fm = 795
 
 Mean = Σfm / n = 795 / 35 = **22.71**
+</md></sn><sn><md>### Formulas for Mean
+
+| **Type of Series**                       | **Formula for Mean**                                                                                             |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Individual Series**                    | $\displaystyle \bar{x} = \frac{\sum x}{n}$                                                                     |
+| **Discrete Series**                      | $\displaystyle \bar{x} = \frac{\sum fx}{n}$  &nbsp;&nbsp;where $n = \sum f$                                            |
+| **Continuous Series (Exclusive Method)** | $\displaystyle \bar{x} = \frac{\sum fm}{n}$  &nbsp;&nbsp;where $m = \frac{\text{lower limit} + \text{upper limit}}{2}$ |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive → exclusive. <br> Step 2: Use $\displaystyle \bar{x} = \frac{\sum fm}{n}$            |
 </md></sn>
