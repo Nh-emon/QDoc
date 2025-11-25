@@ -1,10 +1,150 @@
 
-  <sn></sn>
+  <sn><md>### Median
+
+**Median** is the `middle value` of a dataset when all `values are arranged` in ascending order.
+It divides the data into **two equal halves**.
+
+Median has **three cases**:
+* Odd
+* Even
+* Classified Group
+</md></sn>
   <config>
     <tags>#03.median</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 09:21:35 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 09:42:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UYkHj9GG8Q</id>
     <duration></duration>
   </config>
+<sn><md>### Median for **Odd Number of Observations**
+
+For odd *n*:
+
+$$
+\text{Median} = \text{Value at position } \left(\frac{n+1}{2}\right)
+$$
+
+**Example**
+
+Data:
+3, 5, 7, 9, 11
+
+* Number of values (n) = 5 (odd)
+* Position of median = (5 + 1)/2 = **3rd position**
+
+Ordered data: 3, 5, **7**, 9, 11
+
+**Median = 7**
+</md></sn><sn><md>### Median for Even Number of Observations
+
+**Formula**
+
+For even *n*:
+
+$$
+\text{Median} = \frac{(\text{value at }n/2) + (\text{value at }n/2 + 1)}{2}
+$$
+
+**Example**
+
+Data:
+4, 6, 8, 10, 12, 14
+
+* n = 6 (even)
+* Values at positions:
+
+  * n/2 = 6/2 = 3rd → 8
+  * (n/2 + 1) = 4th → 10
+
+$$
+\text{Median} = \frac{8 + 10}{2} = 9
+$$
+
+**Median = 9**
+</md></sn><sn><md>### Median for Grouped (Classified) Data
+
+$$
+\text{Median} = L + \left(\frac{n}{2} - F_c\right)\frac{h}{f_m}
+$$
+
++++ Where:
+
+* **L** = lower limit of median class
+* **n** = total frequency
+* **Fc** = cumulative frequency before the median class
+* **fm** = frequency of the median class
+* **h** = class width
++++
+
+
+#### Example
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0 – 10         | 5         |
+| 10 – 20        | 9         |
+| 20 – 30        | 14        |
+| 30 – 40        | 20        |
+| 40 – 50        | 12        |
+
+---
+**Compute cumulative frequency (CF)**
+
+| Class Interval | Frequency | Cumulative Frequency |
+| -------------- | --------- | -------------------- |
+| 0 – 10         | 5         | 5                    |
+| 10 – 20        | 9         | 14                   |
+| 20 – 30        | 14        | 28                   |
+| 30 – 40        | 20        | 48                   |
+| 40 – 50        | 12        | 60                   |
+
+---
+
+**Identify median class**
+
+Total frequency:
+$$
+n = 60
+$$
+
+Compute n/2:
+$$
+n/2 = 30
+$$
+
+Find the class in which **30** lies in CF:
+
+* CF before 20–30 = 28
+* CF after = 48
+  So **median class = 30–40**
+
+Thus:
+
+* **L = 30**
+* **Fc = 28**
+* **fm = 20**
+* **h = 10**
+
+**Apply median formula**
+
+$$
+\text{Median} = 30 + \left(\frac{60}{2}-28\right)\frac{10}{20}
+$$
+
+$$
+= 30 + (30 - 28)\frac{10}{20}
+$$
+
+$$
+= 30 + 2 \times 0.5
+$$
+
+$$
+= 30 + 1 = 31
+$$
+
+**Final Answer**
+
+**Median = 31**
+</md></sn>
