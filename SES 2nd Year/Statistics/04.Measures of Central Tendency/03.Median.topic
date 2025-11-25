@@ -4,7 +4,7 @@
     <tags>#03.median</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 19:44:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 19:55:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UYkHj9GG8Q</id>
     <duration></duration>
   </config>
@@ -26,8 +26,10 @@ Median can be calculated for:
 
 Median is the `middle value` when data is `arranged` in ascending or descending order.
 
-$$ \text{median odd} = \frac{n+1}{2} \text{term}$$
-$$ \text{median even} = \frac{ (\frac{n}{2}\text{ term}) + (\frac{n}{2}+1)\text{ term} }{2}$$
+$$ \text{Median} = \text{Value at position } \frac{n+1}{2}$$
+$$
+\text{Median} = \frac{ \text{Value at position } \frac{n}{2} ; + ; \text{Value at position } \left( \frac{n}{2} + 1 \right) }{2}
+$$
 
 **Steps**: 
 1. Arrange data in ascending order.
@@ -45,6 +47,39 @@ And 3rd term is `12`
 
 Total observations (n) = 5 (odd)<br>
 Median = 3rd value = **12**
+
++++ **Median for Even Number of Observations**
+
+If the number of observations = $n$ (and $n$ is even):
+
+$$
+\text{Median} = \frac{ \text{Value at position } \frac{n}{2} ; + ; \text{Value at position } \left( \frac{n}{2} + 1 \right) }{2}
+$$
+
+Data:<br>
+12, 5, 20, 10, 18, 8
+
+**Arrange in ascending order**
+
+5, 8, 10, 12, 18, 20
+
+**Count n**
+
+n = 6 (even)
+
+**Find positions**
+
+* Position $\frac{n}{2} = \frac{6}{2} = 3$ → 3rd value = **10**
+* Position $\frac{n}{2} + 1 = 4$ → 4th value = **12**
+
+##### Apply formula
+$$
+\text{Median} = \frac{10 + 12}{2} = 11
+$$
+
+**Median = 11**
+
++++
 </md></sn><sn><md>### Median from a Discrete Series
 
 A discrete series has values with their frequencies. `Median depends on cumulative frequencies`.
