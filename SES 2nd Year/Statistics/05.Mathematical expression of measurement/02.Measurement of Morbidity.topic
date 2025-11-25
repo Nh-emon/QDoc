@@ -1,10 +1,91 @@
 
-  <sn></sn>
+  <sn><md>### Measurement of Morbidity
+
+Morbidity refers to the `state of being diseased or unhealthy` in a population. Measuring morbidity is essential in public health, epidemiology, and healthcare planning. It helps to understand the **frequency, distribution, and pattern of diseases** in a population.
+</md></sn>
   <config>
     <tags>#02.measurement of morbidity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 10:55:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 11:34:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XbhtSdwgPl</id>
     <duration></duration>
   </config>
+<sn><md>### Incidence
+
+**Incidence** is the number of `new cases of a disease` occurring in a specified population during a defined time period. It measures the **risk of developing a disease**.
+
+#### Types of Incidence
+
+* **Incidence Count**: Total number of new cases.
+
+* **Incidence Proportion (Cumulative Incidence)**:
+  $$
+  \text{Incidence Proportion} = \frac{\text{Number of new cases during a period}}{\text{Population at risk at the start of the period}} \times 100
+  $$
+
+* **Incidence Rate (Incidence Density)**:
+  $$
+  \text{Incidence Rate} = \frac{\text{Number of new cases during a period}}{\text{Total person-time at risk}}
+  $$
+
+**Example**
+
+If 50 new cases of influenza occur in a population of 1,000 people over one year:
+
+$$
+\text{Incidence Proportion} = \frac{50}{1000} \times 100 = 5%
+$$
+</md></sn><sn><md>### Prevalence
+
+**Prevalence** is the `total number of cases` (both new and existing) of a disease in a population at a given time. It measures the **burden of disease**.
+
+### Types of Prevalence
+
+* **Point Prevalence**: Number of cases at a **specific point in time**.
+* **Period Prevalence**: Number of cases during a **specific period** (e.g., a month, a year).
+
+### Formulas
+
+  $$
+  \text{Point Prevalence} = \frac{\text{Number of existing cases at a point in time}}{\text{Population at that time}} \times 100
+  $$
+
+* **Period Prevalence**
+  $$
+  \text{Period Prevalence} = \frac{\text{Number of existing + new cases during a period}}{\text{Average population during that period}} \times 100
+  $$</md></sn><sn><md>### Example of Point and Period Prevalence
+
+1. **Point Prevalence**:
+   A hospital survey on 1st January finds 20 patients with diabetes among 500 people.
+
+$$
+\text{Point Prevalence} = \frac{20}{500} \times 100 = 4%
+$$
+
+2. **Period Prevalence**:
+   During January, 10 new diabetes cases are diagnosed in addition to the existing 20.
+
+$$
+\text{Period Prevalence} = \frac{20 + 10}{500} \times 100 = 6%
+$$
+
+---
+
+### Key Differences: Incidence vs Prevalence
+
+| Feature    | Incidence               | Prevalence                    |
+| ---------- | ----------------------- | ----------------------------- |
+| Definition | New cases over a period | Total cases at a time         |
+| Measures   | Risk                    | Burden                        |
+| Time Frame | Specified period        | Point or period               |
+| Depends on | Disease occurrence      | Disease duration &amp; occurrence |
+| Example    | 50 new flu cases/year   | 100 people currently have flu |
+
+
+### Importance of Measuring Morbidity
+
+* Helps in **planning healthcare resources**
+* Identifies **high-risk populations**
+* Evaluates **effectiveness of interventions**
+* Supports **research and policy-making**</md></sn>
