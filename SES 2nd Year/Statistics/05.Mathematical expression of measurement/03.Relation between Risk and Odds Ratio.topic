@@ -1,10 +1,87 @@
 
-  <sn></sn>
+  <sn><md>### Relation Between Risk and Odds Ratio
+
+Risk and odds are two important measures in epidemiology used to compare the likelihood of an event (usually a disease) between two groups. Their relationship is close but not identical.
+</md></sn>
   <config>
     <tags>#03.relation between risk and odds ratio</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 11:38:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 11:50:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-wuBZUnHHgZ</id>
     <duration></duration>
   </config>
+<sn><md>### Risk
+
+Risk is the **probability** that an event will occur in a population.
+
+$$
+\text{Risk} = \frac{\text{Number of events}}{\text{Total population at risk}}
+$$
+
+If 20 out of 100 people develop a disease:
+
+$$
+\text{Risk} = \frac{20}{100} = 0.20 = 20%
+$$
+</md></sn><sn><md>### Odds
+
+Odds is the `ratio of probability of the event to the probability of no event`.
+
+$$
+\text{Odds} = \frac{\text{Risk}}{1 - \text{Risk}}
+$$
+
+From the above risk (0.20):
+
+$$
+\text{Odds} = \frac{0.20}{1 - 0.20} = \frac{0.20}{0.80} = 0.25
+$$
+</md></sn><sn><md>#### Risk Ratio (Relative Risk, RR)
+
+Compares risk in **exposed** vs **unexposed** groups.
+
+$$
+RR = \frac{Risk_{exposed}}{Risk_{unexposed}}
+$$</md></sn><sn><md>### Relationship Between Risk and Odds
+
+**A. Mathematical Relationship**
+
+Since
+$$
+Odds = \frac{Risk}{1 - Risk}
+$$
+
+And
+$$
+Risk = \frac{Odds}{1 + Odds}
+$$
+
+This shows that **risk and odds are mathematically linked**, but they are not the same.
+
+**B. Relation Between Risk Ratio and Odds Ratio**
+
+If the disease is **rare (prevalence &lt;10%)**, then:
+
+$$
+OR \approx RR
+$$
+
+**Why?**
+When disease is rare, Risk ≈ Odds because:
+
+* Risk is very small
+* 1 – Risk ≈ 1
+
+Thus:
+
+$$
+Odds = \frac{Risk}{1 - Risk} \approx Risk
+$$
+
+So:
+
+$$
+OR \approx RR
+$$
+</md></sn>
