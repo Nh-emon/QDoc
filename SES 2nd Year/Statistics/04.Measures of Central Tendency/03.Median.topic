@@ -1,150 +1,174 @@
 
-  <sn><md>### Median
-
-**Median** is the `middle value` of a dataset when all `values are arranged` in ascending order.
-It divides the data into **two equal halves**.
-
-Median has **three cases**:
-* Odd
-* Even
-* Classified Group
-</md></sn>
+  
   <config>
     <tags>#03.median</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 09:42:05 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 19:44:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UYkHj9GG8Q</id>
     <duration></duration>
   </config>
-<sn><md>### Median for **Odd Number of Observations**
+<sn><md>### Median in Central Tendency
 
-For odd *n*:
+The **Median** is the `middle value` that divides the dataset into **two equal halves**.<br>
+50% of the observations lie below it and 50% lie above it.<br>
+Median is highly useful when the data contains extreme values (outliers), or when the distribution is skewed.
 
-$$
-\text{Median} = \text{Value at position } \left(\frac{n+1}{2}\right)
-$$
+Median can be calculated for:
 
-**Example**
+1. **Individual Series**
+2. **Discrete Series**
+3. **Continuous Series**
 
-Data:
-3, 5, 7, 9, 11
+   * **Inclusive Method**
+   * **Exclusive Method**
+</md></sn><sn><md>### Median from an Individual Series
 
-* Number of values (n) = 5 (odd)
-* Position of median = (5 + 1)/2 = **3rd position**
+Median is the `middle value` when data is `arranged` in ascending or descending order.
 
-Ordered data: 3, 5, **7**, 9, 11
+$$ \text{median odd} = \frac{n+1}{2} \text{term}$$
+$$ \text{median even} = \frac{ (\frac{n}{2}\text{ term}) + (\frac{n}{2}+1)\text{ term} }{2}$$
 
-**Median = 7**
-</md></sn><sn><md>### Median for Even Number of Observations
+**Steps**: 
+1. Arrange data in ascending order.
+2. If **n is odd**, median = $\frac{n+1}{2}$ term value.
+3. If **n is even**, median = average of ($\frac{n}{2}$ and $\frac{n}{2}+1$) term value.
 
-**Formula**
+Data: 12, 5, 18, 10, 20<br>
+Sorted: 5, 10, 12, 18, 20
 
-For even *n*:
+$$ \text{nth term} = \frac{n+1}{2} $$
+$$ =\frac{5+1}{2} $$
+$$ =\frac{6}{2} $$
 
-$$
-\text{Median} = \frac{(\text{value at }n/2) + (\text{value at }n/2 + 1)}{2}
-$$
+And 3rd term is `12`
 
-**Example**
+Total observations (n) = 5 (odd)<br>
+Median = 3rd value = **12**
+</md></sn><sn><md>### Median from a Discrete Series
 
-Data:
-4, 6, 8, 10, 12, 14
+A discrete series has values with their frequencies. `Median depends on cumulative frequencies`.
 
-* n = 6 (even)
-* Values at positions:
+##### Steps
+1. Prepare cumulative frequency (cf).
+2. Find $\frac{n}{2}$.
+3. Locate the value whose cumulative frequency first equals or exceeds $\frac{n}{2}$.
+4. That value = Median.
 
-  * n/2 = 6/2 = 3rd → 8
-  * (n/2 + 1) = 4th → 10
+| x | f | cf |
+| - | - | -- |
+| 2 | 3 | 3  |
+| 3 | 4 | 7  |
+| 5 | 6 | 13 |
+| 7 | 2 | 15 |
 
-$$
-\text{Median} = \frac{8 + 10}{2} = 9
-$$
+n = 15<br>
+n/2 = 7.5<br>
+The cumulative frequency first ≥ 7.5 is 13 at x = 5.<br>
+So, **Median = 5**
+</md></sn><sn><md>### Median from a Continuous Series (Exclusive Method)
 
-**Median = 9**
-</md></sn><sn><md>### Median for Grouped (Classified) Data
+Median is calculated using the median class and the median formula.
 
-$$
-\text{Median} = L + \left(\frac{n}{2} - F_c\right)\frac{h}{f_m}
-$$
-
-+++ Where:
-
-* **L** = lower limit of median class
-* **n** = total frequency
-* **Fc** = cumulative frequency before the median class
-* **fm** = frequency of the median class
-* **h** = class width
-+++
-
-
-#### Example
+#### Steps
+1. Compute cumulative frequencies (cf).
+2. Find $\frac{n}{2}$.
+3. Identify **median class** = class where cf ≥ n/2.
+4. Use the formula.
 
 | Class Interval | Frequency |
 | -------------- | --------- |
-| 0 – 10         | 5         |
-| 10 – 20        | 9         |
-| 20 – 30        | 14        |
-| 30 – 40        | 20        |
-| 40 – 50        | 12        |
+| 0–10           | 5         |
+| 10–20          | 8         |
+| 20–30          | 12        |
+| 30–40          | 5         |
 
----
-**Compute cumulative frequency (CF)**
+Compute cf:
 
-| Class Interval | Frequency | Cumulative Frequency |
-| -------------- | --------- | -------------------- |
-| 0 – 10         | 5         | 5                    |
-| 10 – 20        | 9         | 14                   |
-| 20 – 30        | 14        | 28                   |
-| 30 – 40        | 20        | 48                   |
-| 40 – 50        | 12        | 60                   |
+| Class | f  | cf |
+| ----- | -- | -- |
+| 0–10  | 5  | 5  |
+| 10–20 | 8  | 13 |
+| 20–30 | 12 | 25 |
+| 30–40 | 5  | 30 |
 
----
+n = 30<br>
+n/2 = 15
 
-**Identify median class**
+Median class = 20–30 (cf ≥ 15)
 
-Total frequency:
-$$
-n = 60
-$$
+$$Median =L + \left( \dfrac{\frac{n}{2} - cf_{\text{before}}}{f} \right) \times h$$
 
-Compute n/2:
-$$
-n/2 = 30
-$$
++++ Where:
+* L = lower limit of median class = 20
+* $cf_{\text{before}}$ = 13
+* f = frequency of median class = 12
+* h = class width = 10
++++
 
-Find the class in which **30** lies in CF:
+$$\text{Median} = 20 + \frac{15 - 13}{12} \times 10$$
+$$= 20 + \dfrac{2}{12} \times 10$$
+$$= 20 + 1.67$$
+$$= **21.67**$$
+</md></sn><sn><md>### Median from a Continuous Series (Inclusive Method)
 
-* CF before 20–30 = 28
-* CF after = 48
-  So **median class = 30–40**
+Inclusive classes must be `converted to exclusive` before using the formula.
 
-Thus:
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0–9            | 4         |
+| 10–19          | 7         |
+| 20–29          | 10        |
+| 30–39          | 6         |
 
-* **L = 30**
-* **Fc = 28**
-* **fm = 20**
-* **h = 10**
+#### Convert Inclusive → Exclusive
 
-**Apply median formula**
+Subtract 0.5 from lower limits and add 0.5 to upper limits.
 
-$$
-\text{Median} = 30 + \left(\frac{60}{2}-28\right)\frac{10}{20}
-$$
+| Inclusive | Exclusive   |
+| --------- | ----------- |
+| 0–9       | -0.5 – 9.5  |
+| 10–19     | 9.5 – 19.5  |
+| 20–29     | 19.5 – 29.5 |
+| 30–39     | 29.5 – 39.5 |
 
-$$
-= 30 + (30 - 28)\frac{10}{20}
-$$
+Continue with exclusive formula.
 
-$$
-= 30 + 2 \times 0.5
-$$
+Compute cf:
 
-$$
-= 30 + 1 = 31
-$$
+| Class     | f  | cf |
+| --------- | -- | -- |
+| -0.5–9.5  | 4  | 4  |
+| 9.5–19.5  | 7  | 11 |
+| 19.5–29.5 | 10 | 21 |
+| 29.5–39.5 | 6  | 27 |
 
-**Final Answer**
+n = 27<br>
+n/2 = 13.5<br>
+Median class = 19.5–29.5
 
-**Median = 31**
+##### Using the formula
+
+$$\text{Median} = L + \left( \dfrac{\frac{n}{2} - cf_{\text{before}}}{f} \right) \times h$$
+
++++ Where:
+
+* L = 19.5
+* $cf_{\text{before}}$ = 11
+* f = 10
+* h = 10
++++
+
+$$\text{Median} = 19.5 + ( \dfrac{13.5 - 11}{10} \times 10$$
+$$= 19.5 + 2.5$$
+$$= **22.0**$$
+
+</md></sn><sn><md>### Formulas for Median
+
+| **Type of Series**                       | **Formula / Rule for Median**                                                                                                                             |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Individual Series**                    | If **n is odd**: Median = value at $\frac{n+1}{2}$ <br> If **n is even**: Median = average of values at positions $\frac{n}{2}$ and $\frac{n}{2}+1$ |
+| **Discrete Series**                      | Median = value whose cumulative frequency first becomes ≥ $\frac{n}{2}$                                                                                 |
+| **Continuous Series (Exclusive Method)** | $\text{Median} = L + \left( \dfrac{\frac{n}{2} - cf_{\text{before}}}{f} \right) \times h$                                                               |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive → exclusive. <br> Step 2: Use the exclusive series median formula.                                                              |
 </md></sn>
