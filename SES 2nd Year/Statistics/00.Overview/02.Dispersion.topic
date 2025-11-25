@@ -1,10 +1,190 @@
 
-  <sn></sn>
+  <sn><md>### Dispersion in Statistics
+
+Dispersion refers to the **spread**, **scattering**, or **variability** of data values around a central point (mean, median, or mode).
+It tells `how far the observations are from each other` and from the central value.
+
+If two datasets have the same mean but different spreads, the <br>one with **higher dispersion** is more variable or inconsistent.
+
+##### Why Dispersion is Important
+
+* It shows **consistency** or **reliability** of data.
+* Helps compare two or more datasets.
+* Helps understand the **risk**, **variability**, and **distribution shape**.
+* Necessary for further statistical analysis (correlation, regression, hypothesis testing).
+
+:::.row
+:::.col-12 .col-md-6
+##### Common Measures of Dispersion{.text-center}
+Absolute <br>
+1. **Range**
+2. **Quartile Deviation (Semi-Interquartile Range)**
+3. **Mean Deviation**
+4. **Standard Deviation**
+5. **Variance**
+:::
+
+:::.col-12 .col-md-6
+##### Co-officient Measures of Dispersion{.text-center}
+Relative<br>
+1. Co-**Range**
+2. Co-**Quartile Deviation (Semi-Interquartile Range)**
+3. Co-**Mean Deviation**
+4. Co-**Standard Deviation**
+5. Co-**Variance**
+:::
+:::
+</md></sn>
   <config>
     <tags>#02.dispersion</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 21:51:57 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 22:27:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-jHSPBtNgnq</id>
     <duration></duration>
   </config>
+<sn><md>### Why Mean Alone Can Be Misleading!
+
+**“A group of friends earning 40k per year — and one friend is Bill Gates”**
+
+**The Data (Annual Income of 6 Friends)**
+
+Five normal friends earn:
+
+```
+40,000  
+40,000  
+40,000  
+40,000  
+40,000
+```
+
+One friend is Bill Gates:
+
+```
+100,000,000,000   (100 billion)
+```
+
+### Full dataset
+
+```
+40,000  
+40,000  
+40,000  
+40,000  
+40,000  
+100,000,000,000
+```
+
+---
+
+#### Calculate the Mean (Average)
+
+$$
+\text{Mean} = \frac{\text{sum of values}}{n}
+$$
+
+$$
+= \frac{40k \times 5 + 100B}{6}
+$$
+
+Converting to numbers:
+
+* Five friends: $5 \times 40,000 = 200,000$
+* Bill Gates: $100,000,000,000$
+
+$$
+\text{Mean} = \frac{100,000,200,000}{6}
+\approx 16,666,700,000
+$$
+
+**Mean ≈ 16.67 billion per person**
+
+---
+
+#### Why this mean is **misleading**
+
+Does **anyone** except Bill Gates make anywhere near 16 billion per year?
+
+No.
+
+Do the five normal friends earn above 40k?<br>
+No.
+
+Do they remotely approach the group’s mean?<br>
+No.
+
+#### What Dispersion Shows (Why It Saves the Day)
+
+##### Median
+
+Sort the data:
+
+```
+40k, 40k, 40k, 40k, 40k, 100B
+```
+
+Median = average of 3rd and 4th values → both are 40k
+
+$$
+\text{Median} = 40,000
+$$
+
+The median correctly reflects what *typical* friends earn.
+
+---
+
+#### Standard Deviation (σ)
+
+Standard deviation measures **how spread** the data are from the mean.
+
+With a huge outlier, σ becomes enormous.
+
+These “distances from mean” are massive → squaring makes them astronomically large →
+**standard deviation becomes extremely huge**.
+
+This tells us:
+
+&gt; **The group’s incomes are extremely unequal.**
+
+---
+
+#### MAD (Mean Absolute Deviation)
+
+MAD will also explode because of the outlier, but **not as badly** as standard deviation.
+
+Still:<br>
+MAD → huge<br>
+Meaning → incomes are very unequally distributed.
+
+### Final Interpretation (Easy Explanation)
+
+**Mean alone says:**
+
+&gt; “Everyone in this group earns ~16.7 billion per year.”
+
+→ Completely false.
+
+#### **Median says:**
+
+&gt; “Typical income is 40k.”
+
+→ Correct.
+
+##### Standard deviation says:
+
+&gt; “The spread is HUGE; incomes are extremely unequal.”
+
+→ Shows existence of a massive outlier.
+
+#### Why Dispersion Helps Here
+
+Because dispersion measures (std dev, variance, MAD) **quantify the inequality**.
+They tell you:
+
+* Mean is being distorted
+* Data contains extreme outliers
+* Income distribution is not normal
+* Typical value is far lower than mean
+* You should use median, not mean
+</md></sn>
