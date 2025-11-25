@@ -1,10 +1,178 @@
 
-  <sn></sn>
+  <sn><md>### Range in Statistics
+
+Range is the `simplest measure of dispersion`, showing how widely values are spread in a dataset. It depends **only on the highest value (L)** and the **lowest value (S)** of a distribution. It does **not** depend on the number of observations.
+</md></sn>
   <config>
     <tags>#03.range</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 22:27:53 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 22:52:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-B9bE1z6yQY</id>
     <duration></duration>
   </config>
+<sn><md>### Definition of Range
+
+$$
+\text{Range} = L - S
+$$
+
+Where
+
+* (L) = Highest (maximum) value
+* (S) = Lowest (minimum) value
+
+Range tells `how wide the data spreads` from smallest to largest.
+</md></sn><sn><md>:::.row
+:::.col-12 .col-md-6
+#### Absolute Range{.text-center}
+Absolute range is the **direct difference** between the largest and smallest value.
+$$
+\text{Absolute Range} = L - S
+$$
+It expresses spread in the `same units` as the data.
+:::
+
+:::.col-12 .col-md-6
+#### Relative Range (Coefficient of Range){.text-center}
+Relative range expresses dispersion **in percentage form** to make comparisons between different datasets.
+$$
+\text{Coefficient of Range} = \frac{L - S}{L + S} \times 100
+$$
+It is `unit-free` and is used to compare variability across groups with different units or scales.
+:::
+:::
+</md></sn><sn><md>### Why Range Is Useful
+
+* Very easy to compute
+* Shows the full spread of the data
+* Useful for quick comparison of variability
+* Works for all types of series (individual, discrete, continuous)
+</md></sn><sn><md>### Individual Series
+
+Example data:<br>
+40, 52, 48, `60`, `35`, 58
+
+Here:
+
+* Highest value (L = 60)
+* Lowest value (S = 35)
+
+:::.row
+:::.col-12 .col-md-6
+##### Absolute Range{.text-center}
+$$
+\text{Range} = 60 - 35 = 25
+$$
+:::
+
+:::.col-12 .col-md-6
+##### Coefficient of Range{.text-center}
+$$\frac{60 - 35}{60 + 35} \times 100$$
+$$= \frac{25}{95} \times 100$$
+$$= 26.31$$
+:::
+:::
+</md></sn><sn><md>### Discrete Series
+
+Values with Frequency:
+
+| Value | Frequency |
+| ----- | --------- |
+| `5`     | 4         |
+| 7     | 2         |
+| 9     | 3         |
+| 12    | 6         |
+| `15`    | 1         |
+
+Here:
+
+* Highest value (L = 15)
+* Lowest value (S = 5)
+
+:::.row
+:::.col-12 .col-md-6
+##### Absolute Range
+$$
+15 - 5 = 10
+$$
+:::
+:::.col-12 .col-md-6
+##### Coefficient of Range
+$$\frac{10}{15 + 5} \times 100$$
+$$= \frac{10}{20} \times 100$$
+$$= 50$$
+:::
+:::
+</md></sn><sn><md>### Continuous Series (Exclusive)
+
+Class intervals:<br>
+`10`–20, 20–30, 30–40, 40–50, 50–`60`
+
+Here:
+
+* Lowest class boundary = 10
+* Highest class boundary = 60
+
+##### Important
+
+In **exclusive** series, the class boundaries are already continuous, so use the given limits directly.
+
+:::.row
+:::.col-12 .col-md-6
+##### Absolute Range{.text-center}
+$$
+60 - 10 = 50
+$$
+:::
+:::.col-12 .col-md-6
+##### Coefficient of Range{.text-center}
+$$\frac{60 - 10}{60 + 10} \times 100$$
+$$= \frac{50}{70} \times 100$$
+$$= 71.43$$
+:::
+:::
+
+</md></sn><sn><md>### Continuous Series (Inclusive)
+
+Class intervals:<br>
+10–19, 20–29, 30–39, 40–49, 50–59
+
+Inclusive series requires conversion to **continuous boundaries**:
+
+| Original Class | Continuous Class |
+| -------------- | ---------------- |
+| 10–19          | `9.5`–19.5         |
+| 20–29          | 19.5–29.5        |
+| 30–39          | 29.5–39.5        |
+| 40–49          | 39.5–49.5        |
+| 50–59          | 49.5–`59.5`        |
+
+Now:
+
+* Lowest = 9.5
+* Highest = 59.5
+
+:::.row
+:::.col-12 .col-md-6
+##### Absolute Range{.text-center}
+$$
+59.5 - 9.5 = 50
+$$
+:::
+:::.col-12 .col-md-6
+##### Coefficient of Range{.text-center}
+$$\frac{50}{59.5 + 9.5} \times 100$$
+$$= \frac{50}{69} \times 100$$
+$$= 72.46$$
+:::
+:::
+</md></sn><sn><md>### Summary
+
+| Series Type          | Highest (L) | Lowest (S) | Range (L–S) | Coefficient of Range |
+| -------------------- | ----------- | ---------- | ----------- | -------------------- |
+| Individual           | 60          | 35         | 25          | 26.31                |
+| Discrete             | 15          | 5          | 10          | 50                   |
+| Continuous Exclusive | 60          | 10         | 50          | 71.43                |
+| Continuous Inclusive | 59.5        | 9.5        | 50          | 72.46                |
+</md></sn>
