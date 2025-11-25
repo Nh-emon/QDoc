@@ -1,10 +1,80 @@
 
-  <sn></sn>
+  <sn><md>### Mode
+
+**Mode** is the value that occurs `most frequently` in a dataset.<br>
+For **grouped data**, mode is found using a formula because we do not know the exact individual values—only intervals and frequencies.
+
+$$
+\text{Mode} = L + \frac{f_1}{(f_1 - f_0) + (f_1 - f_2)} \times h
+$$
+
++++ Where:
+
+* **L** = lower limit of the modal class
+* **f₁** = frequency of the modal class
+* **f₀** = frequency of the class just before modal class
+* **f₂** = frequency of the class just after modal class
+* **h** = class width
++++
+</md></sn>
   <config>
     <tags>#04.mode</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 08:33:18 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 09:14:41 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-gj0gCnuaUC</id>
     <duration></duration>
   </config>
+<sn><md>### Example
+
+Find the mode from the following distribution:
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0 – 10         | 5         |
+| 10 – 20        | 9         |
+| 20 – 30        | 14        |
+| 30 – 40        | 20        |
+| 40 – 50        | 12        |
+| 50 – 60        | 7         |
+
+**Identify the modal class**
+
+Highest frequency = **20**<br>
+So modal class = **30–40**
+
+Thus:
+
+* **L = 30**
+* **f₁ = 20**
+* **f₀ = 14** (previous class)
+* **f₂ = 12** (next class)
+* **h = 10**
+
+**Apply the mode formula**
+
+$$
+\text{Mode} = 30 + \frac{20 - 14}{(20 - 14) + (20 - 12)} \times 10
+$$
+
+Compute step by step:
+
+1. (20 - 14 = 6)
+2. (20 - 12 = 8)
+3. Denominator = (6 + 8 = 14)
+4. Fraction = (6/14 = 0.4286)
+
+Now,
+
+$$
+\text{Mode} = 30 + 0.4286 \times 10
+$$
+
+$$
+\text{Mode} = 30 + 4.286 = 34.286
+$$
+
+---
+
+**Final Answer** : **Mode ≈ 34.29**
+</md></sn>
