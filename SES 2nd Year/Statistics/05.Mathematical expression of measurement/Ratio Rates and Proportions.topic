@@ -1,10 +1,119 @@
 
-  <sn></sn>
+  <sn><md>### Ratio, Rates, and Proportions
+
+Mathematics is full of tools to compare quantities, and three of the most commonly used concepts are **ratio, rate, and proportion**. These concepts are widely used in daily life, science, finance, and statistics. Understanding them provides a foundation for problem-solving in various contexts.
+</md></sn>
   <config>
     <tags>#ratio rates and proportions</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 10:26:41 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 10:51:50 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-CrmAaonx6B</id>
     <duration></duration>
   </config>
+<sn><md>### Ratio
+
+A **ratio** is a way to `compare two or more quantities` of the same kind by division. It expresses **how many times one quantity contains another**.
+
+* **a : b** (read as “a is to b”)
+* **a/b** (fraction form)
+
+:::.row
+:::.col-12 .col-md-6
+1. If a classroom has 12 boys and 8 girls, the ratio of boys to girls is:
+$$
+\text{Ratio} = 12 : 8 = 3 : 2
+$$
+:::
+:::.col-12 .col-md-6
+2. If a recipe calls for 4 cups of flour and 2 cups of sugar, the ratio of flour to sugar is:
+$$
+4 : 2 = 2 : 1
+$$
+:::
+:::
+
+#### Properties of Ratios
+
+* Ratios are **dimensionless** when comparing the same kind of quantities.
+* Ratios can be simplified like fractions.
+</md></sn><sn><md>### Rate
+
+A **rate** is a `comparison of two quantities of different kinds`. <br>It expresses **how much of one quantity corresponds to a unit of another quantity**.
+
+$$
+\text{Rate} = \frac{\text{Quantity 1}}{\text{Quantity 2}}
+$$
+* Often written as **per unit** $e.g., km/h, beats/min$
+:::.row
+:::.col-12 .col-md-6
+1. A car travels 150 kilometers in 3 hours. The speed of the car is a rate:
+
+$$
+\text{Speed} = \frac{150 \text{ km}}{3 \text{ h}} = 50 \text{ km/h}
+$$
+:::
+
+:::.col-12 .col-md-6
+2. If a worker earns $600 for 8 days of work, the rate of earning per day is:
+
+$$
+\text{Rate} = \frac{600}{8} = 75 \text{ /day}
+$$
+:::
+:::
+
+#### Properties of Rates
+
+* Rates **involve different units**.
+* They can be converted into unit rates for easier comparison.</md></sn><sn><md>### Proportion
+
+A **proportion** is an equation stating that `two ratios are equal`. <br>It is a way of showing that two fractions or ratios are equivalent.
+
+$$
+a : b = c : d \quad \text{or} \quad \frac{a}{b} = \frac{c}{d}
+$$
+
+:::.row
+:::.col-12 .col-md-6
+1. If 2 pencils cost $3, then 4 pencils will cost $6. The proportion is:
+
+$$
+2 : 3 = 4 : 6 \quad \text{or} \quad \frac{2}{3} = \frac{4}{6}
+$$
+:::
+
+:::.col-12 .col-md-6
+2. A map scale shows 1 cm represents 5 km. If two cities are 7 cm apart on the map, the real distance is:
+
+$$
+1 : 5 = 7 : x \quad \Rightarrow x = 35 \text{ km}
+$$
+:::
+:::
+
+**Solving Proportions**
+
+Use **cross-multiplication**:
+
+$$
+\frac{a}{b} = \frac{c}{d} \quad \Rightarrow \quad a \cdot d = b \cdot c
+$$
+</md></sn><sn><md>### Summary Table
+
+| Concept    | Definition                         | Example                 | Key Point                                |
+| ---------- | ---------------------------------- | ----------------------- | ---------------------------------------- |
+| Ratio      | Comparison of same kind quantities | 12 boys : 8 girls = 3:2 | Dimensionless, simplified                |
+| Rate       | Comparison of different kinds      | 150 km in 3 h → 50 km/h | Has units, can be converted to unit rate |
+| Proportion | Two ratios are equal               | 2:3 = 4:6               | Solve with cross-multiplication          |
+
+---
+
+**Conclusion**
+
+* **Ratios** help compare quantities of the same type.
+* **Rates** provide meaningful comparisons between different types of quantities.
+* **Proportions** are useful to solve problems where two ratios are equivalent.
+
+Mastering these concepts is essential for solving everyday math problems, understanding statistics, and interpreting real-life data.
+</md></sn>
