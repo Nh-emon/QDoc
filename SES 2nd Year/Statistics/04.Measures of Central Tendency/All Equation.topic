@@ -1,10 +1,44 @@
 
-  <sn></sn>
+  <sn><md>### Formulas for Mean
+
+| **Type of Series**                       | **Formula for Mean**                                                                                             |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Individual Series**                    | $\displaystyle \bar{x} = \frac{\sum x}{n}$                                                                     |
+| **Discrete Series**                      | $\displaystyle \bar{x} = \frac{\sum fx}{n}$  &nbsp;&nbsp;where $n = \sum f$                                            |
+| **Continuous Series (Exclusive Method)** | $\displaystyle \bar{x} = \frac{\sum fm}{n}$  &nbsp;&nbsp;where $m = \frac{\text{lower limit} + \text{upper limit}}{2}$ |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive → exclusive. <br> Step 2: Use $\displaystyle \bar{x} = \frac{\sum fm}{n}$            |
+</md></sn>
   <config>
     <tags>#all equation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 21:03:14 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 21:05:28 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qRt7R1CPCB</id>
     <duration></duration>
   </config>
+<sn><md>### Different kind of Mean
+
+| Type                 | Formula                     | Example      | Result |
+| -------------------- | --------------------------- | ------------ | ------ |
+| Arithmetic Mean (AM) | $\sum x / n$                | 4, 8, 12, 16 | 10     |
+| Geometric Mean (GM)  | $\sqrt[n]{x_1 x_2 ... x_n}$ | 2, 8         | 4      |
+| Harmonic Mean (HM)   | $n / \sum (1/x_i)$          | 4, 8         | 5.33   |
+
+&gt; **Relation:** AM ≥ GM ≥ HM
+</md></sn><sn><md>### Formulas for Median
+
+| **Type of Series**                       | **Formula / Rule for Median**                                                                                                                             |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Individual Series**                    | If **n is odd**: Median = value at $\frac{n+1}{2}$ <br> If **n is even**: Median = average of values at positions $\frac{n}{2}$ and $\frac{n}{2}+1$ |
+| **Discrete Series**                      | Median = value whose cumulative frequency first becomes ≥ $\frac{n}{2}$                                                                                 |
+| **Continuous Series (Exclusive Method)** | $\text{Median} = L + \left( \dfrac{\frac{n}{2} - cf_{\text{before}}}{f} \right) \times h$                                                               |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive → exclusive. <br> Step 2: Use the exclusive series median formula.                                                              |
+</md></sn><sn><md>### Formulas for Mode
+
+| **Type of Series**                       | **Formula / Rule for Mode**                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Individual Series**                    | Mode = `value occurring most frequently` (simply count frequencies)                                |
+| **Discrete Series**                      | Mode = value (x) having the `highest frequency` (f)                                                |
+| **Continuous Series (Exclusive Method)** | $\text{Mode} = L + \dfrac{(f_1 - f_0)}{(2f_1 - f_0 - f_2)} \times h$                           |
+| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive classes to exclusive. <br> Step 2: Apply the exclusive series formula. |
+</md></sn>
