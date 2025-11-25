@@ -1,10 +1,103 @@
 
-  <sn></sn>
+  <sn><md>### Series in Statistics
+
+A statistical **series** means `arranging data in a systematic order` so that it becomes easier to understand, analyze, and interpret. In statistics, data can be arranged in three major forms:
+
+1. **Individual Series**
+2. **Discrete Series**
+3. **Continuous Series**
+
+   * **Inclusive Series**
+   * **Exclusive Series**
+</md></sn>
   <config>
     <tags>#series</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 16:49:02 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 25 2025 17:05:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-zJgBDynBPl</id>
     <duration></duration>
   </config>
+<sn><md>### Individual Series
+
+An **individual series** (or `ungrouped data`) is a `simple listing` of raw observations without any grouping or frequency distribution. Each value stands alone.
+
+Marks obtained by 7 students:
+**12, 15, 18, 10, 20, 25, 22**
+
+Here, no grouping is done. Each item is an individual entry.
+</md></sn><sn><md>### Discrete Series
+
+A **discrete series** (or frequency series) contains `observations along with their respective frequencies`.
+The values are countable and distinct.
+
+| Value (x) | Frequency (f) |
+| --------- | ------------- |
+| 2         | 3             |
+| 3         | 5             |
+| 4         | 6             |
+| 5         | 2             |
+
+This means:
+
+* Value 2 occurs 3 times
+* Value 3 occurs 5 times, etc.
+
+</md></sn><sn><md>### Continuous Series
+
+A **continuous series** (or grouped frequency distribution) `groups data into class intervals` instead of showing individual values. `Each class represents a range`.
+
+Continuous series may be presented in two ways:
+
+1. **Inclusive Method**
+2. **Exclusive Method**
+</md></sn><sn><md>### Inclusive Series
+
+In an **inclusive series**, the class intervals `include both their upper and lower limits`.
+Example: 0–9 includes 0 and 9.
+
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0–9            | 5         |
+| 10–19          | 8         |
+| 20–29          | 12        |
+| 30–39          | 6         |
+
+Here:
+
+* Class 0–9 includes values 0,1,2,…9
+* Class 10–19 includes values 10,11,…19
+
+Inclusive series is common in social sciences.</md></sn><sn><md>### Exclusive Series
+
+In an **exclusive series**, `the upper limit of a class interval is excluded` from that class.
+Example: 0–10 includes values from 0 up to 9.99..., but not 10.
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0–10           | 4         |
+| 10–20          | 7         |
+| 20–30          | 10        |
+| 30–40          | 9         |
+
+Here:
+
+* 0–10 includes 0 to below 10
+* 10–20 includes 10 to below 20
+* No overlapping of values
+  Exclusive series is common in scientific data and continuous variables.
+</md></sn><sn><md>| Discrete Series                 | Continuous Series                   |
+| ------------------------------- | ----------------------------------- |
+| Data are separate and countable | Data grouped into ranges            |
+| No class intervals              | Has class intervals                 |
+| Used for whole-number data      | Used for continuous/large data sets |
+
+### Inclusive vs Exclusive Series
+
+| Inclusive             | Exclusive                 |
+| --------------------- | ------------------------- |
+| Both limits included  | Upper limit excluded      |
+| Common in social data | Common in scientific data |
+| Example: 10–19        | Example: 10–20            |
+</md></sn>
