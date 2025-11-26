@@ -1,10 +1,172 @@
 
-  <sn></sn>
+  <sn><md>## Correlation
+
+Correlation is a statistical technique that measures the **degree and direction of relationship** between two variables. When two variables change together in a predictable pattern, they are said to be correlated.
+It does **not** establish cause and effect; it only shows **association**.
+
+---
+
+## Concept of Correlation
+
+Correlation helps us understand whether:
+
+* An increase in one variable leads to an increase in another (positive correlation),
+* An increase in one leads to a decrease in another (negative correlation), or
+* There is no predictable relationship (zero correlation).
+
+### Types of Correlation
+
+1. **Positive Correlation**
+   Both variables move in the same direction.
+   Example: Height and weight.
+
+2. **Negative Correlation**
+   Variables move in opposite directions.
+   Example: Speed and time required to reach a destination.
+
+3. **Zero or No Correlation**
+   No definite pattern exists between variables.
+   Example: Shoe size and intelligence.
+
+4. **Linear and Non-linear Correlation**
+
+   * Linear: Data points follow a straight-line pattern.
+   * Non-linear: Data points follow a curved pattern.
+
+---
+
+## Correlation Coefficient
+
+The **correlation coefficient** (usually denoted by **r**) is a numerical measure that indicates the **strength and direction** of the relationship between two variables.
+
+### Key Characteristics
+
+* **Value ranges from –1 to +1**.
+* **+1** → Perfect positive correlation.
+* **–1** → Perfect negative correlation.
+* **0** → No correlation.
+
+### Interpretation of r
+
+| Value of r     | Interpretation                 |
+| -------------- | ------------------------------ |
+| +0.90 to +1.00 | Very high positive correlation |
+| +0.70 to +0.89 | High positive correlation      |
+| +0.40 to +0.69 | Moderate positive correlation  |
+| +0.10 to +0.39 | Low positive correlation       |
+| 0              | No correlation                 |
+| –0.10 to –0.39 | Low negative correlation       |
+| –0.40 to –0.69 | Moderate negative correlation  |
+| –0.70 to –0.89 | High negative correlation      |
+| –0.90 to –1.00 | Very high negative correlation |
+
+### Formula of Karl Pearson’s Correlation Coefficient
+
+For two variables X and Y:
+
+$$
+r = \frac{\sum (X - \bar{X})(Y - \bar{Y})}{\sqrt{\sum (X - \bar{X})^2 \sum (Y - \bar{Y})^2}}
+$$
+
+Or,
+
+$$
+r = \frac{n\sum XY - (\sum X)(\sum Y)}{\sqrt{$$n\sum X^2 - (\sum X)^2$$$$n\sum Y^2 - (\sum Y)^2$$}}
+$$
+
+---
+
+## Significance of Correlation Coefficient
+
+The value of **r** is tested to determine whether the observed relationship is **statistically significant** or not.
+
+### Significance Testing
+
+* Usually tested using the **t-test**.
+
+$$
+t = \frac{r\sqrt{n - 2}}{\sqrt{1 - r^2}}
+$$
+
+* Degrees of freedom = n – 2
+* If calculated t &gt; table value of t,
+  → Correlation is **significant**.
+
+### Importance
+
+* Helps in **prediction** (regression).
+* Measures **strength of association**.
+* Useful in **economics, biology, health sciences, psychology**, etc.
+* Detects **relationships** that help decision making.
+
+---
+
+## Scatter Diagram
+
+Scatter diagram (or scatter plot) is the **simplest graphical method** to study correlation between two variables.
+
+### How to Draw
+
+* Take **X-values on horizontal axis**.
+* Take **Y-values on vertical axis**.
+* Plot each pair of values as a point.
+
+### Interpretation
+
+Scatter diagrams reveal the **pattern** of relationship:
+
+1. **Upward-sloping pattern** → Positive correlation
+2. **Downward-sloping pattern** → Negative correlation
+3. **No clear pattern** → Zero correlation
+4. **Points tightly clustered** → Strong correlation
+5. **Points widely scattered** → Weak correlation
+
+---
+
+## Diagrammatic Representation (ASCII Form)
+
+### Positive Correlation
+
+```
+   *
+     *
+       *
+         *
+           *
+```
+
+### Negative Correlation
+
+```
+*
+  *
+    *
+      *
+        *
+```
+
+### No Correlation
+
+```
+*   *     *
+     *  *
+  *     *    *
+```
+
+---
+
+If you want, I can also create:
+
+* Article on **Regression**,
+* **Difference between correlation and regression**,
+* **Rank correlation (Spearman’s)**,
+* **Detailed numerical examples** for r.
+</md></sn>
   <config>
     <tags>#temp</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Nov 26 2025 09:26:34 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Nov 26 2025 09:30:58 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-B8koo0jVq7</id>
     <duration></duration>
   </config>
