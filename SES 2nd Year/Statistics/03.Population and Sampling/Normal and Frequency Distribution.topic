@@ -1,10 +1,23 @@
 
-  <sn></sn>
+  <sn><md>### Normal Distribution vs Frequency Distribution
+
+| Basis of Difference  | Normal Distribution                                                                   | Frequency Distribution                                                |
+| -------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Definition**       | A theoretical probability distribution that is perfectly symmetrical and bell-shaped. | A table or graph showing how often each value occurs in a dataset.    |
+| **Example**          | Heights, IQ scores, measurement errors, etc.                                          | A table showing number of students scoring 0–10, 11–20, etc.          |
+| **Nature**           | Theoretical, continuous distribution.                                                 | Empirical, based on observed data.                                    |
+| **Shape**            | Always bell-shaped and symmetric about the mean.                                      | Shape depends on the dataset; may be skewed, symmetric, uniform, etc. |
+| **Parameters**       | Defined by mean (μ) and standard deviation (σ).                                       | No fixed parameters; depends on raw data.                             |
+| **Data Type**        | Continuous data.                                                                      | Can handle individual, discrete, continuous data.                     |
+| **Use**              | Used for probability estimation, statistical inference, hypothesis testing.           | Used to summarize and organize raw data.                              |
+| **Graphical Form**   | Bell curve (Gaussian curve).                                                          | Histogram, bar chart, frequency polygon, ogive.                       |
+| **Source**           | Based on probability theory.                                                          | Based on real-life observations or sample data.                       |
+| **Central Tendency** | Mean = Median = Mode.                                                                 | Mean, median, and mode may differ depending on data behavior.         |</md></sn>
   <config>
     <tags>#normal and frequency distribution</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Nov 26 2025 09:13:42 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Nov 26 2025 09:20:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-w7Um22wMhw</id>
     <duration></duration>
   </config>
