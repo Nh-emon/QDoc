@@ -1,10 +1,125 @@
 
-  <sn></sn>
+  <sn><md>### Clay
+
+:::.row
+:::.col-12 .col-md-6
+&gt; Clay refers to `very fine-grained` natural earth materials composed mainly of `clay minerals` (crystalline hydrous alumino-silicates) and particles `smaller than 2 micrometers`.
+
+It becomes plastic when wet and hardens on drying or firing.Clay is both a <br>**size term** (particle &lt; 2 µm) and <br>a **mineralogical term** (clay minerals such as kaolinite, illite, smectite).
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://w7.pngwing.com/pngs/589/560/png-transparent-igneous-rock-mineral-geology-clay-rock-texture-cargo-rock-thumbnail.png)
+:::
+:::
+
+
+</md></sn>
   <config>
     <tags>#01.general properties of clay minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Dec 01 2025 01:48:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Dec 01 2025 02:40:09 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Jv0GC4uYtt</id>
     <duration></duration>
   </config>
+<sn><md>### Type of Mineral Group
+
+Clay minerals belong to the `silicate group`, specifically the ++phyllosilicates++, because they have layered `tetrahedral–octahedral sheet` structures.
+</md></sn><sn><md>#### Clay: Primary or Secondary?
+
+Clay minerals are `secondary minerals`.<br>
+They form through:
+
+* Chemical weathering
+* Hydrothermal alteration
+* Diagenesis
+
+&gt; Only in `volcanic conditions` can some ++amorphous++ clay-like materials form primarily.
+</md></sn><sn><md>#### Parent Minerals of Clay
+
+Clay minerals originate mainly from the breakdown of:
+
+* `Feldspar` → Kaolinite, illite, smectite
+* **Mica (biotite, muscovite)** → Illite, vermiculite
+* **Ferromagnesian minerals** → Smectite, chlorite
+* **Volcanic glass** → Allophane, imogolite, later smectite
+</md></sn><sn><md>### Parent Rock of Clay
+
+Clay forms mainly from the `weathering and alteration of rocks` rich in ++feldspar and mica++. The major parent rocks are:
+
+* **Igneous rocks:** Granite, syenite, diorite
+* **Metamorphic rocks:** Gneiss, schist
+* **Sedimentary rocks:** Shale, mudstone, sandstone (when re-weathered)
+
+Igneous rocks are the most common source.
+</md></sn><sn><md>### Summary
+
+| Aspect          | Description                                             |
+| --------------- | ------------------------------------------------------- |
+| Definition      | Fine-grained material (&lt;2 µm) composed of clay minerals |
+| Parent Rocks    | Mainly igneous; also metamorphic and sedimentary        |
+| Parent Minerals | Feldspar, mica, ferromagnesian minerals, volcanic glass |
+| Mineral Type    | Silicate (phyllosilicate)                               |
+| Nature          | Mostly secondary minerals                               |
+</md></sn><sn><md>### General Properties of Clay Minerals
+
+Clay minerals are extremely `fine-grained`, layered silicate minerals that strongly `influence the physical and chemical behavior` of soils. Their special properties come from their ++small particle size++, ++large surface area++, and ++charged crystal surfaces++.
+
+</md></sn><sn><md>##### Particle Size
+Clay minerals have particle sizes `smaller than 2 micrometers`. Because of this extremely fine size, they `stay suspended in water` for a long time, `settle slowly`, and show `colloidal behavior`.
+
+##### Surface Area
+They have `very high specific surface area`. <br>
+`Kaolinite` has ++low surface area++, <br>
+`illite` has ++moderate++, and <br>
+`smectite` has ++extremely high surface area++. 
+
+This increases `water retention`, `adsorption`, and `chemical reactivity`.
+
+
+##### Layered Crystal Structure
+Clay minerals are `phyllosilicates`, meaning they consist of `stacked layers` of ++tetrahedral (silica)++ and ++octahedral (alumina or magnesia)++ sheets. The `arrangement` of these sheets determines the `type of clay`, such as <br>
+kaolinite (1:1) or <br>
+smectite/illite (2:1).
+
+##### Surface Charge and Cation Exchange Capacity
+Clay minerals carry a `negative charge` due to isomorphic substitution and broken edges. This gives them the ability to attract and exchange cations.Smectites  have the highest cation-exchange capacity, illite moderate, and kaolinite low.
+
+&gt; **CEC** : Smectites &gt; illite &gt; Kaolinite
+
+##### Water Adsorption and Retention
+Clay minerals `retain water` on their surfaces and between layers. This water may be tightly held or loosely attached. Their water retention ability `affects soil moisture, swelling, and shrinkage`.
+
+##### Plasticity
+When `mixed with water`, clay minerals `become plastic`. They can be `molded or shaped` and hold their form when dry. 
+<br>`Smectite` clays show ++high plasticity++,<br>
+while `kaolinite` has ++low plasticity++.
+
+##### Swelling and Shrinkage
+Some clay minerals, especially `smectites`, can `absorb water between their layers`, leading to ++swelling when wet++ and ++shrinkage when dry++. Kaolinite, with more rigid layers, shows little to no swelling.
+
+##### Cohesion
+Clay particles are `cohesive due to electrostatic forces` and water films around them. This gives clay soils strength and makes them stick together, even when wet.
+
+##### Chemical Reactivity
+Clay minerals can `adsorb nutrients, organic molecules, and pollutants` due to their surface charge and large surface area. They participate in nutrient cycling, buffering reactions, and contaminant retention.
+
+##### Color
+`Pure` clay minerals are `usually light-colored`. However, `natural` clays may appear ++red, yellow, brown, or gray++ depending on the presence of iron oxides, organic matter, or other impurities.
+</md></sn><sn><md>### Summary
+
+| Property                 | Description                                                    |
+| ------------------------ | -------------------------------------------------------------- |
+| Particle Size            | Very fine (&lt; 2 µm); shows colloidal behavior                   |
+| Structure                | Layered phyllosilicate sheets (1:1 or 2:1 types)               |
+| Surface Area             | High; highest in smectite, lowest in kaolinite                 |
+| Surface Charge           | Negative charge from substitution and broken edges             |
+| Cation Exchange Capacity | High in smectite, moderate in illite, low in kaolinite         |
+| Water Retention          | Strong water adsorption on surfaces and interlayers            |
+| Plasticity               | Becomes moldable when wet; varies by clay type                 |
+| Swelling–Shrinkage       | High in smectite, minimal in kaolinite                         |
+| Cohesion                 | Strong particle attraction due to electrostatic forces         |
+| Chemical Reactivity      | Adsorbs nutrients, pollutants; highly reactive                 |
+| Color                    | Usually light but varies with impurities (Fe oxides, organics) |
+</md></sn>
