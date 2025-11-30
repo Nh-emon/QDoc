@@ -1,10 +1,113 @@
 
-  <sn></sn>
+  <sn><md>### Silicate and Non-Silicate Minerals
+
+Minerals are naturally occurring inorganic substances with a definite chemical composition and internal crystalline structure. They are broadly grouped into **silicate** and **non-silicate** minerals based on their chemical composition.
+</md></sn>
   <config>
     <tags>#06.silicate and non silicate minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 11:43:30 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 12:23:21 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-DrcSTCrXtE</id>
     <duration></duration>
   </config>
+<sn><md>### Silicate Minerals
+
+:::.row
+:::.col-12 .col-md-6
+Silicate minerals are the **largest and most abundant group** of minerals on Earth. They are built around the **silicon–oxygen tetrahedron (SiO₄)**, a four-sided structure that forms the basic building block of all silicates.
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Orthosilicate-2D-dimensions.png/250px-Orthosilicate-2D-dimensions.png)
+:::
+:::
+
+#### General Characteristics of Silicate Minerals
+* Contain **silicon (Si)** and **oxygen (O)**.
+* Structure based on **SiO₄ tetrahedra**, which may exist as single units or linked in chains, sheets, or 3D frameworks.
+* Usually **light-colored** and less dense.
+* Highly resistant to weathering depending on the structure.
+* Form the bulk of Earth’s **crust and mantle**.
+</md></sn><sn><md>### Major Silicate Groups
+
+![diagram](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170919094839570-0492:9781316661888:fig2_1.png?pub-status=live)
+
+:::.row
+:::.col-12 .col-md-6
+#### Nesosilicates{.text-center}
+Independent Tetrahedra<br>
+Tetrahedra do not link; remain isolated.<br>
+Examples: **Olivine, Garnet**
+:::
+
+:::.col-12 .col-md-6
+#### Sorosilicates{.text-center}
+Double Tetrahedra<br>
+Two tetrahedra share one oxygen atom.<br>
+Example: **Epidote**
+:::
+
+
+:::.col-12 .col-md-6
+#### Cyclosilicates
+Ring Silicates<br>
+Tetrahedra link into rings of 3, 4, or 6 units.<br>
+Examples: **Beryl, Tourmaline**
+:::
+
+:::.col-12 .col-md-6
+#### Inosilicates{.text-center}
+Chain Silicates<br>
+* **Single-chain**: Pyroxene group
+* **Double-chain**: Amphibole group
+:::
+
+:::.col-12 .col-md-6
+#### Phyllosilicates
+Sheet Silicates<br>
+Tetrahedra form sheets with perfect basal cleavage.<br>
+Examples: **Mica, Talc, Chlorite, Clay minerals**
+:::
+
+:::.col-12 .col-md-6
+#### Tectosilicates
+Framework Silicates<br>
+Three-dimensional structures; most abundant silicates.<br>
+Examples: **Quartz, Feldspar, Zeolite**
+:::
+:::
+</md></sn><sn><md>### Non-Silicate Minerals
+
+Non-silicate minerals `do not contain SiO₄ tetrahedra`. They make up a smaller but diverse group with important economic and industrial applications.
+
+#### General Characteristics of Non-Silicates
+
+* Absence of silicon–oxygen tetrahedra.
+* Usually **denser** and may show metallic luster.
+* Many are economically valuable **ores of metals**.
+* Form in sedimentary, metamorphic, and hydrothermal environments.
+</md></sn><sn><md>### Major Non-Silicate Groups
+
+| Group               | Key Composition | Description                       | Examples                       |
+| ------------------- | --------------- | --------------------------------- | ------------------------------ |
+| **Carbonates**      | CO₃²⁻           | Minerals containing carbonate ion | Calcite, Dolomite              |
+| **Oxides**          | O²⁻ + Metals    | Oxygen bonded with metallic ions  | Hematite, Magnetite            |
+| **Sulfates**        | SO₄²⁻           | Minerals containing sulfate ion   | Gypsum, Anhydrite              |
+| **Sulfides**        | S²⁻ + Metals    | Sulfur bonded with metals         | Pyrite, Galena, Chalcopyrite   |
+| **Halides**         | Cl⁻, F⁻, Br⁻    | Minerals containing halogen ions  | Halite, Fluorite               |
+| **Phosphates**      | PO₄³⁻           | Minerals containing phosphate ion | Apatite                        |
+| **Native Elements** | Single Element  | Pure elemental minerals           | Gold, Silver, Copper, Graphite |
+</md></sn><sn><md>#### Key Differences Between Silicate and Non-Silicate Minerals
+
+| Feature          | Silicate Minerals          | Non-Silicate Minerals            |
+| ---------------- | -------------------------- | -------------------------------- |
+| Main Composition | SiO₄ tetrahedra            | No SiO₄ tetrahedra               |
+| Abundance        | ~90% of Earth’s crust      | ~10% of Earth’s crust            |
+| Structure        | Chains, sheets, frameworks | Simple ionic/covalent structures |
+| Color            | Often light                | Often dark/metallic              |
+| Economic Value   | Common rock-formers        | Major metal ores                 |
+</md></sn><sn><md>### Summary
+
+Silicate minerals dominate Earth’s crust due to the abundance of silicon and oxygen, forming complex structures. Non-silicate minerals, though less abundant, include many important industrial and metallic ore minerals. Both play crucial roles in geology, Earth processes, and human industry.
+</md></sn>
