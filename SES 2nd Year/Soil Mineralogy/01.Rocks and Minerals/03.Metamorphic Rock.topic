@@ -1,10 +1,143 @@
 
-  <sn></sn>
+  <sn><md>### Metamorphic Rocks
+
+:::.row
+:::.col-12 .col-md-6
+Metamorphic rocks are rocks that have changed from their original form (igneous, sedimentary, or even older metamorphic rocks) due to **heat**, **pressure**, and **chemical activity** inside the Earth. This transformation occurs without melting, but minerals recrystallize and textures change, forming a new rock type.
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://www.sciencefacts.net/wp-content/uploads/2021/11/How-are-Metamorphic-Rocks-Formed.jpg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#03.metamorphic rock</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 09:59:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 10:31:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-B0BxiyomXZ</id>
     <duration></duration>
   </config>
+<sn><md>### Formation Process
+
+Metamorphism occurs when existing rocks are subjected to conditions different from those in which they originally formed.
+
+#### Heat
+
+* Increases mineral mobility
+* Causes recrystallization
+* Comes from magma bodies or deep burial
+
+#### Pressure
+
+* Two types:
+
+  * **Lithostatic pressure** → uniform pressure from overlying rocks
+  * **Directed pressure** → unequal pressure (responsible for foliation)
+
+####  Chemically Active Fluids
+
+* Fluids like water vapor and CO₂ move through rocks
+* Promote mineral changes and recrystallization
+
+Metamorphic `change happens in solid state`; the rock does not melt.
+</md></sn><sn><md>### Facts
+
+* The original rock (called **protolith**) strongly controls what the metamorphic rock becomes.
+Example: Shale → Slate → Schist → Gneiss
+* High heat and pressure destroy fossils.
+* Presence or absence of foliation separates major metamorphic rock types.
+* Metamorphic rocks are usually harder and more compact than their parent rocks.
+* They commonly form in convergent plate boundaries and deep crustal levels.
+</md></sn><sn><md>### Types of Metamorphism
+
+##### Contact Metamorphism{.text-center}
+* Heat from nearby magma alters rocks
+* Occurs over small areas
+* Produces **non-foliated** rocks
+  Example: Marble, Quartzite
+
+##### Regional Metamorphism{.text-center}
+* Caused by large-scale tectonic forces
+* Produces **foliated** rocks
+* Common in mountain building
+  Example: Slate, Schist, Gneiss
+
+##### Dynamic Metamorphism{.text-center}
+* Occurs along fault zones
+* Rocks crushed and deformed
+  Example: Mylonite
+</md></sn><sn><md>### Based on Texture
+
+:::.row
+:::.col-12 .col-md-6
+#### Foliated{.text-center}
+
+Show layered or banded appearance due to directed pressure.
+
+Characteristics:
+
+* Alignment of minerals
+* Visible banding in high-grade rocks
+
+Examples:
+
+* Slate
+* Phyllite
+* Schist
+* Gneiss
+:::
+
+:::.col-12 .col-md-6
+#### Non-Foliater{.text-center}
+
+Do not show any layering or banding.
+
+Characteristics:
+
+* Uniform crystal structure
+* Form mainly by heat or chemical fluids
+
+Examples:
+
+* Marble
+* Quartzite
+* Hornfels
+:::
+:::
+</md></sn><sn><md>### Metamorphic Grades
+
+Grade refers to intensity of metamorphism.
+
+| Grade            | Characteristics                          | Example |
+| ---------------- | ---------------------------------------- | ------- |
+| **Low-grade**    | Slight changes; fine crystals            | Slate   |
+| **Medium-grade** | More recrystallization; visible minerals | Schist  |
+| **High-grade**   | Strong banding; coarse minerals          | Gneiss  |
+</md></sn><sn><md>### Economic Importance of Metamorphic Rocks
+
+* Marble → tiles, statues, flooring
+* Slate → roofing, chalkboards
+* Quartzite → glass production
+* Graphite (from metamorphism of coal) → pencils, lubricants
+* Gneiss and marble are widely used for decorative architecture.
+* Metamorphism concentrates minerals like:
+  * Garnet
+  * Talc
+  * Mica
+  * Asbestos
+</md></sn><sn><md>### Examples of Common Metamorphic Rocks
+
+| Rock Name | Texture      | Parent Rock   | Type                   |
+| --------- | ------------ | ------------- | ---------------------- |
+| Slate     | Foliated     | Shale         | Low-grade metamorphism |
+| Schist    | Foliated     | Shale/Basalt  | Medium-grade           |
+| Gneiss    | Foliated     | Granite/Shale | High-grade             |
+| Marble    | Non-foliated | Limestone     | Contact metamorphism   |
+| Quartzite | Non-foliated | Sandstone     | Contact/Regional       |
+| Hornfels  | Non-foliated | Various rocks | Contact metamorphism   |
+</md></sn><sn><md>### Conclusion
+
+Metamorphic rocks form when existing rocks undergo transformation due to heat, pressure, and chemical fluids. They are stronger, more compact, and have unique textures that reveal the conditions under which they formed. Their economic value, structural strength, and geological importance make them essential for understanding Earth’s crustal processes and history.
+</md></sn>
