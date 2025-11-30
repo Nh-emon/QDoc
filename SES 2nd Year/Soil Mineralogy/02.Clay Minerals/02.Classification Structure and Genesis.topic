@@ -1,10 +1,57 @@
 
-  <sn></sn>
+  <sn><md>### Classification Based on Mineral Group
+
+![diagram](https://www.geological-digressions.com/wp-content/uploads/2025/11/clay-layer-structures-1024x463.jpg)
+
+:::.row
+:::.col-12 .col-md-6
+**Kaolinite Group**<br>
+1:1 clay <br>
+Includes kaolinite, halloysite.<br>
+Low swelling, low plasticity, low CEC.
+:::
+
+:::.col-12 .col-md-6
+**Illite Group**<br>
+2:1 non-expanding clay<br>
+Moderate plasticity, moderate CEC, limited swelling.
+:::
+
+:::.col-12 .col-md-6
+**Smectite Group**<br>
+2:1 expanding clay
+Includes montmorillonite, bentonite.<br>
+Very high swelling, high plasticity, very high CEC.
+:::
+
+:::.col-12 .col-md-6
+**Chlorite Group**<br>
+More complex layers with Mg-bearing sheets.<br>
+Low to moderate swelling, moderate CEC.
+:::
+:::
+
++++ more
+
+#### Classification Based on Swelling Behavior
+
+* **Non-swelling clays:** Kaolinite, Illite, Chlorite
+* **Swelling clays:** Smectite, Bentonite, Vermiculite
+
+#### Classification Based on Origin (Formation)
+
+* **Residual clay:** Formed in place by weathering of parent rock (kaolin deposits).
+* **Transported clay:** Carried and deposited by water, wind, or ice (alluvial and lacustrine clays).
+* **Marine clay:** Formed in seawater environments, often rich in organic matter.
+* **Volcanic clay:** Formed from alteration of volcanic ash (allophane, imogolite).
+
++++</md></sn>
   <config>
     <tags>#02.classification structure and genesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Dec 01 2025 03:46:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Dec 01 2025 05:58:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-CW4aeKEWAv</id>
     <duration></duration>
   </config>
+<sn></sn>
