@@ -1,10 +1,83 @@
 
-  <sn></sn>
+  <sn><md>### Minerals
+
+Minerals are `naturally occurring`, `inorganic`, `crystalline` substances with a `definite chemical composition` and `distinct physical properties`. They form the basic `building blocks of rocks` and are essential to understanding Earth’s structure, composition, and geological processes.</md></sn>
   <config>
     <tags>#04.minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 10:41:54 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 11:06:56 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-7OJHGpu7wO</id>
     <duration></duration>
   </config>
+<sn><md>### Characteristics
+
+A **mineral** is defined by the following characteristics:
+
+* **Naturally Occurring:** Formed through natural geological processes without human intervention.
+* **Inorganic :** Not produced by living organisms (excluding a few exceptions like calcite in shells).
+* **Solid State** Exists as a solid under normal Earth surface conditions.
+* **Definite Chemical Composition :** Each mineral has a specific chemical formula or a narrow range of compositions.
+Example:<br>
+    *Quartz — SiO₂*<br>
+    *Halite — NaCl*
+* **Crystalline Structure** : Atoms are arranged in a specific, orderly, repeating pattern.</md></sn><sn><md>### Formation of Minerals
+
+**Crystallization from Magma or Lava** <br>
+Minerals form as molten rock cools.<br>
+Example: **Quartz**, **Feldspar**
+
+**Precipitation from Solutions**<br>
+Minerals form when water evaporates or chemical conditions change.<br>
+Example: **Halite**, **Gypsum**
+
+**Changes Due to Pressure and Temperature :**<br>
+Metamorphic processes create new minerals.<br>
+Example: **Garnet**, **Mica**
+
+**Biological Processes**<br>
+Organisms may contribute to mineral formation.<br>
+Example: **Calcite** in shells
+</md></sn><sn><md>### Physical Properties of Minerals
+
+| Property                       | Description                                                                                   |
+| ------------------------------ | --------------------------------------------------------------------------------------------- |
+| **Color**                      | The most visible property, but may vary due to impurities.                                    |
+| **Streak**                     | Color of the mineral’s powdered form; more reliable than surface color.                       |
+| **Luster**                     | How light reflects from the mineral surface. Types include Metallic, Vitreous, Pearly, Silky. |
+| **Hardness**                   | Resistance to scratching; measured using the Mohs Hardness Scale (1–10).                      |
+| **Cleavage and Fracture**      | **Cleavage:** Breaks along smooth, flat planes. **Fracture:** Irregular or uneven breakage.   |
+| **Density / Specific Gravity** | Mass per unit volume; helpful for identifying heavy minerals.                                 |
+| **Crystal Form**               | The external geometric shape reflecting internal atomic arrangement.                          |
+</md></sn><sn><md>### Chemical Classification of Minerals
+
+| Mineral Group       | Chemical Basis                                 | Examples                        |
+| ------------------- | ---------------------------------------------- | ------------------------------- |
+| **Silicates**       | Contain SiO₄ tetrahedra; largest mineral group | Quartz, Feldspar, Mica, Olivine |
+| **Carbonates**      | Contain CO₃²⁻                                  | Calcite, Dolomite               |
+| **Oxides**          | Oxygen bonded with metals                      | Hematite, Magnetite             |
+| **Sulfates**        | Contain SO₄²⁻                                  | Gypsum                          |
+| **Sulfides**        | Metals bonded with sulfur                      | Pyrite, Galena                  |
+| **Halides**         | Contain halogen elements                       | Halite, Fluorite                |
+| **Native Elements** | Single-element minerals                        | Gold, Silver, Copper            |
+</md></sn><sn><md>### Importance of Minerals
+
+* Metals, cement, glass, ceramics, and electronics rely on minerals.
+* Mineral deposits (ores) are essential for mining industries.
+* Minerals improve soil fertility (e.g., phosphates).
+* Reveal Earth's processes — formation of rocks, tectonics, environmental conditions.
+* Used in salt, toothpaste, jewelry, construction materials, mobile phones.
+</md></sn><sn><md>### Examples of Common Minerals
+
+| Mineral  | Chemical Formula     | Key Properties                  | Uses               |
+| -------- | -------------------- | ------------------------------- | ------------------ |
+| Quartz   | SiO₂                 | Hardness 7, glassy              | Glass, electronics |
+| Feldspar | KAlSi₃O₈ / NaAlSi₃O₈ | Hardness 6, common rock-forming | Ceramics, glass    |
+| Calcite  | CaCO₃                | Effervesces with acid           | Cement, lime       |
+| Gypsum   | CaSO₄·2H₂O           | Soft (Hardness 2)               | Plaster, drywall   |
+| Halite   | NaCl                 | Salty taste, cubic              | Table salt         |
+| Hematite | Fe₂O₃                | Reddish streak                  | Iron ore           |
+</md></sn><sn><md>### Summary
+
+Minerals are the fundamental inorganic components of Earth, formed through natural processes and defined by their specific composition and crystal structure. Their identification involves studying physical and chemical properties, while their classification reveals their chemical nature. Minerals are vital in industry, agriculture, construction, and scientific research, making them essential to both natural systems and human life.
+</md></sn>
