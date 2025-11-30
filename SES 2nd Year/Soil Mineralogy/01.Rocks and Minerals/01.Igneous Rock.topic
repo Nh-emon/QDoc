@@ -1,10 +1,100 @@
 
-  <sn></sn>
+  <sn><md>### Igneous Rocks
+
+:::.row
+:::.col-12 .col-md-6
+Igneous rocks are rocks formed by the `cooling and solidification` of molten material known as `magma` (inside Earth) or `lava` (on Earth’s surface). They represent the primary rocks of Earth’s crust and serve as the `origin for sedimentary and metamorphic rocks`.
+:::
+:::.col-12 .col-md-6
+![diagram](https://upload.wikimedia.org/wikipedia/commons/c/c4/Igneous_rock_eng_modified.jpg)
+:::
+:::
+
+</md></sn>
   <config>
     <tags>#01.igneous rock</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 08:00:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 09:10:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Jz8Cn5QpSp</id>
     <duration></duration>
   </config>
+<sn><md>### Formation Process
+
+1. **Magma Generation:** Occurs deep within Earth due to `high temperature, pressure, and mantle processes` causes partial metling of exisiting rocks.
+2. **Cooling and Solidification:**
+   * `Slow` cooling **inside Earth** forms `coarse`-grained rocks.
+   * `Rapid` cooling **on the surface** forms `fine`-grained or glassy rocks.
+3. **Crystallization:** Minerals crystallize at different temperatures, giving unique textures.
+</md></sn><sn><md>### Facts
+
+* Nearly all `continental and oceanic crust` originally formed from igneous processes.
+* Common minerals include `quartz, feldspar, micas, amphiboles, pyroxenes, and olivine`.
+* Texture depends entirely on `cooling rate`, not composition.
+* Large crystals → slow cooling (intrusive).
+* Small or no crystals → rapid cooling (extrusive).
+* Igneous rocks `never contain fossils` because high temperature destroys organic remains.
+* Widely used as building stones due to hardness and resistance to weathering.</md></sn><sn><md>#### Based on Mode of Formation
+
+:::.row
+:::.col-12 .col-md-6
+#### Intrusive {.text-center}
+Plutonic or Continental <br>
+Form inside the Earth from `slow cooling magma`.<br>
+Characteristics:
+* Large, visible crystals
+* Coarse-grained texture
+
+Examples: `Granite`, Diorite, Gabbro
+:::
+
+:::.col-12 .col-md-6
+#### Extrusive{.text-center}
+Volacanic  or Oceanic<br>
+Form on the surface from `rapid cooling lava`.<br>
+Characteristics:
+* Fine-grained or glassy texture
+* Small crystals
+
+Examples: `Basalt`, Rhyolite, Andesite, Obsidian, Pumice
+:::
+:::
+</md></sn><sn><md>### Based on Chemical Composition
+
+| Category            | Silica Content    | Color         | Density   | Key Characteristics                                      | Examples          |
+| ------------------- | ----------------- | ------------- | --------- | -------------------------------------------------------- | ----------------- |
+| **Felsic (Acidic)** | High (65%+)       | Light-colored | Low       | Rich in quartz &amp; feldspar                                | Granite, Rhyolite |
+| **Intermediate**    | Moderate (55–65%) | Medium color  | Moderate  | Balanced mix of light &amp; dark minerals                    | Diorite, Andesite |
+| **Mafic (Basic)**   | Low (45–55%)      | Dark-colored  | High      | Rich in iron, magnesium; heavy minerals                  | Gabbro, Basalt    |
+| **Ultramafic**      | Very low (&lt;45%)   | Very dark     | Very high | Very rich in iron &amp; magnesium; almost no silica minerals | Peridotite        |
+</md></sn><sn><md>### Based on Texture
+
+| Texture Type                    | Crystal Size            | Cooling Rate                     | Key Characteristics                              | Examples             |
+| ------------------------------- | ----------------------- | -------------------------------- | ------------------------------------------------ | -------------------- |
+| **Coarse-Grained (Phaneritic)** | Large, visible crystals | Slow cooling                     | Forms deep inside Earth; well-developed minerals | Granite              |
+| **Fine-Grained (Aphanitic)**    | Microscopic crystals    | Rapid cooling                    | Forms on surface; smooth, fine texture           | Basalt               |
+| **Glassy**                      | No crystals             | Extremely rapid cooling          | Lava cools too fast for crystals to form         | Obsidian             |
+| **Vesicular**                   | Contains pores/holes    | Rapid cooling with trapped gases | Gas bubbles preserved in the rock                | Pumice, Scoria       |
+| **Porphyritic**                 | Mixed crystal sizes     | Two-stage cooling                | Large phenocrysts embedded in fine matrix        | Porphyritic Andesite |
+</md></sn><sn><md>### Examples of Common Igneous Rocks
+
+| Rock Name | Texture        | Composition  | Formation Type |
+| --------- | -------------- | ------------ | -------------- |
+| Granite   | Coarse-grained | Felsic       | Intrusive      |
+| Basalt    | Fine-grained   | Mafic        | Extrusive      |
+| Diorite   | Coarse-grained | Intermediate | Intrusive      |
+| Rhyolite  | Fine-grained   | Felsic       | Extrusive      |
+| Obsidian  | Glassy         | Felsic       | Extrusive      |
+| Gabbro    | Coarse-grained | Mafic        | Intrusive      |
+</md></sn><sn><md>#### Conclusion
+
+Igneous rocks are the foundation of the Earth’s crust, formed through the cooling of magma or lava. Their classification depends on composition, texture, and place of formation. They play a crucial role in geology, mineral resources, and construction industries. Understanding igneous rocks helps explain Earth’s internal processes and the origin of many landscapes.
+
++++ Economic Importance of Igneous Rocks
+* **Granite** – building stone, monuments, tiles
+* **Basalt** – road metal, railway ballast
+* **Pumice** – polishing, lightweight concrete
+* **Peridotite** – source of diamonds
+* **Pegmatite** – rare minerals (mica, tourmaline)
++++
+</md></sn>
