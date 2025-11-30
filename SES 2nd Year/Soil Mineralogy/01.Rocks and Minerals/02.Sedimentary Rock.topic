@@ -1,10 +1,136 @@
 
-  <sn></sn>
+  <sn><md>### Sedimentary Rocks
+
+:::.row
+:::.col-12 .col-md-6
+Sedimentary rocks are rocks formed from the `accumulation, compaction, and cementation` of sediments, or from the precipitation of minerals from water. They cover about **75% of Earth’s surface** and often contain fossils, making them crucial for studying Earth’s history.
+:::
+:::.col-12 .col-md-6
+![diagram](https://t4.ftcdn.net/jpg/14/88/42/59/360_F_1488425945_02aN7WVIU14e6lxqhei5RB47CqZkHcFy.jpg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#02.sedimentary rock</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 09:10:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 09:55:29 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-1nqgx0U9mT</id>
     <duration></duration>
   </config>
+<sn><md>### Formation Process
+
+1. **Weathering:** Rocks are broken down into small particles by physical, chemical, or biological processes.
+2. **Erosion and Transport:** Sediments are carried by wind, water, ice, or gravity.
+3. **Deposition:** Sediments settle when the transporting medium loses energy.
+4. **Compaction:** Layers of sediments press down on each other, squeezing out water and reducing space between grains.
+5. **Cementation:** Minerals precipitate from groundwater and glue the particles together, forming solid rock.
+</md></sn><sn><md>### Key Facts
+
+* Even though they form a thin layer, they `dominate the surface landscape`.
+* Sedimentary rocks are the **only** rock type that commonly `holds fossils`.
+* Coal, petroleum, natural gas, and groundwater are mainly found in sedimentary formations.
+* They commonly show `stratification` (layers), a major identification feature.
+* They may form from `fragments of other` rocks, biological remains, or chemical precipitation.
+</md></sn><sn><md>### Classification of Sedimentary Rocks
+
+:::.row
+:::.col-12 .col-md-4
+#### Clastic{.text-center}
+Formed from `fragments of existing rocks`.<br>
+Characteristics:
+* Grains may be coarse, medium, or fine
+* Show clear layering
+* Transport history influences grain size
+
+Examples: Conglomerate, Breccia, `Sandstone, Shale`
+:::
+
+:::.col-12 .col-md-4
+#### Chemical{.text-center}
+Formed by the `precipitation of minerals from water` (evaporation or chemical processes).<br>
+Characteristics:
+* Crystalline texture
+* Often formed in lakes, seas, hot springs
+
+Examples: `Limestone` (chemical), Rock Salt, Gypsum, Chert
+:::
+
+:::.col-12 .col-md-4
+#### Organic{.text-center}
+Formed from the accumulation of `plant or animal remains`.<br>
+Characteristics:
+* Often `contain fossils`
+* Form in swamps, shallow seas, and reefs
+
+Examples: Coal, Chalk, Fossiliferous Limestone
+:::
+:::
+</md></sn><sn><md>### Classification Based on Texture
+
+:::.row
+:::.col-12 .col-md-6
+#### Clastic Texture{.text-center}
+* Visible fragments
+* Cemented grains
+* Shows sediment layering
+
+Example: Sandstone, Shale
+:::
+
+:::.col-12 .col-md-6
+#### Crystalline Texture{.text-center}
+* Appears like interlocking crystals
+* Formed by precipitation
+
+Example: Rock Salt, Gypsum
+:::
+
+:::.col-12 .col-md-6
+#### Bioclastic Texture{.text-center}
+* Contains shell fragments, fossils
+* Formed from biological debris
+
+Example: Fossiliferous Limestone
+:::
+:::
+</md></sn><sn><md><pre class="d-none data">+++ Economic Importance of Sedimentary Rocks
+* Sandstone, limestone, and shale are widely used.
+* **Coal** – energy
+* **Petroleum &amp; Natural Gas** – trapped in sedimentary basins
+* **Groundwater** – stored in sandstone aquifers
+* Limestone is the primary raw material.
+* Rock salt and gypsum used in manufacturing.
++++
+</pre><temp><dl>
+<ul>
+<li>Sandstone, limestone, and shale are widely used.</li>
+<li><strong>Coal</strong> – energy</li>
+<li><strong>Petroleum &amp; Natural Gas</strong> – trapped in sedimentary basins</li>
+<li><strong>Groundwater</strong> – stored in sandstone aquifers</li>
+<li>Limestone is the primary raw material.</li>
+<li>Rock salt and gypsum used in manufacturing.</li>
+</ul>
+</dl>
+</temp>++ Economic Importance of Sedimentary Rocks
+* Sandstone, limestone, and shale are widely used.
+* **Coal** – energy
+* **Petroleum &amp; Natural Gas** – trapped in sedimentary basins
+* **Groundwater** – stored in sandstone aquifers
+* Limestone is the primary raw material.
+* Rock salt and gypsum used in manufacturing.
++++
+</md></sn><sn><md>### Examples of Common Sedimentary Rocks
+
+| Rock Name    | Type                 | Texture                | Formation Environment  |
+| ------------ | -------------------- | ---------------------- | ---------------------- |
+| Conglomerate | Clastic              | Coarse-grained         | Rivers, alluvial fans  |
+| Sandstone    | Clastic              | Medium-grained         | Beaches, deserts       |
+| Shale        | Clastic              | Fine-grained           | Deep ocean, lakes      |
+| Limestone    | Chemical/Biochemical | Crystalline/Bioclastic | Marine environments    |
+| Coal         | Organic              | Bioclastic             | Swamps                 |
+| Rock Salt    | Chemical             | Crystalline            | Evaporating lakes/seas |
+</md></sn><sn><md>### Conclusion
+
+Sedimentary rocks form through the processes of weathering, transport, deposition, compaction, and cementation. They are rich in fossils, economically valuable, and cover most of Earth’s surface. Their variety in texture and composition provides essential clues about Earth’s past environments, climate, and biological evolution.
+</md></sn>
