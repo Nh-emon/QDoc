@@ -1,10 +1,84 @@
 
-  <sn></sn>
+  <sn><md>### Stability of Minerals
+
+Mineral stability refers to the ability of a mineral to `remain unchanged under specific physical and chemical conditions` such as temperature, pressure, moisture, and chemical environment.
+
+Different minerals are stable under different conditions, and changes in these conditions can cause minerals to **alter, break down, or transform** into new minerals.Understanding mineral stability is crucial in geology because it explains processes like **weathering, metamorphism, soil formation, and rock cycling**.
+</md></sn>
   <config>
     <tags>#stability of minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 30 2025 12:35:51 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 30 2025 12:59:24 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OfqaKIbSbM</id>
     <duration></duration>
   </config>
+<sn><md>### Factors Affecting Mineral Stability{.text-center}
+
+#### Temperature
+
+Minerals are stable only within certain temperature ranges.
+
+* **High-temperature minerals** (e.g., olivine, pyroxene) are stable deep inside Earth.
+* When exposed to **low temperatures**, they become unstable and weather quickly at the surface.
+* **Low-temperature minerals** (e.g., quartz, clay minerals) remain stable at Earth's surface.
+
+#### Pressure
+
+Pressure influences the density and structure of minerals.
+
+* **High-pressure minerals** (e.g., garnet, diamond) form deep within Earth and may become unstable at lower pressures.
+* **Low-pressure minerals** may change structure or break down under high pressure.
+
+#### Chemical Environment
+
+Mineral stability depends on the surrounding chemical conditions like presence of water, oxygen, acids, or salts.
+
+* **Oxidizing conditions** convert minerals like pyrite into limonite.
+* **Water-rich environments** promote the formation of clay minerals.
+* **Acidic conditions** dissolve carbonates such as calcite.
+
+#### Weathering Processes
+
+Minerals respond differently to weathering:
+
+* **Chemical weathering** alters minerals by oxidation, hydrolysis, carbonation.
+* **Physical weathering** breaks minerals mechanically but does not change their composition.
+
+Stable minerals resist weathering, while unstable minerals break down rapidly.
+
+#### Mineral Structure
+
+The internal atomic structure strongly controls stability.
+
+* **Complex 3D structures** (e.g., quartz) are highly stable.
+* **Weakly bonded structures** (e.g., olivine, feldspar) break down more easily.
+</md></sn><sn><md>### Mineral Stability at Earth’s Surface{.text-center}
+
+Bowen’s Reaction Series helps explain mineral stability at the surface:
+
+
+| Stability Category          | Minerals            | Description                                                    |
+| --------------------------- | ------------------- | -------------------------------------------------------------- |
+| **Most Stable at Surface**  | Quartz              | Highly resistant to chemical and physical weathering           |
+|                             | Clay minerals       | Form from feldspar alteration; very stable in moist conditions |
+|                             | Hematite, Goethite  | Stable iron-oxide minerals formed by oxidation                 |
+| **Moderately Stable**       | Feldspar group      | Break down through hydrolysis to form clay minerals            |
+| **Least Stable at Surface** | Olivine             | Weathers rapidly due to high-temperature origin                |
+|                             | Pyroxene, Amphibole | Alter into clay minerals and iron oxides                       |
+|                             | Calcite             | Easily dissolves in weak acids                                 |
+
+**Note:** Mineral stability decreases with increasing formation temperature—**high-temperature minerals are least stable at Earth’s surface**.
+</md></sn><sn><md>### Mineral Stability in Different Geological Processes
+
+* **1. Weathering and Soil Formation** : Minerals unstable at surface conditions break down to form **clays, oxides, and dissolved ions**, which become part of soil.
+* **2. Sedimentary Processes** : Stable minerals like quartz accumulate in **sandstones**, while unstable minerals dissolve or alter.
+* **3. Metamorphism** : Under heat and pressure, unstable minerals transform into new stable minerals.<br>
+Example:<br>
+*Shale → Clay → Mica → Garnet → Kyanite*
+* **4. Hydrothermal Alteration** : Fluids cause minerals to alter into more stable forms.<br>
+Example:<br>
+*Feldspar → Sericite (muscovite) or clay*
+</md></sn><sn><md>### Summary
+
+The stability of a mineral depends on temperature, pressure, chemical environment, and its internal structure. Minerals formed at high temperatures and pressures tend to be unstable at the Earth’s surface, while minerals like quartz, clay minerals, and iron oxides remain stable for long periods. Mineral stability explains weathering patterns, soil formation, sediment deposition, and mineral transformations during metamorphism.</md></sn>
