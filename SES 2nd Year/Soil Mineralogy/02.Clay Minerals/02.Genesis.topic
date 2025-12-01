@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md>### Genesis of Clay
+
+* Clay originates mainly through the `chemical alteration, weathering, and decomposition` of pre-existing rocks and minerals. The formation process depends on environmental conditions such as `climate, parent material, water availability, and time`. Because clay minerals are ++secondary minerals++, they `do not form directly from magma` but develop as older minerals break down.
+
+* The most important source of clay is the `weathering of feldspar-rich rocks`, especially granite.<br> `Feldspars undergo hydrolysis` when exposed to water and carbon dioxide, producing kaolinite, illite, or smectite depending on conditions.<br> `Mica` minerals like *biotite* and *muscovite* also alter into ++illite or vermiculite++. <br>`Ferromagnesian` minerals such as *pyroxene* and *amphibole* weather into ++smectite or chlorite++. <br>`Volcanic ash` and glass can transform into *amorphous clays* such as ++allophane++, which later may convert into crystalline smectite.
+
+* Clay formation occurs mainly through three geological processes: **chemical weathering**, **hydrothermal alteration**, and **diagenesis**. Chemical weathering is the dominant mechanism in surface environments, where rainfall, organic acids, and CO₂-rich water break down minerals. Hydrothermal alteration involves reactions with hot, mineral-rich fluids, often near volcanic or geothermal areas, producing clays like kaolinite and smectite. Diagenesis occurs in sedimentary basins where pressure, temperature, and pore-water chemistry transform existing clay minerals during burial.
+
+* Environmental conditions strongly influence which clay mineral forms. **Humid tropical climates** favor intense leaching and produce kaolinite. **Temperate climates** often yield illite. **Arid and semi-arid climates** with limited leaching encourage the formation of smectite. The balance of water flow, ion concentration, temperature, and pH determines the final clay type.
+
+* Clay may remain in place as **residual clay** or be transported by water, wind, or ice to form **sedimentary clay deposits**. Over geological time, transported clays can accumulate in lakes, rivers, floodplains, and marine environments, where further alteration and compaction occur.
+
+#### Summary
+
+| Aspect                         | Description                                                    |
+| ------------------------------ | -------------------------------------------------------------- |
+| Main Process                   | Chemical weathering, hydrothermal alteration, diagenesis       |
+| Parent Materials               | Feldspar, mica, volcanic ash, ferromagnesian minerals          |
+| Environmental Control          | Climate, water availability, pH, temperature                   |
+| Tropical Climate Product       | Kaolinite                                                      |
+| Temperate Climate Product      | Illite                                                         |
+| Arid/Semi-arid Climate Product | Smectite                                                       |
+| Types of Deposits              | Residual clay, transported clay (alluvial, lacustrine, marine) |
+| Nature of Clay Minerals        | Secondary minerals formed from alteration                      |
+</md></sn>
   <config>
     <tags>#02.genesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Dec 01 2025 05:59:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Dec 01 2025 06:43:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-eOfT7vrO8h</id>
     <duration></duration>
   </config>
