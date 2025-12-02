@@ -1,0 +1,153 @@
+
+  <sn><md>### Basic Structural Units of Silicate Clays
+
+![diagram](https://ars.els-cdn.com/content/image/3-s2.0-B9780323904858000126-f14-01-9780323904858.jpg)
+
+Silicate clays are composed of `two fundamental structural units`<br> 
+* the **silica** `tetrahedron` and 
+* the **alumina** `octahedron`.
+ 
+These two units form sheets that `combine in different arrangements` to produce various types of clay minerals.
+
+</md></sn>
+  <config>
+    <tags>#05.structure of clay mineral</tags>
+    <thumbnail></thumbnail>
+    <heading></heading>
+    <udate>Tue Dec 02 2025 07:11:04 GMT+0600 (Bangladesh Standard Time)</udate>
+    <id>article-VancW1qcbp</id>
+    <duration></duration>
+  </config>
+<sn><md>### Silica Tetrahedron
+
+:::.row
+:::.col-12 .col-md-6
+A **silica tetrahedron** consists of `one silicon ion (Si⁴⁺)` surrounded by `four oxygen anions (O²⁻)`.<br>
+When multiple tetrahedrons are linked `horizontally` by sharing oxygen atoms, they form a ++tetrahedral sheet++.
+:::
+
+:::.col-12 .col-md-6
+![image](https://cdn1.byjus.com/wp-content/uploads/2022/02/Silicates-1-1.png)
+![diagram](https://www.researchgate.net/publication/270453012/figure/fig1/AS:614083749498894@1523420383814/Structure-of-a-silica-tetrahedral-sheet-up-and-an-alumina-octahedral-sheet-down-19.png)
+:::
+:::
+
+
+### Alumina Octahedron
+
+:::.row
+:::.col-12 .col-md-6
+An **alumina octahedron** consists of `one aluminium ion (Al³⁺)` surrounded by `six oxygen or hydroxyl ions (O²⁻ / OH⁻)`, forming an **eight-sided block**.<br>
+Numerous octahedrons linked together `horizontally` form an ++octahedral sheet++.
+:::
+:::.col-12 .col-md-6
+![diagram](https://archive.nptel.ac.in/content/storage2/courses/105103097/web/chap4final/s1_clip_image001.gif)
+:::
+:::
+
+#### Types of Octahedral Sheets
+
+| **Type**                | **Dominant Ion** | **Description**                                 |
+| ----------------------- | ---------------- | ----------------------------------------------- |
+| `Diocta`hedral Sheet  | Aluminium (`Al³⁺`) | Two out of three octahedral sites are occupied. |
+| `Triocta`hedral Sheet | Magnesium (`Mg²⁺`) | All three octahedral sites are occupied.        |
+
+</md></sn><sn><md></md><md>## Classification of Clay Minerals
+
+Clay minerals are classified based on their `crystalline structure` — primarily by the arrangement of **silica tetrahedral** and **alumina octahedral** sheets.
+
+---
+
+###  Crystalline Clay Minerals{.text-center}
+
+#### a) **Two-Layer Type**
+
+&gt; Sheet structure composed of `one layer` of ++silica tetrahedron++ and `one layer` of ++alumina octahedron++
+
+| **Form**            | **Group**        | **Examples**             |
+| ------------------- | ---------------- | ------------------------ |
+| **Equidimensional** | Kaolinite group  | Kaolinite, Nacrite, etc. |
+| **Elongate**        | Halloysite group | Halloysite               |
+
+#### b) **Three-Layer Type**
+
+&gt; Sheet structure composed of `two layers` of ++silica tetrahedrons++ and `one central` ++octahedral or trioctahedral++ layer)*
+
+---
+
+### Expanding Lattice{.text-center}
+
+| **Form**            | **Group**             | **Examples**                            |
+| ------------------- | --------------------- | --------------------------------------- |
+| **Equidimensional** | Montmorillonite group | Montmorillonite, Sauconite, Vermiculite |
+| **Elongate**        | Montmorillonite group | Nontronite, Saponite, Hectorite         |
+
+---
+
+#### Non-Expanding Lattice{.text-center}
+
+| **Group**        | **Examples**                |
+| ---------------- | --------------------------- |
+| **Illite group** | Illite and related minerals |
+
+c) **Regular Mixed-Layer Type**
+
+*(Ordered stacking of alternate layers of different types of clay minerals)*</md></sn><sn><md>### Dioctahedral Sheet{.text-center}
+
+:::.row
+:::.col-12 .col-md-6
+A dioctahedral sheet has:
+
+* **2 out of 3 octahedral sites filled**
+* Usually filled by **Al³⁺**
+* One site remains vacant to maintain charge balance
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://www.researchgate.net/publication/41441166/figure/fig11/AS:669472876662812@1536626180943/Trioctahedral-and-dioctahedral-substitution-exclusively-in-octahedral-sites.ppm)
+:::
+:::
+
+**Key idea:** Al³⁺ has higher charge, so only two cations are needed to balance the hydroxyls.
+
+**Characteristics**
+
+* More stable structure
+* Common in clay minerals such as **kaolinite, montmorillonite (mostly), illite**
+
+**Example**
+In kaolinite, two octahedral sites are occupied by **Al³⁺**, and the third is empty → **dioctahedral**.
+</md></sn><sn><md>### Trioctahedral Sheet{.text-center}
+
+:::.row
+:::.col-12 .col-md-6
+A trioctahedral sheet has:
+
+* **All 3 octahedral sites filled**
+* Usually filled by **Mg²⁺** or **Fe²⁺**
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://www.researchgate.net/publication/41441166/figure/fig11/AS:669472876662812@1536626180943/Trioctahedral-and-dioctahedral-substitution-exclusively-in-octahedral-sites.ppm)
+:::
+:::
+
+**Key idea:** Mg²⁺ has lower charge than Al³⁺, so all three sites must be filled to balance the OH⁻.
+
+**Characteristics**<br>
+* Softer, more flexible structure
+* Common in clay minerals such as **chrysotile, talc, saponite**
+
+**Example** In talc, all three octahedral sites are filled with **Mg²⁺** → **trioctahedral**.
+</md></sn><sn><md>### Summary
+
+![diagram](https://www.open.edu/openlearn/pluginfile.php/107624/mod_oucontent/oucontent/2614/4cd1062c/35be4790/s276_b1_c04_f07.jpg)
+
+| Property                          | Dioctahedral Sheet                          | Trioctahedral Sheet                |
+| --------------------------------- | ------------------------------------------- | ---------------------------------- |
+| Number of octahedral sites filled | 2 of 3                                      | 3 of 3                             |
+| Typical cation                    | Al³⁺                                        | Mg²⁺, Fe²⁺                         |
+| Vacant sites                      | 1 vacant                                    | No vacancy                         |
+| Structure                         | More rigid                                  | Softer and more flexible           |
+| Common minerals                   | Kaolinite, Illite, Montmorillonite (mostly) | Talc, Saponite, Chlorite (Mg-rich) |
+</md></sn>
