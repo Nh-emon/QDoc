@@ -1,10 +1,26 @@
 
-  <sn></sn>
+  <sn><md>### 2:1:1 
+
+Regular Mixed Layer Type
+
+These minerals contain ++two silica tetrahedral layers++, ++one alumina-dominated octahedral layer++, and ++one magnesium-dominated octahedral layer++.Soil **chlorites** belong to this group.
+
+Chlorites are **iron–magnesium silicates** with some aluminium. Their structure consists of:
+
+* A **vermiculite-like layer**
+  – Two silica tetrahedral sheets where part of the Si is replaced by Al
+  – One Mg–Fe dominated octahedral sheet (Al replaced by Mg/Fe)
+
+* A **brucite layer**
+  – A separate Mg-octahedral sheet forming an additional octahedral layer
+
+Thus, each crystal unit contains **two tetrahedral sheets** and **two Mg-dominated trioctahedral sheets**, resulting in a **2:1:1** (also called **2:2**) structural type.
+</md></sn>
   <config>
     <tags>#regular mixed layer type</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 19:04:35 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 19:06:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-zm5vscS9ME</id>
     <duration></duration>
   </config>
