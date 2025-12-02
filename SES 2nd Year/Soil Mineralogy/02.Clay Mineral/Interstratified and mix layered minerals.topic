@@ -1,10 +1,36 @@
 
-  <sn></sn>
+  <sn><md>### Interstratified and Mixed Layer Minerals
+
+Clay minerals `rarely occur in pure form` in soils. Even a single particle may contain **interstratified layers** of two or more different clay minerals. These clays **cannot be separated by physical means** as ordinary mixtures can. 
+
+ইন্টারস্ট্র্যাটিফাইড বা মিক্সড লেয়ার মিনারেল হলো এমন কাদামাটি খনিজ, যেখানে ভিন্ন ভিন্ন খনিজের স্তর একই কণার মধ্যে পর্যায়ক্রমে সাজানো থাকে এবং তাই এগুলোর ধর্ম দুই ধরনের খনিজের মধ্যবর্তী।
+
+&gt; Minerals with properties and composition intermediate between two well-defined minerals are known as **interstratified or mixed layer minerals**.
+
+Common examples include:
+
+* Kaolinite–vermiculite
+* Kaolinite–montmorillonite
+* Illite–smectite
+
+Mixed layering may occur due to early formation of 2:1 minerals (or inheritance from parent material) followed by incorporation of kaolinite and iron oxides, preventing further alteration.
+</md></sn>
   <config>
     <tags>#interstratified and mix layered minerals</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 16:07:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 17:15:57 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-TkrGBqOEJN</id>
     <duration></duration>
   </config>
+<sn><md>### Formation During Weathering
+
+Mixed layer minerals `develop progressively` as weathering advances in soil. The sequence is as follows:
+
+* **Micas** with rigid structures and tightly held potassium lose some potassium and convert into fine-grained micas, which are less rigid.
+* Fine-grained micas attract exchangeable cations in interlayer spaces; potassium is further leached. Water and magnesium bind layers together, forming **mica–vermiculite interstratified minerals**.
+* Continued potassium loss allows entry of more water and exchangeable ions, forming **vermiculite–smectite mixed minerals**.
+* Greater weathering produces **smectites**, a 2:1 expanded mineral group.
+* Smectite weathers further, losing Mg²⁺, Fe²⁺, and other metallic cations, creating acidic conditions. Recrystallization then forms **kaolinite**.
+* Intense weathering in hot, humid tropical climates ultimately produces **iron and aluminum oxides**.
+</md></sn>
