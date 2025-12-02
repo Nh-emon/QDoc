@@ -1,10 +1,100 @@
 
-  <sn></sn>
+  <sn><md>Groups Responsible for Ionic Exchange in Clay Minerals
+
+### Exposed Crystal Edges
+
+Exposed crystal edges mainly contribute to **pH-dependent negative charges** in **1:1 clays (kaolinite group)** and **organic colloids**.
+
+At broken edges, oxygen and hydroxyl groups `possess unsatisfied negative charges`. As pH increases, hydroxyl groups dissociate, releasing H⁺ and `leaving negatively charged oxygen behind`.
+
+Reaction representation:
+
+* –SiOH + OH⁻ → –SiO⁻ + H₂O
+* –AlOH + OH⁻ → –AlO⁻ + H₂O
+
+These negative charges are **exchangeable** and vary with pH.
+</md></sn>
   <config>
     <tags>#ionic exchange</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 11:07:01 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 12:10:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-aRUyH8mjHU</id>
     <duration></duration>
   </config>
+<sn><md>### Isomorphous Substitution
+
+Dominant in **2:1 clays**, minor in **1:1 clays**.<br>
+It occurs when one structural cation is replaced by another of ++similar size++ but **different valence**, producing a `permanent charge`.
+
+Example (octahedral sheet):
+
+* Replacing Al³⁺ with Mg²⁺ → one excess negative charge<br>
+  This negative charge is balanced by adsorbed cations (Na⁺, K⁺, etc.).
+
+Example (tetrahedral sheet):
+
+* Replacing Si⁴⁺ with Al³⁺ → one excess negative charge
+
+Charge illustrations:
+
+* Al³⁺–OH → Mg²⁺–OH (one excess negative charge)
+* Si⁴⁺–O → Al³⁺–O (one excess negative charge)
+
+Not all substitutions produce negative charges.
+If a **lower-charge cation is replaced by a higher-charge cation**, a **positive charge** develops.
+
+Example:
+
+* Mg₃(OH)₆ → Mg₂Al(OH)₆⁺ <br>
+  (One Al³⁺ replaces Mg²⁺ → excess positive charge, common in Fe/Al oxides in tropical soils)</md></sn><sn><md>### Factors Affecting Isomorphous Substitution{.text-center}
+
+#### Size of the Ions
+
+Substitution occurs when ionic radii are similar.
+Examples:
+
+* Na⁺ (0.098 nm) ↔ Ca²⁺ (0.099 nm)
+* Mg²⁺ (0.066 nm) ↔ Fe³⁺ (0.064 nm)
+* Al³⁺ (0.051 nm) can replace Si⁴⁺ (0.042 nm) or Mg²⁺/Fe³⁺ due to intermediate size
+* K⁺ (0.133 nm) is too large to replace Na⁺ or Ca²⁺
+
+####  Valence of the Ions
+
+Valence difference should not exceed **one unit**.
+Example:
+
+* Na⁺ can replace Ca²⁺ despite valence difference of one.<br>
+  Both ionic size and valence together determine substitution ability.
+
+#### Type of Clay Mineral
+
+* Very significant in **2:1 clays** (montmorillonite, vermiculite, illite)
+* Sheets are loosely held and allow substitution
+* Resulting charges are **permanent and not pH-dependent**
+</md></sn><sn><md>### Isoelectric Point (Zero Point of Charge)
+
+Soil colloids can carry **positive or negative charges** depending on pH.
+
+* Negative charges → cation exchange
+* Positive charges → anion exchange
+
+H⁺ and OH⁻ are **potential-determining ions**.
+The **isoelectric point (pH₀)** is the pH where **total surface charge becomes zero**.
+
+Example:
+
+* Gibbsite: isoelectric point = **pH 7.0**
+
+  * pH &gt; 7 → negatively charged
+  * pH &lt; 7 → positively charged
+</md></sn><sn><md>### Summary
+
+| Topic                          | Key Idea                                                  | Charge Behavior                        |
+| ------------------------------ | --------------------------------------------------------- | -------------------------------------- |
+| Exposed crystal edges          | Dissociation of –OH groups at high pH                     | pH-dependent negative charge           |
+| Isomorphous substitution       | Replacement by ions of similar size but different valence | Permanent charge (usually negative)    |
+| Positive charge development    | Replacement by higher-valence cation                      | Creates permanent positive charge      |
+| Factors affecting substitution | Ionic size, valence, clay type                            | Determines feasibility of substitution |
+| Isoelectric point              | pH where net charge = zero                                | Above: negative, Below: positive       |
+</md></sn>
