@@ -1,10 +1,54 @@
 
-  <sn></sn>
+  <sn><md>### Kaolinite
+
++++ see
+
+![diagram](https://elementaryengineeringlibrary.com/images/chapters-images/0044-12-kaolinite-mineral-unit.png)
+
+![diagram-details](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/structure-of-kaolinite.png)
+
++++</md></sn>
   <config>
     <tags>#02.some clay mineral diagram</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 10:39:48 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 10:56:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XLIkgmHS1I</id>
     <duration></duration>
   </config>
+<sn><md>### Montmorillonite
+
++++ see
+
+![diagram](https://elementaryengineeringlibrary.com/images/chapters-images/0044-14-montmorillonite-mineral-unit.png)
+
+![diagram](https://elementaryengineeringlibrary.com/images/chapters-images/0044-15-montmorillonite-mineral-attracts-water.png)
+
+![diagram-details](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/structure-of-montmorillonite.png)
+
++++</md></sn><sn><md>### Muscovite
+
++++ see
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/muscovite-diagram.png)
+
++++</md></sn><sn><md>### Biotite
+
++++ see
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/biotite-diagram.png)
++++</md></sn><sn><md>### Chlorite
+
++++ see
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/chlorite-diagram.png)
++++</md></sn><sn><md>### Difference
+
+To me the key difference among diagram from top to bottom
+
+| Mineral | Layer | Interlayer |
+|----------|----------|----------|
+| Kaolinite    | 1:1 Layer    | H bonding     |
+| Montmorillonite   | 2:1 Layer     | water     |
+| Muscovite    | Al+3Si     | 2k     |
+| Biotite   | 3Mg+3Fe     | K     |
+| Chlorite    | Brucite layer     | nothing     |
+</md></sn>
