@@ -1,10 +1,22 @@
 
-	<sn></sn>		
+	<sn><md>Here is the information arranged in a clean, readable table:
+
+| **Type**                     | **Characteristics**                                                                                                             | **Examples**                         |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Monometric / Isometric**   | The three axes are of equal length and meet at right angles.                                                                    | Galena, Halite                       |
+| **Dimetric / Tetragonal**    | Three axes at right angles; two are of equal length, and the third is longer or shorter than the other two.                     | Zircon                               |
+| **Trimetric / Orthorhombic** | Three axes of different lengths, all at right angles.                                                                           | Sulphur, Olivine                     |
+| **Monoclinic**               | Three axes of unequal length; two axes are not at right angles, while the third is perpendicular to the plane of the other two. | Hornblende, Orthoclase, Gypsum, Mica |
+| **Triclinic**                | Three axes of unequal length; none of the axes form right angles with each other.                                               | Plagioclase                          |
+| **Hexagonal**                | Three equal axes at 120° in one plane, and a fourth axis of different length at right angles to the others.                     | Quartz, Calcite                      |
+
+If you'd like, I can also format this as Markdown, a Word table, or a diagram.
+</md></sn>		
 	<config>
 		<tags>#01.mineral crystal form</tags>
 		<thumbnail></thumbnail>
 		<heading></heading>
-		<udate>Wed Dec 03 2025 05:38:37 GMT+0600 (Bangladesh Standard Time)</udate>
+		<udate>Wed Dec 03 2025 05:40:51 GMT+0600 (Bangladesh Standard Time)</udate>
 		<id>article-MoyWxt6hi8</id>
 		<duration></duration>
 	</config>
