@@ -1,10 +1,56 @@
 
-  <sn></sn>
+  <sn><md>### Organic Soil Colloids
+
+:::.row
+:::.col-12 .col-md-6
+* Humus is an `organic soil colloid` with `negatively charged micelles` surrounded by adsorbed cations.
+* It is `amorphous`, `dark brown to black`, and `nearly insoluble` in water.
+* Composition: ~50% carbon, ~5% nitrogen, and smaller amounts of oxygen, sulfur, and phosphorus.
+* Humus possesses a `high cation exchange capacity (CEC)`.
+:::
+
+:::.col-12 .col-md-6
+![diagram](https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:1365,ch:768,q:80,w:1365/NjciyTpcwUSrpBoFTp6dDH.jpg)
+![diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240520174055/What-Is-Humus.webp)
+:::
+:::
+</md></sn>
   <config>
     <tags>#organic soil colloid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 12:11:36 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 12:26:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-BNdJf19Xx0</id>
     <duration></duration>
   </config>
+<sn><md>### Composition &amp; Formation{.text-center}
+
+* Humus contains:
+
+  * Polymerized aromatic molecules
+  * Polysaccharides
+  * Bound amino acids and proteins
+  * Uronic acid polymers
+  * Organo-phosphorus compounds
+* Humus forms from **alteration of plant lignins, tannins, and phenolic substances**.
+* **Microbial decomposition**:
+
+  * Bacteria and fungi act first.
+  * Actinomycetes dominate later stages.
+* Favorable conditions:
+
+  * Moisture (optimum)
+  * Aeration (optimum)
+  * pH 6–7.5
+  * Temperature 30–45°C
+</md></sn><sn><md>### Difference Between Organic and Inorganic (Clay) Soil Colloids
+
+| Aspect                        | Organic Colloids (Humus)                                                                          | Inorganic Colloids (Clays)                                                   |
+| ----------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Composition**               | Carbon, hydrogen, oxygen                                                                          | Aluminum, silicon, oxygen                                                    |
+| **Structure &amp; Nature**        | Amorphous, complex; colloidal organic mixture; particle size similar to clay                      | Crystalline with well-defined structure                                      |
+| **Stability**                 | Dynamic; formed and destroyed rapidly                                                             | Relatively static; change occurs mainly through long-term weathering         |
+| **Structural Knowledge**      | Structure not well defined                                                                        | Crystal structure well known                                                 |
+| **Source of Negative Charge** | Methoxyl, carboxylic (–COOH), enolic (–OH), phenolic –OH groups                                   | Isomorphous substitution and broken edges (permanent + pH-dependent charges) |
+| **Charge Behavior**           | Strongly pH-dependent; low pH → H⁺ tightly bound, high pH → H⁺ ionizes and replaced by Ca²⁺, Mg²⁺ | Some pH-dependent, many permanent charges                                    |
+</md></sn>
