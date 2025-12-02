@@ -1,10 +1,79 @@
 
-  <sn></sn>
+  <sn><md>### Three-Layer Type
+
+Three-layer (2:1) clay minerals consist of **two silica tetrahedral sheets** with **one alumina octahedral sheet** sandwiched between them.
+They are divided into:
+
+1. **2:1 Type – Expanding Lattice**
+2. **2:1 Type – Non-Expanding Lattice**
+</md></sn>
   <config>
     <tags>#three layer expanding</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 18:31:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 18:55:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XSMyeuXyxp</id>
     <duration></duration>
   </config>
+<sn><md>### 2:1 Expanding
+
+This group includes the `smectites` and `vermiculite`. These minerals expand because `negative charges develop within their structure, allowing water and cations to enter the interlayer space`.
+
+**Structural Basis**
+
+* One alumina octahedral layer is positioned between two silica tetrahedral layers.
+* **Isomorphous substitution** creates a **net negative charge**:
+
+  * Mg²⁺ → Al³⁺ substitution in octahedral sheet
+  * Al³⁺ → Si⁴⁺ substitution in tetrahedral sheet
+* The negative charge causes `repulsion between layers`, increasing interlayer spacing and enabling expansion.
+</md></sn><sn><md>### Smectite Group 
+
+High Expansion<br>
+
+| Clay Mineral     | Location of Substitution                  | Specific Ionic Substitution                  | Origin of Negative Charge                  |
+|------------------|-------------------------------------------|----------------------------------------------|--------------------------------------------|
+| **Montmorillonite** | Octahedral sheet                         | Mg²⁺ substitutes for Al³⁺                   | Isomorphic substitution in octahedral layer |
+| **Beidellite**      | Tetrahedral sheet                        | Al³⁺ substitutes for Si⁴⁺                   | Isomorphic substitution in tetrahedral layer |
+| **Nontronite**      | Octahedral sheet                         | Fe³⁺ substitutes for Al³⁺ (limited)         | Isomorphic substitution in octahedral layer (often combined with other substitutions) |
+| **Saponite**        | Both tetrahedral and octahedral sheets   | • Al³⁺ → Si⁴⁺ (tetrahedral)<br>• Mg²⁺ → Al³⁺ (octahedral) | Combined tetrahedral + octahedral substitutions |
+
+These substitutions create strong layer repulsion and thus **high swelling capacity**.
+</md></sn><sn><md>### Vermiculite 
+
+Limited Expansion Mineral<br>
+
+Vermiculite belongs to the 2:1 family but has `restricted swelling` compared to smectites.
+
+### Structural Types {.text-center}
+
+* **Dioctahedral Vermiculite**
+
+  * Octahedral positions filled mainly with **Al**
+  * Gibbsite-like structure: *Al₂(OH)₆*
+
+* **Trioctahedral Vermiculite**
+
+  * All octahedral positions filled with **Mg**
+  * Brucite-like structure: *Mg₃(OH)₆*
+
+##### Charge Development
+
+* Significant **Al³⁺ → Si⁴⁺ substitution in tetrahedral sheets**
+  → Produces **very high negative charge**
+  → Responsible for **high CEC**
+
+##### Limited Expansion Reason
+
+* Mg²⁺ ions and water molecules are **strongly adsorbed** in interlayer spaces → act as **bridges**
+* This restricts expansion compared to smectites
+* Hence vermiculite is classified as a **limited-expansion 2:1 mineral**</md></sn><sn><md>### Summary Table
+
+| Mineral Group   | Structural Type | Expansion | Source of Charge                             |
+| --------------- | --------------- | --------- | -------------------------------------------- |
+| Montmorillonite | 2:1             | High      | Mg²⁺ → Al³⁺ (octahedral)                     |
+| Beidellite      | 2:1             | High      | Al³⁺ → Si⁴⁺ (tetrahedral)                    |
+| Nontronite      | 2:1             | High      | Fe³⁺ → Al³⁺ (octahedral)                     |
+| Saponite        | 2:1             | High      | Al³⁺ → Si⁴⁺ &amp; Mg²⁺ → Al³⁺                    |
+| Vermiculite     | 2:1             | Limited   | High Al³⁺ substitution in tetrahedral sheets |
+</md></sn>
