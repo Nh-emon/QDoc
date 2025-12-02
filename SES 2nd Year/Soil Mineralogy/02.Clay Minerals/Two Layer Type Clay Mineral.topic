@@ -1,10 +1,36 @@
 
-  <sn></sn>
+  <sn><md>#### Kaolinite Group (General Description)
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/silica-alumina-sheet.png)
+
+* It consists of ++one silica tetrahedral++ layer and ++one alumina octahedral++ layer (Fig 13.6, 13.7). `Kaolinite is prominent` in this group. One silica tetrahedral layer is joined with one aluminium octahedral layer. 
+* The `top oxygen of the silica` tetrahedral layer `occupies the position` of the oxygen of the octahedral layer and is `common to the` tetrahedral and octahedral layer (Fig 13.8).
+*  A `weak negative charge` develops on the ++surface of the basal oxygen++ of the silica tetrahedral layer and a `weak positive charge` develops on the ++surface of the hydrogen of the hydroxyl++ of the aluminium octahedral layer. 
+* The positive charge on the hydroxyl surface attracts the negative charge on the oxygen surface. Hence the kaolinite units are `tightly bound by hydrogen bonds`. 
+* `Cations and water do not enter between the structural layers` of the particle. The effective surface of kaolinite is `restricted` to its ++outer faces++ and ++external surface area++.
+
++++ structure of kaolinite
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Mineralogy/media/structure-of-kaolinite.png)
++++
+</md></sn>
   <config>
     <tags>#two layer type clay mineral</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 07:13:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 08:07:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-uzW691nPRs</id>
     <duration></duration>
   </config>
+<sn><md>### Halloysite
+* Halloysite is the `second most common member` of the group and has similar composition to kaolinite but `contains sheet of water` between kaolinite layers. 
+* The crystals have a `tubular appearance`. Water is firmly attached by hydrogen bonding resulting in a rigid structure. However, dehydration can take place very easily causing collapse of the structure forming a mineral similar to kaolinite.
+</md></sn><sn><md>#### Nacrite and Dickite
+These minerals differ from kaolinite in the `orientation of OH groups` involved in the inter layer bonding.
+</md></sn><sn><md>### Summary Table
+
+| Mineral           | Structure/Layering                                      | Key Feature                               | Structural Behavior                                    |
+| ----------------- | ------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ |
+| Kaolinite         | 1 tetrahedral + 1 octahedral                            | Strong H-bonding, no interlayer expansion | Non-expanding, outer-surface area only                 |
+| Halloysite        | Same composition as kaolinite but with interlayer water | Tubular crystals, water sheet present     | Dehydrates easily and collapses to kaolinite-like form |
+| Nacrite &amp; Dickite | Same 1:1 structure                                      | Differ in OH orientation                  | Variation in interlayer bonding orientation            |
+</md></sn>
