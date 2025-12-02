@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md>### 2:1 Non-Expanding
+
+`Muscovite and biotite` are the main minerals in this group. The structure consists of **one octahedral layer** sandwiched between **two silica tetrahedral layers**—one above and one below.
+The octahedral layer links to the tetrahedral layer when the `apical oxygen` of the tetrahedral sheet takes the position of the **hydroxyl** in the octahedral sheet.
+
+Around `15–20% of Si⁴` in the tetrahedral sheet is replaced by `Al³⁺`, producing a `high negative charge`.
+This charge is `balanced by K⁺ ions`, which act as `strong binding agents between adjacent illite units`, making **illite a non-expanding clay**.
+
+##### Charge Development
+
+* **Muscovite (dioctahedral illite)**
+  Two-thirds of the octahedral sites are filled with **Al³⁺**, and one-third remain vacant.
+
+* **Biotite (tri-octahedral illite)**
+  All octahedral positions are occupied by **Mg²⁺ or Fe²⁺** ions.
+
+
+### Summary
+
+| Mineral / Feature | Octahedral Occupancy                            | Nature                                 |
+| ----------------- | ----------------------------------------------- | -------------------------------------- |
+| Muscovite         | 2/3 sites filled with Al³⁺ (dioctahedral)       | Non-expanding, illite type             |
+| Biotite           | All sites filled with Mg²⁺/Fe²⁺ (trioctahedral) | Non-expanding, illite type             |
+| Illite overall    | K⁺ binds layers tightly                         | High tetrahedral charge, non-expanding |
+</md></sn>
   <config>
     <tags>#three layer non expanding</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Dec 02 2025 18:55:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Dec 02 2025 19:03:40 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qcBgKSMxiU</id>
     <duration></duration>
   </config>
