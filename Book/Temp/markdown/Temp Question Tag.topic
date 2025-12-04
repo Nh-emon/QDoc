@@ -1,10 +1,133 @@
 
-  <sn></sn>
+  <sn><md>* The team won the match,++didn't it++?
+* The team tried the uniforms,++didn't they++?
+* The mob killed the magistrate,++didn't it++?
+* The jury gave a ananimous opinion,++didn't it++?
+* The jury gave a divided opinion,++didn't they++?
+
+**Note :** `'s` can be
+* is - $v_4$
+* was -&gt; $v_4$
+* has -&gt; $v_3$
+
+'d can be
+* had -&gt; $v_3$
+* would -&gt; $v_1$
+* did -&gt; $v_2$
+
+#### Ex
+* He's got a beautiful house,++hasn't he++?
+* It's raining heavily today,++isn't it++?
+* He's busy in his work yesterday,++wasn't he++?
+* He has a beautiful house,++doesn't he++?
+* He has got a beautiful house,++hasn't he++?
+
+
+#### Ex
+* I'd not attend the party *yesterday**,++did I++?
+* I'd like to have tea rather than coffee,++wouldn't I++?
+* He'd completed the work on time ,++hadn't he++?
+
+### Let's or Let us
+
+It takes the tag shall we though the sentence is  ++positive++
+
+
+* He dare not go there,++dare he++? (modal)
+* He dares to go there,++doesn't he++? (main verb)
+* He needs a book,++doesn't he++?(main verb)
+* I need not ask him,++need I++?(modal)
+
+
+#### Rule
+* This/That -&gt; It
+* These/Those -&gt; They
+* There -&gt; There
+
+##### Ex
+
+* These are good examples,++aren't they++?
+* These books are not mine,++are they++?
+* There is beauty in it,++isn't there++?
+* This is mine,++isn't it++?
+* That was a good book,++wan't it++?
+
+#### Ex
+* I think,he is right,++isn't he++?
+* As far as I know,they are the best,++aren't they++?
+* I hope,he does the work on time,++doesn't he++?
+* I know,India will win the match,++won't she/it++?
+
+#### One
+can refer
+* one
+* each
+
+work as adjective and pronoun
+* `One` boy was present.(adjective)
+* `One` should do one's work.(pronoun)
+
+
+#### Ex
+
+* One should do one's duties,++shouldn't one++?
+* One must respect one's elders,++mustn't one++?
+* One of the students was absent,++wasn't he ++?<br>
+   here one of the means denote one among them
+* One girl did the work,++didn't she++?
+
+
+#### Determining person
+
+* **Person** : Everybody,nobody,anybody,somebody -&gt; ==Plural==
+* **Thing** : Everything,nothing,anything,something -&gt; ==Singular==
+
+#### Ex
+* Somebody was present,++wasn't they++?<br>
+  Somebody was present,++weren't they++?
+* Something was present,++wasn't it++?
+* Nobody was present,++weren't they++?
+* Nothing was present,++wasn't it++?
+* Somebody stole the pen,++didn't they++?
+* Nobody was present,++were they++?(negative)
+* Everything is clear to you,++isn't it++?
+* Something is to be done,++itn't it++?
+* Nothing was available,++was it++?(negative)
+
+
+### All
+
+* All were present,++weren't they++?
+* All of you were present,++weren't you++?
+* All of them were present,++weren't they++?
+* All of us were present,++weren't we++?
+
+
+### Imperative sentence
+
+* Request : Would you ?
+* Positive request / command : will you / won't you
+* Negative request / command : will you 
+
+#### Ex
+* Shut the door,++will you/won't you++?
+* Don't shut the door,++will you++? 
+* Open the window,++will you/won't you++?
+* Don't open the window,++will you++?
+* Have some more tea,++would you++?
+
+### Irritation
+If the sentence imply irritation we can use can you/can't you
+
+* Shut your mouth,++can't you/can you++?
+* Mind your language,++can't you/can you++?
+
+</md></sn>
   <config>
     <tags>#temp question tag</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Dec 04 2025 11:15:14 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Dec 04 2025 11:15:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-N1nUUDVtbC</id>
     <duration></duration>
   </config>
