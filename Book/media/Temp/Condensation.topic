@@ -1,0 +1,72 @@
+
+	<sn><md>### Condensation{.text-center}
+
+* &gt; **Definition**:Condensation is the process by which ++water vapor++ cools and `changes into` ++liquid water droplets++ or ++solid ice crystals++. 
+* It occurs after air becomes `saturated`, either due to cooling or the addition of extra water vapor.
+* **Latent Heat Release**
+* During condensation, `latent heat is released` as the state changes from ++gas to liquid or solid++. This heat does not require an external energy source.
+* **Favorable Conditions for Condensation**
+Condensation is more likely when relative humidity is high. The following situations help lower air temperature and cause condensation:
+
+1. **Surface/Contact Cooling** – Warm moist air passes over a cold land surface.
+2. **Radiative Cooling** – Strong radiation on a clear winter night forms dew, hoar frost, or radiation fog in valleys.
+3. **Mixing of Air Masses** – Different temperature air masses mix, become supersaturated, and condensation begins.
+4. **Lifting and Adiabatic Cooling** – Warm moist air rises and cools dynamically (adiabatic process).
+</md></sn>		
+	<config>
+		<tags>#07.condensation</tags>
+		<thumbnail></thumbnail>
+		<heading></heading>
+		<udate>Tue Sep 09 2025 22:46:31 GMT+0600 (Bangladesh Standard Time)</udate>
+		<id>article-JYR3q3h2Pe</id>
+		<duration></duration>
+	</config>
+<sn><md>## Types of Condensation in the Troposphere
+
+:::.row
+
+:::.col-12 .col-lg-6
+#### Condensation at or Near the Earth’s Surface{.text-center}
+* When warm moist air cools to its dew-point temperature by `contact or radiative cooling`.
+* Leads to the formation of **dew, fog, or frost**.
+* These are mostly `non-adiabatic (diabatic)` processes, as heat is exchanged between the ++surface and the air++.
+* Follows the `Second Law of Thermodynamics`: ++heat transfers from hot to cold++.
+:::
+
+:::.col-12 .col-lg-6
+#### Condensation Aloft within the Troposphere{.text-center}
+* Air masses are forced upward by `convection or mechanical` lifting.
+* Rising air cools `adiabatically` until it reaches the dew-point temperature, leading to cloud formation.
+* Follows the `First Law of Thermodynamics`: if no heat is added or removed, expansion does work on air molecules, lowering internal energy and cooling the air.
+:::
+**Aloft** : up in the air or at a higher level above the ground.
+
+:::
+</md></sn><sn><md>### Condensation Surface and Nuclei {.text-center}
+
+Condensation requires a surface on which water vapor can condense:
+
+* **At the ground:** `dew or fog` forms on ++surfaces++.
+* **Above the ground:** microscopic particles act as condensation ++nuclei++, allowing cloud droplets to form.
+
+:::.row
+
+:::.col-12 .col-lg-6
+### Condensation Nuclei Include{.text-center}
+* Dust
+* Smoke
+* Salt particles
+:::
+
+:::.col-12 .col-lg-6
+### Nuclei{.text-center}
+* Typical size: **0.0002 mm** (range: 0.0001 – 0.1 mm).
+* `1 cm³` of air may contain `100–10,000` nuclei.
+* ++With nuclei++: RH &gt; `200%` is enough to form droplets.
+* ++Without nuclei++: RH near `400%` is required.
+* Supersaturated conditions lead to rapid droplet growth and intense rainfall.
+* Below Freezing Point: Ice crystals form instead of liquid droplets.
+:::
+
+:::
+</md></sn>
