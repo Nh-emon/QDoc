@@ -1,10 +1,61 @@
 
-  <sn></sn>
+  <sn><md>### Definition
+
+**Soil physics** is the branch of soil science that deals with the study of the `physical properties and processes of soil`, including texture, structure, density, porosity, water flow, heat transfer, and mechanical behavior.
+
+
+**Environmental physics** focuses on the `physical processes occurring in the environment`, such as energy flow, radiation, heat transfer, temperature regulation, and movement of water and gases in the atmosphere, soil, and biosphere.
+
+Together, **soil and environmental physics** examine how soil interacts with environmental forces and supports ecosystems, agriculture, hydrology, and climate regulation.
+
+
+[Download Slide](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES%202nd%20Year/Soil%20Physics/media/Soil_Environmental_Dynamics.pdf)</md></sn>
   <config>
     <tags>#01.basic of soil and enviromental physics</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Fri Dec 05 2025 17:33:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Fri Dec 05 2025 18:23:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-ZAFaPxaFiH</id>
     <duration></duration>
   </config>
+<sn><md>### History of Soil Physics
+
+The development of soil physics began in the **19th century**, when scientists started applying principles of physics to understand water flow and heat movement in soils.
+Important early contributions were made by `Henry Darcy` (1856) with Darcy’s law for water flow in porous media. In the **20th century**, researchers expanded soil physics to study soil moisture retention, infiltration, heat conduction, and gas exchange.
+Modern soil physics evolved with advances in **hydrology, environmental science, remote sensing, and computational modeling**, making it essential for understanding climate change, agriculture, and ecosystem function.
+</md></sn><sn><md>### Importance of Soil Physics
+
+* Helps in managing soil water for agriculture and irrigation
+* Essential for understanding infiltration, runoff, and groundwater recharge
+* Supports soil conservation and erosion control
+* Helps predict plant growth and nutrient availability
+* Important for climate studies involving carbon cycling, heat flow, and gas exchange
+* Crucial for environmental engineering, wastewater treatment, and pollution control
+</md></sn><sn><md>### Soil Physical Properties
+
+* **Soil Texture** – proportion of sand, silt, and clay
+* **Soil Structure** – arrangement of soil particles into aggregates
+* **Bulk Density** – mass of soil per unit volume
+* **Porosity** – percentage of pore space in soil
+* **Soil Moisture Content** – amount of water stored in soil
+* **Soil Temperature** – heat status of the soil, influenced by climate, moisture, and structure
+* **Soil Consistency** – resistance to deformation
+* **Permeability** – ease with which water moves through soil
+</md></sn><sn><md>### Physical Phenomena of the Environment
+
+* **Radiation** – absorption and reflection of solar energy by soil and surface
+* **Heat Transfer** – conduction and convection in soil and air
+* **Evaporation and Transpiration** – soil–plant–atmosphere water movement
+* **Water Flow** – infiltration, percolation, runoff, and groundwater recharge
+* **Gas Exchange** – movement of oxygen, carbon dioxide, and other gases through soil and air
+* **Energy Balance** – interaction of heat, moisture, and radiation affecting climate and soil processes
+</md></sn><sn><md>### Summary Table
+
+| Topic                            | Key Points                                                                     |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| Definition                       | Study of physical properties and processes of soil and environment             |
+| History                          | Origin in 19th-century physics applications; Darcy’s law; modern modeling      |
+| Importance                       | Water management, plant growth, erosion control, climate and pollution studies |
+| Soil Physical Properties         | Texture, structure, density, porosity, moisture, temperature, permeability     |
+| Environmental Physical Phenomena | Radiation, heat transfer, water flow, gas exchange, energy balance             |
+</md></sn>
