@@ -1,10 +1,98 @@
 
-  <sn></sn>
+  <sn><md>### Spectroscopy
+
+Spectroscopy is the scientific study of the `interaction between matter and electromagnetic radiation`. When light (or any electromagnetic wave) interacts with atoms, molecules, or ions, it may be **absorbed**, **emitted**, or **scattered**. By measuring these interactions, spectroscopy `reveals the physical, chemical, and structural properties` of materials.
+
+Key concepts include:
+
+* **Electromagnetic Radiation:** Consists of photons with specific wavelengths and frequencies.
+* **Energy Levels:** Atoms and molecules have discrete (quantized) energy states.
+* **Absorption:** Occurs when matter takes up photons of certain wavelengths, promoting electrons to higher energy levels.
+* **Emission:** When excited atoms return to lower energy states, they release energy in the form of photons.
+* **Spectrum:** A plot or record showing the intensity of radiation as a function of wavelength or frequency.
+* **Types of Spectroscopy:** UV-Vis, IR, NMR, X-ray, Mass spectroscopy, each providing different information.
+
+Spectroscopy is fundamental in physics, chemistry, soil science, remote sensing, astronomy, and environmental studies.
+</md></sn>
   <config>
     <tags>#concept</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Dec 07 2025 04:22:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Dec 07 2025 04:51:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-fjmp7F7yWM</id>
     <duration></duration>
   </config>
+<sn><md>### Black Body
+
+A **black body** is an idealized physical object that `absorbs all electromagnetic radiation falling on it`, regardless of wavelength or angle. It is also the **perfect emitter** of radiation.
+
+Characteristics:
+
+* **Perfect absorber:** No reflection or transmission.
+* **Perfect emitter:** Emits maximum possible radiation at any temperature (given by Planck’s law).
+* **Emission spectrum depends only on temperature**, not material properties.
+
+Important laws of black body radiation:
+
+* **Planck’s Law:** Governs the spectral distribution of black body radiation.
+* **Wien’s Displacement Law:**
+  $\lambda_{\text{max}} = \frac{b}{T}$
+  Shows that hotter bodies emit shorter wavelengths.
+* **Stefan–Boltzmann Law:**
+  $E = \sigma T^4$
+  Total energy emitted is proportional to the fourth power of absolute temperature.
+
+The Sun closely behaves like a black body at ~5778 K.
+</md></sn><sn><md>### Solar Spectrum
+
+The **solar spectrum** is the `distribution of electromagnetic radiation` emitted by the Sun. It includes a wide range of wavelengths:
+
+* **Ultraviolet (UV):** &lt; 400 nm
+* **Visible Light:** 400–700 nm
+* **Near Infrared:** 700–2500 nm
+* **Thermal Infrared:** 2500 nm and beyond
+
+The solar spectrum observed at Earth’s surface differs from that emitted by the Sun because the Earth’s atmosphere absorbs or scatters certain wavelengths.
+
+Key features:
+
+* Peaks at around `0.48 µm`, which falls in the **visible range**.
+* `UV` radiation is strongly `absorbed by atmospheric gases`.
+* Water vapor, oxygen, carbon dioxide, and ozone create `absorption bands`.
+* Visible light passes through the atmosphere more efficiently, enabling photosynthesis and vision.
+
+The solar spectrum is essential for climate studies, solar energy research, remote sensing, and atmospheric physics.
+</md></sn><sn><md>### Ozone Filter
+
+The **ozone layer** in the Earth’s stratosphere acts as a natural filter for `ultraviolet (UV) radiation` from the Sun.
+
+Functions of the ozone filter:
+
+* **Absorbs almost all UV-C (100–280 nm)**
+* **Absorbs most UV-B (280–315 nm)**
+* **Allows UV-A (315–400 nm) to reach the surface**
+
+By absorbing harmful UV radiation, the ozone layer:
+
+* Protects living organisms from DNA damage.
+* Prevents skin cancer, cataracts, and immune system suppression in humans.
+* Reduces the breakdown of organic matter and plant tissues.
+* Maintains environmental and climatic stability.
+
+The ozone absorption spectrum includes strong absorption bands such as:
+
+* **Hartley band (200–300 nm):** strongest absorption
+* **Huggins band (300–360 nm)**
+* **Chappuis band (400–650 nm)**
+
+These absorption features shape the **solar spectrum reaching Earth**, reducing UV intensity and modifying visible light.
+
+</md></sn><sn><md>### Summary Table
+
+| Topic                        | Key Points                                                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Concepts of Spectroscopy** | Interaction of matter with EM radiation; absorption, emission, spectrum; quantized energy levels.          |
+| **Black Body**               | Perfect absorber &amp; emitter; Planck’s law, Wien’s law, Stefan–Boltzmann law; Sun approximates a black body. |
+| **Solar Spectrum**           | Includes UV, visible, IR; modified by atmosphere; peaks in visible light.                                  |
+| **Ozone Filter**             | Absorbs UV-C and most UV-B; protects life; defined absorption bands (Hartley, Huggins, Chappuis).          |
+</md></sn>
