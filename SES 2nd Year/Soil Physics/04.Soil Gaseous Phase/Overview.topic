@@ -1,5 +1,8 @@
 
-  <sn><md>### Composition of Soil Air vs Atmospheric Air
+  <sn><h3>The Gaseous Phase</h3><tb class="d-block py-2"><pre>| <strong>Topic</strong> | <strong>Content</strong> |
+| ---  | --- |
+| <strong>Soil air &amp; gas exchange</strong> | Composition of soil air and atmospheric air<br> Aeration<br> Mechanisms of soil gas exchange<br> Measurement of Soil aeration<br> Movement of gaseous component in different environmental segments. |
+</pre></tb></sn><sn><md>### Composition of Soil Air vs Atmospheric Air
 
 Soil air differs significantly from atmospheric air because the soil pore space is partly filled with water, partly with gases, and continuously influenced by biological activity, temperature, and moisture.
 
@@ -31,7 +34,7 @@ Soil air differs significantly from atmospheric air because the soil pore space 
     <tags>#overview</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 23 2025 08:30:01 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Dec 07 2025 06:10:28 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-omFJO0CLPR</id>
     <duration></duration>
   </config>
