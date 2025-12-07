@@ -1,10 +1,126 @@
 
-  <sn></sn>
+  <sn><md>## **Darcy’s Law (Simple Explanation + Example)**
+
+### **What is Darcy’s Law?**
+
+Darcy’s law describes how water flows through a **porous material** (like soil, sand, or a filter).
+It says that the **flow rate** is proportional to:
+
+* the **hydraulic conductivity** of the soil (how easily water moves)
+* the **cross-sectional area**
+* the **driving head difference**
+* **inversely** proportional to the length of the soil column
+
+### **Formula**
+
+$$
+Q = K,A,\frac{\Delta h}{L}
+$$
+
+Where
+
+* (Q) = flow rate (cm³/s)
+* (K) = hydraulic conductivity (cm/s)
+* (A) = area of soil column (cm²)
+* (Δh) = difference in water head (cm)
+* (L) = length of soil column (cm)
+
+---
+
+### **Simple Example**
+
+A soil column is:
+
+* Length (L = 20) cm
+* Cross-sectional area (A = 10) cm²
+* Hydraulic conductivity (K = 0.01) cm/s
+* Water head difference (Δh = 5) cm
+
+**Find the flow rate (Q).**
+
+$$
+Q = 0.01 \times 10 \times \frac{5}{20}
+$$
+
+$$
+Q = 0.01 \times 10 \times 0.25
+$$
+
+$$
+\boxed{Q = 0.025\ \text{cm³/s}}
+$$
+
+This means **0.025 cm³ of water flows per second** through the soil.
+
+---
+
+---
+
+## **Capillary Rise (Capillary Height Equation)**
+
+### **What is Capillary Rise?**
+
+Capillary rise describes how water **moves upward in a tiny tube or small soil pores** due to surface tension.
+
+Water “climbs” because it sticks to the tube wall (adhesion) and pulls itself upward (cohesion).
+
+### **Formula**
+
+$$
+h=\frac{2\gamma\cos\theta}{\rho g r}
+$$
+
+Where
+
+* $h$ = capillary rise height (cm)
+* $\gamma$ = surface tension
+* $\theta$ = contact angle (0° for water in glass)
+* $\rho$ = density of water
+* $g$ = gravity
+* $r$ = radius of tube
+
+---
+
+### **Simple Example**
+
+A glass capillary tube has:
+
+* Radius (r = 0.05) cm
+* Surface tension (γ = 73) g/s²
+* Contact angle (θ = 0°) → cosθ = 1
+* Water density (ρ = 1) g/cm³
+* Gravity (g = 980) cm/s²
+
+Find capillary rise height.
+
+$$
+h = \frac{2\times 73 \times 1}{1 \times 980 \times 0.05}
+$$
+
+$$
+h = \frac{146}{49}
+$$
+
+$$
+\boxed{h \approx 2.98\ \text{cm}}
+$$
+
+Water will rise **approximately 3 cm** in the tube.
+
+---
+
+## Summary Table
+
+| Concept            | Formula                  | Simple Meaning                                                  | Simple Example Result |
+| ------------------ | ------------------------ | --------------------------------------------------------------- | --------------------- |
+| **Darcy’s Law**    | (Q = K A (Δh/L))         | Water flow through soil depends on K, area, and head difference | 0.025 cm³/s           |
+| **Capillary Rise** | (h = 2γ\cosθ/(\rho g r)) | Water climbs upward in a thin tube                              | 3 cm rise             |
+</md></sn>
   <config>
     <tags>#darcys law</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Dec 07 2025 11:29:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Dec 07 2025 11:29:30 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-tbyRvzLieK</id>
     <duration></duration>
   </config>
