@@ -4,7 +4,7 @@
     <tags>#02.mean</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 25 2025 18:41:42 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Fri Dec 12 2025 21:02:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-r2IzMIRLzS</id>
     <duration></duration>
   </config>
@@ -42,6 +42,45 @@ $$\text{Mean} = \frac{Σfx}{n}$$
 * n = number of total observations = Σf
 +++
 
++++ Qn : In discrete series why the mean eqation is sum of `f`x by n
+
+In discrete series, each value does **not** appear once.
+Some values repeat several times, so you are given their **frequency (f)**.
+
+Example:
+
+| X | f |
+| - | - |
+| 2 | 3 |
+| 4 | 5 |
+
+This means:
+
+* 2 appears 3 times
+* 4 appears 5 times
+
+So the total sum of observations is:
+
+$$
+\text{Total} = 2+2+2+4+4+4+4+4
+$$
+
+Instead of repeating, we use:
+
+$$
+\sum fX
+$$
+
+Thus the mean becomes:
+
+$$
+\bar{X}=\frac{\sum fX}{\sum f}
+$$
+
+And in discrete series, $\sum f = n$, the total number of observations.
+
++++
+
 
 | Value (x) | Frequency (f) |
 | --------- | ------------- |
@@ -73,6 +112,60 @@ $$\text{Mean} = \frac{Σfm}{n}$$
 +++ here
 * Σfm = sum of all frequency $\times$ midpoint
 * n = number of all observation = Σf
++++
+
++++ **Why We Use Mid-Point (Class Mark) in Continuous Series to Calculate Mean**
+
+In a **continuous series**, data is given in **class intervals**, not as exact values.
+
+Example:
+
+| Class Interval | Frequency |
+| -------------- | --------- |
+| 0–10           | 5         |
+| 10–20          | 8         |
+| 20–30          | 7         |
+
+Here, you **don’t know the individual values** inside each interval.
+You only know:
+
+* Between 0 and 10 → 5 students
+* Between 10 and 20 → 8 students
+* etc.
+
+**Problem**
+
+If you don't know the exact values inside the interval, you cannot directly compute the mean.
+
+**Solution**
+
+We assume that **all data in an interval is evenly spread**, so the best representative value is the **mid-point**:
+
+$$
+m = \frac{\text{lower limit + upper limit}}{2}
+$$
+
+Thus, we compute mean using:
+
+$$
+\bar{X} = \frac{\sum fm}{\sum f}
+$$
+
+Where **m = midpoint**.
+
+---
+
+**Why Mid-Point Represents the Class Interval**
+
+Because the midpoint is:
+
+* The central value of the class
+* The **best approximation** of the whole class
+* Statistically unbiased if distribution inside the class is uniform
+* Easy to compute and widely used in grouped data analysis
+
+Since we assume data is **uniformly distributed** within each class, the middle of the class gives the average value for that class.
+
 +++
 
 | Class Interval | Frequency |
@@ -149,5 +242,5 @@ Mean = Σfm / n = 795 / 35 = **22.71**
 | **Individual Series**                    | $\displaystyle \bar{x} = \frac{\sum x}{n}$                                                                     |
 | **Discrete Series**                      | $\displaystyle \bar{x} = \frac{\sum fx}{n}$  &nbsp;&nbsp;where $n = \sum f$                                            |
 | **Continuous Series (Exclusive Method)** | $\displaystyle \bar{x} = \frac{\sum fm}{n}$  &nbsp;&nbsp;where $m = \frac{\text{lower limit} + \text{upper limit}}{2}$ |
-| **Continuous Series (Inclusive Method)** | Step 1: Convert inclusive → exclusive. <br> Step 2: Use $\displaystyle \bar{x} = \frac{\sum fm}{n}$            |
+| **Continuous Series (Inclusive Method)** | $\displaystyle \bar{x} = \frac{\sum fm}{n}$            |
 </md></sn>
