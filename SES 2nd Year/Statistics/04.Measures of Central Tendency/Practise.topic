@@ -1,10 +1,188 @@
 
-  <sn></sn>
+  <sn><md>## Mean{.text-center}
+
+Individual Series{.text-end}
+
+**Question 1:**<br>
+The ages of 6 students are: 12, 15, 14, 10, 18, 11. Find the mean age.<br>
+**Answer:** 13.33
+
+**Question 2:**<br>
+Marks obtained by 5 students are: 40, 55, 60, 50, 45. Find the mean.<br>
+**Answer:** 50
+
+---
+
+Discrete Series{.text-end}
+
+**Question 3:**<br>
+The following table shows the number of books read by students in a month:
+
+| Books (x)     | 0 | 1 | 2 | 3 | 4 |
+| ------------- | - | - | - | - | - |
+| Frequency (f) | 2 | 3 | 5 | 4 | 1 |
+
+Find the mean number of books read.<br>
+**Answer:** 1.93
+
+**Question 4:**<br>
+A survey recorded the number of pets owned by 10 families:
+
+| Pets (x)      | 0 | 1 | 2 | 3 |
+| ------------- | - | - | - | - |
+| Frequency (f) | 3 | 4 | 2 | 1 |
+
+Find the mean number of pets.<br>
+**Answer:** 1.1
+
+---
+
+Continuous Series{.text-end}
+
+**Question 5:**<br>
+The marks of 40 students are grouped as follows:
+
+| Marks (x)     | 0-10 | 10-20 | 20-30 | 30-40 |
+| ------------- | ---- | ----- | ----- | ----- |
+| Frequency (f) | 5    | 10    | 15    | 10    |
+
+Find the mean marks.<br>
+**Answer:** 22.5
+
+**Question 6:**<br>
+The heights of 50 plants are grouped as:
+
+| Height (cm)   | 50-60 | 60-70 | 70-80 | 80-90 |
+| ------------- | ----- | ----- | ----- | ----- |
+| Frequency (f) | 8     | 12    | 20    | 10    |
+
+Find the mean height.<br>
+**Answer:** 71.6</md></sn>
   <config>
     <tags>#practise</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Dec 13 2025 08:02:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Dec 13 2025 09:18:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-LPEOPKApwj</id>
     <duration></duration>
   </config>
+<sn><md>## Median{.text-center}
+
+Individual Series{.text-end}
+
+**Question 1:**<br>
+The marks of 7 students are: 12, 15, 14, 10, 18, 11, 13. Find the median.<br>
+**Answer:** 13
+
+**Question 2:**<br>
+The ages of 6 students are: 20, 25, 22, 28, 24, 26. Find the median.<br>
+**Answer:** 24.5
+
+---
+
+Discrete Series{.text-end}
+
+**Question 3:**<br>
+Number of books read by students in a month:<br>
+
+| Books (x)     | 0 | 1 | 2 | 3 | 4 |
+| ------------- | - | - | - | - | - |
+| Frequency (f) | 2 | 3 | 5 | 4 | 1 |
+
+Find the median number of books.<br>
+**Answer:** 2
+
+**Question 4:**<br>
+Number of pets owned by 10 families:
+
+| Pets (x)      | 0 | 1 | 2 | 3 |
+| ------------- | - | - | - | - |
+| Frequency (f) | 3 | 4 | 2 | 1 |
+
+Find the median number of pets.<br>
+**Answer:** 1
+
+---
+
+Continuous Series{.text-end}
+
+**Question 5:**<br>
+Marks of 40 students:
+
+| Marks (x)     | 0-10 | 10-20 | 20-30 | 30-40 |
+| ------------- | ---- | ----- | ----- | ----- |
+| Frequency (f) | 5    | 10    | 15    | 10    |
+
+Find the median marks.<br>
+**Answer:** 23.33
+
+**Question 6:**<br>
+Heights of 50 plants:
+
+| Height (cm)   | 50-60 | 60-70 | 70-80 | 80-90 |
+| ------------- | ----- | ----- | ----- | ----- |
+| Frequency (f) | 8     | 12    | 20    | 10    |
+
+Find the median height.<br>
+**Answer:** 72.5
+</md></sn><sn><md>## Mode{.text-center}
+
+
+Individual Series{.text-end}
+
+**Question 1:**<br>
+Marks of 8 students: 12, 15, 14, 10, 18, 11, 14, 12. Find the mode.<br>
+**Answer:** 12, 14 (Bimodal)
+
+**Question 2:**<br>
+Ages of 7 students: 20, 25, 22, 28, 24, 26, 22. Find the mode.<br>
+**Answer:** 22
+
+---
+
+Discrete Series{.text-end}
+
+**Question 3:**<br>
+Number of books read by students in a month:
+
+| Books (x)     | 0 | 1 | 2 | 3 | 4 |
+| ------------- | - | - | - | - | - |
+| Frequency (f) | 2 | 3 | 5 | 4 | 1 |
+
+Find the mode.<br>
+**Answer:** 2
+
+**Question 4:**<br>
+Number of pets owned by 10 families:
+
+| Pets (x)      | 0 | 1 | 2 | 3 |
+| ------------- | - | - | - | - |
+| Frequency (f) | 3 | 4 | 2 | 1 |
+
+Find the mode.<br>
+**Answer:** 1
+
+---
+
+Continuous Series{.text-end}
+
+**Question 5:**<br>
+Marks of 40 students:
+
+| Marks (x)     | 0-10 | 10-20 | 20-30 | 30-40 |
+| ------------- | ---- | ----- | ----- | ----- |
+| Frequency (f) | 5    | 10    | 15    | 10    |
+
+Find the modal marks.<br>
+**Answer:** 25
+
+**Question 6:**<br>
+Heights of 50 plants:
+
+| Height (cm)   | 50-60 | 60-70 | 70-80 | 80-90 |
+| ------------- | ----- | ----- | ----- | ----- |
+| Frequency (f) | 8     | 12    | 20    | 10    |
+
+Find the modal height.<br>
+**Answer:** 74.44
+</md></sn>
