@@ -1,0 +1,57 @@
+
+	<sn><md>## Population{.text-center .fg-red}
++++ diagram
+![image](https://www.scribbr.com/wp-content/uploads/2019/09/population-vs-sample-1.png)
++++
+
+In statistics, the term **population** refers to the `entire group of individuals, items, or observations` that a researcher is interested in studying. It is the `complete set` from which a sample may be drawn for analysis and conclusions.
+
+---
+
+### Definition
+
+A **population** is the whole set of elements (people, objects, events, etc.) that possess a common characteristic defined for a particular statistical study.
+
+---
+
+### Examples of Population
+
+| Population Type       | Example                              |
+| --------------------- | ------------------------------------ |
+| Human Population      | All students in a school             |
+| Object Population     | All books in a library               |
+| Event Population      | All accidents on a highway in a year |
+| Data-Based Population | All test scores in a national exam   |
+
+---
+
+### Types of Population
+
+| Type                    | Description                                                | Example                         |
+| ----------------------- | ---------------------------------------------------------- | ------------------------------- |
+| **Finite Population**   | Has a countable number of elements                         | Number of students in a class   |
+| **Infinite Population** | Cannot be counted or has endless elements                  | Number of stars in the universe |
+| **Target Population**   | The population about which information is required         | All citizens eligible to vote   |
+| **Sampled Population**  | The portion of the population actually `observed or studied` | Students selected for a survey  |
+
+---
+
+### Importance of Defining Population
+
+* Defines the scope
+* Guides sample selection
+* Affects accuracy
+
+
+### Conclusion
+
+Understanding the concept of **population** is essential in statistics as it sets the foundation for data collection and analysis. A well-defined population ensures that the results of a `study are valid, reliable, and applicable` to the real world.
+</md></sn>		
+	<config>
+		<tags>#06.populations</tags>
+		<thumbnail></thumbnail>
+		<heading></heading>
+		<udate>Wed Aug 06 2025 20:49:01 GMT+0600 (Bangladesh Standard Time)</udate>
+		<id>article-DKtdzCiJbF</id>
+		<duration></duration>
+	</config>
