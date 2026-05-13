@@ -1,10 +1,29 @@
 
-  <sn></sn>
+  <sn><md>### Environmental Pollution and Mitigation Practical
+
+| Item            | Details                                                                                                                           |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code** | 05210201302                                                                                                                       |
+| **Credit**      | 1.0                                                                                                                               |
+| **Rationale**   | This field-based course provides practical experience in environmental monitoring and problem-solving for sustainable development |</md></sn>
   <config>
     <tags>#environmental pollution and mitigation practical</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:17:30 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:19:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nXnYfNtrBj</id>
     <duration></duration>
   </config>
+<sn><md>### Course Learning Outcomes (CLOs)
+
+* **CLO 1:** Understand the use of instruments for environmental analysis.
+* **CLO 2:** Organize and manage industrial site visits and sample collections.
+* **CLO 3:** Analyze and evaluate real-world environmental conditions.
+* **CLO 4:** Design practical plans for pollution management and mitigation.</md></sn><sn><md>### Course Contents
+
+| Topic                   | Details                                                                                                                                                                                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Field Visits**        | Sample collection from forest patches<br>wetlands<br>coastal areas<br>industrial sites                                                                                                                                                                                            |
+| **Laboratory Analysis** | Water and wastewater testing (pH, EC, DO, BOD, COD, TDS, TSS)<br>air pollutant measurement (SO₂, CO₂)<br>biotreatment of industrial effluents<br>biogas production from organic waste<br>solid waste estimation and segregation<br>design of point-of-use water treatment systems |
+
+</md></sn>
