@@ -1,10 +1,46 @@
 
-  <sn></sn>
+  <sn><md>## Ecology and Ecotourism
+
+| Item              | Details                                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code**   | 05210201303                                                                                                                                           |
+| **Course Status** | Core                                                                                                                                                  |
+| **Credit**        | 3.0                                                                                                                                                   |
+| **Rationale**     | This course is designed to provide students with foundational knowledge regarding soil ecology, various ecosystems, and the principles of eco-tourism |</md></sn>
   <config>
     <tags>#ecology and ecotourism</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:05:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:07:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-307ffB7mw9</id>
     <duration></duration>
   </config>
+<sn><md>### Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Describe key concepts of ecology, ecological processes, and the links between species, habitats, and ecosystem dynamics.
+* **CLO 2:** Identify key relationships between soil biota and the ecosystem, and understand how biodiversity and soil processes relate to one another.
+* **CLO 3:** Explain major biodiversity conservation techniques and the principles of population dynamics.
+* **CLO 4:** Identify problems within eco-tourism and develop strategies to resolve them.
+</md></sn><sn><md>### Course Contents
+
+| Topic                        | Details                                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ecology**                  | Definitions<br>scope<br>principles of thermodynamics in relation to ecology<br>freshwater, marine, estuarine, and radiation ecology      |
+| **Ecosystem**                | Definition<br>structure<br>components<br>primary and secondary production<br>energy flow<br>food chains and food webs<br>energy exchange |
+| **Community Dynamics**       | Ecological succession<br>types of succession<br>succession process<br>stabilization                                                      |
+| **Ecological Interactions**  | Plant/microbe, animal/microbe, animal/animal relationships<br>mutualism<br>competition<br>commensalism<br>parasitism<br>predation        |
+| **Biomass and Biodiversity** | Microbial biomass<br>levels and types of biodiversity<br>global biodiversity crisis and loss<br>conservation techniques                  |
+| **Soil Biotechnology**       | Genetically modified plants and microbes                                                                                                 |
+| **Population Growth**        | Growth theories<br>fertility<br>mortality<br>migration<br>population change factors<br>world and Bangladesh growth patterns              |
+| **Ecotourism**               | Definition<br>natural and manmade tourist spots in Bangladesh<br>prospects and drawbacks<br>popularization strategies                    |
+| **Values of Ecotourism**     | Aesthetic, scientific, and educational values<br>parks and protected areas (IUCN categories)<br>institutional frameworks in Bangladesh   |
+</md></sn><sn><md>### Recommended Readings
+
+* Ecology
+* Essentials of Ecology
+* Soil Ecology
+* Ecology: Concepts and Applications
+* A Handbook on Analysis of Soil, Plant and Water
+</md></sn>
