@@ -1,10 +1,47 @@
 
-  <sn></sn>
+  <sn><md>### Biochemistry of Soil and Environment
+
+| Item              | Details                                                                                                                                                                                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Course Code**   | 08880201307                                                                                                                                                                                                                                                  |
+| **Course Status** | Core                                                                                                                                                                                                                                                         |
+| **Credit**        | 3.0                                                                                                                                                                                                                                                          |
+| **Rationale**     | This course provides fundamental knowledge of biochemistry within the soil and environment.<br>It offers insights into improving agricultural productivity and environmental sustainability through the study of biochemical reactions in the soil ecosystem |
+
+</md></sn>
   <config>
     <tags>#biochemistry of soil and environment</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:34:08 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:35:46 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-81ltMyxtmM</id>
     <duration></duration>
   </config>
+<sn><md>### Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Acquire basic knowledge of general biochemistry and soil biochemistry.
+* **CLO 2:** Understand soil health, plant growth, soil enzymes, and biogeochemical cycles.
+* **CLO 3:** Understand macromolecule structure and their chemical and microbial decomposition in soil.
+* **CLO 4:** Understand nitrogen fixation, nitrification, denitrification, rhizosphere, and mycorrhizal fungi.
+</md></sn><sn><md>### Course Contents
+
+| Topic                                 | Details                                                                                       |
+| ------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Introduction**                      | Basic biochemistry<br>role in soil and environment<br>concepts of metabolism                  |
+| **Enzymes**                           | Characteristics<br>functions<br>nomenclature<br>classification<br>mechanisms of enzyme action |
+| **Carbohydrates**                     | Monosaccharides<br>polysaccharides<br>cellulose<br>starch<br>glucosamine<br>hemicellulose     |
+| **Lignin and Chitin**                 | Occurrence<br>composition<br>importance<br>microbial decomposition factors                    |
+| **Proteins**                          | Occurrence<br>composition<br>importance<br>microbial decomposition factors                    |
+| **Biological Nitrogen Fixation**      | Symbiotic and non-symbiotic fixation<br>nodulation<br>cross-inoculation groups                |
+| **Nitrification and Denitrification** | Mechanisms<br>factors<br>environmental consequences                                           |
+| **Rhizosphere**                       | Concepts<br>types<br>agricultural significance                                                |
+| **Mycorrhiza**                        | Types<br>mechanisms<br>role in soil fertility                                                 |</md></sn><sn><md>### Recommended Readings
+
+* *Soil Biochemistry* — Haider, K. &amp; Schäffer, A. (2014)
+* *Humic Matter in Soil and the Environment: Principles and Controversies* — Tan, K. H. (2014)
+* *Introduction to Soil Microbiology* — Alexander, M. (1977)
+* *Soil Ecology* — Killham, K. (1994)
+* *Cycles of Soil: Carbon, Nitrogen, Phosphorus, Sulfur, Micronutrients* — Stevenson, F. J. (1986)
+</md></sn>
