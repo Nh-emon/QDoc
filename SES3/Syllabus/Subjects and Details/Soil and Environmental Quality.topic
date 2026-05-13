@@ -1,10 +1,45 @@
 
-  <sn></sn>
+  <sn><md>### Soil and Environmental Quality
+
+
+| Item              | Details                                                                                                                                                                                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code**   | 07120201301                                                                                                                                                                                                                                                                                                            |
+| **Course Status** | Core                                                                                                                                                                                                                                                                                                                   |
+| **Credit**        | 3.0                                                                                                                                                                                                                                                                                                                    |
+| **Rationale**     | This course provides a comprehensive understanding of the interconnections between soil, water, and air quality.<br>It emphasizes impacts on sustainable land and forest management.<br>It equips students to address contemporary environmental challenges and promote sustainable practices in Bangladesh and beyond |
+
+---
+
+Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Understand soil, water, and air quality<br>and assess environmental conditions effectively.
+* **CLO 2:** Develop practical skills in measuring and monitoring quality indicators<br>and understand their implications for soil health and agriculture.
+* **CLO 3:** Understand environmental laws and remediation strategies<br>to prepare for responsible decision-making in environmental management.
+
+</md></sn>
   <config>
     <tags>#soil and environmental quality</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 10:45:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 10:57:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-o5nyUX6C8q</id>
     <duration></duration>
   </config>
+<sn><md>### Course Contents
+
+| Topic                                      | Details                                                                                                                                                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Soil Quality Concept**                   | Physical, chemical, and biological indicators<br>importance of soil quality<br>assessment<br>how earthworm populations can be improved<br>importance of monitoring changes                                      |
+| **Environmental Quality**                  | Modern concepts<br>legal aspects<br>environmental rights and issues<br>standards, pollution, and contamination<br>remediation of soil from inorganic and organic contaminants                                   |
+| **Sustainable Land and Forest Management** | Concepts<br>land resources of Bangladesh<br>land degradation causes and effects<br>strategies for sustainable management<br>ecosystem services provided by forests<br>objectives of forest soil management      |
+| **Water Quality**                          | Definition<br>parameters and requirements<br>standards and classification<br>physical and chemical processes in surface water<br>soil–water interactions<br>monitoring and purification processes               |
+| **Air Quality**                            | Definition<br>standard setting process<br>classification of air pollutants<br>ambient air<br>sources and effects of air pollution<br>AQI in Bangladesh<br>global policies on ozone depletion and climate change |
+</md></sn><sn><md>### Recommended Readings
+
+* Fundamentals of Environmental Studies
+* Environmental Chemistry
+* Ambient Air Quality in Bangladesh
+* A Handbook on Analyses of Soil, Plant and Water</md></sn><sn></sn>
