@@ -1,10 +1,38 @@
 
-  <sn></sn>
+  <sn><md>## Ecology and Ecotourism Fieldwork
+
+
+| Item              | Details                                                                                                                 |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Course Code**   | 05210201304                                                                                                             |
+| **Course Status** | Core                                                                                                                    |
+| **Credit**        | 1.0                                                                                                                     |
+| **Rationale**     | This course provides practical skills for studying ecology and applying ecosystem-based management tools and strategies |
+
+</md></sn>
   <config>
     <tags>#ecology and ecotourism practical</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:08:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:10:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PdreAsJIwk</id>
     <duration></duration>
   </config>
+<sn><md>### Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Gain a practical understanding of major ecosystems found in Bangladesh.
+* **CLO 2:** Measure microbial biomass (Carbon, Nitrogen, and Phosphorus).
+* **CLO 3:** Calculate primary productivity in aquatic communities and observe effects of plant competition.</md></sn><sn><md>### Course Contents
+
+| Topic                              | Details                                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Microbial Biomass &amp; Gas Fluxes** | Estimation of microbial biomass (C, N, and P)<br>measurement of gas fluxes                      |
+| **Aquatic Productivity**           | Determination of productivity in aquatic ecosystems<br>quantification of bloom-forming plankton |
+| **Producer Biomass**               | Determination of biomass of producers in a designated area                                      |
+| **Pond Ecosystem Study**           | Study of biotic components of a pond ecosystem (Barishal University Campus)                     |
+
+
+
+</md></sn>
