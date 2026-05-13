@@ -1,10 +1,111 @@
 
-  <sn></sn>
+  <sn><md>### Course Overview
+
+This course introduces chemical reactions and processes occurring in soils and the environment, with special emphasis on soil–plant relationships, nutrient cycling, ion behavior, pollutant movement, and environmental remediation.
+
+---
+ Course Learning Outcomes (CLOs)
+
+**CLO 1**
+Demonstrate knowledge of the chemistry of different soil phases and atmospheric spheres.
+
+**CLO 2**
+Understand the significance of biochemical processes active on the Earth's surface.
+
+**CLO 3**
+Acquire knowledge about soil and environmental pollutants.
+
+**CLO 4**
+Identify and manage problem soils.
+</md></sn>
   <config>
     <tags>#soil and environmental chemistry</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 10:10:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 10:13:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4KqEYOHVgg</id>
     <duration></duration>
   </config>
+<sn><md>### Course Contents
+
+#### 1. Concept of Soil and Environmental Chemistry
+
+* Scope of the discipline
+* Properties of soil inorganic colloids
+* Importance of inorganic colloids
+
+#### 2. Matter and Cycles of Matter
+
+* Endogenic cycles
+* Exogenic cycles
+* Pollution in different environmental spheres
+
+#### 3. Pollutants and Contaminants
+
+* Chemical fate of pollutants
+* Transport mechanisms
+* Distribution and transformation
+* Organic and inorganic pollutants in:
+
+  * Atmosphere
+  * Hydrosphere
+  * Geosphere
+
+#### 4. Humus — Chemical Composition
+
+* Classification of humus
+* Chemical properties
+* Role of organic matter in soil properties
+* Importance in pollution control
+
+#### 5. Liquid Phase
+
+* Dynamic equilibrium of soil solution
+* Factors affecting composition
+* Salt movement in soils
+* Importance in soil development
+* Role in plant growth
+
+#### 6. Ion Exchange Reactions in Soils
+
+* Cation exchange
+* Anion exchange
+* Ligand exchange
+* Origin of exchange properties
+* Importance in environmental remediation
+
+#### 7. Soil Reaction
+
+* Active acidity
+* Exchange acidity
+* Potential acidity
+* Soil acidification
+* Soil alkalization
+* Importance of soil pH in crop growth
+
+#### 8. Chemistry of Soil Amendments
+
+* Soil buffering mechanisms
+* Amelioration of acidic and alkaline soils
+* Liming materials
+* Sulphur and other acid-forming materials
+
+#### 9. Organo-mineral Associations
+
+* Formation mechanisms
+* Effects on soil properties
+* Environmental significance
+
+#### 10. Water Pollution and Pollutants
+
+* Redox processes in aquatic systems
+* pE–pH relationships
+* Free energy concepts
+</md></sn><sn><md>### Recommended Readings
+
+1. **The Nature and Properties of Soils**
+2. **Principles of Soil Chemistry**
+3. **Environmental Soil Science**
+4. **A Handbook on Analysis of Soil, Plant and Water**
+5. **Soil Chemical Analysis**
+</md></sn><sn></sn>
