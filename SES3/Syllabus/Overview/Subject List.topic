@@ -1,10 +1,33 @@
 
-  <sn></sn>
+  <sn><md>### Subject List
+
+| Course Code | Course Title | Credits |
+| :--- | :--- | :--- |
+| **08880201301** | Pedology | 3.0 |
+| **08880201302** | Pedology Practical | 1.0 |
+| **08880201303** | Soil and Environmental Chemistry | 3.0 |
+| **08880201304** | Soil and Environmental Chemistry Practical | 1.0 |
+| **08880201305** | Soil Fertility and Plant Nutrition | 3.0 |
+| **08880201306** | Soil Fertility and Plant Nutrition Practical | 1.0 |
+| **08880201307** | Biochemistry of Soil and Environment | 3.0 |
+| **08880201308** | Soil Biochemistry Practical | 1.0 |
+| **08880201309** | Soil and Environmental Toxicology | 3.0 |
+| **08880201310** | Viva-voce | 2.0  |
+| **05210201301** | Environmental Pollution and Mitigation | 3.0 |
+| **05210201302** | Environmental Pollution and Mitigation Practical | 1.0 |
+| **05210201303** | Ecology and Ecotourism | 3.0  |
+| **05210201304** | Ecology and Ecotourism Fieldwork | 1.0 |
+| **07120201301** | Soil and Environmental Quality | 3.0 |
+| **07120201302** | Soil and Environmental Quality Practical | 1.0 |
+| **Total** | | **33.0** |
+
+The third-year curriculum consists of **15 core and practical courses** plus a **viva-voce**. The 33.0 total credits are divided between theoretical study (contact hours per week vary) and practical laboratory or fieldwork components
+</md></sn>
   <config>
     <tags>#subject list</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 09:11:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 09:15:04 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-EHTJ3QxugF</id>
     <duration></duration>
   </config>
