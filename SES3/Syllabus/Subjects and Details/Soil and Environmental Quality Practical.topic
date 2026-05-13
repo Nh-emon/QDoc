@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md>###  Soil and Environmental Quality Practical
+
+
+| Item              | Details                                                                                                                                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code**   | 07120201302                                                                                                                                                                                              |
+| **Course Status** | Core                                                                                                                                                                                                     |
+| **Credit**        | 1.0                                                                                                                                                                                                      |
+| **Rationale**     | This course is designed to equip students with practical skills in monitoring water and air quality<br>enabling them to evaluate ecosystem health and resource safety according to established standards |
+
+---
+
+Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Collect and analyze water samples from various sources<br>and compare findings with established standards.
+* **CLO 2:** Investigate air quality and evaluate data against standard values<br>to identify pollution sources and suggest improvements.</md></sn>
   <config>
     <tags>#soil and environmental quality practical</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 10:58:04 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 10:59:27 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-QUiAnGI6TI</id>
     <duration></duration>
   </config>
+<sn><md>### Course Contents
+
+| Topic                           | Details                                                                                                                                             |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Water Sampling and Analysis** | Collection from river, pond, lake, groundwater, or municipal supply<br>sampling procedures<br>analysis of physicochemical and biological parameters |
+| **Air Quality Monitoring**      | Monitoring of air quality<br>comparison with standard values                                                                                        |
+</md></sn><sn></sn>
