@@ -1,10 +1,122 @@
 
-  <sn></sn>
+  <sn><md>## Soil Fertility and Plant Nutrition (Theory)
+
+| Item          | Details       |
+| ------------- | ------------- |
+| Course Code   | `08880201305` |
+| Course Status | Core          |
+| Credit        | `3.0`         |</md></sn>
   <config>
     <tags>#soil fertility and nutrition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 10:24:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 10:27:01 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-to2t3MjCg3</id>
     <duration></duration>
   </config>
+<sn><md>### Course Overview
+
+This course focuses on nutrient management strategies for sustainable agriculture in the modern era. It emphasizes achieving maximum crop productivity while maintaining ecological balance, environmental quality, and long-term soil resource sustainability.
+
+---
+Course Learning Outcomes (CLOs)
+
+**CLO 1**
+Explain soil fertility, soil productivity, and the roles of essential nutrients in plant growth.
+
+**CLO 2**
+Interpret plant growth patterns, nutrient deficiency symptoms, and soil fertility assessment theories.
+
+**CLO 3**
+Understand nutrient mobility, nutrient interactions, fertilizer application, and fertilizer behavior in soil.
+
+**CLO 4**
+Determine fertilizer requirements and recommend appropriate fertilizer doses for crop production while protecting environmental and human health.</md></sn><sn><md>### Course Contents
+
+#### 1. Introduction
+
+* Concepts of soil fertility and productivity
+* Recent advances in the field
+* Factors affecting plant growth
+* Crop growth indices:
+
+  * CGR (Crop Growth Rate)
+  * RGR (Relative Growth Rate)
+
+#### 2. Nutrients and Plant Growth
+
+* Essentiality criteria of plant nutrients
+* Classification based on:
+
+  * Mobility
+  * Requirement
+* Nutrient deficiency symptoms
+* Mathematical laws of nutrient response:
+
+  * Mitscherlich law
+  * Bray law
+  * Wilcox law
+* Mechanisms of nutrient uptake
+
+#### 3. Fertilizer Response
+
+* Antagonistic nutrient interactions
+* Synergistic nutrient interactions
+* Plant response to fertilizer application
+* Mathematical models of fertilizer response
+
+#### 4. Fertilizer Application
+
+* Methods of fertilizer application
+* Scientific basis of application methods
+* Nutrient movement in soil
+* Nutrient fixation
+* Residual effects of fertilizers
+* Balanced fertilization
+* Harmful effects of improper inorganic fertilizer use:
+
+  * Human health risks
+  * Water pollution
+
+#### 5. Fertilizer Materials
+
+* Classification of fertilizers:
+
+  * Straight fertilizers
+  * Compound fertilizers
+  * Slow-release fertilizers
+* Manufacturing of major fertilizer materials
+* Organic fertilizers
+* Biofertilizers
+* Fertilizer laws and regulations
+
+#### 6. Diagnosis of Fertilizer Needs
+
+* Visual diagnosis of deficiency symptoms
+* Soil analysis
+* Plant analysis
+* Biological assessment methods
+* Calculation of Nutrient Use Efficiency (NUE)
+
+#### 7. Fertilizer Recommendation in **Bangladesh**
+
+* National nutrient status
+* Causes of declining soil fertility
+* Fertilizer recommendation guides
+* Online recommendation systems
+* Field-specific nutrient calculations
+
+#### 8. Fertility Management
+
+* Nutrient budgeting
+* Nutrient planning
+* Nutrient indexing
+* Liming practices
+* Organic farming
+* Global Best Management Practices (BMPs)
+</md></sn><sn><md>### Recommended Readings
+
+1. **Soil Fertility and Fertilizers**
+2. **The Nature and Properties of Soils**
+3. **Fertilizer Recommendation Guide** — Published by **Bangladesh Agricultural Research Council**
+4. **Soil, Plant and Water Analysis**</md></sn>
