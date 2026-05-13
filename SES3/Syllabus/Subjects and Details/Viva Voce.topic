@@ -1,10 +1,41 @@
 
-  <sn></sn>
+  <sn><md>## Viva-voce
+
+| Item            | Details                                                                       |
+| --------------- | ----------------------------------------------------------------------------- |
+| **Course Code** | 08880201310                                                                   |
+| **Credit**      | 2.0                                                                           |
+| **Purpose**     | Evaluation of overall academic understanding gained throughout the third year |
+</md></sn>
   <config>
     <tags>#viva voce</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:26:18 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:29:20 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-sfHXKZcMCr</id>
     <duration></duration>
   </config>
+<sn><md>### Coverage and Content
+
+| Category                  | Details                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **Theoretical Knowledge** | Subjective knowledge gained from all theory courses offered during the year     |
+| **Practical Skills**      | Techniques and competencies learned through laboratory practical courses        |
+| **Fieldwork Experience**  | Observations, data, and insights collected during field visits and site studies |
+</md></sn><sn><md>### Exam Format and Assessment
+
+| Item                  | Details                                                                                                   |
+| --------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Examination Board** | Conducted before a committee of the respective examination board members at the end of final examinations |
+| **Scoring**           | Evaluated individually out of 50 marks, later averaged for final assessment                               |
+| **Mode**              | Usually in-person, but may be conducted online if required                                                |
+| **Study Materials**   | No separate textbook; based on all third-year theory, practical, and field courses                        |
+
+</md></sn><sn><md>### Objectives and Learning Outcomes
+
+The Viva-voce aims to:
+
+1. Review and consolidate subject knowledge gained during the academic year
+2. Improve oral communication and academic presentation skills
+3. Develop professional behavior in formal academic evaluation settings
+</md></sn>
