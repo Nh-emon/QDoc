@@ -1,10 +1,46 @@
 
-  <sn></sn>
+  <sn><md>### Environmental Pollution and Mitigation
+
+| Item            | Details                                                                                                                                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code** | 05210201301                                                                                                                                                                                                                                                                                                               |
+| **Credit**      | 3.0                                                                                                                                                                                                                                                                                                                       |
+| **Rationale**   | This course addresses how anthropogenic activities have led to adverse environmental modifications, including soil, air, water, and sound pollution, global warming, and radioactive contamination.<br>It provides a framework for understanding causes, effects, and control strategies for environmental sustainability |
+
+---
+
+Course Learning Outcomes (CLOs)
+
+Students who complete this course will be able to:
+
+* **CLO 1:** Explain the fate of pollutants in the atmosphere, hydrosphere, and geosphere.
+* **CLO 2:** Identify various types of pollutants and their specific sources.
+* **CLO 3:** Understand the impact of pollution on human health, biodiversity, and ecosystems.
+* **CLO 4:** Explore the legal, social, and economic frameworks required for pollution control.
+* **CLO 5:** Evaluate the life cycle of pollutants and synthesize scientific information for mitigation.</md></sn>
   <config>
     <tags>#environmental pollution and mitigation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:15:09 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:17:01 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nMNik0aMMn</id>
     <duration></duration>
   </config>
+<sn><md>### Course Contents
+
+| Topic                                          | Details                                                                                                                                   |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introduction and Concepts**                  | Nature, types, and distribution of pollutants<br>environmental awareness<br>sources of soil pollution                                     |
+| **Key Definitions**                            | PCBs<br>organometallic compounds<br>radioactive materials<br>biomagnification<br>biological half-life                                     |
+| **Waste Streams**                              | Sewage sludge<br>industrial effluents<br>hospital and city wastes<br>heavy metal permissible limits                                       |
+| **Heavy Metals and Toxins**                    | Arsenic and lead impacts<br>pesticides and fungicides effects<br>soil ecology<br>crop and human health impacts<br>LD50 and biodegradation |
+| **Radioactivity**                              | Natural and artificial sources<br>food chain transfer<br>reactor accidents<br>radioactive waste management                                |
+| **Waste Management &amp; Bioremediation**          | Waste collection and transportation<br>resource recovery<br>bioremediation techniques<br>atmospheric deposition impacts                   |
+| **Industrial Pollution Control in Bangladesh** | Tanning, textile dyeing, fertilizer industries<br>government regulations<br>pollution prevention strategies                               |
+
+</md></sn><sn><md>### Recommended Readings
+
+* The Elements of Environmental Pollution
+* Environmental and Pollution Science
+* A Handbook on Analysis of Soil, Plant and Water
+</md></sn>
