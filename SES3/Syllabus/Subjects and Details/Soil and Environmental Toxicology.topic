@@ -1,10 +1,44 @@
 
-  <sn></sn>
+  <sn><md>### Soil and Environmental Toxicology
+
+| Item            | Details                                                                                                                                                                                                                                                                                                                      |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Course Code** | 08880201309                                                                                                                                                                                                                                                                                                                  |
+| **Credit**      | 3.0                                                                                                                                                                                                                                                                                                                          |
+| **Rationale**   | The course provides a foundational understanding of toxicology, covering **dose-response relationships**, movement of toxicants (absorption, distribution, storage, and elimination), and thermodynamics of environmental contaminants.<br>It also examines chemicals of environmental interest and reviews key case studies |
+</md></sn>
   <config>
     <tags>#soil and environmental toxicology</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 11:23:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed May 13 2026 11:25:21 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iomIBRozDD</id>
     <duration></duration>
   </config>
+<sn><md>### Course Learning Outcomes (CLOs)
+
+Upon completion, students will be able to:
+
+* **CLO 1:** Understand processes and endpoints in the human body related to toxic agent exposure.
+* **CLO 2:** Demonstrate knowledge of risk assessment and management for environmental toxic agents.
+* **CLO 3:** Master major issues and concepts in environmental toxicology.
+* **CLO 4:** Source and synthesize information regarding environmental toxicology and chemistry.
+* **CLO 5:** Analyze the occurrence and significance of major environmental toxicants for public health and sustainability.
+
+</md></sn><sn><md>### Course Contents
+
+| Topic                                        | Details                                                                                                                                              |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introduction to Environmental Toxicology** | Principles<br>classification of toxic substances<br>abiotic transformation<br>environmental transport<br>xenobiotics<br>environmental thermodynamics |
+| **Environmental Toxicants**                  | Sources and exposure pathways<br>biotransformation and metabolism<br>heavy metals, pesticides, PCBs, dioxins<br>air pollutants                       |
+| **Fate of Toxicants**                        | Monitoring techniques<br>bioaccumulation<br>biomagnification<br>transfer between environmental spheres                                               |
+| **Environmental Changes and Health**         | Environmental diseases<br>cancer<br>birth defects<br>respiratory diseases caused by pollutants                                                       |
+| **Mutagenic and Carcinogenic Pollutants**    | Mutation types and effects<br>environmental cancer development stages<br>carcinogen metabolism                                                       |
+| **Action Mechanisms**                        | Toxic effects on plants and mammals<br>endocrine disruption<br>xenobiotic action factors                                                             |
+| **Case Studies**                             | Arsenic ecotoxicology<br>selenium toxicity<br>agrochemical, industrial, and transport-related toxicities                                             |
+
+</md></sn><sn><md>### Recommended Readings
+
+* *Advance in Environmental Science and Technology, Vol. 3: Environmental Biochemistry* — Rajvaidya and Markandey
+* *Fundamentals of Environmental Chemistry* — Stanley E. Manahan
+* *Environmental Toxicology: Impacts of Environmental Toxicants on Living Systems* — Yu</md></sn>
