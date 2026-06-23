@@ -1,10 +1,49 @@
 
-  <sn></sn>
+  
   <config>
     <tags>#exam</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 23 2026 18:50:54 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 23 2026 19:16:19 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4EhyogirGX</id>
     <duration></duration>
   </config>
+<sn><md>#### Botany Exam Topics {.text-center}
+
+* **Algae Identification**
+
+  * Identify the given sample
+  * Find the target algae
+  * Identify the family
+* **Slicing**: Identify the organ from the sliced specimen, draw its image, and label its parts
+* **Disease**: Disease, Cause, and Agent; one will be given, and we have to determine the other two
+</md></sn><sn><md>#### Template {.text-center}
+
+::: .m-3 .border .p-4 .rounded-0
+
+**Date**<br>
+**Roll** (Class Roll) {.text-end}
+
+**Image of Sample**
+
+::: .col-4 .mx-auto
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/330px-Placeholder_view_vector.svg.png)
+:::
+
+:::.text-secondary
+++Scientific Name++ with underline<br>
+Family:<br>
+Identifying Characters:<br>
+Morphological Traits:<br>
+
+* Color
+* Shape
+* Size
+* etc.
+
+:::
+</md></sn><sn><md>##### Important {.fg-yellow}
+
+* Everything must be written in pencil except **Date** and **Roll**.
+* After identifying the algae or sliced specimen, call the teacher ("Mam") and write the species name with a pen. Then Mam will sign the paper, after which you can write the remaining details.
+</md></sn>
