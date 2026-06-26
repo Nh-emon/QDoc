@@ -9,7 +9,7 @@ Host, Pathogen, and Identifying Symptoms of Selected Plant Diseases
     <tags>#plant disease</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Fri Jun 26 2026 22:08:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Fri Jun 26 2026 22:09:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-DUx1XtRFu4</id>
     <duration></duration>
   </config>
@@ -105,13 +105,15 @@ Host, Pathogen, and Identifying Symptoms of Selected Plant Diseases
 :::
 
 :::.col-12 .col-md-6
-| **Feature**              | 
-**Details**                                                                                          |
+
+| **Feature**              | **Details**                                                                                          |
 | ------------------------ | ---------------------------------------------------------------------------------------------------- |
 | **Disease**              | Bacterial Blight of Rice                                                                             |
 | **Host**                 | Rice (*Oryza sativa*)                                                                                |
 | **Pathogen**             | *Xanthomonas oryzae* pv. *oryzae*                                                                    |
 | **Identifying Symptoms** | Water-soaked yellow lesions along leaf margins, progressive leaf blighting, and reduced grain yield. |
+
+
 :::
 :::
 
