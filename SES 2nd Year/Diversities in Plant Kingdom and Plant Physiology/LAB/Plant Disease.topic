@@ -15,7 +15,7 @@ Host, Pathogen, and Identifying Symptoms of Selected Plant Diseases
     <tags>#plant disease</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Jun 27 2026 12:07:03 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Jun 27 2026 12:21:41 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-DUx1XtRFu4</id>
     <duration></duration>
   </config>
@@ -97,32 +97,11 @@ Host, Pathogen, and Identifying Symptoms of Selected Plant Diseases
 | **Disease**              | Stem Rot of Wheat                                                                                                                  |
 | **Host**                 | Wheat (*Triticum aestivum*)                                                                                                        |
 | **Pathogen**             | *Sclerotium rolfsii*                                                                                                               |
-| **Identifying Symptoms** | Rotting of the stem base, wilting, lodging, white cottony mycelial growth, and formation of brown sclerotia near the soil surface. |
+| **Identifying Symptoms** | Rotting of the stem base,<br>wilting, lodging, white cottony mycelial growth,<br> and formation of brown sclerotia near the soil surface. |
 :::
 
 :::.col-12 .col-md-6
 ![img](https://upload.wikimedia.org/wikipedia/commons/6/66/Stem_rust_close_up.jpg)
 :::
 :::
-</md></sn><sn><md>#### Bacterial Blight of Rice
-
-:::.row
-:::.col-12 .col-md-6
-![img](https://highyieldsagro.com/wp-content/uploads/2025/06/Paddy-%E2%80%8B%E2%80%8B%E2%80%8BBacterial-Leaf-Blight-medium.webp)
-:::
-
-:::.col-12 .col-md-6
-
-| **Feature**              | **Details**                                                                                          |
-| ------------------------ | ---------------------------------------------------------------------------------------------------- |
-| **Disease**              | Bacterial Blight of Rice                                                                             |
-| **Host**                 | Rice (*Oryza sativa*)                                                                                |
-| **Pathogen**             | *Xanthomonas oryzae* pv. *oryzae*                                                                    |
-| **Identifying Symptoms** | Water-soaked yellow lesions along leaf margins, progressive leaf blighting, and reduced grain yield. |
-
-
-:::
-:::
-
-
 </md></sn>
