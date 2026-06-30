@@ -3,23 +3,59 @@
 
 The **United States Department of Agriculture (USDA)** has developed a `soil quality test kit` that can be used to `assess soil quality` in the field. The test is designed specifically so that different soils or `different experimental treatments can be compared`. The test includes the following measurements:
 
-| Indicator                        | What it Measures                                                                         | What it Indicates                                                                                               |
-| -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Soil respiration**             | Amount of `CO₂` released from the soil                                                     | Biological activity of the soil                                                                                 |
-| **Infiltration**                 | How fast water can infiltrate into the soil                                              | Soil physical condition                                                                                         |
-| **Bulk density**                 | Mass of soil solids per unit volume of total soil                                        | How well plant seedlings can emerge and how well air can circulate through the soil                             |
-| **Electrical conductivity (EC)** | How well an electrical current travels through the soil water                            | Amount of salt present in the soil                                                                              |
-| **pH**                           | Activity of hydrogen ions in soil water                                                  | Whether the soil is acidic, neutral, or basic                                                                   |
-| **Nitrate**                      | Amount of nitrate available in the soil                                                  | Availability of the essential plant nutrient nitrogen                                                           |
-| **Aggregate stability**          | Extent to which soil aggregates resist falling apart when wetted and struck by raindrops | How well water infiltrates during rainfall or irrigation, and the soil's resistance to erosion by water or wind |
-| **Earthworm counts**             | Number of earthworms in the soil                                                         | Soil fertility and improvement of soil physical properties                                                      |
-| **Penetration resistance (PR)**  | Resistance encountered by roots while growing through the soil                           | Degree of soil compaction, ease of root growth, and potential impact on crop yield                              |
+![image](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm8.png)
 </md></sn>
   <config>
     <tags>#02.assesement</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 13:04:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 15:36:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-km27zW3leR</id>
     <duration></duration>
   </config>
+<sn><md>#### Biological Activity
+
+:::.row
+
+:::.col-12 .col-md-6
+| Indicator                        | What it Measures                                                                         | What it Indicates                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Soil respiration**             | Amount of `CO₂` released from the soil                                                     | Biological activity of the soil                                                                                 |
+| **Earthworm counts**             | Number of earthworms in the soil                                                         | Soil fertility and improvement of soil physical properties                                                      |
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm-9.png)
+:::
+
+:::
+</md></sn><sn><md>#### Chemical Properties
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm-10.png)
+
+| Indicator                        | What it Measures                                                                         | What it Indicates                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Electrical conductivity (EC)** | How well an electrical current travels through the soil water                            | Amount of salt present in the soil                                                                              |
+| **pH**                           | Activity of hydrogen ions in soil water                                                  | Whether the soil is acidic, neutral, or basic                                                                   |
+| **Nitrate**                      | Amount of nitrate available in the soil                                                  | Availability of the essential plant nutrient nitrogen                                                           |
+
+</md></sn><sn><md>### Physical Condition
+
+:::.row
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm-11.png)
+:::
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm-12.png)
+:::
+:::
+
+
+| Indicator                        | What it Measures                                                                         | What it Indicates                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Aggregate stability**          | Extent to which soil aggregates resist falling apart when wetted and struck by raindrops | How well water infiltrates during rainfall or irrigation, and the soil's resistance to erosion by water or wind |
+| **Infiltration**                 | How fast water can infiltrate into the soil                                              | Soil physical condition                                                                                         |
+| **Bulk density**                 | Mass of soil solids per unit volume of total soil                                        | How well plant seedlings can emerge and how well air can circulate through the soil                             |
+| **Penetration resistance (PR)**  | Resistance encountered by roots while growing through the soil                           | Degree of soil compaction, ease of root growth, and potential impact on crop yield                              |
+
+</md></sn>
