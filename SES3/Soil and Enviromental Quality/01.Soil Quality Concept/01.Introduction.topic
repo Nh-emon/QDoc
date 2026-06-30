@@ -45,7 +45,7 @@ Soil quality reflects a combination of physical, chemical and biological propert
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 12:32:57 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 12:38:36 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-z4vzI0iyYx</id>
     <duration></duration>
   </config>
@@ -102,9 +102,14 @@ Soil pores exist between and within aggregates and are occupied by water and air
 ++Micropores++ are `small soil pores` usually found `within structural aggregates`, which are generally `less than 0.08 mm`. <br>
 Suction is required to remove water from micropores.
 
-- Soil structure affects water and air movement through soil, greatly influencing soil's ability to sustain life and perform other vital soil functions. 
+- Soil structure affects `water and air movement` through soil, greatly influencing soil's ability to sustain life and perform other vital soil functions. 
 - Important soil functions related to soil structure are- sustaining biological productivity, regulating and partitioning water and solute flow, cycling and storing of nutrients etc. 
-- Soil structure and macropores are vital to each of these functions based on their influence on water and air exchange, plant root exploration and habitat for soil organisms. 
-- Platy structure is often indicative of compaction. 
-- Granular structure is typically associated with surface soils, particularly those with high organic matter. Granular structure is characterized by loosely packed, crumbly soil aggregates and an inter-connected network of macropores that allow rapid infiltration, good transmission of air, accommodation of soil organisms as well as promote biological productivity. 
-- Structure and pore space of sub-surface layers affects drainage and root penetration.</md></sn>
+- Soil ++structure and macropores++ are vital to each of these functions based on their influence on `water and air exchange`, `plant root exploration and habitat` for soil organisms. 
+- Structure and pore space of ++sub-surface layers++ affects `drainage and root penetration`.
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/soil-quality-dgrm-7.png)
+
+- ++Platy structure++ is often `indicative of compaction`. 
+- ++Granular structure++ is typically associated with `surface soils`, particularly those with `high organic matter`. <br>
+Granular structure is characterized by `loosely packed, crumbly soil aggregates` and an `inter-connected network of macropores` that allow *rapid infiltration, good transmission of air*, accommodation of soil organisms as well as promote biological productivity. 
+</md></sn>
