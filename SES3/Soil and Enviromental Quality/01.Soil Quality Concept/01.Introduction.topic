@@ -45,23 +45,44 @@ Soil quality reflects a combination of physical, chemical and biological propert
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 11:20:21 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 12:00:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-z4vzI0iyYx</id>
     <duration></duration>
   </config>
 <sn><md>#### Define soil health
 
-Soil health is a concept that deals with the integration and optimization of the physical, chemical and biological properties of soil for improved productivity and environmental quality.
+Soil health is a concept that `deals with the integration and optimization` of the physical, chemical and biological properties of soil for improved `productivity and environmental quality`.
 
 **Characteristics of a healthy soil-**
 
-| trait | trait  |
-| --- | --- |
-| **1.** Good soil tilth | **6.** Large population of beneficial organisms |
-| **2.** Sufficient depth | **7.** Low weed pressure |
-| **3.** Sufficient but not excess supply of nutrients | **8.** Resilience when unfavorable conditions occur |
-| **4.** Small population of plant pathogens and insect pests | **9.** Free of chemicals and toxins that may harm the crop |
-| **5.** Good soil drainage | **10.** Resistant to degradation |
+:::.row
+
+:::.col-12 .col-md-4
+**Physical Metrics**
+- Good soil tilth   
+- Sufficient depth  
+- Good soil drainage  
+:::
+
+:::.col-12 .col-md-4
+**Biological Metrics**
+- Large population of beneficial organisms
+- Small population of plant pathogens and insect pests   
+- Low weed pressure 
+:::
+
+:::.col-12 .col-md-4
+**Chemical Metrics**<br>
+- Sufficient but not excess supply of nutrients   
+- Resilience when unfavorable conditions occur
+- Free of chemicals and toxins that may harm the crop
+- Resistant to degradation
+:::
+
+:::
+
+
+
 </md></sn><sn><md>#### How soil structure is related to soil quality?
 
 **Ans:** Soil structure is the `arrangement/combination of primary soil particles (i.e. sand, silt and clay) into aggregates`. Using aggregate size, shape and distinctness as the basis for classes, types and grades respectively soil structure describes the manner in which soil particles are arranged.
