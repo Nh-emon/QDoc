@@ -9,7 +9,7 @@ The **United States Department of Agriculture (USDA)** has developed a `soil qua
     <tags>#02.assesement</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 15:36:39 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 15:39:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-km27zW3leR</id>
     <duration></duration>
   </config>
@@ -58,4 +58,17 @@ The **United States Department of Agriculture (USDA)** has developed a `soil qua
 | **Bulk density**                 | Mass of soil solids per unit volume of total soil                                        | How well plant seedlings can emerge and how well air can circulate through the soil                             |
 | **Penetration resistance (PR)**  | Resistance encountered by roots while growing through the soil                           | Degree of soil compaction, ease of root growth, and potential impact on crop yield                              |
 
+</md></sn><sn><md>### Table
+
+| Indicator                        | What it Measures                                                                         | What it Indicates                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Soil respiration**             | Amount of CO₂ released from the soil                                                     | Biological activity of the soil                                                                                 |
+| **Earthworm counts**             | Number of earthworms in the soil                                                         | Soil fertility and improvement of soil physical properties                                                      |
+| **pH**                           | Activity of hydrogen ions in soil water                                                  | Whether the soil is acidic, neutral, or basic                                                                   |
+| **Electrical conductivity (EC)** | How well an electrical current travels through the soil water                            | Amount of salt present in the soil                                                                              |
+| **Nitrate**                      | Amount of nitrate available in the soil                                                  | Availability of the essential plant nutrient nitrogen                                                           |
+| **Aggregate stability**          | Extent to which soil aggregates resist falling apart when wetted and struck by raindrops | How well water infiltrates during rainfall or irrigation, and the soil's resistance to erosion by water or wind |
+| **Infiltration**                 | How fast water can infiltrate into the soil                                              | Soil physical condition                                                                                         |
+| **Bulk density**                 | Mass of soil solids per unit volume of total soil                                        | How well plant seedlings can emerge and how well air can circulate through the soil                             |
+| **Penetration resistance (PR)**  | Resistance encountered by roots while growing through the soil                           | Degree of soil compaction, ease of root growth, and potential impact on crop yield                              |
 </md></sn>
