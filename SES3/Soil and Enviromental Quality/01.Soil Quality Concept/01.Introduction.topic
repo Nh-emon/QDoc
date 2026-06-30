@@ -28,7 +28,7 @@ Soil quality reflects a combination of physical, chemical and biological propert
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 10:19:39 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 10:41:31 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-z4vzI0iyYx</id>
     <duration></duration>
   </config>
@@ -47,8 +47,16 @@ Soil health is a concept that deals with the integration and optimization of the
 | **5.** Good soil drainage | **10.** Resistant to degradation |
 </md></sn><sn><md>#### How soil structure is related to soil quality?
 
-**Ans:** Soil structure is the arrangement/combination of primary soil particles (i.e. sand, silt and clay) into aggregates. Using aggregate size, shape and distinctness as the basis for classes, types and grades respectively soil structure describes the manner in which soil particles are arranged.
+**Ans:** Soil structure is the `arrangement/combination of primary soil particles (i.e. sand, silt and clay) into aggregates`. Using aggregate size, shape and distinctness as the basis for classes, types and grades respectively soil structure describes the manner in which soil particles are arranged.
 
-Soil pores exist between and within aggregates and are occupied by water and air. Macropores are large soil pores usually between aggregates that are generally greater than 0.08 mm in diameter. Micropores are small soil pores usually found within structural aggregates, which are generally less than 0.08 mm. Suction is required to remove water from micropores.
+Soil pores exist between and within aggregates and are occupied by water and air.<br> 
+++Macropores++ are `large soil pores` usually `between aggregates` that are generally `greater than 0.08 mm` in diameter.<br> 
+++Micropores++ are `small soil pores` usually found `within structural aggregates`, which are generally `less than 0.08 mm`. <br>
+Suction is required to remove water from micropores.
 
-Soil structure affects water and air movement through soil, greatly influencing soil's ability to sustain life and perform other vital soil functions. Important soil functions related to soil structure are- sustaining biological productivity, regulating and partitioning water and solute flow, cycling and storing of nutrients etc. Soil structure and macropores are vital to each of these functions based on their influence on water and air exchange, plant root exploration and habitat for soil organisms. Platy structure is often indicative of compaction. Granular structure is typically associated with surface soils, particularly those with high organic matter. Granular structure is characterized by loosely packed, crumbly soil aggregates and an inter-connected network of macropores that allow rapid infiltration, good transmission of air, accommodation of soil organisms as well as promote biological productivity. Structure and pore space of sub-surface layers affects drainage and root penetration.</md></sn>
+- Soil structure affects water and air movement through soil, greatly influencing soil's ability to sustain life and perform other vital soil functions. 
+- Important soil functions related to soil structure are- sustaining biological productivity, regulating and partitioning water and solute flow, cycling and storing of nutrients etc. 
+- Soil structure and macropores are vital to each of these functions based on their influence on water and air exchange, plant root exploration and habitat for soil organisms. 
+- Platy structure is often indicative of compaction. 
+- Granular structure is typically associated with surface soils, particularly those with high organic matter. Granular structure is characterized by loosely packed, crumbly soil aggregates and an inter-connected network of macropores that allow rapid infiltration, good transmission of air, accommodation of soil organisms as well as promote biological productivity. 
+- Structure and pore space of sub-surface layers affects drainage and root penetration.</md></sn>
