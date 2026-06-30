@@ -3,8 +3,26 @@
 
 #### Define Soil Quality
 
-Soil quality is a measure of the ++capacity or ability++ of a soil to `perform necessary functions`. <br>
-Soil functions include filtering and cleaning water, providing nutrients and water to plants, regulating temperature, recycling and storing nutrients and providing habitats for organisms.<br>
+Soil quality is a measure of the ++capacity or ability++ of a soil to `perform necessary functions`.
+
+
+Soil functions include
+
+:::.row
+:::.col-12 .col-md-6
+**Enviroment**
+- filtering and cleaning water
+- regulating temperature
+- recycling and storing nutrients
+:::
+:::.col-12 .col-md-6
+**Organism**
+- providing nutrients and water to plants and 
+- providing habitats for organisms
+:::
+:::
+
+
 **Doran and Parkin (1994)** defined soil quality as, 'the capacity of a soil to function, within ecosystem and land use boundaries, to sustain productivity, maintain environmental quality and promote plant and animal health.'<br>
 Soil quality reflects a combination of physical, chemical and biological properties.
 
@@ -17,20 +35,17 @@ Soil quality reflects a combination of physical, chemical and biological propert
 
 :::.row
 
-**Inherent Soil Quality**: The inherent soil quality is defined as the aspects of soil quality `relating to a soil's natural composition and properties` influenced by the `factors and processes` of soil formation, in the `absence of human` impacts. {.col-12 .col-md-6}
+**Inherent Soil Quality**: The inherent soil quality is defined as the aspects of soil quality `relating to a soil's natural composition and properties` influenced by the `factors and processes` of soil formation, in the `absence of human` impacts. {.col-12 .col-md-6 .px-2}
 
-**Dynamic Soil Quality**: Dynamic soil quality relates to soil properties that `change as a result of soil use and management` over the human time scale. {.col-12 .col-md-6}
+**Dynamic Soil Quality**: Dynamic soil quality relates to soil properties that `change as a result of soil use and management` over the human time scale. {.col-12 .col-md-6 .px-2}
 
 :::
-
-
-
 </md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jun 30 2026 11:09:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jun 30 2026 11:20:21 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-z4vzI0iyYx</id>
     <duration></duration>
   </config>
