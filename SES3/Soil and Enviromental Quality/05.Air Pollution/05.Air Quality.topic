@@ -1,10 +1,53 @@
 
-  <sn></sn>
+  <sn><md>### Air Quality Index (AQI)
+
+The AQI is a tool for `reporting daily air quality` of any city or country. It tells us `how clean or polluted the air is`, and what associated health effects might be a concern for the public. The AQI focuses on *health effects* that one might experience within a few hours or days after breathing polluted air.
+
+The AQI value runs from `0 to 500`. The ++higher the AQI value++, the ++greater is the level of air pollution++ and the greater is the health concern. For example, an ++AQI of 50++ represents `good air quality` with little potential to affect public health while an ++AQI value of 300++ represents `hazardous air quality`.
+</md></sn>
   <config>
     <tags>#05.air quality</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 19:27:08 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 20:05:41 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UBv3MDwJIn</id>
     <duration></duration>
   </config>
+<sn><md>#### Purpose of AQI:
+
+* Daily release of air quality conditions to the public.
+* Convey the health implications of air quality.
+* Protect public interest and take actions to reduce emissions.
+* Forecast air pollution level.
+
+In Bangladesh, the AQI is based on `5 criteria pollutants` like Particulate Matter ($\text{PM}_{10}$ and $\text{PM}_{2.5}$), $\text{NO}_2$, $\text{CO}$, $\text{SO}_2$ and Ozone ($\text{O}_3$). The AQI standard for Bangladesh is given below:
+
+</md></sn><sn><md>#### Approved Air Quality Index (AQI) for Bangladesh
+
+| Air quality index (AQI) Range | Category | Colour |
+| --- | --- | --- |
+| 0-50 | Good | Green |
+| 51-100 | Moderate | Yellow Green |
+| 101-150 | Caution | Yellow |
+| 151-200 | Unhealthy | Orange |
+| 201-300 | Very Unhealthy | Red |
+| 301-500 | Extremely Unhealthy | Purple |
+</md></sn><sn><md>#### Ambient National Air Quality Standards for Bangladesh Including WHO Guideline
+
+**Air quality standard:** Air quality standards indicate the level of pollutants that can't be exceeded during a specified time period in a specified geographical area, with due reference to the method of measurement, units of measurement, concentration and time of exposure.
+
+The ambient national air quality standards for Bangladesh including WHO guideline is given below:
+
+| Pollutant | Bangladesh Standard | WHO Guideline | Averaging Time |
+| :--- | :--- | :--- | :--- |
+| Carbon Monoxide (CO) | 10 mg/m³ (9 ppm) | 10 mg/m³ | 8 hour |
+| | 40 mg/m³ (35 ppm) | 30 mg/m³ | 1 hour |
+| Lead (Pb) | 0.5 µg/m³ (0.053 ppm) | 0.5 µg/m³ | Annual |
+| Oxides of Nitrogen (NOx) | 100 µg/m³ (0.053 ppm) | - | Annual |
+| Suspended Particulate Matter (SPM) | 200 µg/m³ | - | 8 hour |
+| Particulates (PM₁₀) | 50 µg/m³ (150 µg/m³) | 20 µg/m³ | Annual |
+| Fine Particulates (PM₂.₅) | 15 µg/m³ (65 µg/m³) | 10 µg/m³ | Annual |
+| Ozone (O₃) | 235 µg/m³ (0.12 ppm) | - | 1 hour |
+| | 157 µg/m³ (0.08 ppm) | 100 µg/m³ | 8 hour |
+| Sulfur dioxide (SO₂) | 80 µg/m³ (0.03 ppm) | - | Annual |
+| | 365 µg/m³ (0.14 ppm) | 20 µg/m³ | 24 hour |</md></sn>
