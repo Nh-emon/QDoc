@@ -2,19 +2,37 @@
   <sn><md>### Sources of Air pollution
 
 Many of the pollutants in our atmosphere have `natural as well as human-related origins`. The two major kinds of air pollution sources are:
-
 1. **Stationary sources**
 2. **Mobile sources**
-</md></sn>
+
++++ diagram
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm1.png)
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm2.png)
+
++++</md></sn>
   <config>
     <tags>#04.sources of air pollution</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 19:20:15 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 19:52:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-RyYjyovJUf</id>
     <duration></duration>
   </config>
 <sn><md>#### Stationary sources:
+
+:::.row
+:::.col-12 .col-md-2
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm7.1.png)
+:::
+:::.col-12 .col-md-5
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm7.png)
+:::
+:::.col-12 .col-md-5
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm8.png)
+:::
+:::
+
 
 Stationary sources are those that have a `relatively fixed location`. These include `point` sources, `fugitive` sources and `area` sources.
 
@@ -24,16 +42,30 @@ Stationary sources are those that have a `relatively fixed location`. These incl
 
 </md></sn><sn><md>#### Mobile sources:
 
+:::.row
+:::.col-12 .col-md-8
 Mobile sources are emitters of air pollutants that `move from place to place while yielding emissions`. These include automobiles, trucks, buses, ships, aircraft and trains.
+:::
+
+:::.col-12 .col-md-4
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm5.png)
+:::
+:::
+
+
+
 
 </md></sn><sn><md>#### Natural &amp; Indoor Sources
 
 Besides, there are natural sources of air pollutants.
 
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm3.png)
+
 * **Natural Sources:** `Volcanoes discharge ash`, `acid mist` and $\text{H}_2\text{S}$.`Natural forest fires` create clouds of smoke. `Trees and bushes` emit millions of tons of volatile organic compounds (terpenes and propenes), pollen, spores, viruses, bacteria in the air and cause widespread suffering from allergies and airborne infections.
 * **Indoor Sources:** Pollutants are also found indoor that infiltrate from air outside and from various chemicals used in buildings.
 
-Both inside and outside pollutants create a high risk for human health.</md></sn><sn><md>The quality of air depends on **three factors**:
+Both inside and outside pollutants create a high risk for human health.
+</md></sn><sn><md>The quality of air depends on **three factors**:
 
 1. The amount of pollutants.
 2. The rate at which they are released into the atmosphere.
