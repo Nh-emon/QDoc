@@ -9,20 +9,39 @@ The AQI value runs from `0 to 500`. The ++higher the AQI value++, the ++greater 
     <tags>#05.air quality</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 20:13:57 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 20:16:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UBv3MDwJIn</id>
     <duration></duration>
   </config>
 <sn><md>#### Purpose of AQI:
 
-![dgrm](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm9.png)
-
+:::.row
+:::.col-12 .col-md-6
 * Daily release of air quality conditions to the public.
 * Convey the health implications of air quality.
 * Protect public interest and take actions to reduce emissions.
 * Forecast air pollution level.
+:::
 
+:::.col-12 .col-md-6
+![dgrm](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm9.png)
+:::
+:::
+
+
+:::.row
+:::.col-12 .col-md-4
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm11.png)
+:::
+
+:::.col-12 .col-md-8
 In Bangladesh, the AQI is based on `5 criteria pollutants` like Particulate Matter ($\text{PM}_{10}$ and $\text{PM}_{2.5}$), $\text{NO}_2$, $\text{CO}$, $\text{SO}_2$ and Ozone ($\text{O}_3$). The AQI standard for Bangladesh is given below:
+
+:::
+:::
+
+
+
 
 </md></sn><sn><md>#### Approved Air Quality Index (AQI) for Bangladesh
 
