@@ -1,21 +1,23 @@
 
-  <sn><md>### Sources of Air pollution
+  <sn><md>:::.row
+:::.col-12 .col-md-6
+### Sources of Air pollution
 
 Many of the pollutants in our atmosphere have `natural as well as human-related origins`. The two major kinds of air pollution sources are:
 1. **Stationary sources**
 2. **Mobile sources**
+:::
 
-+++ diagram
-
-![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm1.png)
+:::.col-12 .col-md-6
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/air-quality-dgrm2.png)
-
-+++</md></sn>
+:::
+:::
+</md></sn>
   <config>
     <tags>#04.sources of air pollution</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 19:52:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 19:53:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-RyYjyovJUf</id>
     <duration></duration>
   </config>
