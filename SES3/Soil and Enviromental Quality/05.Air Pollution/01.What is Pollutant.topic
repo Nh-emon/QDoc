@@ -1,10 +1,29 @@
 
-  <sn></sn>
+  <sn><md>### What is pollutant?
+
+A **pollutant** is a chemical or material present at higher than normal concentrations that has adverse effects on any organism. Pollutants are the elements, molecules and particles involved in pollution.
+
+Pollutants can be introduced into the environment in many ways, both naturally and by humans. Many pollutants are introduced/emitted into the environment (atmosphere, soil or water supply) in different ways and they are found in different amounts. Our lives can be harmed when we are exposed to these materials and the effects of these pollutants on humans and plants are well known.
+
+In general, pollutants are of two types:
+
+* **Primary Pollutants:** Formed and emitted directly into the environment.
+* **Secondary Pollutants:** Formed from primary pollutants and external factors.
+
+
+**Different Types of Pollutants Include:**
+
+* Nitrogen oxides ($\text{NO}_x$)
+* Sulfur oxides ($\text{SO}_x$)
+* Particulate matter
+* Ground level ozone ($\text{O}_3$)
+* Volatile organic compounds ($\text{VOCs}$)
+* Peroxyacetyl nitrates ($\text{PANs}$) *(Note: Handwritten correction clarifies "acetyl" in peroxyacetyl)*</md></sn>
   <config>
     <tags>#01.what is pollutant</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 15:08:45 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 15:09:14 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-la9G4xeQND</id>
     <duration></duration>
   </config>
