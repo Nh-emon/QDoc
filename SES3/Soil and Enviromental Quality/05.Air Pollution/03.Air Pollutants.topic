@@ -1,10 +1,48 @@
 
-  <sn></sn>
+  <sn><md>### Air Pollutants
+
+Any `pollutant agent or combination of such agents` including any physical, chemical, biological, radioactive substance or matter which is `emitted into or enters the ambient air at high enough concentrations` and can harm humans, animals, vegetation or materials are called air pollutant.
+
+![diagram](https://cms-img.coverfox.com/Air-pollution-India.jpg)
+</md></sn>
   <config>
     <tags>#03.air pollutants</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 17:25:19 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 17:33:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Gb4bHrf7vc</id>
     <duration></duration>
   </config>
+<sn><md>#### Some important air pollutants are:
+
+| .. | .. | ..  |
+| --- | --- | --- |
+| * $\text{CO}_2$ | * Particulate matter ($\text{PM}_{10}$ and $\text{PM}_{2.5}$) | * $\text{CFCs}$ |
+| * $\text{CO}$ | * Lead | * Phenol |
+| * $\text{NO}_2$ | * Volatile organic compounds ($\text{VOCs}$) | * Formaldehyde |
+| * $\text{SO}_2$ | * Methane |  |
+| * $\text{O}_3$ | * Benzene |  |
+</md></sn><sn><md>#### Health threating air pollutants:
+
+Health threating air pollutants are present in ambient air especially in all urban areas. These are:
+
+|  |  |
+| --- | --- |
+| * $\text{CO}$ | * Lead |
+| * $\text{NO}_2$ | * Volatile organic compounds ($\text{VOCs}$) |
+| * $\text{SO}_2$ | * Particulate matter ($\text{PM}_{10}$ and $\text{PM}_{2.5}$) |
+| * $\text{O}_3$ | * Hydrocarbons |
+</md></sn><sn><md>#### Criteria pollutants:
+
+Criteria pollutants are the only air pollutants with national air quality standards that define allowable concentrations of these substances in ambient air. The Clean Air Act (CAA) of 1970 identified six common air pollutants of concern which are called criteria pollutants.
+
+The criteria pollutants are:
+
+* carbon monoxide ($\text{CO}$)
+* lead ($\text{Pb}$)
+* nitrogen dioxide ($\text{NO}_2$)
+* ozone ($\text{O}_3$)
+* particulate matter ($\text{PM}_{10}$ and $\text{PM}_{2.5}$)
+* sulfur dioxide ($\text{SO}_2$)
+
+Exposure to these substances can cause health effects, environmental effects and property damage. Health effects include heart or lung diseases, respiratory damage, or premature death. Environmental effects include smog, acid rain, radiation and ozone depletion.</md></sn>
