@@ -1,10 +1,43 @@
 
-  <sn></sn>
+  <sn><md>#### According to origin 
+
+:::.row
+:::.col-12 .col-md-6
+**Primary pollutants:** <br>
+Primary pollutants are those emitted directly into the air. The primary pollutants that account for nearly all air pollution problems are $\text{CO}$, particulates, hydrocarbons, nitrogen oxides and sulfur oxides. Each year well over a billion metric tons of these materials enter the atmosphere from human released processes. About half of these is $\text{CO}$, the other four pollutants listed account for a few percent each. Approximately 90% of the carbon monoxide in the atmosphere comes from natural sources and the other 10% mainly comes from fires, automobiles and other sources of incomplete burning of organic compounds.
+:::
+
+:::.col-12 .col-md-6
+**Secondary pollutants:** <br>
+Secondary pollutants are produced through reactions between primary pollutants and normal atmospheric compounds. For example, ozone forms over urban areas through reactions of nitrogen dioxide, sunlight and molecular oxygen. Besides peroxyacyl nitrates ($\text{PANs}$), photo-chemical smog etc. are secondary pollutants.
+:::
+:::
+</md></sn>
   <config>
     <tags>#02.classfication of air pollutant</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 15:38:51 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 01 2026 15:46:25 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4LQmPLdRBI</id>
     <duration></duration>
   </config>
+<sn><md>#### According to chemical composition
+
+:::.row
+:::.col-12 .col-md-6
+**Organic pollutants:** <br>
+Organic pollutants are common atmospheric contaminants that may have a strong effect upon atmospheric quality. They include hydrocarbons, aldehydes, ketones, amines and alcohols etc. Organic pollutants have both direct (cancer caused by exposure to vinyl chloride) and indirect effects (exposure to photochemical smog).
+:::
+
+:::.col-12 .col-md-6
+**Inorganic pollutants:**  <br>
+Inorganic pollutants include—
+* Carbon compounds (e.g., $\text{CO}$ and carbonates)
+* Nitrogen compounds (e.g., $\text{NO}_x$ and $\text{NH}_3$)
+* Sulphur compounds (e.g., $\text{H}_2\text{S}$, $\text{SO}_2$, $\text{SO}_3$ and $\text{H}_2\text{SO}_4$)
+* Halogen compounds (e.g., $\text{HF}$, $\text{HCl}$ and metallic fluorides)
+* Oxidizing agents (e.g., $\text{O}_3$)
+* Inorganic particles (e.g., fly ash, silica, asbestos and dusts from transport, mining, metallurgical and other industrial activities).
+:::
+:::
+</md></sn>
