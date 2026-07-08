@@ -9,7 +9,7 @@ The AQI value runs from `0 to 500`. The ++higher the AQI value++, the ++greater 
     <tags>#05.air quality</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed Jul 01 2026 20:16:23 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Wed Jul 08 2026 19:30:26 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-UBv3MDwJIn</id>
     <duration></duration>
   </config>
@@ -61,11 +61,16 @@ In Bangladesh, the AQI is based on `5 criteria pollutants` like Particulate Matt
 
 The ambient national air quality standards for Bangladesh including WHO guideline is given below:
 
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Quality/resources/Screenshot%20From%202026-07-08%2019-28-47.png)
+
++++ see table
+
 | Pollutant | Bangladesh Standard | WHO Guideline | Averaging Time |
 | :--- | :--- | :--- | :--- |
 | Carbon Monoxide (CO) | 10 mg/m³ (9 ppm) | 10 mg/m³ | 8 hour |
 | | 40 mg/m³ (35 ppm) | 30 mg/m³ | 1 hour |
-| Lead (Pb) | 0.5 µg/m³ (0.053 ppm) | 0.5 µg/m³ | Annual |
+| Lead (Pb) | 0.5 µg/m³ | 0.5 µg/m³ | Annual |
 | Oxides of Nitrogen (NOx) | 100 µg/m³ (0.053 ppm) | - | Annual |
 | Suspended Particulate Matter (SPM) | 200 µg/m³ | - | 8 hour |
 | Particulates (PM₁₀) | 50 µg/m³ (150 µg/m³) | 20 µg/m³ | Annual |
@@ -73,4 +78,6 @@ The ambient national air quality standards for Bangladesh including WHO guidelin
 | Ozone (O₃) | 235 µg/m³ (0.12 ppm) | - | 1 hour |
 | | 157 µg/m³ (0.08 ppm) | 100 µg/m³ | 8 hour |
 | Sulfur dioxide (SO₂) | 80 µg/m³ (0.03 ppm) | - | Annual |
-| | 365 µg/m³ (0.14 ppm) | 20 µg/m³ | 24 hour |</md></sn>
+| | 365 µg/m³ (0.14 ppm) | 20 µg/m³ | 24 hour |
+
++++</md></sn>
