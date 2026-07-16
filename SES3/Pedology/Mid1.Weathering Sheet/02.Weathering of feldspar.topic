@@ -1,10 +1,78 @@
 
-  <sn></sn>
+  <sn><md>### Weathering of Feldspar
+
+On the basis of the `difference in cleavage angles`, feldspars are divided into two primary groups:
+
+* A. `Ortho`clase
+* B. `Plagio`clase
+
+Under the influence of `hydration` and `carbonation`, feldspar breaks down into clay minerals like kaolinite and others.
+</md></sn><sn><md>#### A. Orthoclase Group
+
+**General Decomposition Pathway**
+The schematic chemical equations representing the step-by-step and overall decomposition of orthoclase feldspar are as follows:
+
+$$\begin{aligned} &amp;\text{Hydrolysis:} &amp;&amp; \mathrm{KAlSi_3O_8 + HOH \xrightarrow{\text{hydrolysis}} HAlSi_3O_8\ (Acid\ silicate) + KOH} \\ &amp;\text{Hydration:} &amp;&amp; \mathrm{HAlSi_3O_8 + HOH \xrightarrow{\text{hydration}} H_4Al_2Si_2O_9 + SiO_2} \\ &amp;\text{Carbonation:} &amp;&amp; \mathrm{KOH + CO_2 \xrightarrow{\text{carbonation}} K_2CO_3 + H_2O} \\ \hline &amp;\text{Overall Equation:} &amp;&amp; \mathrm{KAlSi_3O_8\ (Orthoclase\ feldspar) + CO_2 + H_2O \longrightarrow H_4Al_2Si_2O_9 + SiO_2 + K_2CO_3} \end{aligned}$$
+
+**Extreme Weathering Conditions**
+In extreme climatic conditions, such as in humid tropics and subtropics, the resulting kaolinite ($\mathrm{H_4Al_2Si_2O_9}$) decomposes further into oxides of Aluminium ($\mathrm{Al}$) and Silicon ($\mathrm{Si}$):
+
+$$\mathrm{H_4Al_2Si_2O_9 \xrightarrow{\text{high temp.}} Al_2O_3 + SiO_2 + H_2O}$$
+
+**Acidic Environments**
+Under acid conditions, orthoclase transitions into montmorillonite:
+$$\mathrm{KAlSi_3O_8 \longrightarrow Al_4Si_8O_{20}(OH)_2\ (Montmorillonite)}$$
+</md></sn>
   <config>
     <tags>#02.weathering of feldspar</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Jul 16 2026 12:40:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Jul 16 2026 13:01:44 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XCvujHLrTg</id>
     <duration></duration>
   </config>
+<sn><md>#### B. Plagioclase Group
+
+The important minerals belonging to this group are `albite` ($\mathrm{Na}$-rich), `anorthite` ($\mathrm{Ca}$-rich), and `oligoclase`.
+
+
+
+::: .p-2 border mb-3
+
+##### Albite ($\mathrm{NaAlSi_3O_8}$)
+
+**Decomposition Steps**
+
+$$\begin{aligned} &amp;\text{Hydrolysis:} &amp;&amp; \mathrm{NaAlSi_3O_8 + HOH \xrightarrow{\text{hydrolysis}} HAlSi_3O_8\ (Acid\ silicate) + NaOH} \\ &amp;\text{Hydration:} &amp;&amp; \mathrm{HAlSi_3O_8 + HOH \xrightarrow{\text{hydration}} H_4Al_2Si_2O_9 + SiO_2} \\ &amp;\text{Carbonation:} &amp;&amp; \mathrm{NaOH + CO_2 \xrightarrow{\text{carbonation}} Na_2CO_3 + H_2O} \\ \hline &amp;\text{Overall Equation:} &amp;&amp; \mathrm{NaAlSi_3O_8 + CO_2 + H_2O \longrightarrow H_4Al_2Si_2O_9 + SiO_2 + Na_2CO_3} \end{aligned}$$
+
+**Environmental Variations**
+
+* **Extreme Climatic Conditions:** In humid tropics, `kaolinite` will split into its `constituent parts`:
+
+$$\mathrm{H_4Al_2Si_2O_9 \xrightarrow{\text{high temp.}} Al_2O_3 + SiO_2 + H_2O}$$
+
+
+* **Acidic Conditions:**
+
+$$\mathrm{NaAlSi_3O_8 \longrightarrow Al_4Si_8O_{20}(OH)_2\ (Montmorillonite)}$$
+
+
+* **Association with Orthoclase:** When `albite` is associated with `orthoclase`, `muscovite` is formed: (albite + orthoclase = muscovite)
+
+$$\mathrm{NaAlSi_3O_8 + KAlSi_3O_8 + CO_2 + H_2O \longrightarrow KAl_2(AlSi_3)O_{10}(OH)_2\ (Muscovite) + SiO_2 + (Na, K)_2CO_3}$$
+:::
+
+
+::: .p-2 border
+
+##### Anorthite ($\mathrm{CaAl_2Si_2O_8}$)
+
+Straight `carbonation of anorthite` ultimately produces `kaolinite and calcium carbonate`:
+
+$$\begin{aligned} &amp;\mathrm{CaAl_2Si_2O_8 + CO_2 + H_2O \longrightarrow H_4Al_2Si_2O_9 + CaCO_3} \\ &amp;\mathrm{CaCO_3 + H_2CO_3 \longrightarrow Ca(HCO_3)_2} \end{aligned}$$
+
+* **Extreme Climatic Conditions:** In high-temperature humid tropics, the secondary kaolinite breaks down further:
+
+$$\mathrm{H_4Al_2Si_2O_9 \xrightarrow{\text{high temp.}} Al_2O_3 + SiO_2 + H_2O}$$
+
+:::</md></sn>
