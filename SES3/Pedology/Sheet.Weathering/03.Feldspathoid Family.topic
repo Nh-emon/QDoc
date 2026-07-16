@@ -1,0 +1,40 @@
+
+  <sn><md>### Weathering of Feldspathoid Family
+
+**Feldspathoids** are important minerals that are closely related to feldspars but are lower in $\mathrm{SiO_2}$ content. The most common members of this family are `Leucite` and `Nepheline`.</md></sn>
+  <config>
+    <tags>#03.feldspathoid family</tags>
+    <thumbnail></thumbnail>
+    <heading></heading>
+    <udate>Thu Jul 16 2026 13:11:03 GMT+0600 (Bangladesh Standard Time)</udate>
+    <id>article-DJ0t3RcYem</id>
+    <duration></duration>
+  </config>
+<sn><md>#### I. Leucite ($\mathrm{KAlSi_2O_6}$)
+
+**General Weathering &amp; Decomposition**
+The chemical equations representing the step-by-step and overall decomposition of leucite are:
+
+$$\begin{aligned} &amp;\text{Hydrolysis:} &amp;&amp; \mathrm{KAlSi_2O_6\ (leucite) + HOH \longrightarrow HAlSi_2O_6 + KOH} \\ &amp;\text{Hydration:} &amp;&amp; \mathrm{HAlSi_2O_6\ (acid\ silicate) + HOH \xrightarrow{\text{hydration}} 2Al(OH)_3 + SiO_2} \\ \hline &amp;\text{Overall Equation:} &amp;&amp; \mathrm{KAlSi_2O_6\ (leucite) + CO_2 + H_2O \longrightarrow H_4Al_2Si_2O_9 + SiO_2 + K_2CO_3} \end{aligned}$$
+
+
+**Extreme Weathering Conditions**
+In ++extreme climatic conditions++ (such as in humid tropics), the `secondary kaolinite` ($\mathrm{H_4Al_2Si_2O_9}$) `splits further into constituent` components due to high temperatures:
+
+$$\mathrm{H_4Al_2Si_2O_9 \xrightarrow{\text{high temp.}} Al_2O_3 + SiO_2 + H_2O}$$
+
+**Mineral Transformation**
+When `leucite` combines with free `silica` ($\mathrm{SiO_2}$), it gives rise to `orthoclase feldspars`: ( leucite + silica = orthoclase )
+
+$$\mathrm{KAlSi_2O_6\ (leucite) + SiO_2 \longrightarrow KAlSi_3O_8}$$
+</md></sn><sn><md>#### II. Nepheline ($\mathrm{NaAlSiO_4}$)
+
+**General Weathering &amp; Alteration**
+Upon weathering, ++nepheline++ changes to `sodalite`, `potassium mica` (muscovite), and `clay minerals` through the following chemical pathways:
+
+$$\begin{aligned} &amp;\text{Alteration to Muscovite:} &amp;&amp; \mathrm{NaAlSiO_4 + SiO_2 + K^+ \longrightarrow KAl_2(AlSi_3)O_{10}(OH)_2\ (muscovite)} \\ &amp;\text{Alteration to Sodalite:} &amp;&amp; \mathrm{3NaAlSiO_4 + NaCl \longrightarrow 3(NaAlSiO_4)\cdot NaCl\ (sodalite)} \\ &amp;\text{Hydrolysis Step:} &amp;&amp; \mathrm{NaAlSiO_4 + HOH \longrightarrow HAlSiO_4\ (Acid\ silicate) + NaOH} \\ &amp;\text{Carbonation Step:} &amp;&amp; \mathrm{NaOH + CO_2 \longrightarrow Na_2CO_3 + H_2O} \\ &amp;\text{Hydration Step:} &amp;&amp; \mathrm{2HAlSiO_4\ (Acid\ silicate) + HOH \longrightarrow 2Al(OH)_3 + 2SiO_2} \\ \hline &amp;\text{Overall Clay Equation:} &amp;&amp; \mathrm{2NaAlSiO_4 + CO_2 + H_2O \longrightarrow H_4Al_2Si_2O_9\ (Kaolinite) + Na_2CO_3} \end{aligned}$$
+
+**Extreme Weathering Conditions**
+Under ++extreme climatic pressures++, `intermediate weathering products` decompose completely into `oxides`:
+
+$$\begin{aligned} &amp;\mathrm{Al(OH)_3 \longrightarrow Al_2O_3 + H_2O} \\ &amp;\mathrm{H_4Al_2Si_2O_9 \longrightarrow Al_2O_3 + SiO_2 + H_2O} \end{aligned}$$</md></sn>
