@@ -1,10 +1,43 @@
 
-  <sn></sn>
+  <sn><md>### Weathering of Pyroxene Family
+
+When the minerals of the pyroxene family are acted upon by `carbonation and hydration`, new minerals, compounds of minerals, and compounds of $\mathrm{Fe}$, $\mathrm{Al}$, $\mathrm{Mg}$, and $\mathrm{Ca}$ are formed.
+</md></sn>
   <config>
     <tags>#04.pyroxene family</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Jul 16 2026 13:15:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Jul 16 2026 13:16:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nhC88M3zcr</id>
     <duration></duration>
   </config>
+<sn><md>#### I. Enstatite ($\mathrm{MgSiO_3}$)
+
+**General Weathering &amp; Decomposition**
+The chemical breakdown of enstatite ++under carbonation and hydration++ yields `talc and magnesium carbonate`:
+
+$$\mathrm{MgSiO_3 + CO_2 + H_2O \longrightarrow Mg_3Si_4O_{10}(OH)_2\ (Talc) + MgCO_3}$$
+
+**Further Reduction Pathways**
+The ++intermediate weathering products++ break down and reduce further through the following sequential stages:
+
+$$\begin{aligned} &amp;\text{Reduction of Talc:} &amp;&amp; \mathrm{Mg_3Si_4O_{10}(OH)_2\ (Talc) + H_2O + CO_2 \longrightarrow SiO_2 + H_2O + MgCO_3} \\ &amp;\text{Leaching/Solubilization:} &amp;&amp; \mathrm{MgCO_3 + H_2CO_3 \longrightarrow Mg(HCO_3)_2} \end{aligned}$$
+</md></sn><sn><md>#### II. Hypersthene ($\mathrm{(Mg,Fe)SiO_3}$)
+
+**1. Initial Weathering Stages**
+Carbonation and hydration break down hypersthene into secondary silicate and carbonate compounds:
+
+$$\mathrm{(Mg,Fe)SiO_3 + CO_2 + H_2O \longrightarrow Mg_3Si_4O_{10}(OH)_2\ (Talc) + MgCO_3 + FeCO_3}$$
+
+**Subsequent Carbonate and Iron Alteration**
+
+$$\begin{aligned} &amp;\text{Magnesium Carbonate Solubilization:} &amp;&amp; \mathrm{MgCO_3 + H_2CO_3 \longrightarrow Mg(HCO_3)_2} \\ &amp;\text{Iron Carbonate Oxidation:} &amp;&amp; \mathrm{FeCO_3 + H_2O + O_2 \longrightarrow Fe(OH)_3 + CO_2} \end{aligned}$$
+
+**Extreme Weathering Conditions**
+Under extreme climatic pressures (high temperature followed by oxidation), the iron hydroxide undergoes advanced dehydration and oxidation phases to yield secondary iron oxides:
+
+$$\mathrm{Fe(OH)_3 \xrightarrow{\text{high temp.}} FeO \xrightarrow{\mathrm{O_2}} Fe_2O_3\ (Haematite)}$$
+
+In the presence of subsequent hydration, haematite alters to form limonite:
+
+$$\mathrm{Fe_2O_3\ (Haematite) + H_2O \longrightarrow 2Fe_2O_3 \cdot 3H_2O\ (limonite)}$$</md></sn>
