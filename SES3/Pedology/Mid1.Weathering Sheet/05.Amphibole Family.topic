@@ -1,10 +1,46 @@
 
-  <sn></sn>
+  <sn><md>### Weathering of Amphibole Family
+
+**General Formula:** $\{\mathrm{X_{7\text{-}8}(Si_4O_{11})_2}\}$ where $\mathrm{X = Ca, Na, Mg, Fe, Al}$
+
+Chemically, `amphiboles are analogous to pyroxene`. However, because pyroxenes possess more basic characteristics, they `weather faster than amphiboles`.
+</md></sn>
   <config>
     <tags>#05.amphibole family</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Thu Jul 16 2026 13:17:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Thu Jul 16 2026 13:23:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-3LkBHN5cgK</id>
     <duration></duration>
   </config>
+<sn><md>#### I. Tremolite ($\mathrm{Ca_2Mg_5Si_8O_{22}(OH)_2}$)
+
+**General Weathering &amp; Decomposition**
+The reaction of tremolite under the influence of ++carbonation and hydration++ produces `talc, magnesium-calcium carbonate compounds, and silica`:
+
+$$\mathrm{Ca_2Mg_5Si_8O_{22}(OH)_2 + CO_2 + H_2O \longrightarrow Mg_3Si_4O_{10}(OH)_2 + MgCO_3\cdot CaCO_3 + SiO_2}$$
+
+**Breakdown and Reduction Pathways**
+The ++intermediate products++ break down further through the following sequential stages:
+
+$$\begin{aligned} &amp;\text{Reduction of Talc:} &amp;&amp; \mathrm{Mg_3Si_4O_{10}(OH)_2 + CO_2 + H_2O \longrightarrow MgCO_3 + H_2O + SiO_2} \\ &amp;\text{Magnesium Carbonate Solubilization:} &amp;&amp; \mathrm{MgCO_3 + CO_2 + H_2O \longrightarrow Mg(HCO_3)_2} \\ &amp;\text{Calcium Carbonate Solubilization:} &amp;&amp; \mathrm{CaCO_3 + CO_2 + H_2O \longrightarrow Ca(HCO_3)_2} \end{aligned}$$
+
+</md></sn><sn><md>#### II. Actinolite ($\mathrm{Ca_2(Fe,Mg)_5Si_8O_{22}(OH)_2}$)
+
+**Initial Weathering Stages**
+`Carbonation and hydration` break down ++actinolite into++ `silicate`, `iron carbonate`, and `magnesium-calcium carbonate` mixtures:
+
+$$\mathrm{Ca_2(Fe,Mg)_5Si_8O_{22}(OH)_2 + CO_2 + H_2O \longrightarrow Mg_3Si_4O_{10}(OH)_2 + FeCO_3 + MgCO_3\cdot CaCO_3 + SiO_2}$$
+
+**Subsequent Carbonate and Iron Alteration**
+
+$$\begin{aligned} &amp;\text{Reduction of Talc:} &amp;&amp; \mathrm{Mg_3Si_4O_{10}(OH)_2 + CO_2 + H_2O \longrightarrow MgCO_3 + H_2O + SiO_2} \\ &amp;\text{Magnesium Carbonate Solubilization:} &amp;&amp; \mathrm{MgCO_3 + CO_2 + H_2O \longrightarrow Mg(HCO_3)_2} \\ &amp;\text{Calcium Carbonate Solubilization:} &amp;&amp; \mathrm{CaCO_3 + CO_2 + H_2O \longrightarrow Ca(HCO_3)_2} \\ &amp;\text{Iron Carbonate Oxidation:} &amp;&amp; \mathrm{FeCO_3 + O_2 + H_2O \longrightarrow Fe(OH)_3 + CO_2} \end{aligned}$$
+
+**Extreme Weathering Conditions**
+Under extreme *climatic pressures*, the ++iron hydroxide++ breaks down completely via high temperatures and oxidation to `form haematite`, which then `hydrates to become limonite`:
+
+$$\mathrm{Fe(OH)_3 \xrightarrow{\text{high temp.}} FeO \xrightarrow{\mathrm{O_2}} Fe_2O_3\ (Haematite)}$$
+
+In the presence of `additional water`, the final alteration yields limonite:
+
+$$\mathrm{Fe_2O_3\ (Haematite) + H_2O \longrightarrow 2Fe_2O_3\cdot 3H_2O\ (limonite)}$$</md></sn>
