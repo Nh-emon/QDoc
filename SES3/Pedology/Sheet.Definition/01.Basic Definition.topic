@@ -1,0 +1,84 @@
+
+  
+  <config>
+    <tags>#definition</tags>
+    <thumbnail></thumbnail>
+    <heading></heading>
+    <udate>Sat Jul 18 2026 20:26:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <id>article-26S6tpbasW</id>
+    <duration></duration>
+  </config>
+<sn><md>#### Horizon 
+
+According to `SSS` (Soil Survey Staff 1962), a soil horizon may be defined as a 
+&gt; `layer` of soil approximately `parallel to the soil surface`, with `characteristics` produced by ++soil forming processes++.
+
++++ how soil horizon are parallel to soil surface
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/soil-definition-diagram1.png)
++++
+
++++ soil horizon vs master horizon
+
+A **soil horizon** is **not** the total combination of all master horizons. Instead, a **master horizon** is just a *specific type* of soil horizon.
+
+Here is the easiest way to think about it:
+
+* **"Soil Horizon"** is a general category name (like the word **"Vehicle"**).
+* **"Master Horizon"** is a major type within that category (like a **"Truck"**).
+
+Let's break down why:
+
+* **A single soil horizon** is just *one* individual layer you see in the dirt. It could be a major layer (like the **A horizon**), a sub-layer (like **A1**), or a transition layer (like **Bt**).
+* **Master horizons** are the six primary, big-picture building blocks (**O, A, E, B, C, R**) used to classify those individual layers.
+
+If you combine all the master horizons together from top to bottom, you don't get a soil horizon—you get a **Soil Profile** (the complete vertical cross-section of the soil).
+
++++
+</md></sn><sn><md>#### Master horizon:
+:::.row
+:::.col-12 .col-md-6 
+- The `main horizons` which are `present in soil` are termed as master horizons. 
+- Master or major horizons are designated by capital letters. 
+  There are six master horizons. The capital letters `OAE`, `BCR` represent the master horizon of soils. 
+- These `master horizons` may also be `divided into multiple horizons` which are called ++subordinate horizons++. 
+  They would be referred to as `A1, A2, A3, B1, B2 and B3` respectively. 
+- To designate `specific features within master horizons` or layers `lower case letters are suffixed to the capital letter` symbols viz. $\text{B}_\text{t}$, $\text{A}_\text{p}$, $\text{B}_\text{h}$, $\text{O}_\text{a}$, $\text{O}_\text{e}$, $\text{O}_\text{i}$ etc.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/soil-master-horizon-diagram.png)
+:::
+:::
+</md></sn><sn><md>#### Regolith:
+
+:::.row
+:::.col-12 .col-md-4
+![img](https://thumbs.dreamstime.com/b/soil-structure-illustration-vertical-cross-section-surface-to-bedrock-showing-relationship-regolith-208831218.jpg)
+:::
+
+:::.col-12 .col-md-8 
+- Regolith can be defined as `loose, unconsolidated, inorganic material of weathered rock` on which different soil forming `factors and processes interplay` to form true soil. 
+- It is mainly `unconsolidated parent material`.
+- It may be a `few` meters `to` `several` meters in thickness.
+- The `base` of the regolith is `consolidated bed rock` (R).
+:::
+:::
+</md></sn><sn><md>#### Solum:
+
+:::.row
+:::.col-12 .col-md-9
+- The solum is an `incomplete soil profile` that may be simply defined as the 
+ `genetic soil` developed by `soil building forces` (Soil Survey Staff, 1975). 
+- It is the `upper and most weathered part` of the soil profile. 
+- In normal soils the solum includes the `A and B horizons`, or the upper part of the soil profile above the parent material.
+:::
+
+:::.col-12 .col-md-3
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6bUnHlR0bnH_gotgAhGR-pKLALMWWI7XHf4n9xAFrWIE4tswejhGHUDN&amp;s=10)
+:::
+:::
+</md></sn><sn><md>#### Layer:
+- A ++stratum of material++ formed either by `currency of water` or `by any geological process`. 
+- It is `formed geographically`. 
+- Layers are not `!parallel to the soil surface`. Layer is a `unit`. In a layer `properties are same`.
+</md></sn>
