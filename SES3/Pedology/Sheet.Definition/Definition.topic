@@ -4,7 +4,7 @@
     <tags>#definition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Jul 18 2026 20:25:51 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Jul 18 2026 20:26:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-26S6tpbasW</id>
     <duration></duration>
   </config>
@@ -63,4 +63,22 @@ If you combine all the master horizons together from top to bottom, you don't ge
 - The `base` of the regolith is `consolidated bed rock` (R).
 :::
 :::
-</md></sn><sn></sn>
+</md></sn><sn><md>#### Solum:
+
+:::.row
+:::.col-12 .col-md-9
+- The solum is an `incomplete soil profile` that may be simply defined as the 
+ `genetic soil` developed by `soil building forces` (Soil Survey Staff, 1975). 
+- It is the `upper and most weathered part` of the soil profile. 
+- In normal soils the solum includes the `A and B horizons`, or the upper part of the soil profile above the parent material.
+:::
+
+:::.col-12 .col-md-3
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6bUnHlR0bnH_gotgAhGR-pKLALMWWI7XHf4n9xAFrWIE4tswejhGHUDN&amp;s=10)
+:::
+:::
+</md></sn><sn><md>#### Layer:
+- A ++stratum of material++ formed either by `currency of water` or `by any geological process`. 
+- It is `formed geographically`. 
+- Layers are not `!parallel to the soil surface`. Layer is a `unit`. In a layer `properties are same`.
+</md></sn>
