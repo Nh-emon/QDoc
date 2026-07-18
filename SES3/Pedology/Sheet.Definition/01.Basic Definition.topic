@@ -4,7 +4,7 @@
     <tags>#definition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Jul 18 2026 20:26:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Jul 18 2026 20:40:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-26S6tpbasW</id>
     <duration></duration>
   </config>
@@ -81,4 +81,34 @@ If you combine all the master horizons together from top to bottom, you don't ge
 - A ++stratum of material++ formed either by `currency of water` or `by any geological process`. 
 - It is `formed geographically`. 
 - Layers are not `!parallel to the soil surface`. Layer is a `unit`. In a layer `properties are same`.
+</md></sn><sn><md>:::.row
+:::.col-12 .col-md-9
+#### Soil profile
+- Soil profile is a `vertical exposure` of a surficial portion of the `earth's crust` that includes 
+++not only++ `all the layers` that have been `altered during the period of soil formation` 
+++but also++ `deeper layers that have been influenced by pedogenesis`. 
+- It can also be defined as a `vertical section` of the soil `from the surface through all the horizons` (including C horizon). 
+- Soil profile represents `sequence of genetically related horizons` differentiated from one another and extended to the parent material from which the soil profile is developed.
+:::
+
+:::.col-12 .col-md-3
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGpKsxL18vBBxFkv8qTOvva44ct2akXhRD8BbSosGFajLr5QUEZw7ivN3&amp;s=10)
+:::
+:::
+</md></sn><sn><md>#### Pedon
+:::.row
+:::.col-12 .col-md-6
+![dgrm](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/soil-pedon-dgrm.png)
+:::
+:::.col-12 .col-md-6
+- According to `SSS` Soil Survey Staff (1960), "a pedon is the `smallest volume` that `can be called a soil`." 
+- It is `similar to a soil profile` but is `3D` three dimensional. 
+- Its ++lower limit++ is the `vague` and somewhat `arbitrary limit between soil and not soil`. 
+- The ++lateral dimensions++ are `large enough` to `permit study` of the nature of any horizons present, for a horizon may be variable in thickness or even discontinuous. 
+- The ++shape++ of the pedon is `roughly hexagonal`. 
+- Its ++area ranges++ from $1\text{ to }10\text{ m}^2$ depending on the soil variability. 
+- It is a `unit` for ++soil sampling++.
+:::
+:::
+
 </md></sn>
