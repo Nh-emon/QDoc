@@ -4,7 +4,7 @@
     <tags>#definition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Jul 18 2026 20:40:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Jul 18 2026 20:51:25 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-26S6tpbasW</id>
     <duration></duration>
   </config>
@@ -111,4 +111,23 @@ If you combine all the master horizons together from top to bottom, you don't ge
 :::
 :::
 
+</md></sn><sn><md>#### Polypedon
+
+:::.row
+:::.col-12 .col-md-6
+
+- Greek word ++pedon++ means `ground`
+- According to the `SSS` Soil Survey Staff (1960) defined polypedon  as 
+`a natural unit` of soil that `differs from its adjoining units` on the landscape `in one or more properties` to such a degree that the `combination of all properties result` in different `responses to management`.
+
+**Key Characteristics**
+* **Physical Body:** It is a `real physical soil body`.
+* **Dimensions:** It has a ++minimum area++ of more than $1\text{ km}^2$ and an `unspecified maximum area`.
+* **Classification:** The polypedon are the real soil bodies that we `classify into series and higher categories`.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/polypedon-diagram.png)
+:::
+:::
 </md></sn>
