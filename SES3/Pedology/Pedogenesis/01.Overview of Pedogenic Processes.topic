@@ -1,10 +1,79 @@
 
-  <sn></sn>
+  <sn><md>### Pedogenesis
+
+- The pedogenic processes are extremely `complex`, as well as `dynamic`, involving many `physical, chemical and biological reactions`. 
+- The pedogenic process vary from one place to other depending on various ++external and internal factors++ like `temperature, wind, humidity, capillary movement of water, microbial decomposition and the nature of bed rock`. 
+- The collective `interaction` of various soil forming `factors` under various `environmental conditions` represent ++certain recognised soil forming processes++.
+</md></sn>
   <config>
     <tags>#01.overview of pedogenic processes</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 05:28:19 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 05:52:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-5PRo30FFoH</id>
     <duration></duration>
   </config>
+<sn><md>#### Some processes of pedogenesis
+
+| Term | Brief Definition |
+| --- | --- |
+| **Humification** | The transformation of `raw organic material into humus`; a complex process involving various microorganism. |
+| **Littering** | The `accumulation of organic litter` and associated humus on the mineral soil surface to a depth of less than $30\text{ cm}$. |
+| **Eluviaton** | Movement of `material out of` a portion of `soil profile` as in an ++albic horizon++. ++Textural differences++ occur as a result of `mobilization and translocation` of mobile constituents. |
+| **Illuviaton** | Movement of `material into a portion of soil profile` as in an ++argillic++ or spodic horizon. |
+| **Leaching (depletion)** | General term for `washing out` or eluviating `soluble materials` from the ++solum++. |
+| **Enrichment** | General term for `addition of material` to a soil body. |
+| **Erosion, surficial** | `Removal of material` from the ++surface layer++ of a soil. |
+| **Calcification** | Processes including `accumulation of calcium carbonate in Cca` and possibly other horizons of a soil, that may result in `formation of a calcic horizon`. |
+| **Decalcification** | Reactions that `remove calcium carbonate` from one or more soil horizons. |
+| **Salinization** | The `accumulation of soluble salts` such as sulfates and chlorides of calcium, magnesium, sodium, and potassium in salty (`salic`) horizons. Electrical conductivity of the saturation extract exceeds $4\text{ dSm}^{-1}$. |
+| **Desalinization** | The `removal of soluble salts` from salic soil horizons. |
+| **Alkalization (solonization)** | The `accumulation of sodium ions` on the exchange sites in a soil. |
+| **Dealkalization (solodization)** | The `leaching of sodium ions` and salts from natric horizons. |
+| **Podzolization** *(ferritization, allitization)* | The `chemical migration of aluminum and iron and/or organic matter`, resulting in the `concentration of silica` (*i.e.*, silication) in the layer eluviated. |
+| **Lessivage** | The mechanical migration of small mineral particles from the A to the B horizons of a soil, producing in B horizons relative enrichment in clay (argillic horizons). |
+| **Laterization** | `Removal of silica from upper layers` leaving ++sesquioxides++ (chiefly Fe &amp; Al Oxide) to concentrate in the solum, mainly in tropics and subtropics. |
+| **Gleization** | The `reduction of iron` under ++anaerobic waterlogged++ soil conditions, with the production of bluish to greenish gray matrix colours, with or without yellowish brown, brown and black mottles and ferric and manganiferous concretions. |
+| **Pedoturbation** | Biological, physical (freeze-thaw and wet-dry cycles) `churning and cycling` of soil materials, thereby homogenizing the solum in varying degrees. |
+
++++ others
+
+| Term | Brief Definition |
+| --- | --- |
+| **Desilication** *(ferrallitization)* | The chemical migration of silica out of the soil solum and thus the concentration of sesquioxides in the solum (goethite, gibbsite, etc.), with or without formation of ironstone (laterite; hardened plinthite) and concretions. |
+| **Resilication** | Formation of kaolinite from gibbsite in presence of excess $\text{Si(OH)}_4$ in solution or formation of smectite from kaolinite in presence of large amounts of $\text{Si(OH)}_4$ at higher pH values. |
+| **Decomposition** | The breakdown of mineral and organic materials. |
+| **Synthesis** | The formation of new particles of mineral and organic species. |
+| **Melanization** | The darkening of light-coloured initial, unconsolidated materials by admixture of organic matter (as in a dark A1 or mollic or umbric horizon). |
+| **Leucinization** | The paling of soil horizons by disappearance of dark organic materials either through transformation to light-coloured ones or through removal from the horizons. |
+| **Paludization** | Includes accumulation of deep ($&gt;30\text{ cm}$) deposits of organic matter as in mucks and peats (Histosols); process essentially being geogenic rather than pedogenic. |
+| **Ripening** | Chemical, biological, and physical changes in organic soil after air penetrates previously waterlogged material. |
+| **Mineralization** | Decomposition of organic matter and subsequent release of oxide solids. |
+| **Braunification Rubification** | Release of iron from primary minerals and the dispersion of particles of iron oxide in increasing amounts; their progressive oxidation or hydration, giving the soil mass brownish, reddish brown and red colours, respectively. |
+| **Ferrugination** | *(Note: Appears as a listed variant/header near Braunification)* |
+| **Loosening** | Increase in volume of voids by activity of plants, animals and humans, by Freezing-thawing or other physical processes and by removal of material by leaching. |
+| **Hardening** | Decrease in volume of voids by collapse and compaction and by filling of some voids with fine earth, carbonates, silica and other materials. |
+
+
++++
+</md></sn><sn><md>#### Core Concepts of Pedogenesis
+
+The processes of pedogenesis are both `fundamental` and `specific` in nature.
+The ++fundamental process++ in pedogenesis include the following:
+
+let A = water mostly through rainfall, organic and mineral matter, oxygen and solar energy to soil
+
+* `Addition or gain` of A .
+* `Losses` of A.
+* `Transformation` of organic and mineral substances within the soil system.
+* `Translocation or movement` of soil material within the soil through various processes like `leaching` (movement of solution) and `eluviation` (the movement in suspension of clay colloids, hydrous oxides and organic matter).
+
+All these processes lead to `horizon formation and horizon differentiation` due to transfer of carbonates, soluble salts, clay colloids, silica and sesquioxides, and transformation of organic matter and minerals, resulting in the release of oxides of iron and aluminium together with various types of organic acids.
+
+</md></sn><sn><md>#### Retardation of Horizon Differentiation
+
+The processes involved in the retardation of horizon differentiation in contrast to above are as follows:
+
+* ++Removal of surface soil++ with nutrients by `erosion` (wind and water).
+* ++Mixing of soil material++ by `burrowing animals`.
+* ++Silting of surface soils++ in flood plain areas due to `inundation`.</md></sn>
