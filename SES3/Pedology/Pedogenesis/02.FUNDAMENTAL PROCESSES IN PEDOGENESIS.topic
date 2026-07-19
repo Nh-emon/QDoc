@@ -1,10 +1,28 @@
 
-  <sn></sn>
+  <sn><md>The fundamental processes of soil formation which includes transformations and translocations are as follows:
+</md></sn>
   <config>
     <tags>#02.fundamental processes in pedogenesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 09:24:41 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 09:29:01 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-6ohsxITxkt</id>
     <duration></duration>
   </config>
+<sn><md>#### Humification
+
+:::.row
+:::.col-12 .col-md-7
+- Humification refers to the process of `decomposition and transformation of raw organic matter into humus`.
+- The process of humification is extremely `complex` with involvement of `various microorganisms`, such as fungi, bacteria, actinomycetes, earthworms, termites etc.
+- The `leaves` after falling on the ground are `attacked by waves of fungi` and thereby break down very `complex organic compounds into other simple forms`. 
+- For instance; `sugar and starches` are attacked in the beginning followed by `protein, cellulose` and finally the other *resistant compounds* such as `tannins` are decomposed and ultimately **dark coloured substance** known as `humus` is formed.
+
+$$\text{Micro-organisms (Fungi, Bacteria, Actinomycetes)} + \text{Plant litter} \longrightarrow \text{Humus}$$
+:::
+
+:::.col-12 .col-md-5
+![img](https://www.compostmagazine.com/wp-content/uploads/2023/02/humus-in-hand-sm.jpeg)
+:::
+:::
+</md></sn>
