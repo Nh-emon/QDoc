@@ -1,10 +1,38 @@
 
-  <sn></sn>
+  <sn><md>#### Alkalization
+
+- The process involves the `accumulation of sodium ions` on the `exchange sites` of soil clay. 
+- All cations in solution perform a reversible reaction with the exchange sites of clay and organic colloids.
+
+The reaction can be represented as:
+
+$$\text{Ca Mg 2NaX} \longrightarrow \text{Ca}^{2+} + \text{Mg}^{2+} + 2\text{Na}^+ + \text{X}^{4-} + 3\text{CO}_3^{2-} \longrightarrow \text{Na}_2\text{CO}_3 + \text{MgCO}_3 + \text{CaCO}_3$$
+
+*Where $\text{X}$ represents clay or organic matter exchange sites.*
+
+From this equation and consideration of the carbonate solubilities ($\text{Na}_2\text{CO}_3$ is more than 100 times soluble than $\text{Ca}$ or $\text{Mg}$ carbonate), it is seen that much of the $\text{Ca}$ and $\text{Mg}$ may be precipitated from the solution before $\text{Na}$ is precipitated. Thus, the concentrations of $\text{Na}$ left in solution to react with the exchange sites is high. The precipitation of the $\text{Ca}$ and $\text{Mg}$ as carbonates takes place first as the soil dries. The $\text{Na}$ then attaches itself to the clay and organic matter exchange sites (van Beek and van Breemen 1973).
+
+The attachment of $\text{Na}$ to the clay and organic matter exchange sites results in the rise in soil $\text{pH}$ to 9 or more in some cases. In this situation the organic and mineral matter in the colloid form gets dispersed and tend to move downwards. This dispersion makes the soil physical condition very poor. At higher $\text{pH}$ the organic matter is dissolved and forms black organic clay coating on the ped faces and as well as on the surface. These soils are also termed as **black alkali soil** owing to black colour at the surface.
+
+The process forms very thin, friable surface horizon underlain by a dark horizon of hard and impervious illuvial clay and having a typical **columnar structure** which is a characteristic of solonetz. Such soils are commonly found in Indo-Gangetic plains. But sometimes typical columnar structure is absent possibly due to younger age of the soil being of recent origin. However, soils will have either blocky or prismatic structure and they will be termed as **solonetz** because of other properties (Sehgal *et al.* 1975).
+
+In India these soils are available in the Indo-Gangetic plains of Punjab, Uttar Pradesh, Haryana and Rajasthan. The soils are reclaimed using gypsum ($\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$) as an amendment — process of amelioration being known as **solodization** or **dealkalization**.
+</md></sn>
   <config>
     <tags>#05.alkalization</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 14:35:17 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 14:52:09 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-CID76t4Px5</id>
     <duration></duration>
   </config>
+<sn><md>#### Solodization or Dealkalization
+
+- The process involves `removal of sodium ion` ($\text{Na}^+$) from the `exchange sites` with much dispersion of soil clays. 
+- ++Dispersion occurs++ when the $\text{Na}^+$ ion becomes `hydrated` and much of dispersion can be eliminated if $\text{Ca}^{2+}$ and/or $\text{Mg}^{2+}$ are concentrated in water used to leach the alkali soils as they can replace sodium on the exchange complex.
+
+The reaction can be represented as:
+
+$$2\text{ NaX} + \text{CaSO}_4 \longrightarrow \text{Na}_2\text{SO}_4 + \text{CaX}$$
+
+This may be the `final stage` in the transition and the resulting soil is known as **soloth**, which have light coloured surface horizon over a heavy dark brown B-horizon.</md></sn>
