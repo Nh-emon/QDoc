@@ -1,10 +1,36 @@
 
-  <sn></sn>
+  
   <config>
-    <tags>#04.salinization desalinization</tags>
+    <tags>#03.calcification decalcification</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 11:50:23 GMT+0600 (Bangladesh Standard Time)</udate>
-    <id>article-n8gzdDWdYh</id>
+    <udate>Sun Jul 19 2026 12:00:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <id>article-EQv8puc21g</id>
     <duration></duration>
   </config>
+<sn><md>#### Salinization
+
+:::.row
+:::.col-12 .col-md-6
+- Salinization is the process which chiefly operate in `sub-humid, semi-arid and arid regions`, as well as some `coastal humid regions` where ever `depressions are enriched in salt faster than they are leached`. 
+
+- Salt accumulation is preferential in depressional soil high in clay and low in permeability with reduced leaching. Sulfates and chlorides of calcium, magnesium, sodium and potassium are the predominant salts. ++Nitrates and borates++ `rarely occur`.
+:::
+
+:::.col-12 .col-md-6
+![img](https://miro.medium.com/1*0yme1cE9E6Wp_5M0Wxuz6Q.jpeg)
+:::
+:::
+
+
+- As a result of accumulation of `soluble salts saline soils` (solonchaks) are developed. Such soils develop under `continuous condition of high and brackish ground water` with ++evaporative demand much more than the precipitation++. 
+- The ground water containing `high soluble salts` moves upward by ++capillary action++. The water on ++evaporation leaves the salts++ on the surface or at some depth depending upon the capillary fringe.
+
+- Truely speaking a `soil` may be termed as `saline` if the electrical conductivity of the saturation extract `(EC) exceeds` $4\text{ dSm}^{-1}$. A typical soil profile of `salt affected soil` have salt content `more than` $2\%$, $\text{pH} &gt; 8.5$ and the exchangeable sodium is low. 
+
+- Soils have ++granular structure++ which is the result of `flocculation caused by soluble salts`. The `high concentration of salts` ++prevents dispersion and maintains good physical condition++ for cultivation. However, high amount of soluble salts `inhibits the plant growth`.</md></sn><sn><md>#### Desalinization
+
+- Desalinization is the process of `removal of excess soluble salts` from the horizon `by leaching` or totally from soil profile that had previously contained enough soluble salts, such that plant growth was impaired.
+
+- When fresh water (salt free) is ponded on the surface or the drainage condition of the saline soil is improved by `artificial drainage` the salts gradually dissolves and slowly gets removed due to gravity action.
+</md></sn>
