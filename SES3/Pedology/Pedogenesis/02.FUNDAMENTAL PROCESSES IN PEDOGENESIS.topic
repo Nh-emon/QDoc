@@ -1,15 +1,14 @@
 
-  <sn><md>The fundamental processes of soil formation which includes transformations and translocations are as follows:
-</md></sn>
+  
   <config>
     <tags>#02.fundamental processes in pedogenesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 09:29:01 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 09:48:10 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-6ohsxITxkt</id>
     <duration></duration>
   </config>
-<sn><md>#### Humification
+<p class="text-center">The fundamental processes of soil formation which include transformation and translocation&nbsp; are as follows :</p><sn><md>#### Humification
 
 :::.row
 :::.col-12 .col-md-7
@@ -25,4 +24,52 @@ $$\text{Micro-organisms (Fungi, Bacteria, Actinomycetes)} + \text{Plant litter} 
 ![img](https://www.compostmagazine.com/wp-content/uploads/2023/02/humus-in-hand-sm.jpeg)
 :::
 :::
+</md></sn><sn><md>#### Eluviation
+
+:::.row
+:::.col-12 .col-md-3
+![img](https://agriculturewale.com/wp-content/uploads/2022/04/Eluviation-and-Illuviation.jpg)
+:::
+
+:::.col-12 .col-md-9
+- Eluviation is the process of `removal of constituents` in solution or suspension by `percolating water from upper layer to lower layers` in the soils. Two aspects of eluviation are `mobilization` and `translocation`.
+
+- The eluviation process `differs` according to soil `environmental conditions`; for example—under ++deciduous forest conditions++, there is a `continuous loss of metal cations` by leaching, which ultimately result in the development of `slight acidity in the soil` which also affects the population of fungi and other micro-organisms adversely, whereas, under ++grassland vegetation++ there is a `rapid recycling of minerals` due to huge root mass.
+
+- Through the ++process of eluviation++ the horizon formed is known as `eluvial horizon`. Eluviation is seen to be `maximum in podzols and spodosols`. 
+
+- During the leaching process the relative `mobility of different elements` also differ depending on the `soil micro-conditions`. The relative mobility of different elements is presented in table 4.2, from a comparison of the composition of river water with the igneous rocks (after Polynov as quoted by Loughnan, 1969).
+
+:::
+:::
+
+
++++ The relative mobilities of different constituents
+
+| Constituent ions or compound | Relative Mobility* | Increasing mobility rate |
+| --- | --- | --- |
+| $\text{Al}_2\text{O}_3$ | 0.02 |  |
+| $\text{Fe}_2\text{O}_3$ | 0.04 |  |
+| $\text{SiO}_2$ | 0.20 |  |
+| $\text{K}^+$ | 1.25 |  |
+| $\text{Mg}^{2+}$ | 1.30 |  |
+| $\text{Na}^+$ | 2.40 |  |
+| $\text{Ca}^{2+}$ | 3.00 | $\downarrow$ |
+| $\text{SO}_4^{2-}$ | 57.00 | **(Highest)** |
+
+**Expressed relative to Cl, taken as 100.*
+**Source:** Sehgal, J. (1996).
+
++++
+
+- The ++leaching++ of the elements depends not only on the `relative mobility` but also on the `rate of water percolation` and `water movement` in the soil system. 
+
+- In the `arid and semi-arid` zone where `evapotranspiration losses far exceeds` the rainfall, even most mobile ions like sulphate ($\text{SO}_4^{2-}$), chloride ($\text{Cl}^-$) followed by bicarbonates of sodium, potassium and magnesium tend to be `retained in the solum or move to the surface`, if the ground water is within the capillary fringe and makes the soil saline.
+
+- In the ++humid conditions++, the `leaching of salts` to the lower depth is very common, except in the soils of low-lying basin areas, where the drainage water and salt accumulate in the soil and ultimately modify the soil formation. For example, the development of salt affected soils in the Indo-Gangetic plains.
+</md></sn><sn><md>#### Illuviation
+
+- Illuviation (word analogous to `immigration`) is the `process of deposition` of soil material `removed from the eluvial horizon` in the lower layers referring the horizon of `gains`. 
+- The horizons formed by this process is known as ++illuvial++ horizons (`B-horizons` especially Bt..... ). 
+- Illuviation involves the `translocation process` and their `interruption by immobilization of material` in a soil horizon.
 </md></sn>
