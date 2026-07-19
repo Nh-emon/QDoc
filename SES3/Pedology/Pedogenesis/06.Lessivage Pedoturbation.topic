@@ -1,10 +1,29 @@
 
-  <sn></sn>
+  <sn><md>#### Lessivage
+
+:::.row
+:::.col-12 .col-md-9
+The `mechanical migration` of small mineral particles `from the A to the B horizons` of a soil, producing in B horizons relative enrichment in clay (argillic horizons).
+:::
+
+:::.col-12 .col-md-3
+![img](https://cdn8.futura-sciences.com/sources/images/glossaire/lessivage-sol-schema_arpent-nourricier-CC-by-sa.jpg)
+:::
+:::
+
+* `Depletion of clay` in ++A horizon++.
+* `Enrichment of clay content in B` horizon in comparison to C and/or A horizon.
+* `Presence of argillans` in the B horizon and C-horizon.
+* `Higher fine clay/total clay ratio` in the B horizon than in the A horizon.
+
+The ++mobile clay++ involved may be a `product of weathering in the A horizon` or added to the soil during development.
+</md></sn>
   <config>
     <tags>#06.lessivage pedoturbation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 15:06:48 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 15:17:40 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-50AmRAUgWa</id>
     <duration></duration>
   </config>
+<sn></sn>
