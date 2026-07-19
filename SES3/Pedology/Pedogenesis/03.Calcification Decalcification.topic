@@ -1,10 +1,33 @@
 
-  <sn></sn>
+  <sn><md>#### Calcification
+
+Calcification is the process of `precipitation and accumulation` of ++carbonates++ in the solum or in some part of the profile. 
+The process occurs only when `either carbon dioxide` ($\text{CO}_2$) or `water` ($\text{H}_2\text{O}$) is `removed from the system`, which is commonly observed in more `arid climate`. The weathering process essentially is hydrolysis in the presence of $\text{CO}_2$ from the soil air.
+
+Reactions involved are:
+
+- $\text{CO}_2 + \text{H}_2\text{O} \longrightarrow \text{H}_2\text{CO}_3$
+- $\text{H}_2\text{CO}_3 + \text{Ca} \longrightarrow \underset{\text{(soluble)}}{\text{Ca(HCO}_3)_2}$
+- $\text{Ca(HCO}_3)_2 \xrightarrow[\text{CO}_2]{\text{temp}} \underset{\text{(precipitates)}}{\text{CaCO}_3} + \text{H}_2\text{O} + \text{CO}_2$
+
+The mobilized calcium compounds are precipitated as white infillings in the pores below a critical level of $\text{CO}_2$ supply.
+
+The process of `precipitation of calcium carbonate` ($\text{CaCO}_3$) `after mobilisation` sometime result in the `formation of illuviated horizon` of carbonates which is designated as **Bk (or Bca)** horizon. The `depth` of $\text{CaCO}_3$ enriched horizons depends on `ground water depth`, amount of `rainfall` and `soil texture`. Such $\text{CaCO}_3$ enriched horizons sometime result in formation of `calcic horizon` which is commonly found in `arid and semi-arid` environments of Punjab, Haryana and Rajasthan.
+
+The depth of occurrence of $\text{CaCO}_3$ horizon varies from arid and semi-arid conditions. For example, the depth of occurrence sometimes will be:
+
+* Less than $50\text{ cm}$, commonly found in `arid-regions`.
+* More than $50\text{ cm}$ in `semi-arid regions`.
+* More than $150\text{ cm}$ in `sub-humid regions`.
+
+The soils with such `lime enriched layers` were termed as `Pedocal`—a term coined by adding **'cal'** of calcium to **'ped'** by using connecting vowel "o". The term pedocal was used by `Marbut`. 
+The `vegetation` particularly grasses is very important in the `process of calcification`. Extensive root system of grasses `provides sufficient organic material` which ultimately `stabilise the soil colloids` in presence of calcium, preventing downward movement of finer fractions.
+</md></sn>
   <config>
     <tags>#03.calcification decalcification</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Jul 19 2026 10:39:09 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Jul 19 2026 11:06:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-EQv8puc21g</id>
     <duration></duration>
   </config>
