@@ -42,7 +42,7 @@ Key Layers (Horizons)
     <tags>#mid.important</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jul 21 2026 08:32:12 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 08:33:50 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vIuwOrGzkr</id>
     <duration></duration>
   </config>
@@ -92,4 +92,30 @@ Key Layers (Horizons)
 
 
 &gt; **Note:** The proportions of **soil water** and **soil air** vary continuously depending on rainfall, irrigation, drainage, soil texture, and compaction, while the total pore space generally remains close to **50%** in an ideal agricultural soil.
+</md></sn><sn><md>**Soil Formation (Pedogenesis)**
+
+**Soil formation (pedogenesis)** is the natural process by which soil develops from weathered rock and organic materials over time through the combined action of physical, chemical, and biological processes.
+
+**Stages of Soil Formation**
+
+| **Stage**                          | **Description**                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **1. Weathering of Parent Rock**   | Rocks break down into smaller mineral particles by physical, chemical, and biological weathering.       |
+| **2. Organic Matter Accumulation** | Plant and animal remains decompose, forming humus.                                                      |
+| **3. Mixing and Leaching**         | Water moves minerals downward (leaching), while organisms mix soil layers (bioturbation).               |
+| **4. Horizon Development**         | Distinct soil layers (O, A, E, B, C, and R horizons) gradually develop.                                 |
+| **5. Mature Soil Formation**       | A well-developed soil profile with stable physical, chemical, and biological properties is established. |
+
+
+**Soil Forming Factors (CLORPT)**
+
+According to **Hans Jenny (1941)**, soil formation depends on five major factors, commonly remembered by the acronym **CLORPT**.
+
+| **Factor**                   | **Description**                                                  | **Effect on Soil Formation**                                                     |
+| ---------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Climate (C)**              | Temperature and rainfall influence weathering and decomposition. | Controls the rate of soil formation, leaching, and organic matter decomposition. |
+| **Organisms (O)**            | Plants, animals, microorganisms, and humans.                     | Add organic matter, mix soil, decompose residues, and recycle nutrients.         |
+| **Relief or Topography (R)** | Slope, elevation, and landscape position.                        | Affects drainage, erosion, runoff, and soil depth.                               |
+| **Parent Material (P)**      | Original rock or sediment from which soil develops.              | Determines soil texture, mineral composition, fertility, and color.              |
+| **Time (T)**                 | Duration over which soil-forming processes act.                  | Older soils are generally more weathered and have better-developed horizons.     |
 </md></sn>
