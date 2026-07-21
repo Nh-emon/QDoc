@@ -4,7 +4,7 @@
     <tags>#definition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Jul 18 2026 20:51:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 07:46:09 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-26S6tpbasW</id>
     <duration></duration>
   </config>
@@ -96,6 +96,9 @@ If you combine all the master horizons together from top to bottom, you don't ge
 :::
 :::
 </md></sn><sn><md>#### Pedon
+
+smallest volume - 3d - vague - lateral dimension - hexagonal - area - unit
+
 :::.row
 :::.col-12 .col-md-6
 ![dgrm](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/soil-pedon-dgrm.png)
@@ -112,6 +115,8 @@ If you combine all the master horizons together from top to bottom, you don't ge
 :::
 
 </md></sn><sn><md>#### Polypedon
+
+ground - natural unit - area - real physical body - classify
 
 :::.row
 :::.col-12 .col-md-6
