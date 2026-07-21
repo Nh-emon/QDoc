@@ -42,7 +42,7 @@ Key Layers (Horizons)
     <tags>#mid.important</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jul 21 2026 08:33:50 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 08:36:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vIuwOrGzkr</id>
     <duration></duration>
   </config>
@@ -118,4 +118,59 @@ According to **Hans Jenny (1941)**, soil formation depends on five major factors
 | **Relief or Topography (R)** | Slope, elevation, and landscape position.                        | Affects drainage, erosion, runoff, and soil depth.                               |
 | **Parent Material (P)**      | Original rock or sediment from which soil develops.              | Determines soil texture, mineral composition, fertility, and color.              |
 | **Time (T)**                 | Duration over which soil-forming processes act.                  | Older soils are generally more weathered and have better-developed horizons.     |
-</md></sn>
+</md></sn><sn><md>**Parent Material**
+
+**Parent material** is the unconsolidated and chemically weathered mineral or organic matter from which the soil profile develops (through pedogenic processes). It forms the **C horizon** of a soil profile and directly influences the soil's texture, mineral composition, physical structure, rate of formation, and chemical fertility.
+
+
+**Classification of Parent Material**
+
+Soil parent materials are broadly classified based on their **origin, mode of placement, and transport mechanism**.
+
+```
+                       ┌─────────────────────────────────────────┐
+                       │          Soil Parent Material           │
+                       └────────────────────┬────────────────────┘
+                                            │
+         ┌──────────────────────────────────┼──────────────────────────────────┐
+         │                                  │                                  │
+┌────────┴────────┐               ┌─────────┴─────────┐               ┌────────┴────────┐
+│ 1. Sedentary    │               │ 2. Transported    │               │ 3. Cumulose     │
+│    (In-Situ)    │               │    (Relocated)    │               │    (Organic)    │
+└─────────────────┘               └───────────────────┘               └─────────────────┘
+
+```
+
+
+**1. Sedentary (In-Situ / Residual) Parent Materials**
+
+These materials remain at their original place of formation and have not been moved by natural agents like water, wind, or ice.
+
+* **Residual Material:** Formed directly from the underlying bedrock through in-place physical and chemical weathering. The properties of the overlying soil closely reflect the chemical and mineral constituents of the parent bedrock underneath.
+
+
+**2. Transported Parent Materials**
+
+These materials have been moved from their original site of weathering by gravity, water, wind, or ice and deposited in new locations. They are categorized according to their **agent of transport and deposition**:
+
+| Transporting Agent | Type of Deposit | Description &amp; Characteristics |
+| --- | --- | --- |
+| **Gravity** | **Colluvial** | Loose, unsorted rocks and soil fragments pulled down steep slopes and cliffs by gravity (e.g., talus slopes). |
+| **Water** | **Alluvial (Fluvial)** | Materials carried and deposited by streams and rivers; highly fertile, stratified, and usually fine-textured. |
+|  | **Lacustrine** | Sediments deposited in calm, still lake beds; rich in fine silt and clay. |
+|  | **Marine** | Sediments deposited on ancient ocean floors or estuaries, subsequently exposed by sea-level changes. |
+| **Wind (Eolian)** | **Loess** | Fine, wind-blown silt particles transported over long distances; forms deep, highly fertile soils. |
+|  | **Dune Sand** | Coarse sand grains blown by wind into hills and ridges (sand dunes). |
+|  | **Eolian Dust / Volcanic Ash** | Very fine dust or volcanic ash (tephra) transported globally by high-altitude air currents. |
+| **Ice (Glacial)** | **Glacial Till** | Unsorted, heterogeneous mixture of rocks, gravel, sand, and clay deposited directly by melting glaciers. |
+|  | **Glacio-fluvial** | Coarse sand and gravel carried away and stratified by glacier meltwater streams (outwash plains). |
+
+
+**3. Organic Accumulation (Cumulose Parent Materials)**
+
+Unlike residual and transported materials which are mineral-based, **cumulose** parent materials originate from biological processes rather than rock weathering.
+
+* **Formation:** Forms in wet, anaerobic conditions (such as bogs, marshes, and swamps) where the rate of plant tissue accumulation exceeds the rate of organic decay due to a lack of oxygen.
+* **Types:**
+* **Peat:** Raw, minimally decomposed plant material where individual plant structures (mosses, reeds, sedges) are still recognizable.
+* **Muck:** Fully decomposed, dark, soft organic material where original plant structures can no longer be identified visually.</md></sn>
