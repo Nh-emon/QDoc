@@ -1,5 +1,32 @@
 
-  <sn><md>Soil Profile
+  <sn><md>#### Basic of Soil
+
+**Definition**
+
+* **As a Natural Body (Pedological View):** Soil is a biochemically weathered and synthesized natural product formed in the environment through natural processes.
+* **As a Plant Habitat (Edaphological View):** Soil is a natural habitat and growing medium for plants and other living organisms, serving as the basis for producing food and fiber.
+
+
+**Branches**
+
+| Feature | Pedology | Edaphology |
+| --- | --- | --- |
+| **Primary Perspective** | Soil as a natural body | Soil as a medium/habitat for plant growth |
+| **Main Objective** | Origin, classification, &amp; natural structure | Crop &amp; plant production |
+| **Nature of Study** | Theoretical / Basic Science | Practical / Applied Science |
+| **Ultimate Goal** | Understanding soil formation &amp; properties | Food and fiber production |
+
+**Soil relation with other Branches**
+
+| Science Branch | Integrated Focus in Soil Science | Practical Application |
+| --- | --- | --- |
+| **Physics** | Water retention, gas exchange, heat transfer | Irrigation design, tillage practices |
+| **Chemistry** | Ion exchange, pH, chemical weathering | Soil fertility testing, pollution remediation |
+| **Biology** | Microorganisms, organic matter decomposition | Nutrient cycling, soil health improvement |
+| **Geology** | Parent rock breakdown, mineralogy | Soil formation (pedogenesis) studies |
+| **Civil Engineering** | Soil physical load capacity, shear stress | Structural foundation &amp; road construction |
+
+</md></sn><sn><md>Soil Profile
 
 :::.row
 :::.col-12 .col-md-6
@@ -42,38 +69,11 @@ Key Layers (Horizons)
     <tags>#mid.important</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jul 21 2026 08:36:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 08:37:51 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vIuwOrGzkr</id>
     <duration></duration>
   </config>
-<sn><md>#### Basic of Soil
-
-**Definition**
-
-* **As a Natural Body (Pedological View):** Soil is a biochemically weathered and synthesized natural product formed in the environment through natural processes.
-* **As a Plant Habitat (Edaphological View):** Soil is a natural habitat and growing medium for plants and other living organisms, serving as the basis for producing food and fiber.
-
-
-**Branches**
-
-| Feature | Pedology | Edaphology |
-| --- | --- | --- |
-| **Primary Perspective** | Soil as a natural body | Soil as a medium/habitat for plant growth |
-| **Main Objective** | Origin, classification, &amp; natural structure | Crop &amp; plant production |
-| **Nature of Study** | Theoretical / Basic Science | Practical / Applied Science |
-| **Ultimate Goal** | Understanding soil formation &amp; properties | Food and fiber production |
-
-**Soil relation with other Branches**
-
-| Science Branch | Integrated Focus in Soil Science | Practical Application |
-| --- | --- | --- |
-| **Physics** | Water retention, gas exchange, heat transfer | Irrigation design, tillage practices |
-| **Chemistry** | Ion exchange, pH, chemical weathering | Soil fertility testing, pollution remediation |
-| **Biology** | Microorganisms, organic matter decomposition | Nutrient cycling, soil health improvement |
-| **Geology** | Parent rock breakdown, mineralogy | Soil formation (pedogenesis) studies |
-| **Civil Engineering** | Soil physical load capacity, shear stress | Structural foundation &amp; road construction |
-
-</md></sn><sn><md>#### Composition of Soil
+<sn><md>#### Composition of Soil
 
 **Ideal Soil Composition by Volume**
 
