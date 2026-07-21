@@ -42,7 +42,7 @@ Key Layers (Horizons)
     <tags>#mid.important</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jul 21 2026 08:29:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 08:32:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vIuwOrGzkr</id>
     <duration></duration>
   </config>
@@ -73,4 +73,23 @@ Key Layers (Horizons)
 | **Geology** | Parent rock breakdown, mineralogy | Soil formation (pedogenesis) studies |
 | **Civil Engineering** | Soil physical load capacity, shear stress | Structural foundation &amp; road construction |
 
+</md></sn><sn><md>#### Composition of Soil
+
+**Ideal Soil Composition by Volume**
+
+| **Component Group**                               | **Percentage (%)** |
+| ------------------------------------------------- | :----------------: |
+| Solid Particles (Mineral Matter + Organic Matter) |        ~50%        |
+| Pore Space (Soil Water + Soil Air)                |        ~50%        |
+
+
+| **Major Component** | **Approx. Volume (%)** | **Source**                                                                           | **Composition**                                                                                                                            | **Primary Role**                                                                                                                                                |
+| ------------------- | :--------------------: | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mineral Matter**  |          ~45%          | Derived from the physical weathering and chemical breakdown of parent rock material. | Inorganic particles consisting of **sand** (0.05–2.0 mm), **silt** (0.002–0.05 mm), and **clay** (&lt;0.002 mm).                              | Forms the physical framework of soil and supplies essential plant nutrients such as potassium (K), calcium (Ca), magnesium (Mg), iron (Fe), and phosphorus (P). |
+| **Soil Water**      |          ~25%          | Supplied by rainfall, irrigation, and groundwater through capillary action.          | A soil solution containing dissolved inorganic salts, organic acids, and gases.                                                            | Transports nutrients to plant roots, regulates soil temperature, and supports microbial activity.                                                               |
+| **Soil Air**        |          ~25%          | Occupies pore spaces not filled with water and is exchanged with the atmosphere.     | Similar to atmospheric air but generally contains more $\text{CO}_2$ and less $\text{O}_2$ due to respiration by roots and microorganisms. | Provides oxygen for root respiration and aerobic microbial decomposition.                                                                                       |
+| **Organic Matter**  |           ~5%          | Derived from plant residues, animal wastes, and decomposed microorganisms.           | Includes active organic materials (living organisms, fresh litter, root exudates) and stable **humus**.                                    | Improves soil structure, water-holding capacity, cation exchange capacity (CEC), and nutrient retention.                                                        |
+
+
+&gt; **Note:** The proportions of **soil water** and **soil air** vary continuously depending on rainfall, irrigation, drainage, soil texture, and compaction, while the total pore space generally remains close to **50%** in an ideal agricultural soil.
 </md></sn>
