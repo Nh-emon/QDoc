@@ -1,10 +1,48 @@
 
-  <sn></sn>
+  <sn><md>Soil Profile
+
+:::.row
+:::.col-12 .col-md-6
+A **soil profile** is a `vertical section` of soil from the `top surface down to the bedrock`. It consists of `four main layers` called **horizons** ($O, A, B, C$) resting on bedrock ($R$).
+
+Key Layers (Horizons)
+
+* **'O' Horizon (Organic Layer):** The `top layer` made of plant and animal waste.
+* **$O_1$ ($OL_1$):** `Fresh, undecomposed debris` (leaves/twigs) visible to the eye.
+* **$O_2$ ($OL_2$):** `Decomposed matter` where original plant/animal parts are no longer visible.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Pedology/Sheet.Definition/resources/soil-profile-diagram.png)
+:::
+:::
+
+* **'A' Horizon (Topsoil / Eluvial Zone):** The surface mineral layer where `leaching` (washing out of nutrients) occurs.
+* **$A_1$:** `Dark layer` rich in `organic matter` (humus).
+* **$A_2$:** `Light-colored` layer where `clay, iron, and aluminum are washed out`.
+* **$A_3$:** `Transition layer` between $A$ and $B$ (more like $A$).
+
+---
+
+* **'B' Horizon (Subsoil / Illuvial Zone):** The layer directly below $A$ where washed-out materials **accumulate**.
+* **$B_1$:** `Transition layer` between $A$ and $B$ (more like $B$).
+* **$B_2$:** `Main layer` with maximum `accumulation of clays, iron, and hydrous` oxides.
+* **$B_3$:** `Transition layer` between $B$ and $C$ (more like $B$).
+
+---
+
+
+* **'C' Horizon (Parent Material):** `Weathered rock` material minimally affected by biological activity; serves as the `base for soil formation`.
+* **'R' Layer (Bedrock):** `Unweathered, solid rock` beneath the soil (e.g., granite, sandstone, limestone).
+
+
+
+</md></sn>
   <config>
     <tags>#mid.important</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Jul 21 2026 08:02:50 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Jul 21 2026 08:17:20 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vIuwOrGzkr</id>
     <duration></duration>
   </config>
