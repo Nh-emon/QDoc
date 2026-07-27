@@ -1,10 +1,56 @@
 
-  <sn></sn>
+  <sn><md>### Histosols {.text-center}
+
+:::.row
+:::.col-12 .col-md-9
+**Concept:**
+
+- Histosols (from the Greek *histos* – `tissue`) are mainly `organic rich soils` under permanent water-saturated conditions with a thick, peaty horizon termed as `histic epipedon`. 
+- The Histosol order contains soils commonly called `bogs, moors, peat lands, muskegs, fens and mucks`. 
+- They have very `low bulk densities` ($&lt;0.3\text{ g/cm}^3$) and very `high water holding capacity`. Histosols make up about `1% of the world's ice-free land surface`.
+:::
+
+:::.col-12 .col-md-3
+![img](https://cdn.britannica.com/51/24251-004-BDADA3C2/soil-profile-Histosol-accumulation-conditions-matter.jpg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#03.histosols</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Jul 27 2026 05:51:33 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Jul 27 2026 10:17:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2g1MI237pV</id>
     <duration></duration>
   </config>
+<sn><md>#### Environmental Settings:
+
+- The Histosols occur dominantly in the `boreal and temperate region`s of the `northern Europe, Russia, Canada and Asia`. 
+- Histosols mainly found in `cold climates`, `wetland environments` and `low-lying swampy areas`.
+- A general condition that must be met in the Histosols is that the `rate of OM production must exceed the rate of decomposition` and this condition may be met when water tables are maintained very near the soil surface. As a result less oxygen is available for aerobic microbial decomposition of organic residues.
+</md></sn><sn><md>#### Pedogenic processes:
+
+- These soils form when `organic matter` (such as leaves, mosses, or grasses) `decomposes more slowly than its accumulation` due to a decrease in microbial decay rates. This most often occurs in `extremely wet areas or underwater` and thus most of these soils are saturated year-round.
+
+- (`Ripening` is the pedogenic process that plays important role in the formation of Histosols. 
+- `Physical ripening` depends upon the `nature of plant remains, content of mineral matter and depth of water table`. 
+- `Chemical ripening` involves `chemical decomposition and transformation of labile and resistant components` as well as organic and inorganic sulfides. 
+- `Biological ripening` includes `reduction in particle size, mixing of organic materials, formation of peds and pedological` features by organisms).
+</md></sn><sn><md>#### Properties:
+
+* Histosols are `dark soils without permafrost`.
+* They have `low bulk density` ($&lt;0.3\text{ g/cm}^3$), very `high water holding capacity` and `colloidal nature`.
+* They must have `histic epipedon`.
+* They are `composed of organic materials` ($20\text{--}30\%$ by weight) which range from slightly to well-decomposed. Decomposition is slow due to wet or cold conditions.
+* `Little soil profile development is present`, due to their saturated and anaerobic condition.
+* `Layering of organic materials` is common.
+* They may be `highly acidic`.
+* Soils acts as a `sponge` and found mainly in lower `topographic positions or marshy wetlands`.
+</md></sn><sn><md>#### Uses:
+
+* Histosols are used for production of `crops, trees, wildlife and recreation`.
+* `Forest production` improves with drainage of Histosols.
+* Organic material is harvested for horticultural potting materials, chemicals, fuel (for heating and generation of electricity) and treatment of wastewater and sewage.
+* They are also `not stable for foundations or roadways`.
+* ++Poorly decomposed++ Histosols (Peat) are used in `greenhouses and nurseries` and 
+  ++well decomposed++ Histosols (Muck) are used for `specialized farming like vegetables`.</md></sn>
