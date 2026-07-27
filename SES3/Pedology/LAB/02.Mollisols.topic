@@ -1,10 +1,55 @@
 
-  <sn></sn>
+  <sn><md>### Mollisols {.text-center}
+
+:::.row
+:::.col-12 .col-md-9
+**Concept:**
+
+- Latin word ++mollis++ means `soft`. 
+- This order includes most `important agricultural soils` and is characterized by `dark colored`, base rich (&gt;50%), `well-structured surface` horizon known as `mollic epipedon`. 
+- The vast majority of Mollisols are formed in base rich parent material `under grassland vegetation`.
+:::
+
+:::.col-12 .col-md-3
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mollisol.jpg/250px-Mollisol.jpg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#02.mollisols</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Jul 27 2026 05:51:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Jul 27 2026 09:18:52 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2Y7gNXDyIY</id>
     <duration></duration>
   </config>
+<sn><md>**Environmental Settings:**
+
+- These soils develop under `sub-humid to humid` and `cryic to thermic` climatic environments. 
+- They occupy approximately `6.9%` of the world’s land area and occur most commonly in the temperate grasslands of the middle latitudes. Typically Mollisols are formed `under grassland vegetation` (include both short-grass steppe and tall grass prairie). 
+- They are extensive in `North America, South America, Asia and Europe`.
+</md></sn><sn><md>**Pedogenic processes:**
+
+- `Melanization`, the process of darkening of the soil by addition and decomposition of OM is the dominant process in Mollisols. 
+- It is the process by which `mollic epipedon forms and dark soil` colors extend down into the profile. 
+- Melanization and the accompanying accumulation of OC are very dominant in temperate grassland soils. 
+- `Translocation` of clays i.e. `Lessivage` may occur in some Mollisols but the expression of this process is extremely variable. 
+- `Cumulization` or the addition of mineral materials to the soil surface can be an important process in many Mollisols.
+</md></sn><sn><md>#### Properties:
+
+* Mollisols are the `best soils`. The structure of the soils is `very strong`.
+* They are characterized by `deep, dark`, relatively `fertile` surface horizon known as `mollic epipedon`.
+* Have `high water holding capacity`.
+* Have `high pH` and rich in $\text{CaCO}_3$.
+* Presence of dominant `smectite minerals` that has `high CEC`.
+* Have BSP $&gt;50\%$.
+* Basic `cations are high`.
+* Have `good nutrient status`.
+* Soils are `highly productive` and have good `chemical fertility`.
+</md></sn><sn><md>#### Uses:
+
+* Mollisols are inherently the `best agricultural soils` and `produce optimum yields` both under irrigated and non-irrigated conditions with optimum inputs.
+* In the `rainfed Mediterranean regions` such soils are used for `wheat cultivation`.
+* In the `drier regions` these soils are used for `grazing`.
+* In the sub-humid regions they are used for `cultivation of wheat, maize and a variety of vegetable crops`.
+* Under irrigated conditions they are `intensively cultivated` for `growing plantation crops`.</md></sn>
