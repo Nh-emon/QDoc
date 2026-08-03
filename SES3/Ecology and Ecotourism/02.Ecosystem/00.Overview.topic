@@ -1,10 +1,283 @@
 
-  <sn></sn>
+  <sn><md>#### Ecosystem  Topics
+
+- Definition
+- structure
+- components
+- primary and secondary production
+- energy flow
+- food chains and food webs
+- energy exchange</md></sn>
   <config>
     <tags>#00.overview</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Aug 03 2026 16:58:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Aug 03 2026 17:03:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-gUV4hncxqI</id>
     <duration></duration>
   </config>
+<sn><md>### ইকোসিস্টেম  {.text-center}
+
+(Ecosystem)
+
+#### ইকোসিস্টেমের সংজ্ঞা
+
+**ইকোসিস্টেম (Ecosystem)** হলো জীব (উদ্ভিদ, প্রাণী, অণুজীব) এবং তাদের চারপাশের অজীব পরিবেশ (মাটি, পানি, বায়ু, আলো, তাপমাত্রা) নিয়ে গঠিত একটি কার্যকরী একক, যেখানে জীব ও পরিবেশের মধ্যে পদার্থ ও শক্তির আদান-প্রদান এবং পারস্পরিক ক্রিয়া অবিরাম চলতে থাকে।
+
+**সহজ ভাষায়:**
+একটি নির্দিষ্ট স্থানের সকল জীব এবং তাদের পরিবেশ একসঙ্গে মিলে যে কার্যকর ব্যবস্থা তৈরি করে, তাকে ইকোসিস্টেম বলে।
+
+**উদাহরণ:** বন, পুকুর, নদী, কৃষিক্ষেত্র, সমুদ্র।
+
+---
+
+#### ইকোসিস্টেমের গঠন
+
+একটি ইকোসিস্টেম মূলত দুইটি প্রধান অংশ নিয়ে গঠিত।
+
+| অংশ                | বর্ণনা                   |
+| ------------------ | ------------------------ |
+| **জীবজ (Biotic)**  | সকল জীবন্ত উপাদান        |
+| **অজীব (Abiotic)** | সকল অজীব পরিবেশগত উপাদান |
+
+ইকোসিস্টেমে এই দুই অংশ একে অপরের উপর নির্ভরশীল।
+
+---
+
+#### ইকোসিস্টেমের উপাদান (Components)
+
+ক) অজীব উপাদান (Abiotic Components)
+
+এগুলো জীব নয় কিন্তু জীবনের জন্য অপরিহার্য।
+
+* সূর্যালোক
+* পানি
+* বায়ু
+* মাটি
+* খনিজ পদার্থ
+* তাপমাত্রা
+* pH
+* আর্দ্রতা
+
+---
+
+খ) জীবজ উপাদান (Biotic Components)
+
+জীবজ উপাদান তিন ভাগে বিভক্ত।
+
+১. উৎপাদক (Producer)
+
+নিজের খাদ্য নিজেই তৈরি করে (সালোকসংশ্লেষের মাধ্যমে)।
+
+উদাহরণ
+
+* সবুজ উদ্ভিদ
+* শৈবাল
+
+---
+
+২. ভোক্তা (Consumer)
+
+অন্য জীব খেয়ে খাদ্য গ্রহণ করে।
+
+ভোক্তার প্রকার
+
+| প্রকার          | উদাহরণ        |
+| --------------- | ------------- |
+| প্রাথমিক ভোক্তা | ঘাসফড়িং, গরু |
+| মাধ্যমিক ভোক্তা | ব্যাঙ         |
+| তৃতীয় ভোক্তা   | সাপ           |
+| শীর্ষ ভোক্তা    | ঈগল, বাঘ      |
+
+---
+
+৩. বিয়োজক (Decomposer)
+
+মৃত উদ্ভিদ ও প্রাণীকে পচিয়ে খনিজ পদার্থে রূপান্তর করে।
+
+উদাহরণ
+
+* ব্যাকটেরিয়া
+* ছত্রাক
+
+---
+
+#### প্রাথমিক ও মাধ্যমিক উৎপাদন
+
+## প্রাথমিক উৎপাদন (Primary Production)
+
+উৎপাদক জীব সূর্যের শক্তি ব্যবহার করে জৈব পদার্থ তৈরি করে।
+
+**উদাহরণ**
+
+সবুজ উদ্ভিদের সালোকসংশ্লেষ।
+
+প্রকার
+
+ক) Gross Primary Production (GPP)
+
+উৎপাদক দ্বারা মোট উৎপাদিত জৈব পদার্থ।
+
+### খ) Net Primary Production (NPP)
+
+উদ্ভিদের শ্বসনে ব্যবহৃত শক্তি বাদ দেওয়ার পর অবশিষ্ট উৎপাদন।
+
+**সূত্র**
+
+**NPP = GPP − Respiration**
+
+---
+
+মাধ্যমিক উৎপাদন (Secondary Production)
+
+ভোক্তারা খাদ্য গ্রহণ করে নিজেদের দেহে নতুন জৈব পদার্থ তৈরি করে।
+
+**উদাহরণ**
+
+গরু ঘাস খেয়ে দেহের ওজন বৃদ্ধি করে।
+
+---
+
+পার্থক্য
+
+| প্রাথমিক উৎপাদন           | মাধ্যমিক উৎপাদন       |
+| ------------------------- | --------------------- |
+| উৎপাদক দ্বারা ঘটে         | ভোক্তার মাধ্যমে ঘটে   |
+| সূর্যের শক্তি ব্যবহার করে | খাদ্য থেকে শক্তি পায় |
+| সালোকসংশ্লেষের ফল         | খাদ্য গ্রহণের ফল      |
+
+---
+
+#### শক্তির প্রবাহ (Energy Flow)
+
+ইকোসিস্টেমে শক্তির মূল উৎস হলো **সূর্য**।
+
+শক্তি একমুখীভাবে প্রবাহিত হয়।
+
+**সূর্য → উৎপাদক → প্রাথমিক ভোক্তা → মাধ্যমিক ভোক্তা → তৃতীয় ভোক্তা → বিয়োজক**
+
+### বৈশিষ্ট্য
+
+* শক্তি পুনর্ব্যবহৃত হয় না।
+* প্রতিটি ট্রফিক স্তরে শক্তি কমে যায়।
+* অধিকাংশ শক্তি তাপ হিসেবে হারিয়ে যায়।
+
+---
+
+#### ১০% সূত্র (Ten Percent Law)
+
++++ view
+
+![Image](https://images.openai.com/static-rsc-4/4DeTIl3d6I9lZ-mcjWBAGYuPmqOD8DU0qOSybR1fF2QBhx-uqVGKJX-sPrq_gQhHelLE75VK05Dwp_fm2XlX96cZcQfWQMKH4VhpJ07lb7FpDOMyrFPuUJRYN9C2MpLDodamli4ZD2wsTKjeQ2QH2QsbKwlbdz3ANgDYu8mKgpyS3YwqO-D1m6zGlZEAk1kx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-GQRzj-3i2DUt5LF4PMyODN2fONGp04_DPzo7P-BvzdeB1BUkdEdWjuscXGF_yBRs1HbJ0yWGF4iO7jcBb6ZXElM6xKb08dwH3qHW8TuFEiTS86rXNKMU7tFYaCA5k03znAE0asN6Vo8n8638nrX3NHOQ9birFu-Re_h533KJ6l8yXTWyOCB4NaV_IM-tpIj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/N0NVi1wrGbWna4Yt3FIsC6AGoPBbw-Zh5ZX6Q_mIuU1Gq_kQhVyiVr-wstwgIGPkHDz2HPd1K1DBmgkEi4ojqOADFnHESyKv1WVDnoClXbV7MpAKNhxO3C9jp1bePs-Tgajh6PApLWbGglzSSJ0dOeH7Q0clsFszamx9R30LAA-u0B-myXnzFlUYRFXc3XRR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/i09InQxdbTfPFvcTfvI1p7HlwNHIIIL6GAO0AX4gmjWBfMpdn_V-rpw6u9Nv5lEreRIG0m3OUj4bqcYdBncZVwcJ2Sg4ZSIRvzwRnPMQLBaFI6rceu1BSRUd5txzVxn7E9VYf-NLtGFzgRQfWSTgyt_IPla3rHKTMIl6Bcrlkn2g0U-tk_qnc-HihckuAy_X?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/o8pLRK4Al9jgFsKTvP99fnXoenS0GBWFvhFYqyFPN8qRLIsmJX_2NqU3l_ddOpFSjnBCt5z83EB_6RqYIQmiacVDAW5VKwEfRfR6lomxX6mauw5lKp2PZXz-8uOc_kWz0dh9LUu-ciQdEDA7nPmn-oxkk3wyoy6SeeGVV30ITnHlZzVMvwYIvvKrDEspl9I8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/X-fkgk0s7judCuGPXRGfwkPCW2IZdjKaFv2h81t3tfTSpmZJaNoT1k0zWmutHFLwkutNpaSNQ61ntGnXdJfAjIL0dvGgG1BQKS14Ya7s8auLsZ3bMF6rjHHl1qfHZR1iYO9R-R4GUzZG2cUt9zv3XKWf_DR1P67jc-yczR3ZrVl4mIdbd-l6ctiEVcUj8ZMS?purpose=fullsize)
+
++++
+
+প্রতিটি ট্রফিক স্তর পরবর্তী স্তরে মাত্র **প্রায় ১০% শক্তি** স্থানান্তর করে।
+
+উদাহরণ
+
+| ট্রফিক স্তর     | শক্তি (kcal) |
+| --------------- | -----------: |
+| উৎপাদক          |        10000 |
+| প্রাথমিক ভোক্তা |         1000 |
+| মাধ্যমিক ভোক্তা |          100 |
+| তৃতীয় ভোক্তা   |           10 |
+
+---
+
+#### খাদ্য শৃঙ্খল ও খাদ্য জাল (Food Chains and Food Webs)
+
+খাদ্য শৃঙ্খল (Food Chain)
+
+একটি সরল ধারাবাহিক পথ, যেখানে একটি জীব অন্য জীবকে খাদ্য হিসেবে গ্রহণ করে।
+
+উদাহরণ
+
+**ঘাস → ঘাসফড়িং → ব্যাঙ → সাপ → ঈগল**
+
+প্রকার
+
+ক) Grazing Food Chain
+
+শুরু হয় সবুজ উদ্ভিদ দিয়ে।
+
+**ঘাস → গরু → মানুষ**
+
+---
+
+খ) Detritus Food Chain
+
+শুরু হয় মৃত জৈব পদার্থ দিয়ে।
+
+**মৃত পাতা → ব্যাকটেরিয়া → কেঁচো → মুরগি**
+
+---
+
+#### খাদ্য জাল (Food Web)
+
++++ view
+
+![Image](https://images.openai.com/static-rsc-4/Zmob65s-zn1je0KkLQ3omML9K4Krf8whU7TiIKBE3iFZ-882JWORYqQHa06BXRHVAGYxEabsHg7D7l9zBCCLZfDNYrB4SllYal8xl4WdFVmd2cvzRTcnX6vxyUE-kkIAJbLX_PgUefuwzT6K85Ct0RH1-8ah4o5a_TKo65NZPViq-p5JLI9DWBGC_IPnMIpe?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Zt5_I-Cea-rnrku2UOkGTvUzoQz0qr8ycwt3XBFzwc2SVt5DLkWlBkYDMndVLb97Yq_lhU4Qe3aOFAKubgZlsQU7i9UgBbCOoizedgBEX0YCpXnYbURfHY16bdTFYBxpBOeFG8bfb32A_o43gct3u1hRe47_D1hJelUszUFaZ0TBsYN4ufF1tKWGGRr9thWD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vYu1BWwhC3kYECRpRNjr6x63VGtyyeUXO3AtuqDu0miLE0W_lx3iAcLgSR3GevOQEizhgq9hORniVGBKpAuJ_RSTvTvz2nDiTi824qau2XuN-sKSKcb8qhSteUmjVv06rKe34nwEk6mJZ0g5LDDcGAgTAngHcmSBa7p1QeDOmcao3WJ_E5QQ4lB7CEBIz1_p?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CbHxyS0lU8mCCt5rywbLhbXLI120rNfES9ONCJ-snvg981QjBFNELULD0B8oaMRW52VDwXLocJagS1uxrzyuqW3l_6m_C5Gws2EkuVGB2thd--ACdnT4tS68nr-ZIDqVuQPQbrDRx_x8Tn52cy-pFoWiRmlCfjvD0MKHm-9iBtj4AOcVEk9v6fZhREjGywLa?purpose=fullsize)
+
+একাধিক খাদ্য শৃঙ্খল একে অপরের সাথে সংযুক্ত হয়ে খাদ্য জাল গঠন করে।
+
++++
+
+সুবিধা
+
+* পরিবেশের স্থিতিশীলতা বৃদ্ধি করে।
+* কোনো একটি জীব বিলুপ্ত হলেও পুরো ব্যবস্থা সহজে ভেঙে পড়ে না।
+
+---
+
+#### শক্তির আদান-প্রদান (Energy Exchange)
+
+ইকোসিস্টেমে শক্তির আদান-প্রদান মূলত সূর্য থেকে শুরু হয়।
+
+ধাপগুলো হলো—
+
+1. সূর্য থেকে উৎপাদক শক্তি গ্রহণ করে।
+2. উৎপাদক সালোকসংশ্লেষের মাধ্যমে রাসায়নিক শক্তি সঞ্চয় করে।
+3. ভোক্তারা উৎপাদক বা অন্যান্য প্রাণী খেয়ে শক্তি গ্রহণ করে।
+4. বিয়োজক মৃত জীব ভেঙে শক্তির একটি অংশ ব্যবহার করে।
+5. প্রতিটি স্তরে শ্বসনের মাধ্যমে উল্লেখযোগ্য পরিমাণ শক্তি **তাপ** হিসেবে পরিবেশে হারিয়ে যায়।
+
+#### গুরুত্বপূর্ণ বৈশিষ্ট্য
+
+* শক্তি একমুখীভাবে প্রবাহিত হয়।
+* শক্তির পুনঃচক্রণ (recycling) হয় না।
+* পদার্থ (যেমন কার্বন, নাইট্রোজেন, পানি) পুনঃচক্রিত হলেও শক্তি পুনরায় ব্যবহারযোগ্য নয়।
+* প্রতিটি ট্রফিক স্তরে শক্তির পরিমাণ কমতে থাকে।
+
+---
+
+#### পরীক্ষার জন্য গুরুত্বপূর্ণ সংক্ষিপ্ত নোট
+
+| বিষয়                | মূল কথা                                                          |
+| -------------------- | ---------------------------------------------------------------- |
+| Ecosystem            | জীব ও অজীব উপাদানের কার্যকরী একক                                 |
+| Structure            | জীবজ + অজীব উপাদান                                               |
+| Components           | উৎপাদক, ভোক্তা, বিয়োজক এবং অজীব উপাদান                          |
+| Primary Production   | উৎপাদক কর্তৃক জৈব পদার্থ উৎপাদন                                  |
+| Secondary Production | ভোক্তার দেহে নতুন জৈব পদার্থ সৃষ্টি                              |
+| Energy Flow          | সূর্য → উৎপাদক → ভোক্তা → বিয়োজক                                |
+| Food Chain           | একক খাদ্য সম্পর্কের ধারা                                         |
+| Food Web             | বহু খাদ্য শৃঙ্খলের সমন্বিত জাল                                   |
+| Energy Exchange      | শক্তি একমুখী প্রবাহিত হয় এবং প্রতিটি স্তরে তাপ হিসেবে ক্ষয় হয় |
+</md></sn>
