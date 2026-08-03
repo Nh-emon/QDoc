@@ -1,10 +1,69 @@
 
-  <sn></sn>
+  <sn><md>### Types of Succession {.text-center}
+
+Succession may be of the following types:
+- Primary Succession
+- Secondary Succession
+</md></sn>
   <config>
     <tags>#02.types and causes of succession</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Aug 03 2026 10:46:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Aug 03 2026 11:02:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-ppfmhihvAo</id>
     <duration></duration>
   </config>
+<sn><md>#### Primary Succession
+
+:::.row
+:::.col-12 .col-md-6
+Primary succession is the `process of species colonization` in which `the habitat is initially, virtually free of life` (i.e. absent of living matter). 
+
+The process starts with `bare rock, sand dunes, river delta, glacial dents and a newly created pond`. The first community establishing the new area is called `pioneer community`. Examples of pioneer community are `Lichens` (on rock surface), `Phyto-planktons` (pond).
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/03.Community%20Dynamics/resources/Primary-Succession.png)
+:::
+:::
+
+**Primary Succession Stages:**
+
+* **Pioneer Species:** Bare rock $\rightarrow$ Lichens $\rightarrow$ Small annual plants and lichens $\rightarrow$ Grasses and perennials *(hundreds of years)*
+* **Intermediate Species:** Grasses, shrubs, and shade-intolerant trees such as pines
+* **Climax Community:** Shade-tolerant trees such as oak and hickory
+</md></sn><sn><md>#### Secondary Succession
+
+Secondary succession `starts from a previously built-up/already existing living matter`. 
+
+:::.row
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/03.Community%20Dynamics/resources/Secondary-Succession.png)
+:::
+
+:::.col-12 .col-md-6
+- It is the `process of change` that `occurs after an area under colonization` has been cleared by whatsoever agency like `burning/fire, snowfall, grazing, clearing, falling of trees` etc. 
+- It involves `ecosystem disruption` and the area becomes devoid of any living matter.
+- Such an area will be `rapidly invaded by new populations` and they `establish a new ecosystem`. Secondary succession is `more rapid` than primary succession.
+:::
+:::
+
+Secondary Succession Stages:
+
+* **Event:** Fire *(0 years)*
+* **Pioneer Species:** Annual plants *(1–2 years)* $\rightarrow$ Grasses and perennials *(3–4 years)*
+* **Intermediate Species:** Grasses, shrubs, pines, young oak and hickory *(5–150 years)*
+* **Climax Community:** Mature `oak and hickory` forest *(150+ years)*
+</md></sn><sn><md>&gt; **Key Difference:** It is obvious that `primary succession is a rather slow process` as life has to start from nothing, whereas `secondary succession is faster` because it starts at a place which had already supported life before. Moreover, the `first species that comes into existence during primary succession` is known as ++pioneer species++.
+</md></sn><sn><md>#### Causes / Factors Influencing Succession
+
+* **Climatic causes:** The climatic causes include `temperature, rainfall, light intensity, gaseous composition, wind` etc., effects on succession.
+*Handwritten note:* `High rainfall and warm temperature` generally `speed up succession` process.
+
+
+* **Biotic causes:** In a community, there is `competition amongst different members` for their existence. In such a process, some of the members are not found suitable and thus are gradually replaced by new ones.
+* **Ecesis *(Establishment)* causes:** The `soil condition` is also changing by the process of `invasion, migration, competition and reaction` of the population.
+*Handwritten note:* The speed at which a habitat changes can limit or accelerate the ability of certain species to colonize.
+
+
+* **Stabilizing causes:** Succession is taking place in order to `attain the climax stage`.</md></sn>
