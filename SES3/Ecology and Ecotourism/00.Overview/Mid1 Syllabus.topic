@@ -1,10 +1,17 @@
 
-  <sn></sn>
+  <sn><md>#### Mid1 Syllabus
+
+| Topic                        | Details                                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ecology**                  | Definitions<br>scope<br>principles of thermodynamics in relation to ecology<br>freshwater, marine, estuarine, and radiation ecology      |
+| **Ecosystem**                | Definition<br>structure<br>components<br>primary and secondary production<br>energy flow<br>food chains and food webs<br>energy exchange |
+| **Community Dynamics**       | Ecological succession<br>types of succession<br>succession process<br>stabilization                                                      |
+</md></sn>
   <config>
     <tags>#mid1 syllabus</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Aug 03 2026 09:39:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Aug 03 2026 09:39:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-bTT3vT2K9b</id>
     <duration></duration>
   </config>
