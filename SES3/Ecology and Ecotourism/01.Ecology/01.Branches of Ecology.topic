@@ -3,30 +3,40 @@
 
 Historical Foundations &amp; Primary Subdivisions
 
-* **Plant vs. Animal Ecology:** Early ecological studies divided the field based on whether plants or animals were being examined.
-* **Bioecology:** As scientists recognized the interconnected nature of plants and animals within ecosystems, this unified term was adopted to give equal emphasis to both groups.
+* **Plant vs. Animal Ecology:** Early ecological studies divided the field based on `whether plants or animals were being examined`.
+* **Bioecology:** As scientists recognized the `interconnected nature of plants and animals` within ecosystems, this `unified term` was adopted to give `equal emphasis to both` groups.
 </md></sn>
   <config>
     <tags>#01.branches of ecology</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Aug 09 2026 11:48:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Aug 09 2026 12:14:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-5a0NvriiQG</id>
     <duration></duration>
   </config>
 <sn><md>### Core Methodological Approaches {.text-center}
 
+:::.row
+:::.col-12 .col-md-6
 #### Autecology
 
-* **Focus:** The ecological study of an individual species or organism.
-* **Scope:** Analyzes life history traits, behavior, population dynamics, and spatial range for a specific organism (e.g., studies on the Mexican free-tailed bat or Indian bullfrog).
+* **Focus:** The ecological study of an `individual species or organism`.
+* **Scope:** Analyzes `life history traits`, `behavior`, `population dynamics`, and `spatial range` for a specific organism (e.g., studies on the Mexican free-tailed bat or Indian bullfrog).
+:::
 
+:::.col-12 .col-md-6
 #### Synecology
 
-* **Focus:** The ecological study of whole biological communities and full ecosystems.
-* **Scope:** Examines energy transfers, material cycling, and large-scale interactions across regions such as deserts, caves, or tropical forests.
+* **Focus:** The ecological study of `whole biological communities` and full ecosystems.
+* **Scope:** Examines `energy transfers`, `material cycling`, and `large-scale interactions` across regions such as deserts, caves, or tropical forests.
+:::
+:::
 
-&gt; **Key Distinction:** Synecology establishes the broad framework of an ecosystem, while autecology fills in the specific details of individual species within that framework.
+&gt; **Key Distinction:** ++Synecology++ establishes the `broad framework of an ecosystem`, while ++autecology++ fills in the specific details of `individual species` within that framework.
+
+
+
+
 </md></sn><sn><md>#### Specialized Branches of Ecology
 
 1. **Habitat Ecology**
