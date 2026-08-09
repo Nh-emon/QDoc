@@ -1,10 +1,24 @@
 
-  <sn></sn>
+  <sn><md>:::.row
+:::.col-12 .col-md-8
+### Ecology {.text-center .fg-red}
+
+**General Definitions**
+
+Ecology is the `branch of biology` that deals with the `relations of organisms to one another` and to their `physical surroundings`.
+
+Ecology is defined as the `branch of science` that studies `how people or organisms relate to each other and their environment`. An example of ecology is studying the food chain in a **wetlands** area.
+:::
+
+:::.col-12 .col-md-4
+![img](https://www.environmentalscience.org/wp-content/uploads/2018/02/Ecology.jpg)
+:::
+:::</md></sn>
   <config>
     <tags>#00.definition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Aug 09 2026 07:06:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Aug 09 2026 07:10:51 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-qjhlv5lwzW</id>
     <duration></duration>
   </config>
