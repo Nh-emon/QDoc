@@ -1,10 +1,44 @@
 
-  <sn></sn>
+  <sn><md>### ECOLOGY AND ECOSYSTEMS
+
+- The word ecology is derived from the Greek word ++oikos++ meaning `house`, combined with ++logy++ meaning the `learning of ecology` and can therefore be translated to `the learning of nature’s household`, though the word ecology is not of ancient Greek origin.
+- The term ecology was first used in `1869` by the `German biologist Ernst Haeckel`. The concept of ecology only slowly increased, and well into the 20th century it was still almost unknown outside the group of professional biologists. 
+- It was especially `botanists, who first used the word ecology` but later also by zoologists. It has been much debated how ecology should be defined and distinguished from related fields. 
+- Ecology has previously been defined as `the study of the distribution and amount of organisms in an area`. This definition of ecology, which some people still use, is different from the one most commonly use today. In the following, there is first given a definition of the modern ecology succeeded by a brief description of what is meant by an ecosystem.
+</md></sn>
   <config>
     <tags>#02.concept</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Aug 11 2026 04:05:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Aug 11 2026 04:23:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Uphw7IvKKd</id>
     <duration></duration>
   </config>
+<sn><md>#### ECOLOGY AND BIOSYSTEMS
+
+It has become customary to define ecology as `the science of biological systems above the organism level`. This definition and delimitation of modern ecology is illustrated in Fig. 1, showing the `different levels of organization` (cell, organ, individual, population, community) and `how these living (biotic) components interacts with the non-living (abiotic) components` (matter and energy).
+
+Diagram representing levels of organization
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/assets/levels-of-ogranism-in-ecosystem.png)
+
+- Living components in interaction with the non-living (abiotic) components are called `biosystems`.
+Ecology is defined as the `science of biological systems (biosystems) above the organism level`. {.text-secondary}
+</md></sn><sn><md>- The `living and the nonliving components` are together called for ++biosystems++. The ++highest level++ of organization is the `community`, which consists of `all animals, plants and microorganisms` in a given area. ++A community++ that functions together with the `abiotic components` of a biosystem is called an ++ecological system++ or ecosystem. 
+
+- When moving from a biosystem to another at a higher level of organisation, characteristic properties emerge that were not present on the lower level of organization. This phenomenon is known as the `integrative level concept` or the `hierarchical control principle`, which says that `when biotic and abiotic components are integrated to form larger functional units in a hierarchical (ranked) series, new properties emerge`. 
+Thus, when moving from organism systems to population systems and further to ecosystems, new characteristic properties are developed which were not present at the previous level of organization. 
+
+- By recognizing the specific characteristics of a given organization, can this level can be studied without necessarily knowing everything about the neighbouring organisation levels. For example it is possible to study ecology at the ecosystem level without first studying cell biology and physiology. But how do you study a large complicated ecosystem? As with the study of any other level of organization, you begin with a description of simplified models that contains only the main components and basic functions of the biosystem in question.
+</md></sn><sn><md>####  ECOSYSTEM CONCEPT
+
+An ideal ecosystem is a `closed` – but not `!isolated` – `biosystem` with all of its biotic and abiotic components `flowing through with energy`. You can imagine an ideal ecosystem as an illuminated aquarium
+
+Diagram representing a simplified model of an aquatic ecosystem
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/assets/aquarium_ecosystem.png)
+
+Simplified model of an aquatic ecosystem. An ecosystem has a number of characteristics: 
+1) cyclic transformation of the chemical components, 
+2) a flow of energy through the system, 
+3) the energy flow rate determines the transformation speed of the substances</md></sn>
