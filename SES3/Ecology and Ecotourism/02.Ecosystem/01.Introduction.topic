@@ -1,10 +1,50 @@
 
-  <sn></sn>
+  <sn><md>### Ecosystem {.text-center}
+
+**Definition**
+
+The term **ecosystem** indicates ++eco++ meaning `environmental` and ++system++ meaning an `interacting inter-dependent complex`. The term 'ecosystem' was first proposed by `A.G. Tansley in 1935`, who defined it as "the `system` resulting from the `integration of all the living and non-living factors` of the environment".
+
+Thus, he regarded the ecosystem as indicating `not only the organism complex` but also the `whole complex of physical factors` forming the environment. It is the `basic functional unit` as it includes both the living things (plants, animals, and organisms) in a given area, interacting with each other, and also with their nonliving environments (weather, earth, sun, soil, climate, atmosphere) for the survival and maintenance of life. Some examples of ++natural ecosystems++ are ponds, lakes, oceans, grasslands, forests, deserts, tundra, and so on.
+
+</md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Aug 10 2026 20:17:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Aug 10 2026 20:26:33 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-h8LMHrv8O5</id>
     <duration></duration>
   </config>
+<sn><md>### Structure of an Ecosystem
+
+The structure of an ecosystem is basically a description of the `organisms and physical features` of the environment including the `amount and distribution of nutrients` in a particular habitat. It also provides information regarding the range of climatic conditions prevailing in the area.
+
+From the structure point of view, all ecosystems consist of two main components:
+
+1. `Abiotic` component
+2. `Biotic` component
+</md></sn><sn><md>### Components of Ecosystem
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/resources/Components_of_ecosystem.png)
+
++++ view ascii code
+
+```
+                        Components of Ecosystem
+                                   │
+         ┌─────────────────────────┴─────────────────────────┐
+  Abiotic components                                 Biotic components
+         │                                                   │
+ ┌───────┼───────────────────┐                     ┌─────────┼───────────┐
+ │       │                   │                     │         │           │
+Physical factors    Inorganic substances   Organic substances  Producers  Consumers  Decomposers
+• Temperature       • Water                • Proteins          (Green     (Animals)  (Microorganisms)
+• Humidity          • Oxygen               • Carbohydrates      plants)
+• Light             • Carbon dioxide       • Lipids
+• Atmospheric       • Nitrogen
+  pressure
+
+```
+
+
++++</md></sn>
