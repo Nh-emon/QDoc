@@ -1,10 +1,50 @@
 
-  <sn></sn>
+  <sn><md>#### Food Chain
+
+The biotic component of the ecosystem i.e., the plants and animals, are interdependent on each other for their nutritional requirement.
+
+For example, Producers form food for the herbivores, which in turn forms the food for carnivores.
+
+&gt; The `transfer of energy and nutrients` from one feeding group of organisms to another `in a series` is called Food chain. It is the sequence of who eats whom.
+
+In nature, basically `two types` of food chains are recognized – **grazing food chain** and **detritus food chain**.
+</md></sn>
   <config>
     <tags>#05.food chain and web</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Aug 11 2026 07:44:03 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Aug 11 2026 07:55:30 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-pO2UdXdhzm</id>
     <duration></duration>
   </config>
+<sn><md>#### Grazing Food Chain
+
+* The food chain starts from living plants, goes through herbivores, and ends in carnivores.
+* Ecosystems with such type of food chain are directly dependent on an influx of solar radiation.
+* This type of chain thus depends on autotrophic energy capture and the movement of this captured energy to herbivores.
+* Most of the ecosystems in nature follow this type of food chain.
+
+**Example:**
+
+* $\text{Grass} \rightarrow \text{Grass hopper} \rightarrow \text{Lizard} \rightarrow \text{Hawk}$ *(Grassland)*
+* $\text{Phytoplankton} \rightarrow \text{Zooplankton} \rightarrow \text{Fish} \rightarrow \text{Snake}$ *(Pond)*
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/assets/grazing-food-chain-diagram.png)</md></sn><sn><md>#### Detritus Food Chain
+
+* This type of food chain goes from dead organic matter into microorganisms and then to organisms feeding on detritus (detrivores) and their predators.
+* Such ecosystems are thus less dependent on direct solar energy.
+* This depends chiefly on the influx of organic matter produced in another system.
+
+For example, such type of food chain operates in the decomposing accumulated litter in a temperate forest.
+
+$$\text{Dead leaves} \xrightarrow{\text{eaten by}} \text{Woodlouse} \xrightarrow{\text{eaten by}} \text{Blackbird}$$
+
+$$\text{Detritus} \longrightarrow \text{Primary Detritus Feeder} \longrightarrow \text{Secondary Detritus Feeder}$$
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/assets/detrious_food_chain.png)
+</md></sn><sn><md>#### Significance of Food Chain
+
+1. The studies of food chain help to understand the feeding relationship and the interaction between organisms in any ecosystem.
+2. They also help us to appreciate the energy flow mechanism and matter circulation in ecosystem and understand the movement of toxic substances in the ecosystem.
+3. The study of food chain helps us to understand the problems of bio-magnifications.
+</md></sn>
