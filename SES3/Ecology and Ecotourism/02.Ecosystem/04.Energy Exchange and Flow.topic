@@ -14,7 +14,7 @@ When radiant energy hits a surface before reaching an organism, it follows three
     <tags>#04.energy exchange and flow</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Aug 11 2026 07:07:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Aug 11 2026 07:29:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PJB2ByJQEI</id>
     <duration></duration>
   </config>
@@ -35,4 +35,25 @@ The active energy exchange processes depend directly on an organism's physical e
 * **Aquatic Environment:** Organisms in water experience minimal light and no infrared radiation or vapor exchange, but `undergo strong conduction and convection`.
 * **Terrestrial Environment:** Organisms in the air experience the full spectrum of transfer mechanisms (`radiation, convection, conduction, evaporation`) and encounter the widest thermal extremes.
 
-</md></sn>
+</md></sn><sn><md>#### Conservation of Energy
+
+Organisms must balance their thermal budget to avoid reaching harmful temperature limits:
+
+* `Energy gained must equal energy lost` over time to prevent overheating or extreme cooling.
+* `Thermal adjustment rates vary by physical structure`: plant leaves heat or cool within seconds, small branches take minutes, and massive tree trunks require hours.
+
+</md></sn><sn><md>#### Primary vs. Secondary Production
+
+* **Primary Production:** The rate at which autotrophs (green plants, photosynthetic/chemosynthetic bacteria) `capture light energy` and `convert inorganic compounds into organic` biomass.
+* **Secondary Production:** The rate at which `heterotrophs` (consumers like animals, fungi, and parasitic plants) `synthesize biomass` by consuming organic food matter.
+
+</md></sn><sn><md>#### Trophic Level Energy Flow
+
+Energy transfers sequentially through food chains, with roughly **90% of energy lost at each trophic step** (primarily through metabolic heat generation, respiration, and unabsorbed waste).
+
+1. **Autotrophs (Producers):** Capture solar energy and convert it to chemical energy (carbohydrates) via photosynthesis.
+2. **Primary Consumers (Herbivores):** Consume producers, gaining about **10%** of the original producer energy while losing the rest via respiration and excretion.
+3. **Secondary Consumers (Carnivores/Omnivores):** Feed on primary consumers, incorporating approximately **1%** of the original energy into their level.
+4. **Tertiary Consumers (Apex Predators):** Preye upon primary and secondary consumers, retaining about **0.1%** of the original energy pool.
+5. **Decomposers:** Break down dead organic material across all trophic levels, returning basic nutrients back to the soil to complete the cycle.
+</md></sn><sn><md>![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Ecology%20and%20Ecotourism/02.Ecosystem/assets/flow_of_energy_diagram.png)</md></sn>
