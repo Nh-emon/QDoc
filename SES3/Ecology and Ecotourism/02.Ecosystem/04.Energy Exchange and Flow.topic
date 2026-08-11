@@ -14,7 +14,7 @@ When radiant energy hits a surface before reaching an organism, it follows three
     <tags>#04.energy exchange and flow</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Aug 11 2026 07:02:26 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Aug 11 2026 07:07:00 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PJB2ByJQEI</id>
     <duration></duration>
   </config>
@@ -26,12 +26,13 @@ Energy flows between organisms and their surrounding environment through several
 * **Convection**
 * **Conduction**
 * **Evaporation / Sweating / Transpiration**
-</md></sn><sn><md>#### Environmental Contexts
+
+![img](https://thumbs.dreamstime.com/b/heat-transfer-conduction-convection-radiation-examples-using-fire-kettle-spoon-sun-hot-air-balloon-diagram-hand-drawn-404502167.jpg)</md></sn><sn><md>#### Environmental Contexts
 
 The active energy exchange processes depend directly on an organism's physical environment:
 
-* **Soil Environment:** Organisms buried underground exchange heat via conduction and water vapor transport, without direct exposure to radiation or convection.
-* **Aquatic Environment:** Organisms in water experience minimal light and no infrared radiation or vapor exchange, but undergo strong conduction and convection.
-* **Terrestrial Environment:** Organisms in the air experience the full spectrum of transfer mechanisms (radiation, convection, conduction, evaporation) and encounter the widest thermal extremes.
+* **Soil Environment:** Organisms buried underground exchange heat via `conduction and water vapor transport`, without direct exposure to radiation or convection.
+* **Aquatic Environment:** Organisms in water experience minimal light and no infrared radiation or vapor exchange, but `undergo strong conduction and convection`.
+* **Terrestrial Environment:** Organisms in the air experience the full spectrum of transfer mechanisms (`radiation, convection, conduction, evaporation`) and encounter the widest thermal extremes.
 
 </md></sn>
