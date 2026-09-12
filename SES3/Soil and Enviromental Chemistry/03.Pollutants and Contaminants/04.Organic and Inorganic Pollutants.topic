@@ -1,10 +1,91 @@
 
-  <sn></sn>
+  <sn><md>### Organic and Inorganic Pollutants 
+
+In the Atmosphere, Hydrosphere and Geosphere
+
+Pollutants can be broadly classified into **organic** and **inorganic** pollutants. They enter the three major environmental compartments—**atmosphere (air), hydrosphere (water), and geosphere (soil/land)**—through natural processes and human activities.
+
+
+**Organic vs Inorganic Pollutants**
+
+```text
+Environmental Pollutants
+│
+├── Organic pollutants
+│   │
+│   ├── Carbon-based compounds
+│   ├── Often derived from living materials or fossil fuels
+│   ├── Many are persistent and toxic
+│   └── Examples
+│       ├── Pesticides
+│       ├── PAHs
+│       ├── VOCs
+│       ├── Petroleum hydrocarbons
+│       └── PCBs
+│
+└── Inorganic pollutants
+    │
+    ├── Metals, minerals, salts, gases and other non-carbon
+    │   compounds
+    ├── Often persistent in the environment
+    └── Examples
+        ├── Pb
+        ├── Hg
+        ├── Cd
+        ├── SO₂
+        ├── NOₓ
+        ├── Nitrates
+        └── Phosphates
+```
+</md></sn>
   <config>
     <tags>#04.organic and inorganic pollutants</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 12 2026 19:05:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 12 2026 19:16:49 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-1bHLb1AOai</id>
     <duration></duration>
   </config>
+<sn><md>### Atmosphere
+
+| Type          | Major pollutants                                                  | Major sources                                                           | Effects                                                             |
+| ------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Organic**   | VOCs, hydrocarbons, benzene, toluene, formaldehyde, PAHs, dioxins | Vehicle exhaust, industries, fuel combustion, biomass burning, solvents | Smog, respiratory problems, carcinogenic effects, ozone formation   |
+| **Inorganic** | SO₂, NOₓ, CO, CO₂, NH₃, H₂S, particulate matter, heavy metals     | Industries, vehicles, power plants, mining, combustion                  | Acid rain, climate change, respiratory diseases, reduced visibility |
+
+**Examples:**
+
+* Organic: **benzene (C₆H₆)**, methane (CH₄), polycyclic aromatic hydrocarbons (PAHs)
+* Inorganic: **SO₂, NO₂, CO, CO₂, Pb, Hg, Cd**
+
+</md></sn><sn><md>### Hydrosphere
+
+The hydrosphere includes **rivers, lakes, groundwater, oceans and wetlands**.
+
+| Type          | Major pollutants                                                                                       | Major sources                                         | Effects                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Organic**   | Petroleum hydrocarbons, pesticides, phenols, detergents, solvents, PAHs, sewage-derived organic matter | Industrial discharge, agriculture, sewage, oil spills | Oxygen depletion, toxicity, bioaccumulation, death of aquatic organisms |
+| **Inorganic** | Heavy metals, nitrates, phosphates, chlorides, acids, alkalis, cyanides                                | Mining, fertilizers, industries, sewage, urban runoff | Eutrophication, toxicity, groundwater contamination                     |
+
+**Examples:**
+
+* Organic: **oil, pesticides, phenol, detergents**
+* Inorganic: **Pb, Hg, Cd, Cr, NO₃⁻, PO₄³⁻**
+
+A major effect of excessive organic matter in water is increased **BOD (Biochemical Oxygen Demand)**. Microorganisms consume dissolved oxygen while decomposing organic matter, which can cause **fish kills**.
+
+Excess nitrate and phosphate can cause **eutrophication**, producing excessive algal growth and subsequent oxygen depletion.
+</md></sn><sn><md>### Geosphere
+
+The geosphere includes **soil, rocks, sediments and terrestrial land**.
+
+| Type          | Major pollutants                                                                | Major sources                                                            | Effects                                                                       |
+| ------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| **Organic**   | Pesticides, herbicides, petroleum hydrocarbons, PAHs, PCBs, solvents            | Agriculture, petroleum spills, industrial waste, improper waste disposal | Soil toxicity, reduced microbial activity, bioaccumulation, reduced fertility |
+| **Inorganic** | Heavy metals, salts, acids, alkalis, nitrates, phosphates, radioactive elements | Mining, industries, fertilizers, pesticides, waste disposal              | Soil degradation, toxicity, groundwater contamination, reduced plant growth   |
+
+**Examples:**
+
+* Organic: **DDT, glyphosate, petroleum hydrocarbons, PCBs**
+* Inorganic: **Pb, Cd, Hg, As, Cr, excess nitrate and salts**
+</md></sn>
