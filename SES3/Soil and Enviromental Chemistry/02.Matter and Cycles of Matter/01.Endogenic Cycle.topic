@@ -1,10 +1,58 @@
 
-  <sn></sn>
+  <sn><md>:::.row
+:::.col-12 .col-lg-10
+### Endogenic Cycle
+:::
+
+:::.d-none d-lg-inline-block .col-lg-2
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/endogenic_cycle_cover_img.png)
+:::
+:::
+
+
+
+:::.row
+:::.col-12 .col-lg-6
+**Endogenic cycle** refers to the `cycling and redistribution` of matter within the Earth that is driven mainly by `internal heat and geological processes`. 
+
+It operates primarily within the **geosphere** and connects the Earth's crust, mantle, and surface through processes such as **plate tectonics, volcanism, uplift, metamorphism, melting, and rock formation**.
+
+Unlike biogeochemical cycles, which are strongly driven by `biological and atmospheric processes`, the endogenic cycle is powered largely by `Earth's internal energy`.
+:::
+
+:::.col-12 .col-lg-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/endogenic_cycle_sequence_diagram.png)
+:::
+:::
+
+</md></sn>
   <config>
     <tags>#01.endogenic cycle</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 13 2026 14:12:12 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 13 2026 20:04:29 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2pxcrEewir</id>
     <duration></duration>
   </config>
+<sn><md>:::.row
+:::.col-12 .col-lg-8
+### Magmatism
+
+Heat inside the Earth causes rocks to melt and form **magma**.
+
+```text
+Heat + pressure
+      ↓
+Partial melting of rocks
+      ↓
+     Magma
+```
+
+Magma may remain underground or rise toward the Earth's surface.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/megmatism_diagram.png)
+:::
+:::
+</md></sn>
