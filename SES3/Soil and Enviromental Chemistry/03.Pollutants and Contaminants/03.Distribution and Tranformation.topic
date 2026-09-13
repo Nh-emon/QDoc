@@ -1,10 +1,179 @@
 
-  <sn></sn>
+  <sn><md>### Distribution and Transformation of Pollutants
+
+Pollutants released into the environment do not remain at their original location. They **move between environmental compartments** and undergo various **physical, chemical, and biological transformations**. These two processes are called **distribution** and **transformation**.
+
+**Distribution** is the `movement and partitioning` of pollutants among the **atmosphere, hydrosphere, geosphere, and biosphere**.
+
+```text
+                    POLLUTANT SOURCE
+                          │
+             ┌────────────┼────────────┐
+             ↓            ↓            ↓
+        Atmosphere    Hydrosphere   Geosphere
+             │            │            │
+             └────────────┼────────────┘
+                          ↓
+                      Biosphere
+                          │
+                  Food chain / organisms
+```
+</md></sn>
   <config>
     <tags>#03.distribution and transportation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 12 2026 19:04:50 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 13 2026 09:06:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-MGoDOzMrWL</id>
     <duration></duration>
   </config>
+<sn><md>### Transformation of Pollutants
+
+**Transformation** is the `conversion of a pollutant into another chemical or physical form` after it enters the environment.
+
+Transformation can be divided into:
+
+```text
+Pollutant
+   │
+   ├── Physical transformation
+   │
+   ├── Chemical transformation
+   │
+   └── Biological transformation
+```
+</md></sn><sn><md>### Physical Transformation
+
+The pollutant changes its **physical state, size, or distribution** without necessarily changing its chemical composition.
+
+Major processes:
+
+* Evaporation
+* Condensation
+* Dissolution
+* Adsorption
+* Desorption
+* Sedimentation
+* Volatilization
+
+**Example**
+
+A pesticide present in soil may:
+
+```text
+Soil pesticide
+     │
+     ├── Adsorption → binds to soil particles
+     │
+     ├── Dissolution → enters soil water
+     │
+     └── Volatilization → enters atmosphere
+```
+</md></sn><sn><md>### Chemical Transformation
+
+Chemical reactions change the molecular structure of pollutants.
+Important processes include:
+
+**Oxidation**
+A pollutant reacts with oxygen or another oxidizing agent.
+Example:
+
+```text
+SO₂ → SO₃ → H₂SO₄
+```
+This contributes to **acid deposition**.
+
+**Reduction**
+A substance gains electrons or undergoes a decrease in oxidation state.
+This is particularly important in **waterlogged soils, sediments and groundwater**, where oxygen is limited.
+
+**Hydrolysis**
+A compound reacts with water and breaks into new chemical products.
+This is important for the degradation of some **pesticides and industrial chemicals**.
+
+**Photolysis**
+Sunlight causes chemical decomposition of a pollutant.
+
+```text
+Pollutant + sunlight
+        ↓
+   Transformation
+        ↓
+ New chemical products
+```
+
+Photolysis is particularly important for pollutants in the **atmosphere and surface waters**.
+</md></sn><sn><md>### Biological Transformation
+
+Microorganisms, plants and animals can transform pollutants through their metabolic activities.
+
+**Biodegradation**
+Microorganisms such as **bacteria and fungi** break down organic pollutants.
+
+```text
+Organic pollutant
+        ↓
+Microbial degradation
+        ↓
+Simpler compounds
+        ↓
+CO₂ + H₂O + biomass
+```
+
+Under anaerobic conditions, transformation may produce substances such as **CH₄, H₂S and NH₃**.
+
+**Examples**
+
+* Petroleum hydrocarbons → microbial degradation
+* Organic pesticides → biodegradation
+* Organic matter in wastewater → microbial decomposition
+</md></sn><sn><md>### Factors Affecting Distribution and Transformation
+
+The behavior of pollutants depends on several environmental factors:
+
+**Physical factors**
+
+* Temperature
+* Wind velocity
+* Rainfall
+* Water flow
+* Soil texture
+* Organic matter content
+
+**Chemical factors**
+
+* pH
+* Redox potential
+* Solubility
+* Vapor pressure
+* Chemical stability
+* Partition coefficient
+
+**Biological factors**
+
+* Microbial population
+* Plant uptake
+* Animal metabolism
+* Enzyme activity
+
+</md></sn><sn><md>### In simple terms
+
+```text
+                 POLLUTANT
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+     DISTRIBUTION          TRANSFORMATION
+     "Where does it go?"   "What does it become?"
+          │                     │
+    ┌─────┼─────┐         ┌─────┼─────┐
+    ↓     ↓     ↓         ↓     ↓     ↓
+   Air   Water  Soil     Physical Chemical Biological
+    │     │     │         │       │       │
+    └─────┼─────┘         │       │       │
+          ↓               │       │       │
+       Biosphere          └───────┴───────┘
+```
+
+**Key concept:** Distribution controls the **environmental location and exposure** of a pollutant, while transformation controls its **persistence, toxicity, mobility and eventual fate**.
+</md></sn>
