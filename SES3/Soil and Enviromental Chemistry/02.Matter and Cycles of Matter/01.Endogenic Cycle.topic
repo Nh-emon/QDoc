@@ -30,7 +30,7 @@ Unlike biogeochemical cycles, which are strongly driven by `biological and atmos
     <tags>#01.endogenic cycle</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 13 2026 22:16:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 13 2026 22:18:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2pxcrEewir</id>
     <duration></duration>
   </config>
@@ -136,4 +136,48 @@ Once exposed, these rocks become available for **weathering, erosion, and sedime
 :::
 
 
-</md></sn><sn></sn>
+</md></sn><sn><md>### Endogenic Cycle and Rock Cycle
+
+The endogenic cycle is closely associated with the **rock cycle**.
+
+```text
+                    MAGMA
+                      │
+                 Cooling
+                      ↓
+               IGNEOUS ROCK
+                      │
+          Heat + pressure
+                      ↓
+             METAMORPHIC ROCK
+                      │
+                   Melting
+                      ↓
+                    MAGMA
+                      │
+                      └───────────┐
+                                  │
+Surface rocks ←── Uplift ─────────┘
+     │
+ Weathering + erosion
+     ↓
+ Sediments
+     ↓
+ Sedimentary rocks
+     │
+ Heat + pressure
+     ↓
+Metamorphic rocks
+```
+</md></sn><sn><md>### Importance of the Endogenic Cycle
+
+1. **Recycles Earth's materials** between the crust and interior.
+2. Produces **new rocks and minerals**.
+3. Contributes to the formation of **mountains and landforms**.
+4. Drives **volcanic activity and plate tectonics**.
+5. Brings minerals from Earth's interior toward the surface.
+6. Returns surface materials to the Earth's interior through **subduction**.
+7. Helps maintain the long-term geological evolution of Earth.
+
+**Endogenic cycle = internal heat → tectonic movement → uplift/subduction → melting/metamorphism → rock formation → redistribution of Earth's matter.**
+</md></sn>
