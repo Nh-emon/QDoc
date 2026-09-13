@@ -30,7 +30,7 @@ Unlike biogeochemical cycles, which are strongly driven by `biological and atmos
     <tags>#01.endogenic cycle</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 13 2026 20:04:29 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 13 2026 22:16:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2pxcrEewir</id>
     <duration></duration>
   </config>
@@ -55,4 +55,85 @@ Magma may remain underground or rise toward the Earth's surface.
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/megmatism_diagram.png)
 :::
 :::
-</md></sn>
+
+
+### Volcanism
+
+When magma reaches the Earth's surface, it is released as **lava, volcanic gases, and ash**.
+
+```text
+Magma
+  ↓
+Volcanic eruption
+  ↓
+Lava + gases + ash
+  ↓
+New igneous rocks
+```
+
+Volcanism transfers materials from the **interior of Earth to the surface**.
+</md></sn><sn><md>### Plate Tectonics
+
+The movement of tectonic plates redistributes rocks and minerals across the Earth's crust.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/plate_tectonics_diagram.png)
+
+Major processes include:
+
+* **Convergence** — plates move toward each other.
+* **Divergence** — plates move apart.
+* **Subduction** — one plate moves beneath another.
+* **Uplift** — rocks are brought toward the surface.
+
+### Subduction
+
+At convergent plate boundaries, oceanic crust can sink into the mantle.
+
+```text
+Oceanic crust
+     ↓
+Subduction
+     ↓
+     Mantle
+     ↓
+Heating + melting
+     ↓
+     Magma
+```
+
+This process returns surface materials to the **Earth's interior**.
+</md></sn><sn><md>### Metamorphism
+
+Existing rocks undergo changes because of `high temperature, pressure`, and chemically `active fluids` without completely `!melting`.
+
+```text
+Existing rock
+     ↓
+Heat + pressure
+     ↓
+Metamorphic rock
+```
+</md></sn><sn><md>:::.row
+:::.col-12 .col-lg-6
+### Uplift
+
+Geological forces can **move rocks** from `deeper parts of the Earth toward the surface`.
+
+```text
+Deep rocks
+    ↓
+Tectonic uplift
+    ↓
+Surface rocks
+```
+
+Once exposed, these rocks become available for **weathering, erosion, and sediment formation**, linking the endogenic cycle with surface processes.
+:::
+
+:::.col-12 .col-lg-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/uplift.png)
+:::
+:::
+
+
+</md></sn><sn></sn>
