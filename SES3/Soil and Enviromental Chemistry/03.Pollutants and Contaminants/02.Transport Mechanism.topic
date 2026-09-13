@@ -1,10 +1,171 @@
 
-  <sn></sn>
+  <sn><md>### Transport Mechanisms of Pollutants
+
+**Pollutant transport** is the movement of pollutants from their source to another location through the **atmosphere, hydrosphere, geosphere, or biosphere**. Transport determines the **distribution, exposure, persistence, and eventual fate** of pollutants.
+
+```text
+                    POLLUTANT SOURCE
+                          │
+             ┌────────────┼────────────┐
+             ↓            ↓            ↓
+        Atmosphere    Hydrosphere   Geosphere
+             │            │            │
+             └────────────┼────────────┘
+                          ↓
+                      Biosphere
+```
+</md></sn>
   <config>
     <tags>#02.transport mechanism</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 12 2026 19:04:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 13 2026 13:39:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-yM5PmfsKB8</id>
     <duration></duration>
   </config>
+<sn><md>### Atmospheric Transport
+
+Pollutants are transported through the atmosphere mainly by **wind, air currents, and atmospheric turbulence**.
+
+Major mechanisms
+
+**Advection:**
+Movement of pollutants with the bulk movement of air.
+
+**Diffusion:**
+Movement from an area of higher concentration to lower concentration.
+
+**Dispersion:**
+Spreading of pollutants due to wind, turbulence, and atmospheric mixing.
+
+**Deposition:**
+Removal of pollutants from the atmosphere to the Earth's surface.
+
+```text
+Industrial source
+      ↓
+   Emission
+      ↓
+ ┌───────────┐
+ │ Atmosphere│
+ └─────┬─────┘
+       │
+   Wind/current
+       ↓
+ Pollutant plume
+       ↓
+ Distant region
+```
+
+Example : SO₂ emitted from a power plant can be transported by wind over considerable distances before being deposited on soil or water.
+</md></sn><sn><md>### Hydrological Transport
+
+Water is one of the most important carriers of pollutants.
+
+Major mechanisms
+
+**Surface runoff**
+
+Rainwater transports pollutants over the land surface into rivers, lakes and oceans.
+
+```text
+Polluted land
+     ↓
+   Rainfall
+     ↓
+Surface runoff
+     ↓
+River → Lake → Ocean
+```
+
+Commonly transported pollutants:
+
+* Fertilizers
+* Pesticides
+* Sediments
+* Oil
+* Heavy metals
+
+**Leaching**
+
+Pollutants dissolved in water move downward through soil and may reach groundwater.
+
+```text
+Soil surface
+    ↓
+Pollutant
+    ↓
+Infiltration
+    ↓
+Leaching
+    ↓
+Groundwater
+```
+
+Nitrate is particularly susceptible to leaching because it is highly soluble in water.
+
+**Groundwater transport**
+Once pollutants enter groundwater, they can move with **groundwater flow** and contaminate wells, springs and other water bodies.
+
+**Sediment transport**
+Pollutants attached to soil and sediment particles can be transported by flowing water.
+</md></sn><sn><md>### Soil and Geosphere Transport
+
+Pollutants can move through or across soil by several mechanisms.
+
+**Major mechanisms**
+
+* **Erosion:** movement of contaminated soil particles by wind or water.
+* **Leaching:** downward movement with infiltrating water.
+* **Diffusion:** movement from higher to lower concentration.
+* **Advection:** movement with flowing soil water.
+* **Adsorption–desorption:** pollutants alternately bind to and are released from soil particles.
+
+```text
+                    Soil pollutant
+                         │
+           ┌─────────────┼─────────────┐
+           ↓             ↓             ↓
+        Erosion       Leaching     Diffusion
+           ↓             ↓             ↓
+     Surface water   Groundwater   Soil layers
+```
+</md></sn><sn><md>### Biological Transport
+
+Living organisms can transport pollutants from one location or environmental compartment to another.
+
+**Bioaccumulation**
+A pollutant accumulates within an organism over time.
+
+**Biomagnification**
+The concentration of a pollutant increases as it moves through successive trophic levels.
+
+```text
+Water
+  ↓
+Plankton
+  ↓
+Small fish
+  ↓
+Large fish
+  ↓
+Bird / Human
+```
+
+Examples include **methylmercury and DDT**.
+
+</md></sn><sn><md>### Important Transport Mechanisms at a Glance
+
+| Transport mechanism      | Main medium        | Example                                    |
+| ------------------------ | ------------------ | ------------------------------------------ |
+| **Advection**            | Air/water          | Pollutant carried by wind or water current |
+| **Diffusion**            | Air/water/soil     | Movement from high to low concentration    |
+| **Dispersion**           | Atmosphere/water   | Spreading of a pollutant plume             |
+| **Runoff**               | Surface water      | Pesticides carried into rivers             |
+| **Leaching**             | Soil/groundwater   | Nitrate moving into groundwater            |
+| **Erosion**              | Soil/water/wind    | Contaminated soil particles transported    |
+| **Sedimentation**        | Water              | Pollutant-bearing particles settling       |
+| **Deposition**           | Atmosphere         | Atmospheric particles deposited on soil    |
+| **Biological transport** | Biosphere          | Mercury transferred through food chains    |
+| **Ocean currents**       | Marine environment | Oil transported away from spill site       |
+</md></sn>
