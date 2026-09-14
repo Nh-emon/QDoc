@@ -1,10 +1,58 @@
 
-  <sn></sn>
+  <sn><md>### Soil Acidification
+
+**Definition:**
+Soil acidification is the process by which soil pH decreases (becomes more acidic) due to the accumulation of **H⁺ and Al³⁺ ions** on exchange sites, lowering pH below **7.0** (strongly acidic below 5.5).
+
+**Causes:**
+- **Acid rain** — H₂SO₄ and HNO₃ from pollution
+- **Fertilizer use** — ammonium fertilizers (NH₄⁺) release H⁺ during nitrification:
+$$
+\text{NH}_4^+ + 2\text{O}_2 \rightarrow \text{NO}_3^- + 2\text{H}^+ + \text{H}_2\text{O}
+$$
+- **Organic matter decomposition** — releases organic acids and CO₂
+- **Leaching of bases** — Ca²⁺, Mg²⁺, K⁺ washed away by rain, leaving H⁺ behind
+- **Plant uptake of cations** — roots release H⁺ in exchange for nutrients
+- **Mining and industrial activities** — acid mine drainage
+
+**Process:**
+$$
+\text{Soil} - \text{Ca}^{2+} + 2\text{H}^+ \rightarrow \text{Soil} - 2\text{H}^+ + \text{Ca}^{2+}
+$$
+H⁺ displaces base cations from exchange sites. As pH drops, **Al³⁺** becomes soluble and replaces more bases.
+
+**Effects on Soil:**
+- **Nutrient deficiency** — Ca, Mg, K, P become unavailable
+- **Al³⁺ and Mn²⁺ toxicity** — damage plant roots
+- **Reduced microbial activity** — nitrogen fixation and decomposition slow down
+- **Poor nutrient cycling** — organic matter breakdown decreases
+- **Leaching of nutrients** — bases lost from root zone
+
+**Effects on Crops:**
+- Stunted root growth (Al toxicity)
+- Poor nutrient uptake
+- Yellowing and stunted plants
+- Reduced crop yield
+
+**Remediation:**
+- **Liming** — adding CaCO₃ or Ca(OH)₂:
+$$
+\text{Soil} - 2\text{H}^+ + \text{CaCO}_3 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{H}_2\text{O} + \text{CO}_2
+$$
+- **Organic matter addition** — buffers pH
+- **Balanced fertilizer use** — avoid excess ammonium fertilizers
+- **Growing acid-tolerant crops** — tea, potato, pineapple
+
+**Example:**
+In **tea-growing regions of Assam (India)**, continuous use of ammonium fertilizers and heavy rainfall has acidified soils (pH &lt; 5.0), requiring regular liming.
+
+**Conclusion:**
+Soil acidification is the lowering of soil pH due to H⁺ and Al³⁺ accumulation, causing nutrient deficiency and Al toxicity. It is managed by **liming, organic matter addition, and balanced fertilization**.</md></sn>
   <config>
     <tags>#04.soil acidification</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:47:44 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 16:36:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PiZVcvFfO1</id>
     <duration></duration>
   </config>
