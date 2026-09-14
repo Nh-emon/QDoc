@@ -1,10 +1,106 @@
 
-  <sn></sn>
+  <sn><md>### Cation Exchange
+
+A **cation exchange reaction in soil** is the `reversible process` by which positively charged ions (cations) held on the `surfaces` of soil particles are replaced by other cations from the `soil solution`. It is one of the most important chemical processes governing soil `fertility and nutrient availability`.
+
+**The Basic Reaction**
+
+$$
+\text{Soil} - \text{Ca}^{2+} + 2\text{K}^+ \rightleftharpoons \text{Soil} - 2\text{K}^+ + \text{Ca}^{2+}
+$$
+
+A cation adsorbed on the soil surface (here Ca²⁺) is exchanged with a cation in solution (here K⁺). The reaction is reversible and reaches equilibrium depending on the relative concentrations and binding strengths of the ions.
+</md></sn>
   <config>
     <tags>#01.cation exchange</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 07:50:26 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 09:10:48 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-PCivSgfmgl</id>
     <duration></duration>
   </config>
+<sn><md>### Why It Happens
+
+Soil particles — especially **clay minerals** and **humus** — carry a **net negative charge** from:
+
+- **Isomorphous substitution** in clay lattices (e.g., Al³⁺ replacing Si⁴⁺)
+- **Broken edges** of clay crystals
+- **Dissociation of functional groups** (–COOH, –OH) on organic matter
+
+This negative charge attracts and holds cations, preventing them from leaching away while keeping them available to plants.
+</md></sn><sn><md>### Key Concepts
+
+**Cation Exchange Capacity (CEC)**
+The total `quantity of exchangeable cations a soil can hold`, usually expressed in cmol(+)/kg (or meq/100 g). High-CEC soils (e.g., smectite clays, organic soils) retain nutrients better than low-CEC soils (e.g., sandy soils, kaolinite).
+
+**Lyotropic series (selectivity)**
+Cations are held with different strengths. A typical order of preference:
+
+$$
+\text{Al}^{3+} &gt; \text{Ca}^{2+} &gt; \text{Mg}^{2+} &gt; \text{K}^+ \approx \text{NH}_4^+ &gt; \text{Na}^+ &gt; \text{H}^+
+$$
+
+Higher charge and smaller hydrated radius → stronger adsorption. This is why Na⁺ displaces Ca²⁺ more easily in reverse, and why Ca²⁺ competes effectively with K⁺.
+
+**Complementary vs. exchangeable ions**
+- *Exchangeable* cations are readily replaced by other cations.
+- *Complementary* ions are specifically adsorbed and less easily exchanged.
+</md></sn><sn><md>### Factors Affecting the Reaction
+
+| Factor | Effect |
+|---|---|
+| CEC of soil | More exchange sites = more exchange |
+| Cation concentration in solution | Mass action drives exchange |
+| Charge and size of cation | Higher charge/smaller size = stronger binding |
+| pH | Lower pH increases H⁺ and Al³⁺, displacing base cations |
+| Type of clay/organic matter | Determines number and accessibility of sites |
+| Temperature | Generally minor but affects reaction rates |
+</md></sn><sn><md>### Practical Significance
+
+- **Nutrient availability**: K⁺, Ca²⁺, Mg²⁺, NH₄⁺ are held and released to plants via exchange.
+- **Fertilizer management**: Adding K⁺ fertilizer displaces Ca²⁺ and Mg²⁺ into solution; adding lime (Ca²⁺) displaces Al³⁺ and H⁺, raising pH.
+- **Soil salinity/sodicity**: Excess Na⁺ displaces Ca²⁺ and Mg²⁺, degrading soil structure (dispersion, poor infiltration).
+- **Liming**: Ca²⁺ from lime replaces acidic Al³⁺ and H⁺ on exchange sites.
+- **Leaching**: Highly mobile cations (Na⁺, K⁺) can be lost if not held on exchange sites.
+- **Buffering**: Exchange reactions buffer the soil solution against rapid changes in nutrient concentration.
+</md></sn><sn><md>### Isomorphous substitution
+
+
+**Isomorphous substitution** is the `replacement of one atom (or ion) in a mineral crystal lattice by another atom` (or ion) of **similar size and charge**, without changing the overall crystal structure. It is the main reason clay minerals carry a **permanent negative charge**, which in turn drives cation exchange in soil.
+
+**The Basic Idea**
+
+In a crystal lattice, atoms sit in fixed positions. If a foreign ion has a similar **ionic radius** to the original ion, it can take its place in the structure. The mineral keeps the same overall framework — hence "isomorphous" (same form/shape).
+
+**Why It Creates a Negative Charge**
+
+The key point is that the substituting ion often has a **lower positive charge** than the ion it replaces. This leaves an **excess of negative charge** on the lattice.
+
+**Example in 2:1 clays (smectite, vermiculite, illite):**
+
+- The tetrahedral sheet is normally **Si⁴⁺** in tetrahedral coordination.
+- Sometimes **Al³⁺** substitutes for Si⁴⁺:
+
+$$
+\text{Al}^{3+} \text{ replaces } \text{Si}^{4+}
+$$
+
+Charge deficit = $4 - 3 = 1$ negative charge per substitution.
+
+- In the octahedral sheet, **Mg²⁺** can substitute for **Al³⁺**:
+
+$$
+\text{Mg}^{2+} \text{ replaces } \text{Al}^{3+}
+$$
+
+Charge deficit = $3 - 2 = 1$ negative charge.
+
+Each substitution leaves one **net negative charge** on the clay layer. This charge is **permanent** — it does not depend on pH.
+</md></sn><sn><md>### Consequences for Soil
+
+1. **Permanent negative charge** → enables **cation exchange** and gives clay its **CEC**.
+2. **Nutrient retention** → Ca²⁺, Mg²⁺, K⁺, NH₄⁺ are held on these sites.
+3. **pH-independent charge** → unlike organic matter (pH-dependent charge), this charge persists across normal soil pH ranges.
+4. **Differences among clays** → smectite and vermiculite have high CEC; kaolinite has low CEC, largely because of differences in isomorphous substitution.
+
+</md></sn><sn></sn>
