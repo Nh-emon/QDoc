@@ -1,28 +1,10 @@
 
-  <sn><md>### Course Overview
-
-This course introduces chemical reactions and processes occurring in soils and the environment, with special emphasis on soil–plant relationships, nutrient cycling, ion behavior, pollutant movement, and environmental remediation.
-
----
- Course Learning Outcomes (CLOs)
-
-**CLO 1**
-Demonstrate knowledge of the chemistry of different soil phases and atmospheric spheres.
-
-**CLO 2**
-Understand the significance of biochemical processes active on the Earth's surface.
-
-**CLO 3**
-Acquire knowledge about soil and environmental pollutants.
-
-**CLO 4**
-Identify and manage problem soils.
-</md></sn>
+  
   <config>
     <tags>#soil and environmental chemistry</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Wed May 13 2026 10:13:54 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 22:02:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4KqEYOHVgg</id>
     <duration></duration>
   </config>
@@ -101,6 +83,24 @@ Identify and manage problem soils.
 * Redox processes in aquatic systems
 * pE–pH relationships
 * Free energy concepts
+</md></sn><sn><md>### Course Overview
+
+This course introduces chemical reactions and processes occurring in soils and the environment, with special emphasis on soil–plant relationships, nutrient cycling, ion behavior, pollutant movement, and environmental remediation.
+
+---
+ Course Learning Outcomes (CLOs)
+
+**CLO 1**
+Demonstrate knowledge of the chemistry of different soil phases and atmospheric spheres.
+
+**CLO 2**
+Understand the significance of biochemical processes active on the Earth's surface.
+
+**CLO 3**
+Acquire knowledge about soil and environmental pollutants.
+
+**CLO 4**
+Identify and manage problem soils.
 </md></sn><sn><md>### Recommended Readings
 
 1. **The Nature and Properties of Soils**
