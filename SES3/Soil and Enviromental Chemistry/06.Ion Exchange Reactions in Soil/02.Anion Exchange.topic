@@ -1,85 +1,59 @@
 
-  <sn><md>### Anion Exchange
+  
+  <config>
+    <tags>#02.anion exchange</tags>
+    <thumbnail></thumbnail>
+    <heading></heading>
+    <udate>Mon Sep 14 2026 12:10:26 GMT+0600 (Bangladesh Standard Time)</udate>
+    <id>article-wSE61mclUJ</id>
+    <duration></duration>
+  </config>
+<sn><md>### Anion Exchange in Soil
 
-**Anion exchange in soil** is the `reversible process` by which negatively charged ions (anions) are attracted to and held on positively charged sites on soil particles, and can be replaced by other anions from the soil solution. It is the counterpart to cation exchange, but it is generally `weaker, more variable, and less understood` because most soil particles carry a net negative charge.
+**Definition:**
+Anion exchange is the reversible process in which negatively charged ions (anions) held on positively charged sites of soil particles are replaced by other anions from the soil solution.
 
-**The Basic Reaction**
+**Reaction:**
 
 $$
 \text{Soil} - \text{H}_2\text{PO}_4^- + \text{NO}_3^- \rightleftharpoons \text{Soil} - \text{NO}_3^- + \text{H}_2\text{PO}_4^-
 $$
 
-An anion held on a positively charged soil site (here $\text{H}_2\text{PO}_4^-$ is exchanged with another anion in solution (here $\text{NO}_3^-$). Like cation exchange, the reaction is reversible and governed by concentration and binding strength.
-
-</md></sn>
-  <config>
-    <tags>#02.anion exchange</tags>
-    <thumbnail></thumbnail>
-    <heading></heading>
-    <udate>Mon Sep 14 2026 10:14:26 GMT+0600 (Bangladesh Standard Time)</udate>
-    <id>article-wSE61mclUJ</id>
-    <duration></duration>
-  </config>
-<sn><md>### Why It Happens
-
-Anion exchange requires **positively charged sites** on soil particles. These arise from:
-
-1. **Protonation of surface hydroxyl groups** (–OH) on clay edges and iron/aluminum oxides:
+**Origin of Positive Charge:**
+- **Protonation of –OH groups** on clay edges and Fe/Al oxide surfaces at low pH:
 $$
 \text{Fe} - \text{OH} + \text{H}^+ \rightarrow \text{Fe} - \text{OH}_2^+
 $$
-This is **pH-dependent** — positive charge increases as pH decreases.
+- **Broken edges** of clay minerals
+- **Iron and aluminum oxides** (goethite, gibbsite) — main source in acidic soils
+- **Allophane** in volcanic ash soils
 
-2. **Broken edges of clay minerals** where Al–OH and Fe–OH groups can gain protons.
+**Anion Exchange Capacity (AEC):**
+The total exchangeable anions a soil can hold. It is **much lower than CEC** in most soils because negative charge dominates. AEC increases at **low pH** and in **oxide-rich soils**.
 
-3. **Iron and aluminum oxides/hydroxides** (goethite, gibbsite, hematite) — these are the main sources of positive charge in many soils, especially highly weathered tropical soils.
-
-4. **Allophane and imogolite** (volcanic ash soils) — variable charge minerals with significant anion exchange capacity.
-</md></sn><sn><md>### Key Concepts
-
-**Anion Exchange Capacity (AEC)**
-The total quantity of exchangeable anions a soil can hold, usually expressed in cmol(+)/kg or meq/100 g. AEC is generally much **lower than CEC** in most soils because negative charge dominates.
-
-**Positive charge development**
-Positive charge on soil surfaces increases when:
-- pH is **low** (more H⁺ available for protonation)
-- Iron and aluminum oxide content is **high**
-- The soil is highly weathered (tropical/subtropical soils)
-
-**Lyotropic series for anions**
-Anions differ greatly in how strongly they are held:
-
+**Selectivity Series:**
 $$
 \text{OH}^- &gt; \text{H}_2\text{PO}_4^- &gt; \text{SO}_4^{2-} &gt; \text{Cl}^- &gt; \text{NO}_3^-
 $$
 
-- **OH⁻** is held most strongly (and is why liming releases adsorbed phosphate).
-- **Phosphate** is strongly adsorbed, often by **ligand exchange** (a specific adsorption mechanism), not just simple electrostatic exchange.
-- **Nitrate and chloride** are weakly held and easily leached.
-</md></sn><sn><md>### Two Types of Anion Retention
+**Types:**
+- **Exchangeable (non-specific):** Cl⁻, NO₃⁻ — weakly held, easily leached
+- **Specifically adsorbed:** Phosphate, sulfate — held by ligand exchange, less reversible
 
-| Type | Mechanism | Example | Reversibility |
-|---|---|---|---|
-| **Exchangeable (non-specific)** | Electrostatic attraction to positive sites | Cl⁻, NO₃⁻ | Readily reversible |
-| **Specifically adsorbed** | Ligand exchange, covalent bonding | H₂PO₄⁻, MoO₄²⁻ | Less reversible, stronger |
+**Factors Affecting:**
+- **pH:** Low pH → more positive charge → more AEC
+- **Fe/Al oxide content:** High oxides → higher AEC
+- **Clay type:** Kaolinite and oxides &gt; smectite
+- **Competing anions:** OH⁻ and phosphate displace others
 
-**Specific adsorption** (also called ligand exchange) is especially important for phosphate:
+**Importance:**
+- **Phosphate retention:** Reduces leaching but can fix phosphate, lowering availability
+- **Nitrate leaching:** Weakly held NO₃⁻ pollutes groundwater
+- **Sulfate retention:** Strongly held in acidic soils
+- **Liming:** Raises pH, reduces AEC, releases adsorbed anions
 
-$$
-\text{Fe} - \text{OH} + \text{H}_2\text{PO}_4^- \rightarrow \text{Fe} - \text{H}_2\text{PO}_4 + \text{OH}^-
-$$
+**Example:**
+In acidic red soils rich in iron oxides, phosphate is strongly retained by anion exchange and ligand exchange, making it less available to plants.
 
-The phosphate replaces the hydroxyl group and bonds directly to the metal ion. This is why phosphate is much less mobile than nitrate or chloride in soil.
-
-</md></sn><sn><md>### Comparison: Cation vs. Anion Exchange
-
-| Feature | Cation Exchange | Anion Exchange |
-|---|---|---|
-| Charge of ions | Positive | Negative |
-| Soil charge involved | Negative sites | Positive sites |
-| Dominant in most soils | Yes | No (except acidic/oxide-rich soils) |
-| Capacity | CEC (high) | AEC (low) |
-| pH effect | High pH → more CEC | Low pH → more AEC |
-| Key ions | Ca²⁺, Mg²⁺, K⁺, Na⁺, NH₄⁺ | H₂PO₄⁻, SO₄²⁻, Cl⁻, NO₃⁻ |
-| Main minerals | Smectite, vermiculite, humus | Fe/Al oxides, kaolinite, allophane |
-</md></sn>
+**Conclusion:**
+Anion exchange is the reversible replacement of anions on positively charged soil sites. It is pH-dependent and important in acidic, oxide-rich soils, controlling the mobility of phosphate, sulfate, nitrate, and chloride.</md></sn>
