@@ -1,10 +1,35 @@
 
-  <sn></sn>
+  <sn><md>### Importance of pH in Crop Growth
+
+**1. Nutrient Availability:**
+Soil pH controls the availability of essential nutrients to plants.
+- At **pH 6.0–7.0**, most nutrients (N, P, K, Ca, Mg) are readily available.
+- At **low pH (acidic)**, P is fixed by Fe/Al, and Ca, Mg, Mo become deficient.
+- At **high pH (alkaline)**, Fe, Mn, Zn, Cu, and P become unavailable, causing chlorosis.
+
+**2. Microbial Activity:**
+Soil microorganisms (nitrogen-fixing bacteria, decomposers) work best at **pH 6.0–7.5**. Extreme pH reduces their activity, slowing organic matter decomposition and nutrient cycling.
+
+**3. Toxic Ion Availability:**
+- At **low pH**, toxic ions like **Al³⁺ and Mn²⁺** become soluble and harm plant roots.
+- At **high pH**, excess **Na⁺** (sodic soils) damages soil structure and restricts water uptake.
+
+**4. Nutrient Uptake and Root Growth:**
+Proper pH ensures healthy root development and efficient absorption of nutrients. Extreme pH damages roots and reduces crop yield.
+
+**5. Fertilizer Efficiency:**
+Lime is added to acidic soils to raise pH, and gypsum or sulfur is used for alkaline soils. Correct pH improves fertilizer response and crop productivity.
+
+**Example:**
+Wheat and maize grow best at **pH 6.0–7.0**, while tea and potato tolerate acidic soils (**pH 4.5–5.5**), and cotton prefers **pH 6.0–8.0**.
+
+**Conclusion:**
+Soil pH is a **master variable** in crop growth. It controls nutrient availability, microbial activity, toxic ion levels, and root health. Maintaining optimum pH (6.0–7.0) is essential for maximum crop yield.</md></sn>
   <config>
     <tags>#06.importance of ph in crop growth</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:48:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 14:50:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-jsaPEeHo1K</id>
     <duration></duration>
   </config>
