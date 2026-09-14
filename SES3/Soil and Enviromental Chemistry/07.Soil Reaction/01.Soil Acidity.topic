@@ -1,10 +1,67 @@
 
-  <sn></sn>
+  <sn><md>### Soil Acidity
+
+**Definition:**
+Soil acidity is the condition where soil pH is **below 7.0**, caused by the accumulation of **H⁺ and Al³⁺ ions** in the soil solution and on exchange sites. Soils with pH below **5.5** are considered strongly acidic.
+
+**Causes:**
+- **Heavy rainfall** — leaches base cations (Ca²⁺, Mg²⁺, K⁺), leaving H⁺ behind
+- **Acid rain** — H₂SO₄ and HNO₃ from pollution
+- **Ammonium fertilizers** — nitrification releases H⁺:
+$$
+\text{NH}_4^+ + 2\text{O}_2 \rightarrow \text{NO}_3^- + 2\text{H}^+ + \text{H}_2\text{O}
+$$
+- **Organic matter decomposition** — releases organic acids and CO₂
+- **Plant root activity** — roots release H⁺ to absorb cations
+- **Acid mine drainage** — releases H⁺ and heavy metals
+- **Parent material** — acidic rocks (granite, sandstone)
+</md></sn>
   <config>
     <tags>#01.soil acidity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:47:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 21:50:21 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-GkVh9FxoOs</id>
     <duration></duration>
   </config>
+<sn><md>### Types of Soil Acidity:
+
+| Type | Description |
+|---|---|
+| **Active acidity** | H⁺ in soil solution, measured by pH |
+| **Exchange acidity** | H⁺ and Al³⁺ on exchange sites |
+| **Residual acidity** | H⁺ bound in organic/clay structures |
+| **Potential acidity** | Exchange + residual (total reserve) |
+
+**Role of Al³⁺:**
+In acid soils (pH &lt; 5.5), **Al³⁺** becomes soluble and dominant on exchange sites. Its hydrolysis releases H⁺:
+$$
+\text{Al}^{3+} + 3\text{H}_2\text{O} \rightarrow \text{Al(OH)}_3 + 3\text{H}^+
+$$
+Al³⁺ is the **main toxic factor** in acid soils.
+</md></sn><sn><md>### Effects on Soil
+- **Nutrient deficiency** — P fixed by Fe/Al; Ca, Mg, K leached
+- **Al³⁺ and Mn²⁺ toxicity** — damage plant roots
+- **Reduced microbial activity** — N fixation and decomposition slow
+- **Poor structure** — low base saturation weakens aggregates
+
+**Effects on Crops:**
+- Stunted root growth
+- Poor nutrient uptake
+- Yellowing (chlorosis)
+- Reduced yield
+</md></sn><sn><md>### Remediation:
+
+- **Liming** — CaCO₃ or Ca(OH)₂ neutralizes acidity:
+$$
+\text{Soil} - 2\text{H}^+ + \text{CaCO}_3 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{H}_2\text{O} + \text{CO}_2
+$$
+- **Organic matter** — buffers pH
+- **Balanced fertilization** — avoid excess ammonium fertilizers
+- **Acid-tolerant crops** — tea, potato, pineapple
+
+**Example:**
+In **Assam tea gardens**, heavy rainfall and ammonium fertilizer use have made soils acidic (pH &lt; 5.0). Regular liming is needed to maintain productivity.
+
+**Conclusion:**
+Soil acidity is the lowering of pH below 7.0 due to **H⁺ and Al³⁺ accumulation**. It causes nutrient deficiency and Al toxicity, reducing crop yield. It is managed by **liming, organic matter addition, and balanced fertilization**.</md></sn>
