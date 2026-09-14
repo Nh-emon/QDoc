@@ -1,10 +1,26 @@
 
-  <sn></sn>
+  <sn><md>### Origin of Exchange Properties
+
+**1. Isomorphous Substitution (Permanent Charge):**
+In clay minerals, ions of similar size replace each other in the crystal lattice. For example, Al³⁺ replaces Si⁴⁺ in tetrahedral sheets, or Mg²⁺ replaces Al³⁺ in octahedral sheets. Since the replacing ion has lower positive charge, a **net negative charge** develops on the clay surface. This is called **permanent charge** because it does not depend on pH.
+
+**2. Broken Edges of Clay Minerals:**
+At the broken edges of clay crystals, exposed Al–OH and Si–OH groups exist. These edges develop charge depending on pH. At low pH, they gain H⁺ and become positive; at high pH, they lose H⁺ and become negative. This is called **pH-dependent charge**.
+
+**3. Dissociation of Functional Groups in Organic Matter:**
+Humus contains carboxyl (–COOH) and phenolic (–OH) groups. These groups lose H⁺ ions depending on soil pH, leaving negative charges on the organic matter surface. This contributes significantly to **CEC** in organic-rich soils.
+
+**4. Protonation of Oxide Surfaces (Anion Exchange):**
+Iron and aluminum oxides (goethite, gibbsite) have –OH groups on their surfaces. At low pH, these groups gain H⁺ and become positively charged (Fe–OH₂⁺), creating **anion exchange sites**. This is the main origin of **AEC** in acidic, highly weathered soils.
+
+**Example:** Smectite clay develops permanent negative charge due to Mg²⁺ replacing Al³⁺, giving it high CEC.
+
+**Conclusion:** Exchange properties originate from **isomorphous substitution** (permanent charge), **broken edges**, **organic functional groups**, and **oxide surfaces** (pH-dependent charge).</md></sn>
   <config>
     <tags>#04.origin of exchange properties</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 07:51:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 11:12:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-zq0hMQauzP</id>
     <duration></duration>
   </config>
