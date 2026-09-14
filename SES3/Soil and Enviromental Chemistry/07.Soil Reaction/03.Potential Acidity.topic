@@ -1,10 +1,46 @@
 
-  <sn></sn>
+  <sn><md>### Potential Acidity
+
+**Definition:**
+Potential acidity is the **total acidity** in soil that is **not currently active** but can become active (release H⁺ into soil solution) under changing conditions. It includes **exchangeable H⁺ and Al³⁺** held on soil colloids plus **non-exchangeable H⁺** bound in organic matter and clay minerals.
+
+**Components:**
+
+1. **Exchangeable Acidity:**
+H⁺ and Al³⁺ ions held on exchange sites of clay and organic matter. They can be displaced by other cations (e.g., Ca²⁺ from lime):
+$$
+\text{Soil} - 2\text{H}^+ + \text{Ca}^{2+} \rightarrow \text{Soil} - \text{Ca}^{2+} + 2\text{H}^+
+$$
+
+2. **Non-Exchangeable (Residual) Acidity:**
+H⁺ bound strongly in **organic matter functional groups** (–COOH, –OH) and **clay mineral structures**. It is released slowly, especially when pH rises.
+
+**Active vs. Potential Acidity:**
+
+| Feature | Active Acidity | Potential Acidity |
+|---|---|---|
+| What it is | H⁺ in soil solution | H⁺ + Al³⁺ on colloids + residual |
+| Measured by | pH | Buffer pH / lime requirement |
+| Amount | Very small | Much larger |
+| Changes with | Season, moisture | Slowly with liming |
+
+**Importance:**
+
+- **Lime requirement:** Potential acidity determines **how much lime** is needed to raise pH to a target level. Buffer pH methods measure it.
+- **pH buffering:** High potential acidity means soil resists pH change — more lime is needed.
+- **Al³⁺ toxicity:** Exchangeable Al³⁺ is the main toxic form in acid soils.
+- **Nutrient availability:** As potential acidity is neutralized, nutrients become available.
+
+**Example:**
+A soil with pH 5.0 may have small active acidity but large potential acidity (exchangeable Al³⁺ + H⁺). Buffer pH test shows high lime requirement to raise pH to 6.5.
+
+**Conclusion:**
+Potential acidity is the **reserve acidity** held on exchange sites and in organic/clay structures. It determines **lime requirement** and controls how soil pH responds to liming.</md></sn>
   <config>
     <tags>#03.potential acidity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:47:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 21:11:29 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-cAg694zgbS</id>
     <duration></duration>
   </config>
