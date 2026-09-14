@@ -1,10 +1,62 @@
 
-  <sn></sn>
+  <sn><md>### Exchange Acidity
+
+**Definition:**
+Exchange acidity is the portion of soil acidity caused by **H⁺ and Al³⁺ ions held on the exchange sites** of clay minerals and organic matter. These ions can be replaced (exchanged) by other cations from the soil solution, such as Ca²⁺, Mg²⁺, or K⁺.
+
+**Reaction:**
+$$
+\text{Soil} - 2\text{H}^+ + \text{Ca}^{2+} \rightarrow \text{Soil} - \text{Ca}^{2+} + 2\text{H}^+
+$$
+
+The H⁺ on the exchange site is displaced into the soil solution by Ca²⁺, increasing active acidity.
+
+**Sources of H⁺ and Al³⁺ on Exchange Sites:**
+- **Al³⁺** is the dominant exchangeable cation in acid soils (pH &lt; 5.5). It comes from the breakdown of clay minerals.
+- **H⁺** comes from:
+  - Organic matter decomposition (organic acids)
+  - Fertilizer reactions (nitrification of NH₄⁺)
+  - Acid rain
+  - Plant root H⁺ release
+
+**Hydrolysis of Al³⁺:**
+Exchangeable Al³⁺ is the main source of H⁺ in acid soils:
+$$
+\text{Al}^{3+} + 3\text{H}_2\text{O} \rightarrow \text{Al(OH)}_3 + 3\text{H}^+
+$$
+This releases three H⁺ ions per Al³⁺, strongly acidifying the soil.
+
+**Relation to Other Acidity Types:**
+
+| Type | Location | Measured by |
+|---|---|---|
+| **Active acidity** | H⁺ in soil solution | pH |
+| **Exchange acidity** | H⁺ + Al³⁺ on exchange sites | KCl extraction (titration) |
+| **Residual acidity** | H⁺ bound in organic/clay structures | Difference (potential − exchange) |
+| **Potential acidity** | Exchange + residual | Buffer pH method |
+
+**Importance:**
+- **Al³⁺ toxicity:** Exchangeable Al³⁺ is the most toxic form to plant roots in acid soils.
+- **Lime requirement:** Exchange acidity is neutralized by liming:
+$$
+\text{Soil} - 2\text{Al}^{3+} + 3\text{CaCO}_3 \rightarrow \text{Soil} - 3\text{Ca}^{2+} + 2\text{Al(OH)}_3 + 3\text{CO}_2
+$$
+- **pH buffering:** Exchange acidity resists pH change; more lime is needed to raise pH.
+- **Nutrient availability:** High exchange acidity means low base saturation (Ca, Mg, K), reducing nutrient supply.
+
+**Measurement:**
+Exchange acidity is measured by extracting soil with **1N KCl** (which displaces H⁺ and Al³⁺) and titrating the extract with base.
+
+**Example:**
+A soil with pH 4.8 has high exchangeable Al³⁺. Treating with lime (CaCO₃) displaces Al³⁺ from exchange sites, precipitates it as Al(OH)₃, and raises pH to 6.5, improving crop growth.
+
+**Conclusion:**
+Exchange acidity is the acidity due to **H⁺ and Al³⁺ held on soil exchange sites**. It is the main component of potential acidity, a key factor in **Al³⁺ toxicity**, and determines **lime requirement** in acid soils.</md></sn>
   <config>
     <tags>#02.exchange acidity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:47:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 21:28:36 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-hERninjBKu</id>
     <duration></duration>
   </config>
