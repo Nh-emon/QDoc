@@ -1,10 +1,48 @@
 
-  <sn></sn>
+  <sn><md>### Ligand Exchange in Soil
+
+**Definition:**
+Ligand exchange is a **specific adsorption** process in which an anion (or ligand) in soil solution replaces a hydroxyl group (–OH) or water molecule (H₂O) attached to a metal ion (Fe³⁺, Al³⁺, Mn⁴⁺) on the surface of soil minerals, forming a **direct chemical bond** (inner-sphere complex).
+
+**Mechanism:**
+
+$$
+\text{Fe} - \text{OH} + \text{H}_2\text{PO}_4^- \rightarrow \text{Fe} - \text{H}_2\text{PO}_4 + \text{OH}^-
+$$
+
+The phosphate ion replaces the –OH group and bonds directly with Fe³⁺ or Al³⁺. This is stronger than simple electrostatic (outer-sphere) attraction.
+
+</md></sn>
   <config>
     <tags>#03.ligand exchange</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 07:50:51 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 11:47:09 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-myvpIx1ZQy</id>
     <duration></duration>
   </config>
+<sn><md>**Key Features:**
+- It is a **specific adsorption** — not simple ion exchange
+- Forms **inner-sphere complexes** (strong, covalent-like bonds)
+- Mainly occurs on **Fe/Al oxide surfaces** (goethite, gibbsite) and **clay edges**
+- The adsorbed anion is **less reversible** and not easily displaced
+- **OH⁻ ions** compete strongly — raising pH releases adsorbed anions
+
+**Anions Involved:**
+- Phosphate (H₂PO₄⁻, HPO₄²⁻) — most strongly adsorbed
+- Sulfate (SO₄²⁻)
+- Molybdate (MoO₄²⁻)
+- Arsenate (HAsO₄²⁻)
+- Fluoride (F⁻)
+- Organic acids (citrate, oxalate)
+</md></sn><sn><md>**Importance in Soil:**
+- **Phosphate fixation:** Phosphate is strongly held by ligand exchange, reducing its availability to plants. This is a major problem in acidic, oxide-rich tropical soils.
+- **Anion retention:** Prevents leaching of sulfate and molybdate.
+- **Liming effect:** Raising pH increases OH⁻ concentration, which displaces adsorbed phosphate, making it more available.
+- **Arsenate mobility:** Similar to phosphate, arsenate is adsorbed by ligand exchange, affecting its toxicity and movement in soil.
+
+**Example:**
+In red laterite soils rich in iron oxides, phosphate fertilizer applied to soil is quickly fixed by ligand exchange with Fe–OH groups, making it unavailable to crops.
+
+**Conclusion:**
+Ligand exchange is a **specific adsorption mechanism** where anions replace –OH groups on Fe/Al oxide surfaces, forming strong inner-sphere complexes. It controls the availability and mobility of phosphate, sulfate, and arsenate in soil.</md></sn>
