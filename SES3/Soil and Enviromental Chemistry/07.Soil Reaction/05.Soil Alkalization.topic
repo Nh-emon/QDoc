@@ -1,10 +1,55 @@
 
-  <sn></sn>
+  <sn><md>### Soil Alkalization
+
+**Definition:**
+Soil alkalization is the process by which soil becomes alkaline (high pH) due to the accumulation of **sodium carbonate (Na₂CO₃)** and **sodium bicarbonate (NaHCO₃)**, raising soil pH above **8.5**. It is also called **sodification** when excess Na⁺ occupies exchange sites.
+
+**Causes:**
+- **High evaporation** in arid and semi-arid regions, leaving salts behind
+- **Irrigation with sodic water** containing high Na⁺
+- **Poor drainage** causing waterlogging and salt accumulation
+- **Over-irrigation** without proper leaching
+- **Weathering of parent rocks** rich in sodium
+
+**Process:**
+$$
+\text{Na}_2\text{CO}_3 + \text{H}_2\text{O} \rightarrow 2\text{Na}^+ + 2\text{OH}^- + \text{CO}_2
+$$
+The released OH⁻ ions increase soil pH. Na⁺ displaces Ca²⁺ and Mg²⁺ on exchange sites, making soil **sodic**.
+
+**Effects on Soil:**
+- **High pH (&gt;8.5)** — nutrients like Fe, Mn, Zn, P become unavailable
+- **Poor soil structure** — Na⁺ disperses clay particles, destroying aggregates
+- **Reduced infiltration** — soil becomes impermeable to water and air
+- **Crust formation** — hard surface layer prevents seedling emergence
+- **Toxic effects** — excess Na⁺ and carbonate harm plant roots
+
+**Effects on Crops:**
+- Stunted growth and yellowing (chlorosis)
+- Poor root development
+- Reduced water and nutrient uptake
+- Low crop yield
+
+**Remediation:**
+- **Gypsum (CaSO₄)** application:
+$$
+\text{Soil} - 2\text{Na}^+ + \text{CaSO}_4 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{Na}_2\text{SO}_4
+$$
+- **Leaching** with good quality water to remove displaced Na⁺
+- **Organic matter** addition to improve structure
+- **Proper drainage** to prevent salt accumulation
+- **Growing salt-tolerant crops** (barley, sugar beet)
+
+**Example:**
+In parts of **Punjab and Haryana (India)**, excessive canal irrigation without drainage has caused soil alkalization, reducing wheat and rice yields. Gypsum treatment and leaching have helped reclaim these soils.
+
+**Conclusion:**
+Soil alkalization is the accumulation of sodium salts raising pH above 8.5, degrading soil structure and reducing crop growth. It is managed by **gypsum application, leaching, drainage, and organic matter addition**.</md></sn>
   <config>
     <tags>#05.soil alkalization</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 14:47:55 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 15:27:30 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-WJZT3FVS3e</id>
     <duration></duration>
   </config>
