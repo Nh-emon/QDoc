@@ -1,10 +1,90 @@
 
-  <sn></sn>
+  <sn><md>### Humus and Classification of Humus
+
+**Definition:**
+Humus is the **dark, amorphous, colloidal organic matter** formed by the **decomposition and resynthesis** of plant and animal residues by soil microorganisms. It is highly resistant to further decomposition and is a key component of soil organic matter.
+
+**Characteristics of Humus:**
+- Dark brown to black in colour
+- **Colloidal** in nature — high surface area
+- **High CEC** (200–300 cmol/kg) — retains nutrients
+- **High water holding capacity**
+- **Buffers soil pH**
+- Resistant to microbial decomposition (stable)
+- Improves soil structure and aeration
+
+**Composition:**
+- Carbon (~55–60%)
+- Nitrogen (~3–6%)
+- Oxygen, hydrogen, sulfur, phosphorus
+- **Humic substances** (fulvic acid, humic acid, humin)
+- **Non-humic substances** (proteins, carbohydrates, fats)
+</md></sn>
   <config>
     <tags>#01.classification of humus</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 22:15:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Sep 14 2026 22:25:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-INfcsVWau4</id>
     <duration></duration>
   </config>
+<sn><md>### Classification of Humus {.text-center}
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/04.Humus/assets/types_of_humus.jpeg)
+
++++ diagram
+```text
+TYPES OF HUMUS
+│
+├── Based on Origin / Formation
+│   ├── Mor    → acidic + cold + poorly drained
+│   ├── Mull   → neutral/alkaline + well drained
+│   └── Moder  → intermediate
+│
+├── Based on Chemical Nature
+│   ├── Fulvic acid → soluble in acid &amp; alkali → most mobile
+│   ├── Humic acid  → soluble in alkali → intermediate
+│   └── Humin      → insoluble in acid &amp; alkali → most stable
+│
+└── Based on Decomposition Stage
+    ├── Labile humus  → easily decomposed → quick nutrient release
+    └── Stable humus  → resistant → slow nutrient release
+```
++++
+
+</md></sn><sn><md>#### Based on Origin / Formation
+
+| Type | Description |
+|---|---|
+| **Raw humus (Mor)** | Formed in acidic, poorly drained, cold conditions; thick O horizon; low microbial activity; e.g., coniferous forest soils |
+| **Mull humus** | Formed in neutral to alkaline, well-drained soils; well-mixed with mineral soil; high microbial activity; e.g., deciduous forest soils |
+| **Moder humus** | Intermediate between Mor and Mull; moderate decomposition; e.g., grassland soils |
+
+#### Based on Chemical Nature (Humic Substances)
+
+| Type | Description |
+|---|---|
+| **Fulvic acid** | Soluble in both acid and alkali; light yellow; low molecular weight; high oxygen; most mobile |
+| **Humic acid** | Soluble in alkali, insoluble in acid; dark brown; medium molecular weight; intermediate |
+| **Humin** | Insoluble in both acid and alkali; black; high molecular weight; most stable and inert |
+
+#### Based on Decomposition Stage
+
+| Type | Description |
+|---|---|
+| **Labile humus** | Easily decomposable; short-lived; quick nutrient release |
+| **Stable humus** | Resistant to decomposition; long-lived; slow nutrient release |
+</md></sn><sn><md>### Importance of Humus:
+
+- **Nutrient retention:** High CEC holds Ca²⁺, Mg²⁺, K⁺, NH₄⁺
+- **Water retention:** Improves moisture holding capacity
+- **Soil structure:** Binds particles into stable aggregates
+- **Buffering:** Resists pH change
+- **Microbial habitat:** Supports beneficial microorganisms
+- **Carbon sequestration:** Stores carbon, mitigating climate change
+
+**Example:**
+In **Mull humus** (deciduous forests), earthworms mix humus with mineral soil, creating fertile, well-structured soil. In **Mor humus** (coniferous forests), acidic conditions slow decomposition, forming a thick raw humus layer.
+
+**Conclusion:**
+Humus is the **stable, colloidal organic matter** formed by decomposition. It is classified into **Mor, Moder, and Mull** (based on origin) and **fulvic acid, humic acid, and humin** (based on solubility). Humus is essential for soil fertility, structure, and nutrient retention.</md></sn>
