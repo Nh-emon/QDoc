@@ -1,10 +1,103 @@
 
-  <sn></sn>
+  <sn><md>### Redox Processes in Aquatic Systems
+
+**Definition:**
+Redox (oxidation-reduction) processes are **chemical reactions involving the transfer of electrons** between species. In aquatic systems (lakes, rivers, wetlands, sediments, groundwater), they control the **form, solubility, toxicity, and mobility** of elements like N, S, Fe, Mn, and C.
+
+**Basic Reaction:**
+
+$$
+\text{Oxidation: } \text{Reductant} \rightarrow \text{Oxidant} + e^-
+$$
+$$
+
+\text{Reduction: } \text{Oxidant} + e^- \rightarrow \text{Reductant}
+$$
+
+Electron donor (reductant) loses electrons; electron acceptor (oxidant) gains them.
+
+---
+
+**Key Redox Couples in Aquatic Systems:**
+
+| Element | Oxidized Form | Reduced Form |
+|---|---|---|
+| Oxygen | O₂ | H₂O |
+| Nitrogen | NO₃⁻ | N₂, NH₄⁺ |
+| Sulfur | SO₄²⁻ | H₂S, FeS |
+| Iron | Fe³⁺ | Fe²⁺ |
+| Manganese | Mn⁴⁺ | Mn²⁺ |
+| Carbon | CO₂ | CH₄ |
+
+---
+
+**Redox Sequence (Electron Tower):**
+As oxygen is depleted, microorganisms use electron acceptors in order of **decreasing energy yield**:
+
+$$
+\text{O}_2 &gt; \text{NO}_3^- &gt; \text{Mn}^{4+} &gt; \text{Fe}^{3+} &gt; \text{SO}_4^{2-} &gt; \text{CO}_2
+$$
+
+1. **Aerobic respiration:** O₂ reduced to H₂O (highest energy)
+2. **Denitrification:** NO₃⁻ reduced to N₂ gas
+3. **Manganese reduction:** Mn⁴⁺ to Mn²⁺
+4. **Iron reduction:** Fe³⁺ to Fe²⁺
+5. **Sulfate reduction:** SO₄²⁻ to H₂S
+6. **Methanogenesis:** CO₂ to CH₄ (lowest energy)
+
+---
+
+**Factors Affecting Redox Processes:**
+
+| Factor | Effect |
+|---|---|
+| **Oxygen availability** | Determines which electron acceptor is used |
+| **Organic matter** | Provides electrons (energy source) |
+| **Temperature** | Higher temperature → faster reactions |
+| **pH** | Affects solubility and speciation |
+| **Microbial activity** | Mediates most redox reactions |
+| **Water depth/stratification** | Limits O₂ diffusion to sediments |
+
+---
+
+**Importance in Aquatic Systems:**
+
+1. **Nutrient Cycling:**
+   - Denitrification removes NO₃⁻ → reduces eutrophication
+   - Sulfate reduction releases P from sediments → internal loading
+
+2. **Metal Mobility:**
+   - Fe³⁺ and Mn⁴⁺ are insoluble → immobilize metals
+   - Fe²⁺ and Mn²⁺ are soluble → release metals into water
+
+3. **Toxicity:**
+   - H₂S is toxic to aquatic life
+   - As(V) less toxic than As(III) — redox controls arsenic toxicity
+
+4. **Pollutant Degradation:**
+   - Redox reactions break down organic pollutants
+   - Anaerobic degradation in sediments
+
+5. **Sediment-Water Exchange:**
+   - Redox conditions control release of P, Fe, Mn from sediments
+   - Affects water quality and algal blooms
+
+6. **Greenhouse Gas Production:**
+   - Denitrification → N₂O (potent GHG)
+   - Methanogenesis → CH₄ (potent GHG)
+
+---
+
+**Example:**
+In **eutrophic lakes**, organic matter decomposition depletes O₂ in bottom waters. Fe³⁺ is reduced to soluble Fe²⁺, releasing **adsorbed phosphate** into water → triggers **algal blooms**. In **wetland sediments**, sulfate reduction produces **H₂S**, giving a rotten egg smell and harming aquatic organisms.
+
+**Conclusion:**
+Redox processes in aquatic systems control **nutrient cycling, metal mobility, toxicity, pollutant degradation, and greenhouse gas production**. They are driven by **oxygen availability, organic matter, and microbial activity**, following a sequence from O₂ to CO₂ reduction. Understanding redox is essential for managing water quality and ecosystem health.</md></sn>
   <config>
     <tags>#01.redox processes in aquatic system</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 12:40:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 13:07:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-dizEpgPOYl</id>
     <duration></duration>
   </config>
