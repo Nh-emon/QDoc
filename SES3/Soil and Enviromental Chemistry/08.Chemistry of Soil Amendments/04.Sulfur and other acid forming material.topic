@@ -1,10 +1,166 @@
 
-  <sn></sn>
+  <sn><md>### Sulfur and Other Acid-Forming Materials (4 Marks)
+
+**Definition:**
+Acid-forming materials are substances that **lower soil pH** by producing **H⁺ ions** through oxidation, hydrolysis, or microbial activity. They are used to **acidify alkaline/sodic soils** and reclaim calcareous soils.
+
+---
+
+#### 1. Elemental Sulfur (S)
+
+**Most common acid-forming material.**
+
+**Reaction (microbial oxidation):**
+$$
+2\text{S} + 3\text{O}_2 + 2\text{H}_2\text{O} \xrightarrow{\text{Thiobacillus}} 2\text{H}_2\text{SO}_4
+$$
+
+- **Thiobacillus** bacteria oxidize S to **sulfuric acid (H₂SO₄)**.
+- H₂SO₄ dissolves CaCO₃ and releases Ca²⁺:
+$$
+\text{CaCO}_3 + \text{H}_2\text{SO}_4 \rightarrow \text{CaSO}_4 + \text{H}_2\text{O} + \text{CO}_2
+$$
+- Ca²⁺ displaces Na⁺ in sodic soils → reclamation.
+
+**Advantages:**
+- Slow release, long-lasting
+- Also supplies sulfur nutrient
+- Cheaper than sulfuric acid
+
+**Rate:** 1–5 t/ha depending on soil alkalinity
+
+---
+
+#### 2. Sulfuric Acid (H₂SO₄)
+
+**Fast-acting acid-forming material.**
+
+**Reaction:**
+$$
+\text{CaCO}_3 + \text{H}_2\text{SO}_4 \rightarrow \text{CaSO}_4 + \text{H}_2\text{O} + \text{CO}_2
+$$
+
+- Directly neutralizes carbonates and releases Ca²⁺.
+- Used in **calcareous sodic soils**.
+- Dangerous to handle — requires special equipment.
+
+---
+
+## 3. Aluminum Sulfate [Al₂(SO₄)₃]
+
+**Reaction:**
+$$
+\text{Al}_2(\text{SO}_4)_3 + 6\text{H}_2\text{O} \rightarrow 2\text{Al(OH)}_3 + 3\text{H}_2\text{SO}_4
+$$
+
+- Hydrolysis releases H₂SO₄ → lowers pH.
+- Used in **calcareous sodic soils** and **alkaline soils**.
+- Also used in **ornamental horticulture** (e.g., hydrangea blueing).
+
+---
+
+#### 4. Iron Sulfate (FeSO₄)
+
+**Reaction:**
+$$
+2\text{FeSO}_4 + 3\text{H}_2\text{O} + \frac{1}{2}\text{O}_2 \rightarrow 2\text{Fe(OH)}_3 + 2\text{H}_2\text{SO}_4
+$$
+
+- Releases H₂SO₄ → acidifies soil.
+- Also supplies **iron** micronutrient.
+- Used in **turf management** and **alkaline soils**.
+
+---
+
+## 5. Ammonium Fertilizers
+
+**Reaction (nitrification):**
+$$
+\text{NH}_4^+ + 2\text{O}_2 \rightarrow \text{NO}_3^- + 2\text{H}^+ + \text{H}_2\text{O}
+$$
+
+- **Ammonium sulfate [(NH₄)₂SO₄]** is most acidifying.
+- **Ammonium chloride (NH₄Cl)** and **urea** also acidify.
+- Long-term use → soil acidification.
+
+---
+
+#### 6. Organic Acids
+
+- **Humic and fulvic acids** from organic matter decomposition.
+- **Citric, oxalic, and malic acids** from root exudates.
+- Slowly lower pH; important in natural acidification.
+
+---
+
+#### 7. Pyrite (FeS₂)
+
+**Reaction (acid mine drainage):**
+$$
+2\text{FeS}_2 + 7\text{O}_2 + 2\text{H}_2\text{O} \rightarrow 2\text{FeSO}_4 + 2\text{H}_2\text{SO}_4
+$$
+
+- Produces **extreme acidity** (pH &lt; 3).
+- Major cause of **acid sulfate soils** and **acid mine drainage**.
+- Environmental hazard.
+
+---
+
+#### 8. Peat and Compost
+
+- Decomposition releases **organic acids** and **CO₂**.
+- Slowly acidify soil.
+- Used in **potting mixes** and **gardening**.
+
+---
+
+#### Summary Table:
+
+| Material | Formula | Reaction Product | Use |
+|---|---|---|---|
+| Elemental sulfur | S | H₂SO₄ | Sodic soil reclamation |
+| Sulfuric acid | H₂SO₄ | Direct acid | Calcareous sodic soils |
+| Aluminum sulfate | Al₂(SO₄)₃ | H₂SO₄ | Alkaline soils, horticulture |
+| Iron sulfate | FeSO₄ | H₂SO₄ | Turf, alkaline soils |
+| Ammonium sulfate | (NH₄)₂SO₄ | H⁺ (nitrification) | Acidifying fertilizer |
+| Pyrite | FeS₂ | H₂SO₄ | Acid sulfate soils (natural) |
+| Organic acids | R-COOH | H⁺ | Natural acidification |
+
+---
+
+#### Factors Affecting Acidification:
+
+| Factor | Effect |
+|---|---|
+| **Microbial activity** | Needed for S oxidation |
+| **Temperature** | Higher → faster oxidation |
+| **Moisture** | Adequate moisture needed |
+| **Fineness** | Fine S → faster reaction |
+| **Soil pH** | High pH → faster neutralization |
+| **CaCO₃ content** | More lime → more acid needed |
+
+---
+
+#### Importance:
+
+1. **Reclamation of sodic soils:** S and H₂SO₄ release Ca²⁺ to replace Na⁺.
+2. **Acidification of alkaline soils:** Lowers pH for acid-loving crops.
+3. **Nutrient availability:** Improves Fe, Mn, Zn availability.
+4. **Horticulture:** Al₂(SO₄)₃ and FeSO₄ used for ornamental plants.
+5. **Environmental concern:** Pyrite oxidation causes acid mine drainage.
+
+---
+
+**Example:**
+In **calcareous sodic soils of Punjab**, elemental sulfur at **2–5 t/ha** is applied. *Thiobacillus* oxidizes S to H₂SO₄, which dissolves CaCO₃, releasing Ca²⁺ to displace Na⁺. The soil is then leached to remove Na₂SO₄, reclaiming the sodic soil.
+
+**Conclusion:**
+Sulfur and other acid-forming materials (**H₂SO₄, Al₂(SO₄)₃, FeSO₄, ammonium fertilizers, pyrite, organic acids**) lower soil pH by producing H⁺ or H₂SO₄. They are used to **reclaim sodic and alkaline soils**, improve nutrient availability, and acidify soil for specific crops.</md></sn>
   <config>
     <tags>#04.sulfur and other acid forming material</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 18:37:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 21:09:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-zLkdnefLHr</id>
     <duration></duration>
   </config>
