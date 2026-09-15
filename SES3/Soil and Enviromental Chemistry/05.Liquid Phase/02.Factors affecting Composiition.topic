@@ -1,10 +1,100 @@
 
-  <sn></sn>
+  <sn><md>### Factors Affecting Composition of Soil Solution
+
+**Definition:**
+Soil solution is the **liquid phase of soil** containing dissolved ions, nutrients, organic compounds, and gases. Its composition varies continuously due to several factors.
+
+**Factors Affecting Equilibrium :**
+- **Concentration of ions** in solution
+- **Type of ion** (charge and size)
+- **CEC of soil** — more sites = more exchange
+- **pH** — low pH increases H⁺ and Al³⁺
+- **Temperature and moisture**
+- **Plant uptake** — removes ions, shifting equilibrium
+- **Fertilizer addition** — adds ions, shifting equilibrium
+</md></sn>
   <config>
     <tags>#02.factors affecting composiition</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 09:54:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 10:53:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OGwwtEKIju</id>
     <duration></duration>
   </config>
+<sn><md>**1. Soil pH:**
+- **Acidic pH:** Increases H⁺ and Al³⁺ in solution; decreases availability of Ca, Mg, K, P.
+- **Alkaline pH:** Increases Na⁺, CO₃²⁻, HCO₃⁻; decreases Fe, Mn, Zn, P availability.
+
+**2. Soil Texture and CEC:**
+- **High clay and organic matter:** High CEC → retains more cations → solution concentration is moderate and stable.
+- **Sandy soil:** Low CEC → fewer exchange sites → ions leach easily → solution composition fluctuates.
+
+**3. Organic Matter Content:**
+- Provides **CEC** and **chelating agents**
+- Releases organic acids during decomposition
+- Binds metals and pollutants
+- Increases nutrient retention and buffering
+
+**4. Fertilizer Application:**
+- Adding fertilizers (N, P, K) directly increases ion concentration in solution.
+- Excess fertilizer → leaching and groundwater pollution.
+
+**5. Plant Uptake:**
+- Plants absorb nutrients from solution → concentration drops → exchange sites release more ions.
+- Root exudates (H⁺, organic acids) alter solution composition.
+
+**6. Microbial Activity:**
+- Decomposition releases CO₂, organic acids, and nutrients.
+- Nitrification releases H⁺ and NO₃⁻.
+- N fixation adds NH₄⁺ to solution.
+
+**7. Soil Moisture:**
+- **High moisture:** Dilutes ions → lower concentration.
+- **Low moisture:** Concentrates ions → higher salinity.
+- Wetting and drying cycles change equilibrium.
+
+**8. Temperature:**
+- High temperature → faster decomposition and mineralization → more ions released.
+- Affects solubility of minerals and gases.
+
+**9. Leaching and Drainage:**
+- Heavy rainfall or irrigation leaches soluble ions (NO₃⁻, Cl⁻, Na⁺) downward.
+- Poor drainage → salt accumulation → high salinity.
+
+**10. Parent Material and Mineral Weathering:**
+- Weathering of rocks releases Ca²⁺, Mg²⁺, K⁺, Fe, Al into solution.
+- Determines initial nutrient status of soil.
+
+**11. Redox Potential (Oxidation-Reduction):**
+- **Waterlogged (reduced):** Fe²⁺, Mn²⁺, NH₄⁺ dominate; SO₄²⁻ reduced to H₂S.
+- **Aerobic (oxidized):** Fe³⁺, Mn⁴⁺, NO₃⁻, SO₄²⁻ dominate.
+
+**12. Ion Exchange Equilibrium:**
+- Balance between exchange sites and solution controls ion concentration.
+- Selectivity series affects which ions dominate in solution.
+
+---
+
+**Summary Table:**
+
+| Factor | Effect on Soil Solution |
+|---|---|
+| pH | Controls ion speciation and availability |
+| CEC | Retains ions, moderates concentration |
+| Organic matter | Adds CEC, chelation, organic acids |
+| Fertilizer | Increases ion concentration |
+| Plant uptake | Removes ions, shifts equilibrium |
+| Microbes | Release or consume ions |
+| Moisture | Dilutes or concentrates ions |
+| Temperature | Affects decomposition and solubility |
+| Leaching | Removes soluble ions |
+| Parent material | Supplies base cations |
+| Redox | Changes ion forms (Fe, N, S) |
+
+---
+
+**Example:**
+In **waterlogged paddy soils**, reduced conditions increase Fe²⁺ and Mn²⁺ in solution, while NO₃⁻ disappears due to denitrification. In **dry sandy soils**, low CEC and high evaporation concentrate Na⁺ and Cl⁻, increasing salinity.
+
+**Conclusion:**
+The composition of soil solution is controlled by **pH, CEC, organic matter, fertilizers, plant uptake, microbial activity, moisture, temperature, leaching, parent material, and redox conditions**. These factors together determine nutrient availability, salinity, and pollutant mobility in soil.</md></sn>
