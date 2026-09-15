@@ -8,6 +8,8 @@ pE is the **negative logarithm of electron activity** (pE = -log [e⁻]), measur
 
 The stability of elements depends on **both pE and pH**. Their relationship is shown in **pE-pH diagrams** (Pourbaix diagrams).
 
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/10.Water%20Pollution%20and%20Pollutants/assets/pE_pH_diagram.png)
+
 **Key points:**
 - **High pE** = oxidizing conditions (electron-poor)
 - **Low pE** = reducing conditions (electron-rich)
@@ -96,7 +98,7 @@ pE and pH are **linked master variables** in soil and aquatic systems. Many redo
     <tags>#02.pe ph relationship</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 16:28:02 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 16:36:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nHodBAI1Cz</id>
     <duration></duration>
   </config>
