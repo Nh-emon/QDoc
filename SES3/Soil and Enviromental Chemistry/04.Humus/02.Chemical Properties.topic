@@ -1,10 +1,48 @@
 
-  <sn></sn>
+  <sn><md>### Chemical Properties of Humus
+
+**1. High Cation Exchange Capacity (CEC):**
+Humus has a very high CEC (**200–300 cmol/kg**), much higher than clay minerals. This is due to **carboxyl (–COOH)** and **phenolic (–OH)** functional groups that lose H⁺ and develop negative charge, retaining nutrients like Ca²⁺, Mg²⁺, K⁺, and NH₄⁺.
+
+**2. pH-Dependent Charge:**
+The negative charge on humus is **pH-dependent** (variable charge). At high pH, more H⁺ dissociates from –COOH and –OH groups, increasing CEC. At low pH, charge decreases.
+
+**3. High Buffering Capacity:**
+Humus resists rapid changes in soil pH due to its functional groups. It can donate or accept H⁺ ions, keeping pH stable — essential for nutrient availability and microbial activity.
+
+**4. Chelation (Complex Formation):**
+Humus forms **stable complexes (chelates)** with metal ions like Fe³⁺, Al³⁺, Cu²⁺, Zn²⁺, and Mn²⁺. This:
+- Prevents metal toxicity
+- Increases micronutrient availability
+- Improves nutrient transport to roots
+
+**5. Water Holding Capacity:**
+Humus is highly **colloidal** and absorbs **several times its weight in water**, improving moisture retention in sandy soils.
+
+**6. High Adsorption Capacity:**
+Humus adsorbs **organic molecules, pesticides, and pollutants**, reducing their leaching and toxicity in soil.
+
+**7. Acidic Nature:**
+Humus itself is **weakly acidic** due to carboxylic and phenolic groups. Its acidity contributes to **exchange acidity** and **potential acidity** in soils.
+
+**8. Solubility (Humic Substances):**
+- **Fulvic acid** — soluble in acid and alkali
+- **Humic acid** — soluble in alkali only
+- **Humin** — insoluble in both
+
+**9. Nutrient Reservoir:**
+Humus holds **N, P, S** in organic forms, which are slowly released by microbial mineralization for plant uptake.
+
+**Example:**
+In organic-rich soils, humus chelates Fe³⁺ and Al³⁺, reducing their toxicity in acid soils while supplying micronutrients to crops.
+
+**Conclusion:**
+Humus has **high CEC, pH-dependent charge, strong buffering, chelation ability, high water retention, and adsorption capacity**. These chemical properties make it essential for soil fertility, nutrient cycling, and pollution control.</md></sn>
   <config>
     <tags>#02.chemical properties</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 22:16:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 07:50:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2CwmtMsfUZ</id>
     <duration></duration>
   </config>
