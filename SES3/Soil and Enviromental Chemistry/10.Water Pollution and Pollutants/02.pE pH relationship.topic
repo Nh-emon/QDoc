@@ -1,104 +1,10 @@
 
-  <sn><md>### pE-pH Relationship
-
-**Definition:**
-pE is the **negative logarithm of electron activity** (pE = -log [e⁻]), measuring the **oxidizing or reducing intensity** of a system. pH is the negative logarithm of H⁺ activity. Together, **pE and pH** define the chemical environment and control the **form, solubility, and mobility** of elements in soil and water.
-
-**Basic Relationship:**
-
-The stability of elements depends on **both pE and pH**. Their relationship is shown in **pE-pH diagrams** (Pourbaix diagrams).
-
-![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/10.Water%20Pollution%20and%20Pollutants/assets/pE_pH_diagram.png)
-
-**Key points:**
-- **High pE** = oxidizing conditions (electron-poor)
-- **Low pE** = reducing conditions (electron-rich)
-- **Low pH** = acidic
-- **High pH** = alkaline
-
-
-**Redox Reactions Involving H⁺:**
-
-Many redox reactions consume or release H⁺, linking pE and pH:
-
-$$
-\text{Fe}^{3+} + e^- \rightarrow \text{Fe}^{2+}
-$$
-(No H⁺ involved → pE independent of pH)
-
-$$
-\text{MnO}_2 + 4\text{H}^+ + 2e^- \rightarrow \text{Mn}^{2+} + 2\text{H}_2\text{O}
-$$
-(H⁺ consumed → pE decreases as pH increases)
-
-$$
-\text{NO}_3^- + 6\text{H}^+ + 5e^- \rightarrow \frac{1}{2}\text{N}_2 + 3\text{H}_2\text{O}
-$$
-(pE decreases with increasing pH)
-
-$$
-\text{SO}_4^{2-} + 10\text{H}^+ + 8e^- \rightarrow \text{H}_2\text{S} + 4\text{H}_2\text{O}
-$$
-(pE strongly pH-dependent)
-
----
-
-**General Rule:**
-
-For a reaction: **Oxidant + mH⁺ + ne⁻ → Reductant**
-
-$$
-\text{pE} = \text{pE}^0 - \frac{m}{n}\text{pH}
-$$
-
-- **Slope** of pE-pH line = **-m/n**
-- Larger m/n → stronger pH dependence
-
----
-
-**pE-pH Diagram (Stability Fields):**
-
-| Region | pE | pH | Conditions |
-|---|---|---|---|
-| **Oxic** | High (&gt;10) | Any | O₂ present, Fe³⁺, NO₃⁻, SO₄²⁻ |
-| **Anoxic** | Low (&lt;5) | Any | O₂ absent, Fe²⁺, NH₄⁺, H₂S |
-| **Acidic** | Any | Low | Fe, Al soluble |
-| **Alkaline** | Any | High | Fe, Al insoluble |
-
----
-
-**Natural Systems Ranges:**
-
-| System | pE | pH |
-|---|---|---|
-| Aerobic soil | +12 to +14 | 5–8 |
-| Waterlogged soil | -2 to +2 | 6–8 |
-| Lake sediment | -4 to 0 | 6–8 |
-| Acid mine water | +10 to +14 | 2–4 |
-
----
-
-**Importance of pE-pH Relationship:**
-
-1. **Nutrient availability:** Fe, Mn, N, S forms depend on pE and pH
-2. **Metal mobility:** Fe³⁺ insoluble at high pE; Fe²⁺ soluble at low pE
-3. **Toxicity:** As(III) toxic at low pE; As(V) less toxic at high pE
-4. **Microbial activity:** Determines which electron acceptors are used
-5. **Pollutant behavior:** Controls degradation and immobilization
-6. **Water quality:** Affects color, odor (H₂S), and taste
-
----
-
-**Example:**
-In **waterlogged paddy soils**, pE drops (reducing). Fe³⁺ is reduced to soluble Fe²⁺, and SO₄²⁻ to H₂S. If pH rises, H₂S toxicity increases. In **well-drained soils**, high pE keeps Fe as insoluble Fe³⁺, preventing toxicity.
-
-**Conclusion:**
-pE and pH are **linked master variables** in soil and aquatic systems. Many redox reactions involve H⁺, so pE and pH change together. The **pE-pH diagram** predicts the stable form of elements, controlling nutrient availability, metal mobility, toxicity, and pollutant behavior.</md></sn>
+  
   <config>
     <tags>#02.pe ph relationship</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 16:57:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 17:19:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nHodBAI1Cz</id>
     <duration></duration>
   </config>
