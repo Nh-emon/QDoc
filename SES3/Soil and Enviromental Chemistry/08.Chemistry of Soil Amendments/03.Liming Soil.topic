@@ -1,10 +1,116 @@
 
-  <sn></sn>
+  <sn><md>### Liming of Soil
+
+**Definition:**
+Liming is the **application of calcium and magnesium compounds** to acidic soil to **neutralize acidity**, raise pH, and improve soil fertility and crop growth.
+
+---
+
+**Materials Used:**
+
+| Material | Formula | Notes |
+|---|---|---|
+| **Calcium carbonate** | CaCO₃ | Most common, mild, safe |
+| **Calcium hydroxide** | Ca(OH)₂ | Fast acting, caustic |
+| **Calcium oxide** | CaO | Quick lime, very fast, caustic |
+| **Dolomite** | CaMg(CO₃)₂ | Also supplies Mg |
+| **Wood ash** | — | Contains Ca, K, Mg |
+
+---
+
+**Reactions:**
+
+**1. Neutralization of H⁺:**
+$$
+\text{Soil} - 2\text{H}^+ + \text{CaCO}_3 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{H}_2\text{O} + \text{CO}_2
+$$
+
+**2. Detoxification of Al³⁺:**
+$$
+\text{Soil} - 2\text{Al}^{3+} + 3\text{CaCO}_3 \rightarrow \text{Soil} - 3\text{Ca}^{2+} + 2\text{Al(OH)}_3 + 3\text{CO}_2
+$$
+Al³⁺ precipitates as non-toxic Al(OH)₃.
+
+---
+
+**Effects of Liming:**
+
+**1. Raises Soil pH:**
+- Neutralizes H⁺ and Al³⁺ → pH increases toward 6.5–7.0.
+
+**2. Reduces Al and Mn Toxicity:**
+- Al³⁺ and Mn²⁺ precipitate → no root damage.
+
+**3. Increases Nutrient Availability:**
+- P, Mo, Ca, Mg become available.
+- N fixation and nitrification improve.
+
+**4. Improves Soil Structure:**
+- Ca²⁺ flocculates clay → better aggregation, aeration, and drainage.
+
+**5. Enhances Microbial Activity:**
+- Bacteria and actinomycetes work best at pH 6.0–7.5.
+
+**6. Increases CEC and Base Saturation:**
+- Ca²⁺ replaces H⁺ and Al³⁺ on exchange sites.
+
+---
+
+**Lime Requirement:**
+
+Depends on:
+- **Buffer pH** (measures potential acidity)
+- **Soil texture** (clay &gt; sand)
+- **Organic matter** (high OM → more lime)
+- **Target pH** (usually 6.0–7.0 for most crops)
+- **Crop requirement**
+
+**Formula:**
+$$
+\text{Lime requirement} = \text{Exchangeable acidity} + \text{Residual acidity}
+$$
+
+---
+
+**Factors Affecting Liming:**
+
+| Factor | Effect |
+|---|---|
+| Soil texture | Clay soil needs more lime |
+| Organic matter | High OM → more lime |
+| Initial pH | Lower pH → more lime |
+| Lime type | CaO &gt; Ca(OH)₂ &gt; CaCO₃ (fineness) |
+| Fineness | Finer lime → faster reaction |
+| Crop | Different crops need different pH |
+
+---
+
+**Methods of Application:**
+- **Broadcasting** — spread evenly and incorporate
+- **Band placement** — near root zone
+- **Split application** — for high lime requirement
+- Apply **2–3 months before sowing** for best results
+
+---
+
+**Precautions:**
+- Avoid **over-liming** (pH &gt; 7.5 → micronutrient deficiency)
+- Do not mix lime with **ammonium fertilizers** (volatilization loss)
+- Use **dolomite** if Mg is also deficient
+- Test soil before liming
+
+---
+
+**Example:**
+In **Assam tea gardens**, soil pH is 4.5 due to heavy rainfall and ammonium fertilizers. Applying **CaCO₃ at 2–4 t/ha** raises pH to 5.5–6.0, reduces Al³⁺ toxicity, and improves tea yield.
+
+**Conclusion:**
+Liming is the **application of Ca/Mg compounds** to acidic soil to raise pH, reduce Al/Mn toxicity, improve nutrient availability, and enhance soil structure and microbial activity. Lime requirement depends on **buffer pH, texture, organic matter, and crop**. It is the most important practice for reclaiming acidic soils.</md></sn>
   <config>
     <tags>#03.liming soil</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 18:36:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 19:53:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-9kWeRFEtTj</id>
     <duration></duration>
   </config>
