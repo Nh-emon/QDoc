@@ -1,10 +1,110 @@
 
-  <sn></sn>
+  <sn><md>### Amelioration of Alkaline and Acidic Soil
+
+**Definition:**
+Amelioration means **improving or reclaiming** problem soils by chemical, physical, and biological methods to restore fertility and productivity.
+
+#### A. Amelioration of Acidic Soil (pH &lt; 5.5)
+
+**Problems:**
+- Al³⁺ and Mn²⁺ toxicity
+- Deficiency of Ca, Mg, P, Mo
+- Low microbial activity
+- Poor nutrient availability
+
+**Methods:**
+
+**1. Liming (Most Important):**
+- Add **CaCO₃ (lime), Ca(OH)₂, or CaO** to neutralize acidity:
+$$
+\text{Soil} - 2\text{H}^+ + \text{CaCO}_3 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{H}_2\text{O} + \text{CO}_2
+$$
+- Ca²⁺ displaces Al³⁺ and H⁺ from exchange sites.
+- Al³⁺ precipitates as Al(OH)₃ (non-toxic).
+- Lime rate depends on **buffer pH** (lime requirement test).
+
+**2. Organic Matter Addition:**
+- Compost, manure, green manure **buffer pH** and chelate Al³⁺.
+- Improves structure and microbial activity.
+
+**3. Balanced Fertilization:**
+- Avoid excess **ammonium fertilizers** (release H⁺).
+- Use **nitrate fertilizers** or slow-release forms.
+
+**4. Growing Acid-Tolerant Crops:**
+- Tea, potato, pineapple, cassava tolerate low pH.
+
+**5. Phosphorus Application:**
+- P fixes Al³⁺ and reduces toxicity.
+
+---
+
+#### B. Amelioration of Alkaline/Sodic Soil (pH &gt; 8.5)
+
+**Problems:**
+- Excess Na⁺ on exchange sites
+- Poor soil structure (dispersion)
+- Low infiltration and drainage
+- Deficiency of Fe, Mn, Zn, P
+- Na⁺ and CO₃²⁻ toxicity
+
+**Methods:**
+
+**1. Gypsum Application (Most Important):**
+- Add **CaSO₄·2H₂O** to replace Na⁺ with Ca²⁺:
+$$
+\text{Soil} - 2\text{Na}^+ + \text{CaSO}_4 \rightarrow \text{Soil} - \text{Ca}^{2+} + \text{Na}_2\text{SO}_4
+$$
+- Na₂SO₄ is leached away with water.
+- Gypsum rate depends on **exchangeable sodium percentage (ESP)**.
+
+**2. Leaching:**
+- Apply **good quality water** to flush displaced Na⁺ below root zone.
+- Requires **proper drainage** to remove saline water.
+
+**3. Drainage:**
+- Subsurface drainage removes excess water and salts.
+- Prevents waterlogging and capillary rise.
+
+**4. Organic Matter Addition:**
+- Improves soil structure and infiltration.
+- Helps leach Na⁺ more effectively.
+
+**5. Elemental Sulfur or Sulfuric Acid:**
+- For calcareous sodic soils:
+$$
+\text{CaCO}_3 + \text{H}_2\text{SO}_4 \rightarrow \text{CaSO}_4 + \text{H}_2\text{O} + \text{CO}_2
+$$
+- Releases Ca²⁺ to displace Na⁺.
+
+**6. Growing Salt-Tolerant Crops:**
+- Barley, sugar beet, date palm, cotton.
+
+**7. Mulching:**
+- Reduces evaporation → less capillary rise of salts.
+
+---
+
+#### Summary Table:
+
+| Problem Soil | pH | Main Problem | Main Amendment |
+|---|---|---|---|
+| **Acidic** | &lt; 5.5 | Al³⁺ toxicity, nutrient deficiency | Lime (CaCO₃) |
+| **Alkaline/Sodic** | &gt; 8.5 | Excess Na⁺, poor structure | Gypsum (CaSO₄) |
+
+---
+
+**Example:**
+- **Acidic soil (Assam tea garden):** Liming with CaCO₃ raises pH from 4.5 to 6.0, reducing Al³⁺ toxicity.
+- **Sodic soil (Punjab):** Gypsum application followed by leaching reclaims sodic soil, improving wheat yield.
+
+**Conclusion:**
+Acidic soils are ameliorated by **liming, organic matter, and balanced fertilization**. Alkaline/sodic soils are reclaimed by **gypsum, leaching, drainage, and organic matter**. Both approaches restore soil fertility and ensure sustainable crop production.</md></sn>
   <config>
     <tags>#02.amelioration of alkaline and acidic soil</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 18:36:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 19:28:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-c8r9NIeTld</id>
     <duration></duration>
   </config>
