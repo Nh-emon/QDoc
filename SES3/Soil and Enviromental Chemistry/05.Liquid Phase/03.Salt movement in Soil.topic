@@ -1,10 +1,50 @@
 
-  <sn></sn>
+  <sn><md>### Salt Movement in Soil
+
+**Definition:**
+Salt movement in soil refers to the **transport, accumulation, and redistribution of soluble salts** (Na⁺, Ca²⁺, Mg²⁺, Cl⁻, SO₄²⁻, CO₃²⁻, HCO₃⁻) within the soil profile. It is driven mainly by **water movement** and **evaporation**.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/05.Liquid%20Phase/assets/soil_movement_diagram.jpeg)
+
+</md></sn>
   <config>
     <tags>#03.salt movement in soil</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 09:54:53 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 11:27:31 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-aKFt8RpD1m</id>
     <duration></duration>
   </config>
+<sn><md>### **Mechanisms of Salt Movement:**
+
+**1. Upward Movement (Capillary Rise):**
+- In arid and semi-arid regions, **high evaporation** pulls water upward through **capillary action**.
+- Salts dissolved in water move upward and accumulate at or near the soil surface.
+- Result: **Saline soil formation** (white salt crust on surface).
+
+**2. Downward Movement (Leaching):**
+- In humid regions, **rainfall or irrigation** moves water downward through the profile.
+- Soluble salts dissolve and move below the root zone.
+- Result: **Salt removal** from surface soil.
+
+**3. Lateral Movement (Runoff and Groundwater Flow):**
+- Salts move horizontally with surface runoff or groundwater flow.
+- Can transport salts from one area to another, causing **secondary salinization**.
+</md></sn><sn><md>#### **Process of Salt Accumulation (Salinization):**
+
+$$
+\text{Irrigation water} \rightarrow \text{Soil} \xrightarrow{\text{Evaporation}} \text{Water lost} + \text{Salt left behind}
+$$
+
+1. Irrigation water contains dissolved salts.
+2. Water evaporates from surface.
+3. Salts remain in soil.
+4. Repeated cycles → salt concentration increases → **saline soil**.
+</md></sn><sn><md>#### Effects of Salt Accumulation:
+
+- **Osmotic stress:** High salt concentration reduces water uptake by roots.
+- **Nutrient imbalance:** Excess Na⁺ competes with K⁺ and Ca²⁺.
+- **Toxic effects:** Cl⁻ and Na⁺ toxicity.
+- **Poor soil structure:** Na⁺ disperses clay → poor infiltration.
+- **Reduced crop yield:** Seedling failure, stunted growth.
+</md></sn>
