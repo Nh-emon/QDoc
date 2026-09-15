@@ -1,10 +1,46 @@
 
-  <sn></sn>
+  <sn><md>### Role of Organic Matter in Soil Properties
+
+**1. Physical Properties:**
+- **Improves soil structure:** Binds soil particles into stable **aggregates**, improving porosity and aeration.
+- **Increases water holding capacity:** Organic matter absorbs several times its weight in water, reducing drought stress.
+- **Reduces erosion:** Improves infiltration and reduces runoff and soil loss.
+- **Improves tilth:** Makes heavy clay soils lighter and sandy soils more cohesive.
+
+**2. Chemical Properties:**
+- **High CEC:** Humus has CEC of **200–300 cmol/kg**, retaining nutrients like Ca²⁺, Mg²⁺, K⁺, NH₄⁺.
+- **Buffering:** Resists rapid pH changes, keeping soil pH stable.
+- **Chelation:** Forms complexes with Fe, Al, Cu, Zn, Mn — prevents toxicity and improves availability.
+- **Nutrient reservoir:** Stores N, P, S in organic forms, slowly released by mineralization.
+- **Anion exchange:** Provides pH-dependent positive sites at low pH.
+
+**3. Biological Properties:**
+- **Microbial habitat:** Supports bacteria, fungi, actinomycetes, and earthworms.
+- **Energy source:** Provides carbon and energy for microorganisms.
+- **Nutrient cycling:** Enhances decomposition, mineralization, and nitrogen fixation.
+- **Enzyme activity:** Increases soil enzyme activity, improving nutrient transformation.
+
+**4. Effect on Soil Fertility:**
+- Increases **nutrient availability** and **nutrient retention**
+- Reduces **nutrient leaching**
+- Improves **fertilizer use efficiency**
+- Promotes **healthy root growth**
+
+**5. Environmental Benefits:**
+- **Carbon sequestration:** Stores carbon, mitigating climate change.
+- **Pollutant adsorption:** Binds pesticides, heavy metals, and organic pollutants, reducing their mobility.
+- **Reduces greenhouse gas emissions** by improving soil structure.
+
+**Example:**
+Adding **farmyard manure or compost** to sandy soil increases water retention and CEC, while in clay soil it improves aeration and drainage — both leading to better crop yield.
+
+**Conclusion:**
+Organic matter improves **physical (structure, water retention), chemical (CEC, buffering, chelation), and biological (microbial activity, nutrient cycling)** properties of soil. It is essential for sustainable soil fertility and crop productivity.</md></sn>
   <config>
     <tags>#03.role of organic matter in soil properties</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 22:16:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 08:56:40 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-ETB4JnvbTd</id>
     <duration></duration>
   </config>
