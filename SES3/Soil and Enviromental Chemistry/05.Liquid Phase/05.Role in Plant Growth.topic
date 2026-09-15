@@ -1,10 +1,85 @@
 
-  <sn></sn>
+  <sn><md>### Role of Soil Liquid Phase in Plant Growth
+
+**Definition:**
+The soil liquid phase (soil solution) is the **water in soil pores** containing dissolved nutrients, gases, and organic substances. It is the **medium through which plants absorb water and nutrients** from soil.
+
+---
+
+**1. Source of Water:**
+- Soil solution provides **water for transpiration, photosynthesis, and cell expansion**.
+- Water is essential for **germination, growth, and metabolism**.
+- Deficiency causes wilting and reduces yield.
+
+**2. Nutrient Supply:**
+- Roots absorb nutrients **only in dissolved form** from soil solution.
+- Provides **N, P, K, Ca, Mg, S** (macro) and **Fe, Mn, Zn, Cu, B, Mo** (micro).
+- Dynamic equilibrium with exchange sites maintains continuous supply.
+
+**3. Nutrient Transport:**
+- Dissolved nutrients move to roots by **mass flow** and **diffusion**.
+- Mass flow: water movement carries nutrients to root surface.
+- Diffusion: ions move from high to low concentration near roots.
+
+**4. Oxygen Supply:**
+- Dissolved oxygen in soil solution is essential for **root respiration**.
+- Poor aeration (waterlogging) reduces O₂ → root damage and poor growth.
+
+**5. pH Regulation:**
+- Soil solution pH controls **nutrient availability**.
+- pH 6.0–7.0 → maximum availability of most nutrients.
+- Extreme pH → nutrient deficiency or toxicity.
+
+**6. Microbial Activity:**
+- Supports **nitrogen-fixing bacteria, decomposers, and mycorrhizae**.
+- Enhances **nutrient cycling** and **organic matter decomposition**.
+- Mycorrhizae help in **P uptake** and **water absorption**.
+
+**7. Transport of Organic Substances:**
+- Carries **root exudates, hormones, and chelating agents**.
+- Chelates (e.g., Fe-EDTA) improve micronutrient availability.
+
+**8. Temperature Regulation:**
+- Soil solution **buffers soil temperature**, protecting roots from sudden changes.
+- Warm water promotes faster nutrient uptake.
+
+**9. Tolerance to Stress:**
+- Adequate soil solution dilutes **toxic salts and pollutants**.
+- Reduces **salinity and Al³⁺ toxicity** effects on roots.
+
+**10. Seed Germination:**
+- Imbibition of water by seeds requires soil solution.
+- Activates enzymes and initiates growth.
+
+---
+
+**Summary Table:**
+
+| Role | Effect on Plant Growth |
+|---|---|
+| Water supply | Transpiration, photosynthesis, cell expansion |
+| Nutrient supply | Dissolved N, P, K, Ca, Mg, micronutrients |
+| Nutrient transport | Mass flow and diffusion to roots |
+| Oxygen supply | Root respiration |
+| pH regulation | Controls nutrient availability |
+| Microbial support | N fixation, decomposition, mycorrhizae |
+| Chelation | Improves micronutrient uptake |
+| Temperature buffer | Protects roots |
+| Stress dilution | Reduces salt and Al toxicity |
+| Germination | Activates seed metabolism |
+
+---
+
+**Example:**
+In **paddy fields**, the soil solution is maintained at **saturation** to supply water and nutrients to rice roots. In **drip irrigation**, small amounts of water keep the soil solution at **optimum concentration** for nutrient uptake, improving fertilizer use efficiency.
+
+**Conclusion:**
+The soil liquid phase is essential for plant growth as it supplies **water, nutrients, and oxygen**, regulates **pH and temperature**, supports **microbial activity**, and **dilutes toxic substances**. Without an optimum soil solution, plant growth and crop yield are severely reduced.</md></sn>
   <config>
     <tags>#05.role in plant growth</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 09:55:36 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 12:28:05 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-lynAXHEPn0</id>
     <duration></duration>
   </config>
