@@ -98,7 +98,168 @@ pE and pH are **linked master variables** in soil and aquatic systems. Many redo
     <tags>#02.pe ph relationship</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 16:39:38 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 16:57:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nHodBAI1Cz</id>
     <duration></duration>
   </config>
+<sn><md>## pE–pH Relationship
+
+`pE` and `pH` are two important parameters used to describe the **redox and acid–base conditions** of soils and natural waters.
+
+* **pH** → measures the tendency of a system to donate or accept `H⁺`.
+* **pE** → measures the tendency of a system to donate or accept electrons (`e⁻`).
+* **pH** mainly controls **proton activity**, while `pE` controls **electron activity**.
+* They are often related because many redox reactions involve both `H⁺` and `e⁻`.
+
+### 1. Definition
+
+**pH:**
+
+$$
+pH=-\log[H^+]
+$$
+
+**pE:**
+
+$$
+pE=-\log[e^-]
+$$
+
+A **high pE** indicates an oxidizing environment, while a **low pE** indicates a reducing environment.
+
+```text
+High pE
+   |
+   |   Oxidizing condition
+   |
+   |
+   |-------------------- pH
+   |
+   |   Reducing condition
+   |
+Low pE
+```
+
+### 2. Relationship through Redox Reactions
+
+Consider a general redox reaction:
+
+$$
+Ox + ne^- + mH^+ \rightleftharpoons Red
+$$
+
+Using the Nernst equation, the relationship between `pE` and `pH` can be expressed as:
+
+$$
+pE=pE^\circ-\frac{m}{n}pH+\frac{1}{n}\log\frac{[Ox]}{[Red]}
+$$
+
+If the activities of `Ox` and `Red` are constant:
+
+$$
+\boxed{pE=pE^\circ-\frac{m}{n}pH}
+$$
+
+Therefore, the **pE–pH relationship is often linear**.
+
+The slope is:
+
+$$
+\boxed{-\frac{m}{n}}
+$$
+
+where:
+
+* `m` = number of `H⁺` involved
+* `n` = number of electrons involved
+
+### 3. Example: Oxygen–Water System
+
+The reduction of oxygen can be represented as:
+
+$$
+O_2+4H^++4e^- \rightleftharpoons 2H_2O
+$$
+
+For this reaction:
+
+$$
+m=4,\qquad n=4
+$$
+
+Therefore:
+
+$$
+pE=pE^\circ-pH
+$$
+
+So, as **pH increases, pE decreases** for this particular equilibrium.
+
+### 4. Importance in Soil
+
+The pE–pH relationship is particularly important in **soil redox chemistry**.
+
+| Condition         | pH               | pE       | Dominant environment |
+| ----------------- | ---------------- | -------- | -------------------- |
+| Well-aerated soil | Usually moderate | High     | Oxidizing            |
+| Waterlogged soil  | Often changes    | Low      | Reducing             |
+| Flooded soil      | Variable         | Very low | Strongly reducing    |
+
+As oxygen is consumed in a waterlogged soil, the soil becomes progressively more reducing:
+
+```text
+O₂ present
+    ↓
+High pE
+    ↓
+O₂ reduction
+    ↓
+NO₃⁻ reduction
+    ↓
+Mn⁴⁺ reduction
+    ↓
+Fe³⁺ reduction
+    ↓
+SO₄²⁻ reduction
+    ↓
+Very low pE
+```
+
+This connects directly with the sequence of redox reactions in soils.
+
+### 5. pE–pH Diagram
+
+A **pE–pH diagram** (also called a **Pourbaix diagram**) shows the stability of different chemical species under different combinations of pH and redox conditions.
+
+```text
+             Increasing pE
+                 ↑
+                 |
+    Oxidizing    |       Fe³⁺
+    conditions   |----------------
+                 |       Fe²⁺
+                 |
+                 |----------------
+    Reducing     |       Mn²⁺
+    conditions   |
+                 +----------------------→ Increasing pH
+```
+
+Such diagrams are useful for predicting whether an element will exist predominantly in an **oxidized or reduced form**.
+
+### Summary of the total content covered
+
+* `pH` measures proton activity: $pH=-\log[H^+]$.
+* `pE` measures electron activity: $pE=-\log[e^-]$.
+* **High pE = oxidizing condition**.
+* **Low pE = reducing condition**.
+* Many redox reactions involve both `H⁺` and `e⁻`, creating a mathematical relationship between pE and pH.
+* For $Ox+ne^-+mH^+\rightleftharpoons Red$:
+
+  $$
+  pE=pE^\circ-\frac{m}{n}pH+\frac{1}{n}\log\frac{[Ox]}{[Red]}
+  $$
+* At constant species activities, the pE–pH relationship is linear.
+* pE–pH relationships are important for understanding **soil redox conditions, waterlogged soils, nutrient availability, and oxidation–reduction sequences**.
+* **pE–pH diagrams** show the stability of chemical species under different redox and acidity conditions.
+</md></sn>
