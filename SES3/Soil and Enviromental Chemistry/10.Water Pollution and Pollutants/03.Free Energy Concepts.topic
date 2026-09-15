@@ -1,10 +1,120 @@
 
-  <sn></sn>
+  <sn><md>### Concept of Free Energy
+
+**Definition:**
+Free energy (Gibbs free energy, G) is the **energy available to do useful work** in a system at constant temperature and pressure. It determines whether a reaction will occur **spontaneously** and predicts the **direction** of chemical reactions in soil and aquatic systems.
+
+---
+
+**Gibbs Free Energy Equation:**
+
+$$
+\Delta G = \Delta H - T\Delta S
+$$
+
+Where:
+- **ΔG** = change in free energy
+- **ΔH** = change in enthalpy (heat content)
+- **T** = absolute temperature (Kelvin)
+- **ΔS** = change in entropy (disorder)
+
+---
+
+**Spontaneity of Reactions:**
+
+| ΔG Value | Meaning | Reaction Direction |
+|---|---|---|
+| **ΔG &lt; 0** | Energy released | **Spontaneous** (exergonic) |
+| **ΔG = 0** | At equilibrium | No net change |
+| **ΔG &gt; 0** | Energy required | **Non-spontaneous** (endergonic) |
+
+---
+
+**Standard Free Energy (ΔG°):**
+Measured at standard conditions (25°C, 1 atm, 1 M concentration).
+
+$$
+\Delta G = \Delta G^\circ + RT \ln Q
+$$
+
+Where:
+- **R** = gas constant (8.314 J/mol·K)
+- **T** = temperature (K)
+- **Q** = reaction quotient
+
+At equilibrium, ΔG = 0 and Q = K:
+$$
+\Delta G^\circ = -RT \ln K
+$$
+
+---
+
+**Relationship with pE:**
+
+$$
+\Delta G^\circ = -nF \Delta E^\circ
+$$
+
+Where:
+- **n** = number of electrons transferred
+- **F** = Faraday constant (96,485 C/mol)
+- **ΔE°** = standard electrode potential
+
+Also:
+$$
+\text{pE}^\circ = \frac{\Delta G^\circ}{2.303nRT}
+$$
+
+**Higher pE° → more negative ΔG° → more spontaneous reaction.**
+
+---
+
+**Importance in Soil and Aquatic Systems:**
+
+1. **Predicts reaction direction:** Tells whether a reaction will proceed spontaneously.
+2. **Redox sequence:** Microorganisms use electron acceptors in order of **decreasing energy yield** (O₂ &gt; NO₃⁻ &gt; Mn⁴⁺ &gt; Fe³⁺ &gt; SO₄²⁻ &gt; CO₂) based on ΔG values.
+3. **Nutrient transformations:** Determines which forms of N, S, Fe, Mn are stable.
+4. **Mineral stability:** Predicts weathering and formation of clay minerals.
+5. **Microbial metabolism:** Microbes derive energy from reactions with negative ΔG.
+6. **Pollutant degradation:** Determines whether pollutants can be broken down spontaneously.
+
+---
+
+**Example:**
+Aerobic respiration:
+$$
+\text{CH}_2\text{O} + \text{O}_2 \rightarrow \text{CO}_2 + \text{H}_2\text{O} \quad \Delta G^\circ = -475 \text{ kJ/mol}
+$$
+Highly negative ΔG° → very spontaneous → microorganisms prefer O₂ as electron acceptor.
+
+Sulfate reduction:
+$$
+\text{SO}_4^{2-} + 2\text{H}^+ + 4\text{H}_2 \rightarrow \text{H}_2\text{S} + 4\text{H}_2\text{O} \quad \Delta G^\circ = -152 \text{ kJ/mol}
+$$
+Less negative ΔG° → less energy → used only when O₂ and NO₃⁻ are absent.
+
+---
+
+**Summary Table:**
+
+| Concept | Meaning |
+|---|---|
+| ΔG &lt; 0 | Spontaneous, energy released |
+| ΔG &gt; 0 | Non-spontaneous, energy needed |
+| ΔG = 0 | Equilibrium |
+| ΔG° = -RT ln K | Links free energy to equilibrium constant |
+| ΔG° = -nF ΔE° | Links free energy to electrode potential |
+| More negative ΔG° | More spontaneous, higher pE° |
+
+---
+
+**Conclusion:**
+Free energy (ΔG) determines the **spontaneity and direction** of chemical reactions in soil and aquatic systems. It is linked to **equilibrium constant (K)**, **electrode potential (E°)**, and **pE**. Microorganisms follow a **redox sequence** based on decreasing free energy yield, controlling nutrient cycling, mineral stability, and pollutant behavior.</md></sn>
   <config>
     <tags>#03.free energy concepts</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 12:41:17 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 17:24:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nNUqxznjpK</id>
     <duration></duration>
   </config>
