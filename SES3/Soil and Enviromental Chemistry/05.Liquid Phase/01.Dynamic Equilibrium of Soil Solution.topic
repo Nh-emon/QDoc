@@ -1,10 +1,61 @@
 
-  <sn></sn>
+  <sn><md>### Soil Volume Composition
+
+![img](https://www.grow-it-organically.com/images/soil-composition-lg.jpg)</md></sn>
   <config>
     <tags>#01.dynamic equilibrium of soil solution</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Sep 15 2026 09:54:16 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Sep 15 2026 10:02:26 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-6rnarZ53M8</id>
     <duration></duration>
   </config>
+<sn><md>### Dynamic Equilibrium of Soil Solution
+
+**Definition:**
+Dynamic equilibrium of soil solution is the **continuous, reversible balance** between ions held on soil exchange sites (solid phase) and ions dissolved in the soil solution (liquid phase). Ions constantly move back and forth, maintaining a steady state.
+
+**Reaction:**
+$$
+\text{Soil} - \text{Ca}^{2+} + 2\text{K}^+ \rightleftharpoons \text{Soil} - 2\text{K}^+ + \text{Ca}^{2+}
+$$
+
+- **Forward reaction:** K⁺ from solution displaces Ca²⁺ from exchange sites.
+- **Backward reaction:** Ca²⁺ from solution displaces K⁺ back onto exchange sites.
+
+When both rates become equal, **dynamic equilibrium** is reached.
+
+
+
+**Key Features:**
+
+| Feature | Explanation |
+|---|---|
+| **Reversible** | Ions move in both directions |
+| **Dynamic** | Exchange continues even at equilibrium |
+| **Concentration-dependent** | Equilibrium shifts with ion concentration |
+| **Selectivity** | Some ions held more strongly (Al³⁺ &gt; Ca²⁺ &gt; K⁺ &gt; Na⁺) |
+| **pH-dependent** | H⁺ and Al³⁺ affect equilibrium |
+
+**Factors Affecting Equilibrium :**
+- **Concentration of ions** in solution
+- **Type of ion** (charge and size)
+- **CEC of soil** — more sites = more exchange
+- **pH** — low pH increases H⁺ and Al³⁺
+- **Temperature and moisture**
+- **Plant uptake** — removes ions, shifting equilibrium
+- **Fertilizer addition** — adds ions, shifting equilibrium
+
+**Importance:**
+
+1. **Nutrient availability:** Plants absorb nutrients from soil solution. As nutrients are removed, exchange sites release more ions to maintain equilibrium.
+2. **Nutrient retention:** Excess ions in solution are adsorbed onto exchange sites, preventing leaching.
+3. **Buffering:** Soil solution resists rapid changes in ion concentration, maintaining steady nutrient supply.
+4. **Fertilizer management:** Adding fertilizer shifts equilibrium, releasing other ions into solution.
+5. **Pollution control:** Heavy metals in solution are adsorbed onto exchange sites, reducing groundwater contamination.
+
+**Example:**
+When a plant absorbs K⁺ from soil solution, the concentration drops. To restore equilibrium, K⁺ held on clay exchange sites is released into solution. Similarly, adding lime (Ca²⁺) displaces Al³⁺ and H⁺ from exchange sites, raising pH.
+
+**Conclusion:**
+Dynamic equilibrium of soil solution is the **continuous reversible balance** between ions on exchange sites and in solution. It ensures **steady nutrient supply, prevents leaching, buffers soil pH, and controls pollutant mobility** — making it fundamental to soil fertility and environmental health.</md></sn>
