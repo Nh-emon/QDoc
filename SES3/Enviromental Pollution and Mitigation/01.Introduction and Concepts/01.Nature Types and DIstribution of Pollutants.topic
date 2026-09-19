@@ -1,10 +1,59 @@
 
-  <sn></sn>
+  <sn><md>### Pollutant
+
+Environmental pollutants are substances or forms of energy `introduced into` the environment `at rates faster` than they can be dispersed, diluted, or decomposed, causing harm to living organisms and ecological systems. Their nature, types, and distribution are shaped by both human activities and natural processes.
+
+</md></sn>
   <config>
     <tags>#01.nature types and distribution of pollutants</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 09:17:24 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 09:37:29 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-s2oE7E8uoe</id>
     <duration></duration>
   </config>
+<sn><md>#### Nature of Pollutants
+
+Pollutants are characterized by several key properties that determine their behavior and impact:
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/01.Introduction%20and%20Concepts/assets/Nature_of_Pollutants.jpeg)
+
+*   **Origin**: They can be **natural** (e.g., volcanic ash, radon gas) or **anthropogenic** (man-made, such as industrial emissions), with the latter generally being more damaging due to proximity to human settlements.
+*   **Formation**: **Primary pollutants** are emitted directly (e.g., sulfur dioxide from burning coal), while **secondary pollutants** form when primary pollutants react in the environment (e.g., ground-level ozone or smog).
+*   **Persistence and Mobility**: Key factors determining risk are a pollutant's **mobility** (ability to migrate) and **persistence** (resistance to degradation). Substances that are both mobile and persistent pose the greatest threat because they can spread widely and remain toxic for long periods.
+*   **Biodegradability**: Pollutants are either **biodegradable** (broken down by microorganisms, like sewage) or **non-biodegradable** (resistant to breakdown, like heavy metals and many plastics), with the latter accumulating in the environment.
+</md></sn><sn><md>####  Types of Pollutants
+
+Pollutants are commonly categorized by the environmental medium they contaminate:
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/01.Introduction%20and%20Concepts/assets/Types_of_Pollutants.jpeg)
+
+**Air Pollutants**
+*   **Examples**: Sulfur dioxide (SO₂), Nitrogen oxides (NOₓ), Carbon monoxide (CO), Particulate Matter (PM), Ozone (O₃), Volatile Organic Compounds (VOCs), and Persistent Organic Pollutants (POPs).
+*   **Primary Sources**: Fossil fuel combustion (power plants, vehicles), industrial processes, and agricultural burning.
+
+**Water Pollutants**
+*   **Examples**: Heavy metals (lead, mercury), pesticides, organic chemicals, petroleum products, and excess nutrients (nitrates, phosphates).
+*   **Primary Sources**: Industrial discharges, agricultural runoff, sewage, and oil spills.
+
+**Soil Pollutants**
+*   **Examples**: Heavy metals, pesticides, herbicides, hydrocarbons, and industrial chemicals.
+*   **Primary Sources**: Spills, leaking underground storage tanks, improper waste disposal, and atmospheric deposition.
+
+**Physical Pollutants**
+*   **Noise**: Unwanted sound from traffic, industry, and loudspeakers, causing stress and hearing loss.
+*   **Radioactive**: Radioactive isotopes from nuclear processes and accidents.
+*   **Light and Thermal**: Excessive artificial light and waste heat discharged into water bodies.
+</md></sn><sn><md>####  Distribution of Pollutants
+
+Once released, pollutants do not stay put. Their distribution is a dynamic process governed by **fate and transport**—a sequence of events involving a source, mobilization, and eventual sink.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/01.Introduction%20and%20Concepts/assets/Distribution_of_Pollutants.jpeg)
+
+*   **Transport Mechanisms**: Pollutants move through **air** (wind, atmospheric stability), **water** (currents, groundwater flow), and **soil** (erosion, leaching). They can transfer between these compartments, such as from air to soil via deposition or from soil to water via runoff.
+*   **The Role of Sinks**: Pollutants may reside temporarily in **intermediate sinks** (like surface water or the atmosphere) before reaching **final sinks** (like deep ocean sediments or isolated aquifers) where they remain for long periods.
+*   **Spatial Scales**: Pollution can be **local** (confined to the source area), **regional** (spread across borders), or **global**. Persistent pollutants like PCBs and some pesticides have been found in remote regions like Antarctica and deep ocean trenches, demonstrating long-range atmospheric transport.
+*   **Bioaccumulation and Biomagnification**: Some pollutants (e.g., mercury, DDT) are taken up by organisms and become more concentrated at each level of the food chain, posing severe risks to top predators, including humans.
+
+In essence, the distribution of a pollutant is determined by its chemical properties, the environmental conditions of the release site, and the complex pathways connecting air, water, soil, and living organisms.
+</md></sn>
