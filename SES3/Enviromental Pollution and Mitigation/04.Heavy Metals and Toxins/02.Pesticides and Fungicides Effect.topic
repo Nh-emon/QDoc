@@ -1,10 +1,89 @@
 
-  <sn></sn>
+  <sn><md>### Effects of Pesticides and Herbicides
+
+**Pesticides** are chemicals used to kill or control pests.
+**Herbicides** are pesticides used specifically to kill unwanted plants or weeds.
+
+**Effects on Soil**
+
+* Kill or reduce **beneficial microorganisms**
+* Reduce **soil biodiversity**
+* Disturb **nutrient cycling**
+* Some chemicals can remain in soil for a long time
+
+**Effects on Water**
+
+Pesticides can enter water through **runoff and leaching**.
+
+* Pollute rivers, ponds, and groundwater
+* Harm fish and other aquatic organisms
+* Make water unsafe for organisms and humans
+
+**Effects on Plants**
+
+Herbicides can:
+
+* Kill unwanted weeds
+* Damage **non-target plants**
+* Reduce plant growth
+* Reduce plant diversity
+
+**Effects on Animals**
+
+Pesticides can harm:
+
+* Bees and other pollinators
+* Birds
+* Fish
+* Earthworms
+* Beneficial insects
+
+They may cause **growth, reproduction, and survival problems**.
+
+**Effects on Humans**
+
+People can be exposed through **food, water, air, or direct contact**.
+
+Possible effects include:
+
+* Skin and eye irritation
+* Headache and dizziness
+* Nervous-system effects
+* Reproductive and developmental effects
+* Some pesticides are associated with increased cancer risk
+
+**Environmental pathway**
+
+```text
+Pesticides / Herbicides
+          ↓
+     Soil and Water
+          ↓
+   Plants and Animals
+          ↓
+      Food Chain
+          ↓
+        Humans
+```
+
+**Key Point**
+
+The effects depend on the **type of chemical, amount used, persistence, and duration of exposure**.
+
+#### Summary
+
+* Pesticides control pests; herbicides control weeds.
+* They can pollute **soil and water**.
+* They can harm **beneficial microorganisms and non-target organisms**.
+* Herbicides can damage **non-target plants**.
+* Pesticides can affect **fish, birds, bees, and humans**.
+* Some persistent pesticides can **bioaccumulate and biomagnify**.
+</md></sn>
   <config>
     <tags>#02.pesticides and fungicides effect</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 21:08:53 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 21:49:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-8DQwkYbR1Q</id>
     <duration></duration>
   </config>
