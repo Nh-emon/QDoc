@@ -1,10 +1,213 @@
 
-  <sn></sn>
+  <sn><md>### Radioactive Material
+
+A **radioactive material** is a substance that contains **unstable atomic nuclei** that spontaneously undergo **radioactive decay**, releasing ionizing radiation in the form of **alpha ($\alpha$), beta ($\beta$), or gamma ($\gamma$) radiation**.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/02.Key%20Definitions/assets/alpha_beta_gamma_daigram.jpeg)
+
+**Why are radioactive materials unstable?**
+
+Atoms contain:
+
+* **Protons** — positively charged
+* **Neutrons** — electrically neutral
+* **Electrons** — negatively charged
+
+Some atomic nuclei have an unfavorable **proton-to-neutron ratio** or excess nuclear energy. Such nuclei are unstable and transform into more stable nuclei by releasing radiation.
+
+```text
+Unstable nucleus
+       ↓
+Radioactive decay
+       ↓
+Radiation released
+       ↓
+More stable nucleus
+```
+
+Types of radioactive radiation
+
+| Radiation            | Nature                           | Penetration | Example               |
+| -------------------- | -------------------------------- | ----------- | --------------------- |
+| **Alpha ($\alpha$)** | 2 protons + 2 neutrons           | Very low    | Radium, uranium decay |
+| **Beta ($\beta$)**   | High-energy electron or positron | Moderate    | Strontium-90          |
+| **Gamma ($\gamma$)** | Electromagnetic radiation        | Very high   | Cobalt-60             |
+</md></sn>
   <config>
     <tags>#03.radio active material</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 13:58:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 16:57:10 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-O75kSDVEWS</id>
     <duration></duration>
   </config>
+<sn><md>### Examples of radioactive materials
+
+Common radioactive isotopes include:
+
+* **Uranium-238 ($^{238}U$)**
+* **Uranium-235 ($^{235}U$)**
+* **Radium-226 ($^{226}Ra$)**
+* **Radon-222 ($^{222}Rn$)**
+* **Cesium-137 ($^{137}Cs$)**
+* **Strontium-90 ($^{90}Sr$)**
+* **Iodine-131 ($^{131}I$)**
+* **Cobalt-60 ($^{60}Co$)**
+* **Plutonium-239 ($^{239}Pu$)**
+</md></sn><sn><md>### Radioactive decay
+
+Radioactive decay is generally described by:
+
+$$
+N=N_0e^{-\lambda t}
+$$
+
+Where:
+
+* $N$ = number of radioactive nuclei remaining
+* $N_0$ = initial number of nuclei
+* $\lambda$ = decay constant
+* $t$ = time
+
+The **physical half-life** is:
+
+$$
+T_{1/2}=\frac{0.693}{\lambda}
+$$
+
+After each physical half-life, approximately **50% of the radioactive nuclei remain**.
+
+```text
+Initial        → 100%
+1 half-life    → 50%
+2 half-lives   → 25%
+3 half-lives   → 12.5%
+4 half-lives   → 6.25%
+```
+</md></sn><sn><md>### Sources of radioactive materials
+
+Radioactive materials can originate from **natural** or **human activities**.
+
+**Natural sources:**
+
+* Uranium and thorium in rocks and soil
+* Radon gas
+* Cosmic radiation
+* Naturally occurring radioactive isotopes
+
+**Human-related sources:**
+
+* Nuclear power generation
+* Nuclear research
+* Medical applications
+* Industrial applications
+* Nuclear weapons testing
+* Nuclear accidents
+
+</md></sn><sn><md>### Environmental behavior
+
+Radioactive materials can enter different environmental compartments:
+
+```text
+Radioactive source
+       ↓
+Atmosphere ───→ Soil
+    ↓             ↓
+ Water ←──────────┘
+    ↓
+ Plants
+    ↓
+ Animals
+    ↓
+ Humans
+```
+
+Once released, radionuclides may be transported through **air, water, soil, sediments and food chains**.
+
+Some radionuclides can also enter organisms and become incorporated into particular tissues.
+
+For example:
+
+* **Strontium-90** behaves similarly to calcium and can accumulate in bones.
+* **Cesium-137** behaves similarly to potassium and can distribute through soft tissues.
+* **Iodine-131** can accumulate in the thyroid gland.
+</md></sn><sn><md>### Effects on living organisms
+
+Ionizing radiation can damage biological molecules, particularly **DNA**.
+
+Possible effects include:
+
+* Cellular damage
+* Mutations
+* Tissue damage
+* Reduced reproductive success
+* Cancer
+* Acute radiation sickness at sufficiently high exposures
+
+The severity depends on factors such as **radiation type, dose, exposure duration, distance, and biological sensitivity**.
+</md></sn><sn><md>### Radioactive material vs radioactive radiation
+
+These terms should not be confused.
+
+**Radioactive material** = the substance containing unstable radioactive nuclei.
+
+**Radiation** = the energy or particles emitted during radioactive decay.
+
+For example:
+
+```text
+Cobalt-60
+   ↓
+Radioactive material
+   ↓
+Radioactive decay
+   ↓
+Beta + Gamma radiation
+```
+</md></sn><sn><md>### Radioactive material and biological half-life
+
+This connects directly with your previous topic.
+
+A radioactive substance can disappear from an organism through two different processes:
+
+```text
+Radioactive substance in organism
+             ↓
+       ┌─────┴─────┐
+       ↓           ↓
+Physical decay   Biological elimination
+       ↓           ↓
+Physical         Biological
+half-life        half-life
+       └─────┬─────┘
+             ↓
+      Effective half-life
+```
+
+The effective half-life is:
+
+$$
+\frac{1}{T_e}=
+\frac{1}{T_p}+
+\frac{1}{T_b}
+$$
+
+Where:
+
+* $T_e$ = effective half-life
+* $T_p$ = physical half-life
+* $T_b$ = biological half-life
+
+Thus, **physical half-life describes radioactive decay**, while **biological half-life describes removal from the organism**.
+</md></sn><sn><md>### Summary
+
+* **Radioactive material** contains unstable nuclei that spontaneously undergo radioactive decay.
+* Radioactive decay releases **alpha, beta, and/or gamma radiation**.
+* Important radionuclides include **U-238, U-235, Ra-226, Rn-222, Cs-137, Sr-90 and I-131**.
+* Radioactive materials can be **natural or human-derived**.
+* They can move through **air, water, soil, sediments and food chains**.
+* Ionizing radiation can damage **DNA and living tissues**.
+* **Physical half-life** describes radioactive decay.
+* **Biological half-life** describes elimination of a substance from an organism.
+* Both contribute to the **effective half-life** of a radionuclide in an organism.
+</md></sn>
