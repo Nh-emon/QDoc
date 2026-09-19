@@ -1,10 +1,176 @@
 
-  <sn></sn>
+  <sn><md>### Biomagnification
+
+**Biomagnification** is the **increase in the concentration of a persistent chemical pollutant at successive trophic levels of a food chain**.
+In simple terms, a pollutant becomes **more concentrated as it moves from lower organisms to higher organisms through feeding**.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/02.Key%20Definitions/assets/biomagnification_diagram.jpeg)
+
+
++++ **Basic food-chain pattern**
+
+```text
+Polluted water
+      ↓
+Phytoplankton
+      ↓
+Zooplankton
+      ↓
+Small fish
+      ↓
+Large fish
+      ↓
+Fish-eating bird / Human
+```
+
+The concentration of the pollutant generally increases upward:
+
+```text
+Water
+  ↓
+Phytoplankton       → low concentration
+  ↓
+Zooplankton         → higher
+  ↓
+Small fish          → higher
+  ↓
+Large fish          → much higher
+  ↓
+Top predator        → highest concentration
+```
+
++++
+</md></sn>
   <config>
     <tags>#04.biomagnification</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 13:58:17 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 15:58:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-BuEkMdroXF</id>
     <duration></duration>
   </config>
+<sn><md>### Why does biomagnification occur?
+
+Biomagnification is particularly important for pollutants that have the following characteristics:
+
+1. **Persistent**
+   They do not break down easily in the environment.
+
+2. **Slowly metabolized**
+   Organisms cannot easily chemically transform or eliminate them.
+
+3. **Poorly excreted**
+   The substances remain inside the organism for long periods.
+
+4. **Fat-soluble**
+   Many pollutants dissolve in body lipids and accumulate in fatty tissues.
+
+5. **Long biological half-life**
+   A long biological half-life allows the substance to remain in an organism for a longer period.
+
+**Example: DDT**
+
+**DDT (dichlorodiphenyltrichloroethane)** is a classic example.
+
+```text
+Water
+  ↓
+Phytoplankton
+  ↓
+Zooplankton
+  ↓
+Small fish
+  ↓
+Large fish
+  ↓
+Fish-eating birds
+```
+
+Small organisms may contain only a small amount of DDT, but predators consume **many contaminated organisms** during their lifetime.
+
+Consequently, the pollutant becomes increasingly concentrated at higher trophic levels.
+</md></sn><sn><md>### Biomagnification vs Bioaccumulation
+
+These terms are related but different.
+
+| Feature      | Bioaccumulation                                  | Biomagnification                                             |
+| ------------ | ------------------------------------------------ | ------------------------------------------------------------ |
+| Meaning      | Build-up of a pollutant within a single organism | Increase of pollutant concentration across trophic levels    |
+| Main process | Uptake &gt; elimination                             | Transfer through the food chain                              |
+| Scale        | Individual organism                              | Food chain/ecosystem                                         |
+| Example      | Fish gradually accumulates mercury               | Large predatory fish contains more mercury than smaller fish |
+</md></sn><sn><md>### Biomagnification vs Bioconcentration
+
+**Bioconcentration** occurs when an organism takes up a chemical **directly from its surrounding environment**, such as water.
+**Bioaccumulation** includes uptake from both the environment and food.
+**Biomagnification** specifically refers to the **increase in concentration from one trophic level to the next**.
+
+```text
+Bioconcentration
+       ↓
+Direct uptake from environment
+       ↓
+Bioaccumulation
+       ↓
+Accumulation within an organism
+       ↓
+Biomagnification
+       ↓
+Increasing concentration along food chain
+```
+</md></sn><sn><md>### Important examples
+
+Pollutants that can undergo biomagnification include:
+
+* **DDT**
+* **Methylmercury**
+* **PCBs**
+* Certain **organochlorine pesticides**
+* Some other persistent organic pollutants
+</md></sn><sn><md>### Ecological effects
+
+Because top predators consume many contaminated organisms, they can receive the highest pollutant concentrations.
+
+Possible effects include:
+
+* Reproductive problems
+* Reduced population growth
+* Developmental abnormalities
+* Nervous-system effects
+* Hormonal disruption
+* Increased mortality
+* Reduced survival of offspring
+
+A famous example is the effect of **DDT on birds**, where DDT exposure was associated with eggshell thinning and reproductive problems.
+
+</md></sn><sn><md>### Key relationship with biological half-life
+
+There is an important connection between **biological half-life and biomagnification**:
+
+```text
+Persistent pollutant
+        ↓
+Long biological half-life
+        ↓
+Slow elimination
+        ↓
+Accumulation in organism
+        ↓
+Predator consumes many contaminated organisms
+        ↓
+Higher concentration at higher trophic level
+        ↓
+Biomagnification
+```
+
+Therefore, **persistence + slow elimination + repeated dietary exposure** can make a pollutant particularly prone to biomagnification.
+</md></sn><sn><md>### Summary
+
+* **Biomagnification** = increase in pollutant concentration at successive **trophic levels**.
+* It occurs mainly with **persistent, poorly metabolized and poorly excreted pollutants**.
+* **Fat-soluble pollutants** are particularly important because they can accumulate in body tissues.
+* Classic examples include **DDT and methylmercury**.
+* Top predators generally receive the greatest pollutant concentrations.
+* **Bioaccumulation** occurs within an organism, whereas **biomagnification** occurs across trophic levels.
+* A **long biological half-life** can promote accumulation and consequently increase the potential for biomagnification.
+</md></sn>
