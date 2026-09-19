@@ -1,10 +1,127 @@
 
-  <sn></sn>
+  <sn><md>### LD₅₀
+
+**LD₅₀ (Lethal Dose 50%)** is the amount of a substance required to **cause death in 50% of a test population** under specified experimental conditions.
+
+It is usually expressed as:
+
+$$
+\text{mg of substance/kg body weight}
+$$
+
+**Simple example**
+
+If a chemical has an LD₅₀ of **20 mg/kg**, it means that, under the specified test conditions, a dose of about **20 mg per kg of body weight** is expected to cause death in 50% of the test animals.
+
+```text
+Chemical
+   ↓
+Different doses given
+   ↓
+Test population
+   ↓
+50% mortality
+   ↓
+        LD₅₀
+```
+
+**Importance of LD₅₀**
+
+LD₅₀ is used to compare the **acute toxicity** of chemicals.
+
+* **Lower LD₅₀** → generally **greater acute toxicity**
+* **Higher LD₅₀** → generally **lower acute toxicity**
+
+LD₅₀ is only a measure of **acute toxicity**. It does not describe all possible long-term health effects.
+</md></sn>
   <config>
     <tags>#05.ld50 and biodegradation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 21:09:39 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 22:12:09 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-z1DIJopnmM</id>
     <duration></duration>
   </config>
+<sn><md>### Biodegradation
+
+**Biodegradation** is the natural breakdown of a substance by **living organisms**, especially microorganisms such as bacteria and fungi.
+
+```text
+Organic pollutant
+       ↓
+Microorganisms
+       ↓
+Biological breakdown
+       ↓
+Smaller / simpler substances
+       ↓
+CO₂ + H₂O + biomass + other products
+```
+
+**Example**
+
+Organic pesticide in soil:
+
+```text
+Pesticide
+    ↓
+Bacteria / Fungi
+    ↓
+Decomposition
+    ↓
+Simpler compounds
+    ↓
+Less persistent substances
+```
+
+However, biodegradation does **not always make a chemical completely harmless**. Sometimes microorganisms produce **intermediate or transformation products** that may still be toxic.
+
+**Factors affecting biodegradation**
+
+* **Temperature**
+* **pH**
+* **Moisture**
+* **Oxygen availability**
+* **Microbial population**
+* **Chemical structure**
+* **Availability of nutrients**
+* **Pollutant concentration**
+
+**Types**
+
+**Aerobic biodegradation** occurs in the presence of oxygen.
+
+$$
+\text{Organic matter} + O_2
+\rightarrow CO_2 + H_2O + \text{biomass}
+$$
+
+**Anaerobic biodegradation** occurs when oxygen is absent or very limited.
+
+</md></sn><sn><md>### Importance in environmental science
+
+Biodegradation helps:
+
+* Reduce **pollutant persistence**
+* Decompose **organic wastes**
+* Clean contaminated soil and water
+* Recycle nutrients
+* Reduce the environmental lifetime of some pesticides and other organic pollutants
+</md></sn><sn><md>### LD₅₀ vs Biodegradation
+
+| LD₅₀                                              | Biodegradation                                              |
+| ------------------------------------------------- | ----------------------------------------------------------- |
+| Measures **acute toxicity**                       | Describes **biological breakdown**                          |
+| Related to death of 50% of a test population      | Related to decomposition by organisms                       |
+| Usually expressed as mg/kg                        | Often discussed in terms of degradation rate or persistence |
+| Lower LD₅₀ generally means greater acute toxicity | Faster biodegradation generally means lower persistence     |
+
+**Summary**
+
+* **LD₅₀** = dose that causes death in **50% of a test population**.
+* Lower LD₅₀ generally indicates **greater acute toxicity**.
+* **Biodegradation** = breakdown of substances by **microorganisms or other living organisms**.
+* Biodegradation can occur under **aerobic or anaerobic** conditions.
+* Temperature, pH, moisture, oxygen, microorganisms, and chemical structure affect biodegradation.
+* Biodegradation can reduce pollutant persistence, but **degradation products may sometimes remain harmful**.
+</md></sn>
