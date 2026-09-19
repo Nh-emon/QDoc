@@ -1,10 +1,147 @@
 
-  <sn></sn>
+  <sn><md>### Organometallic Compounds
+
+**Organometallic compounds** are chemical compounds that contain a **direct chemical bond between a carbon atom of an organic group and a metal atom**.
+
+The general representation is:
+
+$$
+\mathrm{R-M}
+$$
+
+Where:
+
+* $\mathrm{R}$ = organic group containing carbon
+* $\mathrm{M}$ = metal
+
+**Basic structure**
+
+```text
+Organic group
+     |
+     C — Metal
+     |
+   R-group
+```
+
+The key feature is the **direct C–metal bond**.
+
+Examples
+
+| Compound                | Formula                 | Metal     |
+| ----------------------- | ----------------------- | --------- |
+| Methyl lithium          | $\mathrm{CH_3Li}$       | Lithium   |
+| Ethyl magnesium bromide | $\mathrm{C_2H_5MgBr}$   | Magnesium |
+| Dimethylmercury         | $\mathrm{(CH_3)_2Hg}$   | Mercury   |
+| Tetraethyllead          | $\mathrm{(C_2H_5)_4Pb}$ | Lead      |
+| Ferrocene               | $\mathrm{Fe(C_5H_5)_2}$ | Iron      |
+</md></sn>
   <config>
     <tags>#02.organo metallic compound</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 13:58:50 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 17:48:07 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-JkR36sRpdk</id>
     <duration></duration>
   </config>
+<sn><md>### Important environmental examples
+
+Some organometallic compounds are important **environmental pollutants** because their properties can differ significantly from those of the inorganic form of the same element.
+
+
+1. Methylmercury
+
+Methylmercury ($\mathrm{CH_3Hg^+}$) is an important example.
+
+```text
+Inorganic mercury
+       ↓
+Microbial transformation
+       ↓
+Methylmercury
+       ↓
+Aquatic organisms
+       ↓
+Fish
+       ↓
+Humans / fish-eating animals
+```
+
+Methylmercury is particularly important because it can **bioaccumulate and biomagnify** through aquatic food chains.
+
+
+
+2. Tetraethyllead
+
+**Tetraethyllead**, $\mathrm{Pb(C_2H_5)_4}$, was historically used as an **antiknock additive in gasoline**. Its use resulted in significant environmental lead contamination.
+
+### Properties
+
+Organometallic compounds often have distinctive:
+
+* Chemical reactivity
+* Solubility
+* Volatility
+* Stability
+* Toxicity
+
+Their behavior depends strongly on both the **metal** and the **organic group** attached to it.
+</md></sn><sn><md>### Environmental significance
+
+Organometallic compounds are important in environmental science because an inorganic element can be transformed into an **organometallic form with different mobility, toxicity, and biological availability**.
+
+For example:
+
+```text
+Inorganic metal
+      ↓
+Biological / chemical transformation
+      ↓
+Organometallic compound
+      ↓
+Different chemical properties
+      ↓
+Greater biological uptake
+      ↓
+Bioaccumulation
+      ↓
+Possible biomagnification
+```
+
+This is particularly significant for **mercury, arsenic, and lead compounds**.
+</md></sn><sn><md>### Organometallic vs inorganic metal compounds
+
+| Feature                | Inorganic metal compound | Organometallic compound                                               |
+| ---------------------- | ------------------------ | --------------------------------------------------------------------- |
+| C–metal bond           | Usually absent           | Present                                                               |
+| Organic group          | Not necessarily present  | Present                                                               |
+| Example                | $\mathrm{HgCl_2}$        | $\mathrm{CH_3HgCl}$                                                   |
+| Environmental behavior | Depends on chemical form | Can have substantially different mobility and biological availability |
+</md></sn><sn><md>### Key point
+
+The **presence of a direct carbon–metal bond** is the defining characteristic of a classical organometallic compound.
+
+For environmental science, remember:
+
+```text
+Organometallic compound
+        ↓
+Direct C–Metal bond
+        ↓
+Different chemical properties
+        ↓
+Potentially different environmental behavior
+        ↓
+Bioaccumulation / Biomagnification
+        ↓
+Ecological and human-health effects
+```
+</md></sn><sn><md>### Summary
+
+* **Organometallic compounds** contain a direct **carbon–metal ($\mathrm{C-M}$) bond**.
+* General form: $\mathrm{R-M}$.
+* Examples include **methyl lithium, Grignard reagents, methylmercury, and tetraethyllead**.
+* Some organometallic compounds are environmentally important pollutants.
+* **Methylmercury** is a major example associated with **bioaccumulation and biomagnification**.
+* Conversion of an inorganic metal into an organometallic form can change its **mobility, biological availability, persistence, and toxicity**.
+</md></sn>
