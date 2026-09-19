@@ -1,10 +1,181 @@
 
-  <sn></sn>
+  <sn><md>### PCBs — Polychlorinated Biphenyls
+
+**PCBs (Polychlorinated Biphenyls)** are a group of **synthetic organic chemicals** consisting of two benzene rings with varying numbers of chlorine atoms attached to them.
+
+They are classified as **persistent organic pollutants (POPs)** because they are highly persistent in the environment and can accumulate in living organisms.
+
+
+Basic structure
+
+A PCB molecule contains:
+
+```text
+        Cl
+         |
+   C₆H₄ — C₆H₄
+      |       |
+     Cl      Cl
+```
+
+The two benzene rings are joined together, and **1–10 chlorine atoms** can replace hydrogen atoms on the rings.
+
+There are **209 possible PCB congeners**, differing in the number and position of chlorine atoms.
+</md></sn>
   <config>
     <tags>#01.pcbs</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 13:59:01 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 19:58:21 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-IESW24BX3j</id>
     <duration></duration>
   </config>
+<sn><md>### Important properties
+
+PCBs are characterized by:
+
+* **High chemical stability**
+* **Low water solubility**
+* **High lipid/fat solubility**
+* **Resistance to degradation**
+* **Persistence in soil and sediments**
+* **Ability to bioaccumulate**
+* **Ability to biomagnify**
+
+Their fat solubility is especially important because PCBs can accumulate in the **fatty tissues of organisms**.
+</md></sn><sn><md>### Sources
+
+PCBs were mainly produced intentionally for industrial applications because of their useful physical and chemical properties.
+
+They were used in:
+
+* Electrical transformers
+* Capacitors
+* Hydraulic fluids
+* Heat-transfer systems
+* Industrial oils
+* Some sealants and paints
+
+Although production and use have been heavily restricted or banned in many countries, **old equipment and contaminated materials can remain environmental sources**.
+</md></sn><sn><md>### Environmental transport
+
+PCBs can enter the environment through accidental releases, leakage from old equipment, improper disposal, and contaminated wastes.
+
+```text
+Industrial sources
+       ↓
+     PCBs
+       ↓
+ ┌─────┼─────┐
+ ↓     ↓     ↓
+Air   Water  Soil
+       ↓
+   Sediments
+       ↓
+Aquatic organisms
+       ↓
+      Fish
+       ↓
+   Fish-eating
+     animals
+```
+
+PCBs can travel considerable distances from their original sources because some congeners can become associated with atmospheric particles and environmental media.
+</md></sn><sn><md>### Bioaccumulation
+
+PCBs are **lipophilic**, meaning they dissolve readily in fats.
+
+Therefore:
+
+```text
+PCB exposure
+     ↓
+Uptake by organism
+     ↓
+Slow elimination
+     ↓
+Accumulation in body fat
+     ↓
+Bioaccumulation
+```
+</md></sn><sn><md>### Biomagnification
+
+PCBs can also **biomagnify through food chains**.
+
+For example:
+
+```text
+Water / sediment
+       ↓
+Phytoplankton
+       ↓
+Zooplankton
+       ↓
+Small fish
+       ↓
+Large fish
+       ↓
+Fish-eating birds / mammals
+```
+
+As predators consume many contaminated organisms, PCB concentrations can become higher at higher trophic levels.
+</md></sn><sn><md>### Effects on organisms
+
+Exposure to PCBs has been associated with effects involving:
+
+* Reproduction
+* Development
+* Immune-system function
+* Endocrine/hormonal function
+* Liver function
+* Nervous-system development
+
+Some PCB congeners can produce **dioxin-like effects** and are particularly toxic.
+</md></sn><sn><md>### Why PCBs are persistent
+
+Their persistence results from several characteristics:
+
+```text
+Stable chemical structure
+        +
+Low biodegradability
+        +
+Low water solubility
+        +
+High lipid solubility
+        ↓
+Long environmental persistence
+        ↓
+Bioaccumulation
+        ↓
+Biomagnification
+```
+</md></sn><sn><md>### PCBs and POPs
+
+PCBs are an important example of a **Persistent Organic Pollutant (POP)**.
+
+The important characteristics are:
+
+**P — Persistent**
+Remain in the environment for long periods.
+
+**O — Organic**
+Carbon-based chemical compounds.
+
+**P — Pollutant**
+Can cause adverse effects on organisms and ecosystems.
+
+PCBs are specifically recognized under the **Stockholm Convention** as a group of persistent organic pollutants targeted for elimination or reduction.
+</md></sn><sn><md>### Summary
+
+* **PCB = Polychlorinated Biphenyl**
+* PCBs are **synthetic organic chemicals** containing two linked benzene rings with chlorine atoms.
+* There are **209 possible PCB congeners**.
+* They were widely used in electrical and industrial equipment because of their chemical stability.
+* PCBs are **persistent, hydrophobic, and lipophilic**.
+* They can accumulate in **sediments and fatty tissues**.
+* They undergo **bioaccumulation** within organisms.
+* They can undergo **biomagnification** through food chains.
+* PCBs can affect **reproduction, development, immune function, endocrine function, and other biological processes**.
+* They are important **persistent organic pollutants (POPs)**.
+</md></sn>
