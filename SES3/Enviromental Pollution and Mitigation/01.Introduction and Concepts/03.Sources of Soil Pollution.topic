@@ -1,10 +1,41 @@
 
-  <sn></sn>
+  <sn><md>### Sources of Soil Pollution
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/01.Introduction%20and%20Concepts/assets/Soil_Pollution.jpeg)
+
+| **Category** | **Examples** |
+|---|---|
+| Industrial | Mining, smelting, factory discharges |
+| Agricultural | Fertilizers, pesticides, contaminated water |
+| Urban/Domestic | Landfills, e-waste, household chemicals |
+| Transportation | Fuel leaks, vehicle emissions, road salts |
+| Radioactive | Nuclear waste, accidents, fallout |
+| Natural | Volcanic eruptions, rock weathering |
+
+
+1. **Mining Activities**: Extraction and processing of minerals deposit tailings rich in heavy metals (arsenic, cadmium, lead) and acidic compounds onto surrounding soil, rendering it infertile.
+
+2. **Sewage Sludge and Wastewater Irrigation**: Using untreated sewage sludge or contaminated wastewater for irrigation introduces heavy metals, pathogens, pharmaceuticals, and microplastics into the soil.
+
+3. **Radioactive Sources**: Nuclear accidents, improper disposal of radioactive waste, and atmospheric fallout deposit radionuclides (cesium-137, strontium-90) into soil, causing long-term contamination.
+
+4. **Oil and Gas Exploration**: Drilling activities, pipeline leaks, and produced water spills contaminate soil with petroleum hydrocarbons, brine, and heavy metals.
+
+5. **Military Activities**: Explosives, chemical agents, and heavy metals from training grounds and munitions testing contaminate soil with toxic residues.
+
+6. **Natural Sources**: Volcanic eruptions, weathering of rocks, and forest fires naturally release heavy metals (arsenic, selenium, mercury) into the soil.
+
+7. **Atmospheric Deposition**: Air pollutants from industries and vehicles settle onto soil through rain, snow, and dust, adding to the pollutant load.
+
+8. **Improper Hazardous Waste Disposal**: Illegal dumping of industrial solvents, acids, and toxic chemicals directly contaminates soil and groundwater.
+
+
+</md></sn>
   <config>
     <tags>#03.sources of soil pollution</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 09:18:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 12:25:27 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-EqY4sZP7Yo</id>
     <duration></duration>
   </config>
