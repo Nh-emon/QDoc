@@ -1,10 +1,144 @@
 
-  <sn></sn>
+  <sn><md>### Impacts of Arsenic and Lead
+
+**Arsenic (As)** and **lead (Pb)** are toxic **heavy metals/metalloids** that can persist in the environment and cause serious effects on humans, animals, plants, soil, and aquatic ecosystems.
+
+</md></sn>
   <config>
     <tags>#01.arsenic and lead impacts</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 21:08:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 21:16:15 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-dXax2TaWSW</id>
     <duration></duration>
   </config>
+<sn><md>### Arsenic — Impacts
+
+Arsenic occurs naturally in rocks and minerals and can enter groundwater and soil through natural geological processes as well as human activities such as mining, metal processing, and pesticide use.
+
+**Effects on humans**
+
+Long-term exposure to arsenic can cause:
+
+* **Skin lesions** and changes in skin pigmentation
+* **Peripheral neuropathy** and other nervous-system effects
+* **Cardiovascular effects**
+* **Liver and kidney damage**
+* **Respiratory effects**
+* Increased risk of **skin, lung, and bladder cancers**
+* Developmental and reproductive effects
+
+A major environmental concern is **chronic exposure to arsenic-contaminated drinking water**.
+
+**Effects on plants**
+
+Arsenic can:
+
+* Inhibit **seed germination**
+* Reduce **root and shoot growth**
+* Interfere with nutrient uptake
+* Reduce photosynthesis
+* Cause oxidative stress
+* Reduce crop productivity
+
+**Environmental effects**
+
+```text
+Arsenic contamination
+        ↓
+Soil / Groundwater
+        ↓
+Plants and microorganisms
+        ↓
+Food chain
+        ↓
+Animals and humans
+        ↓
+Toxic effects
+```
+</md></sn><sn><md>### Lead — Impacts
+
+Lead is a toxic metal that can enter the environment through **mining, smelting, batteries, old paints, industrial activities, contaminated soil, and other sources**.
+
+**Effects on humans**
+
+Lead is particularly harmful to the **developing nervous system**.
+
+It can cause:
+
+* Reduced cognitive and learning ability
+* Behavioral and developmental problems in children
+* Nervous-system damage
+* Anemia
+* Kidney damage
+* Cardiovascular effects
+* Reproductive effects
+* Increased blood pressure
+
+Children are especially vulnerable because their nervous systems are still developing.
+
+**Effects on plants**
+
+Lead can:
+
+* Inhibit seed germination
+* Reduce root growth
+* Interfere with nutrient uptake
+* Inhibit photosynthesis
+* Cause oxidative stress
+* Reduce plant growth and productivity
+
+**Effects on animals**
+
+Lead exposure can cause:
+
+* Neurological damage
+* Kidney damage
+* Reproductive problems
+* Behavioral changes
+* Reduced growth and survival
+</md></sn><sn><md>### Arsenic vs Lead
+
+| Feature                     | Arsenic (As)                                          | Lead (Pb)                                                |
+| --------------------------- | ----------------------------------------------------- | -------------------------------------------------------- |
+| Type                        | Metalloid                                             | Metal                                                    |
+| Major environmental concern | Contaminated groundwater and soil                     | Contaminated soil, dust, water and industrial sources    |
+| Important human target      | Skin, nervous, cardiovascular and respiratory systems | Nervous, hematological, renal and cardiovascular systems |
+| Major concern in children   | Developmental effects                                 | Neurodevelopmental effects                               |
+| Plant effects               | Growth inhibition, oxidative stress                   | Growth inhibition, nutrient disruption                   |
+| Can persist in environment  | Yes                                                   | Yes                                                      |
+| Can enter food chains       | Yes                                                   | Yes                                                      |
+</md></sn><sn><md>### Environmental significance
+
+Both elements can move between different environmental compartments:
+
+```text
+                 Arsenic / Lead
+                       ↓
+              ┌────────┼────────┐
+              ↓        ↓        ↓
+           Atmosphere  Soil    Water
+                         ↓        ↓
+                      Plants   Aquatic organisms
+                         ↓        ↓
+                      Animals / Humans
+                              ↓
+                         Toxic effects
+```
+
+Their environmental behavior depends strongly on their **chemical form, pH, redox conditions, soil properties, organic matter, and interactions with minerals**.
+</md></sn><sn><md>### Key distinction
+
+**Arsenic:** particularly important in **groundwater contamination**, especially where naturally occurring arsenic is released from geological materials.
+
+**Lead:** particularly important in **contaminated soil, dust, industrial areas, old paint, batteries, and other anthropogenic sources**.
+
+</md></sn><sn><md>### Summary
+
+* **Arsenic (As)** and **lead (Pb)** are persistent toxic elements of major environmental concern.
+* Arsenic exposure can cause **skin, neurological, cardiovascular, developmental, and cancer-related effects**.
+* Lead is particularly damaging to the **nervous system**, especially in developing children.
+* Both can affect **plants, animals, soil organisms, and aquatic ecosystems**.
+* Both can move through **soil–water–plant–animal–human pathways**.
+* Their toxicity and mobility depend greatly on their **chemical forms and environmental conditions**.
+</md></sn>
