@@ -24,7 +24,90 @@ Thus, the amount decreases by **50% during each half-life**, rather than by a fi
     <tags>#05.biological half life</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 14:08:53 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 14:48:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4WoWehxZfX</id>
     <duration></duration>
   </config>
+<sn><md>### Mathematical relationship
+
+For a substance undergoing first-order elimination:
+
+$$
+C_t=C_0\left(\frac{1}{2}\right)^{t/t_{1/2}}
+$$
+
+Where:
+
+* $C_t$ = concentration at time $t$
+* $C_0$ = initial concentration
+* $t$ = elapsed time
+* $t_{1/2}$ = biological half-life
+
+For first-order elimination:
+
+$$
+t_{1/2}=\frac{0.693}{k}
+$$
+
+where $k$ is the elimination rate constant.
+</md></sn><sn><md>### Biological processes responsible
+
+The concentration of a substance can decrease through:
+
+1. **Metabolism** — chemical modification of the substance, particularly in the liver.
+2. **Excretion** — removal through urine, feces, sweat, or other routes.
+3. **Respiration** — removal of volatile substances through the lungs.
+4. **Biliary excretion** — removal through bile into the intestine.
+5. **Storage and redistribution** — movement of a substance between tissues can also affect its concentration in blood.
+</md></sn><sn><md>### Biological vs physical half-life
+
+These two concepts are different:
+
+| Type                     | Meaning                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------------- |
+| **Biological half-life** | Time required for the body to eliminate half of a substance through biological processes |
+| **Physical half-life**   | Time required for half of a radioactive substance's nuclei to undergo radioactive decay  |
+
+For radioactive substances, both processes can occur simultaneously. Their combined effect is described by the **effective half-life**:
+
+$$
+\frac{1}{T_e}=\frac{1}{T_b}+\frac{1}{T_p}
+$$
+
+where:
+
+* $T_e$ = effective half-life
+* $T_b$ = biological half-life
+* $T_p$ = physical half-life
+</md></sn><sn><md>### Environmental significance
+
+Biological half-life is particularly important in **environmental science and toxicology**. It indicates how long a pollutant or contaminant can remain inside an organism before its concentration is substantially reduced.
+
+A substance with a **long biological half-life** tends to remain in the body for a longer period and may have greater potential for **bioaccumulation**.
+
+A substance with a **short biological half-life** is generally eliminated more rapidly.
+
+**Simple example**
+
+Suppose an organism absorbs **80 mg of a pollutant** and its biological half-life is **10 days**.
+
+After:
+
+* **10 days:** 40 mg
+* **20 days:** 20 mg
+* **30 days:** 10 mg
+* **40 days:** 5 mg
+* **50 days:** 2.5 mg
+
+So, the biological half-life tells us the **rate at which an organism loses the substance**, not necessarily how long it takes for the substance to disappear completely.
+</md></sn><sn><md>### Summary
+
+* **Biological half-life** = time required for a substance's amount/concentration in an organism to fall to **50%**.
+* It results mainly from **metabolism, excretion, and other biological elimination processes**.
+* Each successive half-life reduces the remaining amount by another **50%**.
+* For first-order elimination, $t_{1/2}=0.693/k$.
+* **Long half-life** → slower elimination and greater potential for persistence.
+* **Short half-life** → faster elimination.
+* It differs from **physical half-life**, which describes radioactive decay.
+* Biological and physical elimination together determine the **effective half-life**.
+</md></sn>
