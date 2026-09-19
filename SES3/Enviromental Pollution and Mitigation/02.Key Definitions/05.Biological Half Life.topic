@@ -1,10 +1,30 @@
 
-  <sn></sn>
+  <sn><md>### Biological Half-Life
+
+**Biological half-life ($t_{1/2}$)** is the time required for the **amount or concentration of a substance in a living organism to decrease to 50% of its initial value** due to biological processes.
+
+It is commonly used for **drugs, hormones, pollutants, radioactive substances, and other chemicals** present in the body.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Enviromental%20Pollution%20and%20Mitigation/02.Key%20Definitions/assets/biological_half_life_diagram.jpeg)
+
+**How it works**
+
+If the body initially contains **100 mg** of a substance:
+
+* After 1 half-life → 50 mg remains
+* After 2 half-lives → 25 mg remains
+* After 3 half-lives → 12.5 mg remains
+* After 4 half-lives → 6.25 mg remains
+* After 5 half-lives → 3.125 mg remains
+
+Thus, the amount decreases by **50% during each half-life**, rather than by a fixed amount.
+
+</md></sn>
   <config>
     <tags>#05.biological half life</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 19 2026 13:57:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 19 2026 14:08:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-4WoWehxZfX</id>
     <duration></duration>
   </config>
