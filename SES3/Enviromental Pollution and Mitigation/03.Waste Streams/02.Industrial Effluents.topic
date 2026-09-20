@@ -1,10 +1,129 @@
 
-  <sn></sn>
+  <sn><md>## Industrial Effluents
+
+**Industrial effluents** are **liquid wastes discharged from industrial activities**. They may contain organic matter, chemicals, heavy metals, suspended solids, acids, alkalis, oils, and other pollutants.
+
+### Sources
+
+Industrial effluents are produced by industries such as:
+
+* Textile and dyeing industries
+* Leather and tannery industries
+* Paper and pulp industries
+* Chemical industries
+* Food-processing industries
+* Pharmaceutical industries
+* Metal and mining industries
+* Oil and petroleum industries
+
+### Main pollutants
+
+| Pollutant             | Examples                                 |
+| --------------------- | ---------------------------------------- |
+| **Organic matter**    | Food and plant residues                  |
+| **Heavy metals**      | Pb, Cd, Hg, Cr, As                       |
+| **Dyes**              | Textile dyes                             |
+| **Oil and grease**    | Petroleum industries                     |
+| **Acids and alkalis** | Industrial processing chemicals          |
+| **Suspended solids**  | Soil, fibers, industrial particles       |
+| **Nutrients**         | Nitrogen and phosphorus                  |
+| **Toxic chemicals**   | Solvents, pesticides and other chemicals |
+
+### Environmental effects
+
+```text id="k8q7fb"
+Industrial activity
+       ↓
+Industrial effluent
+       ↓
+   Water body
+       ↓
+ ┌─────┼─────┐
+ ↓     ↓     ↓
+Water Soil Aquatic
+pollution pollution life
+       ↓
+   Food chain
+       ↓
+ Humans + Animals
+```
+
+### 1. Water pollution
+
+Untreated effluents can:
+
+* Reduce water quality
+* Increase **BOD and COD**
+* Reduce dissolved oxygen
+* Change water **pH**
+* Add toxic chemicals
+* Make water unsuitable for drinking or irrigation
+
+### 2. Effects on aquatic organisms
+
+High levels of pollutants can cause:
+
+* Fish mortality
+* Reduced growth
+* Reproductive problems
+* Damage to aquatic plants and microorganisms
+* Changes in aquatic ecosystems
+
+### 3. Effects on soil and crops
+
+When untreated industrial effluent is used for irrigation or reaches agricultural land, it can introduce:
+
+* Heavy metals
+* Salts
+* Toxic chemicals
+
+These may reduce soil quality and can be taken up by crops.
+
+### 4. Effects on humans
+
+People may be exposed through:
+
+* Contaminated drinking water
+* Contaminated food
+* Direct contact with polluted water
+
+Depending on the pollutants present, exposure may cause **skin irritation, organ damage, neurological effects, or other health problems**.
+
+### Treatment
+
+Industrial effluent should generally be treated before discharge.
+
+```text id="e2e7a6"
+Industrial effluent
+       ↓
+Preliminary treatment
+       ↓
+Physical treatment
+       ↓
+Chemical treatment
+       ↓
+Biological treatment
+       ↓
+Final treatment
+       ↓
+Safe discharge / Reuse
+```
+
+## Summary
+
+* **Industrial effluents** are liquid wastes released from industries.
+* Major sources include **textile, tannery, paper, chemical, pharmaceutical, food, metal, and petroleum industries**.
+* They may contain **organic matter, heavy metals, dyes, oils, acids, alkalis, and suspended solids**.
+* Untreated effluents can cause **water and soil pollution**.
+* They can reduce dissolved oxygen and harm **aquatic organisms**.
+* Contaminated water and crops can create **human-health risks**.
+* Proper **effluent treatment** is necessary before discharge or reuse.
+</md></sn>
   <config>
     <tags>#02.industrial effluents</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 20 2026 07:25:30 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 20 2026 08:05:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Wl1J8a0XLg</id>
     <duration></duration>
   </config>
