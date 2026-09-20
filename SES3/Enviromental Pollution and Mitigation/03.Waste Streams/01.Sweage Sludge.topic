@@ -1,10 +1,114 @@
 
-  <sn></sn>
+  <sn><md>## Sewage Sludge
+
+**Sewage sludge** is the **semi-solid material produced during the treatment of wastewater (sewage)** in sewage treatment plants.
+
+It contains **organic matter, microorganisms, nutrients, and various contaminants** removed from wastewater.
+
+### Formation
+
+```text
+Sewage
+  ↓
+Wastewater treatment
+  ↓
+Settling / biological treatment
+  ↓
+Sludge
+  ↓
+Treatment and stabilization
+  ↓
+Final disposal / reuse
+```
+
+### Main Components
+
+Sewage sludge may contain:
+
+* **Organic matter**
+* Nitrogen (N)
+* Phosphorus (P)
+* Potassium (K)
+* Microorganisms
+* Heavy metals
+* Pathogens
+* Organic pollutants
+* Water
+
+### Effects on Environment
+
+Improper disposal of sewage sludge can cause:
+
+* **Soil pollution**
+* Groundwater contamination
+* Surface-water pollution
+* Spread of pathogens
+* Heavy-metal accumulation
+* Bad odors
+
+### Use in Agriculture
+
+After proper treatment, sewage sludge may be used as a **soil amendment or fertilizer** because it contains nutrients and organic matter.
+
+```text
+Treated sewage sludge
+          ↓
+       Soil
+          ↓
+ ┌────────┼────────┐
+ ↓        ↓        ↓
+Organic  Nutrients Soil
+matter   (N, P)   improvement
+```
+
+However, untreated or contaminated sludge can introduce **pathogens, heavy metals, and toxic organic compounds** into agricultural soil.
+
+### Important Heavy Metals
+
+Sewage sludge can contain:
+
+* **Lead (Pb)**
+* **Cadmium (Cd)**
+* **Chromium (Cr)**
+* **Mercury (Hg)**
+* **Nickel (Ni)**
+* **Copper (Cu)**
+* **Zinc (Zn)**
+
+Some of these, such as **Cu, Zn, and Ni**, are essential micronutrients at low concentrations but can become toxic at high concentrations.
+
+### Safe Management
+
+```text
+Sewage sludge
+      ↓
+Treatment
+      ↓
+Pathogen reduction
+      ↓
+Stabilization
+      ↓
+Testing
+      ↓
+ ┌────┴─────┐
+ ↓          ↓
+Reuse     Safe disposal
+```
+
+## Summary
+
+* **Sewage sludge** is the semi-solid residue produced during wastewater treatment.
+* It contains **organic matter, nutrients, microorganisms, pathogens, and contaminants**.
+* It can be useful as a **soil amendment** after proper treatment.
+* Improperly managed sludge can cause **soil, water, and groundwater pollution**.
+* Heavy metals such as **Pb, Cd, Cr, Hg, Ni, Cu, and Zn** may accumulate in sludge.
+* Proper **treatment, testing, and safe disposal or reuse** are necessary.
+</md></sn>
   <config>
     <tags>#01.sweage sludge</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 20 2026 07:25:14 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 20 2026 08:12:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-pJzuDp7RQN</id>
     <duration></duration>
   </config>
