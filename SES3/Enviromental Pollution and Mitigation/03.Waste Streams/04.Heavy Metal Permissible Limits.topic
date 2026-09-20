@@ -1,10 +1,81 @@
 
-  <sn></sn>
+  <sn><md>### Heavy Metal Permissible Limits
+
+There is **no single permissible limit for every situation**. The limit depends on whether we are talking about **drinking water, food/crops, soil, or wastewater**. For environmental studies, drinking-water limits are commonly used as reference values.
+
+**Permissible limits in drinking water**
+
+WHO guideline values include: ([World Health Organization][1])
+
+| Heavy metal  | Symbol | WHO guideline value |
+| ------------ | -----: | ------------------: |
+| **Arsenic**  |     As |      **0.010 mg/L** |
+| **Lead**     |     Pb |      **0.010 mg/L** |
+| **Cadmium**  |     Cd |      **0.003 mg/L** |
+| **Chromium** |     Cr |      **0.050 mg/L** |
+| **Mercury**  |     Hg |      **0.006 mg/L** |
+| **Nickel**   |     Ni |      **0.070 mg/L** |
+
+**1 mg/L = 1000 µg/L**
+
+So, for example:
+
+$$
+0.010\text{ mg/L}=10\text{ µg/L}
+$$
+
+The WHO values are **health-based guideline values**, while individual countries may establish their own legally enforceable standards. ([World Health Organization][2])
+
+#### Important for crops and food
+
+For **food and crops**, there is not one universal permissible concentration because the limit depends on the particular food commodity. The FAO/WHO Codex Alimentarius establishes maximum levels for contaminants in specific foods. ([FAOHome][3])
+
+For example, Codex has a maximum level of **0.2 mg/kg for lead in cereal grains** and **0.1 mg/kg in pulses**. ([FAOHome][4])
+
+```text
+Heavy metal
+     ↓
+ ┌───┴──────────┐
+ ↓              ↓
+Drinking water  Food/Crops
+ ↓              ↓
+WHO guideline   Food-specific
+value            maximum level
+```
+
+#### Easy way to remember
+
+```text
+As → 0.010 mg/L
+Pb → 0.010 mg/L
+Cd → 0.003 mg/L
+Cr → 0.050 mg/L
+Hg → 0.006 mg/L
+Ni → 0.070 mg/L
+```
+
+#### Summary
+
+* Permissible limits depend on the **environmental medium**.
+* For drinking water, WHO provides health-based guideline values.
+* **As = 0.010 mg/L**
+* **Pb = 0.010 mg/L**
+* **Cd = 0.003 mg/L**
+* **Cr = 0.050 mg/L**
+* **Hg = 0.006 mg/L**
+* **Ni = 0.070 mg/L**
+* For crops/food, limits are **commodity-specific**, not one universal value.
+
+[1]: https://www.who.int/publications/i/item/9789240121225?utm_source=chatgpt.com "Guidelines for drinking-water quality: fourth edition incorporating the first, second and third addenda"
+[2]: https://www.who.int/publications/b/62989?utm_source=chatgpt.com "Guidelines for drinking-water quality"
+[3]: https://www.fao.org/fao-who-codexalimentarius/thematic-areas/contaminants/en/?ipp=3&amp;no_cache=1&amp;page=1&amp;utm_source=chatgpt.com "Contaminants&nbsp;| CODEXALIMENTARIUS FAO-WHO"
+[4]: https://www.fao.org/fao-who-codexalimentarius/sh-proxy/es/?lnk=1&amp;url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FMeetings%252FCX-720-40%252FMisc%252FFinal%2BReport%2Bcontaminants%2Bin%2BReady%2Bto%2BUse%2BTherapeutic%2BFoods%2B%2528RUFT%2529%2BUNICEF%2B-WFP.pdf&amp;utm_source=chatgpt.com "Expert advice on appropriate criteria and limits for contaminants in Ready to Use Therapeutic Foods"
+</md></sn>
   <config>
     <tags>#04.heavy metal permissible limits</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 20 2026 07:26:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 20 2026 07:28:17 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-5UEgEOmNX9</id>
     <duration></duration>
   </config>
