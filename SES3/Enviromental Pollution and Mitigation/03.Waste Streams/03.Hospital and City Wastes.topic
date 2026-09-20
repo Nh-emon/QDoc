@@ -1,10 +1,126 @@
 
-  <sn></sn>
+  <sn><md>### Hospital and City Wastes
+
+Hospital Waste
+
+**Hospital waste** is the waste generated from hospitals, clinics, laboratories, medical centers, and other healthcare facilities.
+
+It can contain **infectious materials, chemicals, medicines, sharps, and general waste**.
+
+Types of Hospital Waste
+
+| Type                     | Examples                                               |
+| ------------------------ | ------------------------------------------------------ |
+| **Infectious waste**     | Blood-soaked materials, contaminated gloves, dressings |
+| **Sharps**               | Needles, syringes, blades                              |
+| **Pathological waste**   | Human tissues, organs                                  |
+| **Pharmaceutical waste** | Expired medicines, vaccines                            |
+| **Chemical waste**       | Disinfectants, laboratory chemicals                    |
+| **Radioactive waste**    | Materials contaminated with radionuclides              |
+| **General waste**        | Paper, food waste, packaging                           |
+
+Effects of Hospital Waste
+
+Improper disposal can cause:
+
+* Spread of **infectious diseases**
+* Injury from needles and other sharps
+* **Soil and water pollution**
+* Chemical contamination
+* Toxic effects on organisms
+* Antibiotic and antimicrobial resistance
+* Exposure of waste workers and the public to hazardous materials
+
+```text id="5x5f3g"
+Hospital
+   ↓
+Hospital waste
+   ↓
+Improper disposal
+   ↓
+Soil / Water / Air
+   ↓
+Humans + Animals + Environment
+   ↓
+Health and environmental problems
+```
+</md></sn>
   <config>
     <tags>#03.hospital and city wastes</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 20 2026 07:25:43 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Sep 20 2026 07:44:33 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vmNgFzCnSv</id>
     <duration></duration>
   </config>
+<sn><md>### City Waste
+
+**City waste**, also called **municipal solid waste (MSW)**, is the waste generated from homes, markets, offices, schools, restaurants, streets, and other urban activities.
+
+Types of City Waste
+
+| Type                          | Examples                              |
+| ----------------------------- | ------------------------------------- |
+| **Organic waste**             | Food waste, vegetable waste, leaves   |
+| **Paper waste**               | Newspapers, cardboard, paper          |
+| **Plastic waste**             | Bottles, bags, packaging              |
+| **Glass waste**               | Bottles, containers                   |
+| **Metal waste**               | Cans, tins, scrap metal               |
+| **Electronic waste**          | Computers, phones, electronic devices |
+| **Hazardous household waste** | Batteries, paints, chemicals          |
+
+Effects of City Waste
+
+Improper management can cause:
+
+* **Air pollution** from open burning
+* **Water pollution** from leachate
+* Soil contamination
+* Bad odor
+* Breeding of **flies, mosquitoes, and rats**
+* Spread of diseases
+* Blockage of drainage systems
+* Release of **greenhouse gases**, particularly methane, from decomposing organic waste
+
+```text id="y1y3we"
+City activities
+      ↓
+Municipal waste
+      ↓
+Improper disposal
+      ↓
+ ┌────┼────┐
+ ↓    ↓    ↓
+Soil Water Air
+ ↓    ↓    ↓
+ └────┼────┘
+      ↓
+Health + Environmental problems
+```
+
+</md></sn><sn><md>### Hospital Waste vs City Waste
+
+| Feature           | Hospital Waste                                       | City Waste                                                      |
+| ----------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
+| Main source       | Healthcare facilities                                | Urban activities                                                |
+| Main concern      | Infection and hazardous medical materials            | Large volume and environmental pollution                        |
+| Examples          | Needles, blood-contaminated materials, medicines     | Food, paper, plastic, glass                                     |
+| Major risks       | Infection, sharps injuries, chemical exposure        | Disease vectors, pollution, odor, methane                       |
+| Special treatment | Often requires segregation and specialized treatment | Usually involves collection, recycling, composting and disposal |
+
+Key difference
+
+**Hospital waste** is particularly concerning because a portion can be **infectious or hazardous**.
+
+**City waste** is mainly a **large-volume municipal waste problem**, containing both biodegradable and non-biodegradable materials.
+
+Summary
+
+* **Hospital waste** comes from healthcare facilities.
+* It includes **infectious waste, sharps, pathological waste, pharmaceuticals, chemicals, and radioactive materials**.
+* Improper hospital-waste disposal can cause **infection, injuries, and environmental contamination**.
+* **City waste** is also called **municipal solid waste (MSW)**.
+* It includes **food, paper, plastic, glass, metals, and other urban wastes**.
+* Improper city-waste disposal causes **air, water, and soil pollution**, bad odors, disease vectors, and greenhouse-gas emissions.
+* Both require proper **segregation, collection, treatment, recycling/recovery, and safe disposal**.
+</md></sn>
