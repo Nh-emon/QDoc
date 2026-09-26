@@ -1,10 +1,138 @@
 
-  <sn></sn>
+  <sn><md>### Exogenic Cycle
+
+An **exogenic cycle** is the `movement and transformation` of elements or materials between the **Earth's surface and the atmosphere, hydrosphere, biosphere, and upper lithosphere** through processes operating mainly at or near the Earth's surface.
+
+The term **exogenic** means "originating or occurring outside the Earth's interior."
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/02.Matter%20and%20Cycles%20of%20Matter/assets/exogenic-cyclle.jpeg)
+
+</md></sn>
   <config>
     <tags>#02.exogenic cycle</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Sep 13 2026 14:12:18 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 12:22:57 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-IRmHUGO6bF</id>
     <duration></duration>
   </config>
+<sn><md>### Main processes
+
+```text
+                 ATMOSPHERE
+                     |
+          precipitation / gases
+                     |
+                     v
+        +-------------------------+
+        |       HYDROSPHERE       |
+        |   rivers, lakes, oceans |
+        +-------------------------+
+              |             |
+        weathering       dissolution
+              |             |
+              v             v
+        +-------------------------+
+        |       LITHOSPHERE       |
+        |   rocks and minerals    |
+        +-------------------------+
+              |
+          erosion /
+          transport
+              |
+              v
+        Sedimentation
+              |
+              v
+        New sediments
+              |
+          uplift /
+          exposure
+              |
+              +-------&gt; Weathering
+                         |
+                         v
+                     Repeated
+                       cycle
+```
+</md></sn><sn><md>### Major processes of the exogenic cycle
+
+1. **Weathering**
+
+   * Rocks and minerals are broken down at the Earth's surface.
+   * It may be:
+
+     * Physical weathering
+     * Chemical weathering
+     * Biological weathering
+
+2. **Erosion**
+
+   * Weathered materials are removed from their original location by water, wind, glaciers, or gravity.
+
+3. **Transportation**
+
+   * Sediments and dissolved materials are transported by rivers, wind, glaciers, and ocean currents.
+
+4. **Deposition**
+
+   * Transported materials are deposited when the transporting agent loses energy.
+
+5. **Sedimentation**
+
+   * Deposited materials accumulate and may eventually form sedimentary rocks.
+
+6. **Uplift and exposure**
+
+   * Geological processes bring buried rocks toward the surface, where they become exposed to weathering again.
+</md></sn><sn><md>### Examples
+
+Important **exogenic biogeochemical cycles** include:
+
+* **Carbon cycle**
+* **Nitrogen cycle**
+* **Phosphorus cycle**
+* **Sulfur cycle**
+* **Hydrological cycle**
+</md></sn><sn><md>### Exogenic vs Endogenic
+
+| Feature         | Exogenic cycle                                  | Endogenic cycle                         |
+| --------------- | ----------------------------------------------- | --------------------------------------- |
+| Main location   | Earth's surface                                 | Earth's interior                        |
+| Main energy     | Solar energy and gravity                        | Internal geothermal energy              |
+| Major processes | Weathering, erosion, deposition                 | Magmatism, metamorphism, tectonism      |
+| Main spheres    | Atmosphere, hydrosphere, biosphere, lithosphere | Mainly lithosphere and Earth's interior |
+| Example         | Rock weathering and sedimentation               | Volcanism and mountain building         |
+</md></sn><sn><md>### In soil science
+
+The exogenic cycle is particularly important because **weathering of parent rocks and minerals produces soil materials**. These materials are then transported, deposited, transformed, and incorporated into soil.
+
+**In short:**
+
+```text
+Rock
+  ↓
+Weathering
+  ↓
+Soil minerals + dissolved materials
+  ↓
+Erosion
+  ↓
+Transportation
+  ↓
+Deposition
+  ↓
+Sediments
+  ↓
+Uplift
+  ↓
+Weathering again
+```
+</md></sn><sn><md>### Summary of this chat
+
+* **Exogenic cycle** operates mainly at or near Earth's surface.
+* It involves **weathering, erosion, transportation, deposition, and sedimentation**.
+* **Solar energy and gravity** are major driving forces.
+* It connects the **atmosphere, hydrosphere, biosphere, and lithosphere**.
+* In soil science, it is important in the **formation and transformation of soil minerals and materials**.
+</md></sn>
