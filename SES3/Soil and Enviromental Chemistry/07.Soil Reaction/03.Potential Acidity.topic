@@ -7,13 +7,13 @@ Potential acidity is the **total acidity** in soil that is **not currently activ
 **Components:**
 
 1. **Exchangeable Acidity:**
-H⁺ and Al³⁺ ions held on exchange sites of clay and organic matter. They can be displaced by other cations (e.g., Ca²⁺ from lime):
+H⁺ and Al³⁺ ions held on `exchange sites` of clay and organic matter. They can be displaced by other cations (e.g., Ca²⁺ from lime):
 $$
 \text{Soil} - 2\text{H}^+ + \text{Ca}^{2+} \rightarrow \text{Soil} - \text{Ca}^{2+} + 2\text{H}^+
 $$
 
 2. **Non-Exchangeable (Residual) Acidity:**
-H⁺ bound strongly in **organic matter functional groups** (–COOH, –OH) and **clay mineral structures**. It is released slowly, especially when pH rises.
+H⁺ bound strongly in `organic matter functional groups` (–COOH, –OH) and **clay mineral structures**. It is released slowly, especially when pH rises.
 
 **Active vs. Potential Acidity:**
 
@@ -40,7 +40,7 @@ Potential acidity is the **reserve acidity** held on exchange sites and in organ
     <tags>#03.potential acidity</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Sep 14 2026 21:11:29 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 20:53:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-cAg694zgbS</id>
     <duration></duration>
   </config>
