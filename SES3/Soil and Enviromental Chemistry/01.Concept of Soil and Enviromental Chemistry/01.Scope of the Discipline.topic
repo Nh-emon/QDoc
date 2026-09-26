@@ -3,8 +3,8 @@
 
 :::.row
 :::.col-12 .col-md-6
-The scope of soil and environmental chemistry centers on understanding the `chemical composition, reactions, and processes` that govern the behavior of `substances within soil` and `at its interfaces` with water, air, and living organisms. 
-It is an `interdisciplinary field` that combines principles of `chemistry, geology, and biology` to study both `natural soil systems` and the `fate of contaminants` introduced by human activity.
+The scope of soil and environmental chemistry centers on understanding the `chemical composition, reactions, and processes` that govern the behavior of `substances within soil` and ++at its interfaces++ with water, air, and living organisms. 
+It is an ++interdisciplinary field++ that combines principles of `chemistry, geology, and biology` to study both `natural soil systems` and the `fate of contaminants` introduced by human activity.
 :::
 
 :::.col-12 .col-md-6
@@ -16,7 +16,7 @@ It is an `interdisciplinary field` that combines principles of `chemistry, geolo
     <tags>#01.scope of the discipline</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 26 2026 08:26:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 08:35:33 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nhI1vEBQxW</id>
     <duration></duration>
   </config>
