@@ -1,10 +1,191 @@
 
-  <sn></sn>
+  <sn><md>### Chemical Fate of Pollutants
+
+The **chemical fate of a pollutant** refers to the **chemical transformations and changes in form, stability, mobility, and persistence of a pollutant after it enters the environment**.
+
+A pollutant does not always remain in its original chemical form. It may react with **water, oxygen, minerals, organic matter, microorganisms, or other chemicals** and form new substances.
+
+**Main processes controlling chemical fate**
+
+```text
+                  POLLUTANT
+                      |
+          +-----------+-----------+
+          |           |           |
+     Degradation   Transformation  Reactions
+          |           |           |
+          v           v           v
+   New compounds   New forms    Complexes
+          |           |           |
+          +-----------+-----------+
+                      |
+              Changes in pollutant
+                      |
+        +-------------+-------------+
+        |             |             |
+     Mobility     Persistence    Toxicity
+```
+
+</md></sn>
   <config>
     <tags>#01.chemical fate of pollutants</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 12 2026 19:04:19 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 14:17:58 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Pr4xNeFMnf</id>
     <duration></duration>
   </config>
+<sn><md>#### 1. Oxidation
+
+A pollutant reacts with an oxidizing agent, often involving oxygen.
+
+```text
+Pollutant + O₂ → Oxidized products
+```
+
+Oxidation may make some pollutants **less toxic and more easily degraded**, although some oxidation products can also be more toxic.
+
+**Example:** Organic compounds may be oxidized into simpler compounds such as $CO_2$ and $H_2O$.
+
+#### 2. Reduction
+
+A pollutant gains electrons or reacts under low-oxygen conditions.
+
+```text
+Oxidized pollutant → Reduced pollutant
+```
+
+Reduction is particularly important in **waterlogged soils, sediments, and groundwater**.
+
+#### 3. Hydrolysis
+
+A chemical reacts with water and breaks into new compounds.
+
+```text
+Pollutant + H₂O → New products
+```
+
+Hydrolysis is important for many **pesticides and organic pollutants**.
+
+#### 4. Photolysis
+
+Sunlight causes a pollutant to break down or transform.
+
+```text
+Pollutant + sunlight → Transformation products
+```
+
+This is especially important for pollutants present in **surface water and the atmosphere**.
+
+#### 5. Biodegradation
+
+Microorganisms chemically transform or break down pollutants.
+
+```text
+Organic pollutant
+       ↓
+Microbial degradation
+       ↓
+Simpler compounds
+       ↓
+CO₂ + H₂O + biomass
+```
+
+The rate depends on **temperature, pH, oxygen availability, moisture, and microbial activity**.
+
+#### 6. Complexation
+
+Pollutants, particularly **metal ions**, can react with organic or inorganic substances to form complexes.
+
+```text
+Metal ion + ligand → Metal–ligand complex
+```
+
+This can change the metal's **solubility, mobility, and bioavailability**.
+
+#### 7. Precipitation and dissolution
+
+A dissolved pollutant may form an insoluble compound and precipitate.
+
+```text
+Dissolved pollutant
+        ↓
+   Precipitation
+        ↓
+Solid compound
+```
+
+The reverse process, **dissolution**, returns the substance to the solution.
+
+#### 8. Adsorption and desorption
+
+Pollutants can attach to soil particles, clay minerals, organic matter, or sediments.
+
+```text
+Pollutant in solution
+        ↓
+     Adsorption
+        ↓
+Pollutant + soil particle
+        ↓
+     Desorption
+        ↓
+Pollutant in solution
+```
+
+This strongly influences pollutant **mobility and availability**.
+
+
+
+
+</md></sn><sn><md>### Factors affecting chemical fate
+
+| Factor                   | Effect                                                  |
+| ------------------------ | ------------------------------------------------------- |
+| **pH**                   | Changes ionization, solubility, and chemical reactions  |
+| **Temperature**          | Usually increases reaction rates                        |
+| **Redox potential (Eh)** | Controls oxidation and reduction                        |
+| **Moisture**             | Influences dissolution and microbial activity           |
+| **Oxygen**               | Promotes aerobic oxidation                              |
+| **Microorganisms**       | Cause biodegradation and transformation                 |
+| **Soil organic matter**  | Adsorbs and reacts with pollutants                      |
+| **Clay minerals**        | Adsorb pollutants and influence their mobility          |
+| **Sunlight**             | Causes photochemical transformation                     |
+| **Water chemistry**      | Influences dissolution, precipitation, and complexation |
+</md></sn><sn><md>### Overall pathway
+
+```text
+                  POLLUTANT
+                      |
+        +-------------+-------------+
+        |             |             |
+    Oxidation     Reduction     Hydrolysis
+        |             |             |
+        +-------------+-------------+
+                      |
+              Transformation
+                      |
+        +-------------+-------------+
+        |             |             |
+     Adsorption   Complexation   Precipitation
+        |             |             |
+        +-------------+-------------+
+                      |
+              Changed chemical
+                  properties
+                      |
+        +-------------+-------------+
+        |             |             |
+     Mobility     Persistence    Toxicity
+```
+</md></sn><sn><md>### Key point
+
+**Chemical fate determines what happens to a pollutant chemically after entering the environment.** It controls whether the pollutant **persists, degrades, changes into another chemical, becomes immobilized, or becomes more mobile and potentially bioavailable**.
+
+**Summary**
+
+* Chemical fate means the **chemical transformation and behavior of pollutants** in the environment.
+* Major processes include **oxidation, reduction, hydrolysis, photolysis, biodegradation, complexation, precipitation, dissolution, adsorption, and desorption**.
+* Important controlling factors are **pH, temperature, redox potential, moisture, oxygen, microorganisms, organic matter, clay minerals, and sunlight**.
+* Chemical fate influences pollutant **mobility, persistence, toxicity, and bioavailability**.
+</md></sn>
