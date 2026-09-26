@@ -1,10 +1,77 @@
 
-  <sn></sn>
+  <sn><md>### Soil and Enviromental Chemistry
+
+:::.row
+:::.col-12 .col-md-6
+The scope of soil and environmental chemistry centers on understanding the `chemical composition, reactions, and processes` that govern the behavior of `substances within soil` and `at its interfaces` with water, air, and living organisms. 
+It is an `interdisciplinary field` that combines principles of `chemistry, geology, and biology` to study both `natural soil systems` and the `fate of contaminants` introduced by human activity.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/soil-and-enviromental-chemistry-thumnail.jpeg)
+:::
+:::
+</md></sn>
   <config>
     <tags>#01.scope of the discipline</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 26 2026 08:11:56 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 08:26:11 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-nhI1vEBQxW</id>
     <duration></duration>
   </config>
+<sn><md>### Scope
+
+- Core Subject Areas
+- Applied and Interdisciplinary Scope
+
+
+```text
+Soil and Environmental Chemistry
+|
++-- Core Subject Areas
+|   |
+|   +-- Soil Composition and Mineralogy
+|   |
+|   +-- Chemical Hydrology and Water Chemistry
+|   |
+|   +-- Ion Exchange and Surface Chemistry
+|   |
+|   +-- Acid-Base and Reduction-Oxidation (Redox) Chemistry
+|   |
+|   +-- Natural Organic Matter
+|
++-- Applied and Interdisciplinary Scope
+    |
+    +-- Contaminant Fate and Transport
+    |
+    +-- Risk Assessment and Toxicology
+    |
+    +-- Environmental Modeling
+    |
+    +-- Biogeochemistry
+    |
+    +-- Environmental Remediation
+```
+</md></sn><sn><md>### Core Subject Areas
+
+The field is typically organized around the fundamental chemical processes occurring in soil. Based on standard curricula and reference texts, the primary areas of study include:
+
+*   **Soil Composition and Mineralogy**: The study of the origin, abundance, and chemistry of soil elements and clay minerals, which form the reactive solid framework of the soil.
+*   **Chemical Hydrology and Water Chemistry**: Understanding how water moves through soil and the chemical composition of soil solutions, including alkalinity and the chemistry of natural waters.
+*   **Ion Exchange and Surface Chemistry**: The processes by which charged ions and molecules (such as nutrients or contaminants) are adsorbed onto or released from soil particle surfaces.
+*   **Acid-Base and Reduction-Oxidation (Redox) Chemistry**: The study of soil pH, buffering capacity, and electron transfer reactions that control the mobility and form of elements like iron, manganese, and sulfur.
+*   **Natural Organic Matter**: The role of humic substances and other organic colloids in soil reactivity, nutrient cycling, and the binding of pollutants.
+
+</md></sn><sn><md>### Applied and Interdisciplinary Scope
+
+Beyond fundamental processes, the scope extends to practical applications and interactions with other environmental compartments.
+
+*   **Contaminant Fate and Transport**: A major focus is on the dispersion, degradation, and alteration of inorganic and organic contaminants (such as heavy metals and pesticides) across water, soil, sediment, and air. This includes studying sorption/desorption, biodegradation, and bioaccumulation.
+*   **Risk Assessment and Toxicology**: This involves applying chemical knowledge to characterize risks to human and ecological health, including dose-response assessments and the study of adverse effects of chemicals on organisms.
+*   **Environmental Modeling**: The use of computer models and quantitative structure-activity relationships (QSARs) to predict the behavior and fate of chemicals in the environment.
+*   **Biogeochemistry**: The study of the chemical, physical, geological, and biological processes and reactions that govern the composition of the natural environment, including the cycling of essential elements and contaminants through soil, water, and air.
+*   **Environmental Remediation**: Applying chemical principles to technologies and strategies for cleaning up contaminated soils and water, such as phytoremediation.
+
+In summary, the field investigates the chemical nature of soil and its interactions with the broader environment, bridging the gap between pure chemistry and the complex, open systems found in nature.
+</md></sn>
