@@ -1,10 +1,134 @@
 
-  <sn></sn>
+  <sn><md>### Properties of Soil Inorganic Colloids
+
+**Soil inorganic colloids** are very `small, negatively or positively charged mineral particles`, mainly **clay minerals, Fe/Al oxides, and amorphous aluminosilicates**. They are generally smaller than **2 µm** and have a very large surface area.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/soil_inorganic_colloid_thumbnail.jpeg)
+
+</md></sn>
   <config>
     <tags>#02.properties of soil inorganic colloids</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Sep 26 2026 08:12:11 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Sep 26 2026 10:57:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-pKCuRR9wEN</id>
     <duration></duration>
   </config>
+<sn><md>### Major properties
+
+:::.row
+:::.col-12 .col-md-6
+1. **Very small particle size**
+
+   * Generally less than `2 µm` in diameter.
+   * Because of their small size, they `remain suspended` in water for a long time.
+
+2. **Large specific surface area**
+
+   * They have a very `large surface area` relative to their mass.
+   * Smaller particles have greater surface area.
+   * This provides `many sites` for adsorption and chemical reactions.
+
+3. **Electrical charge**
+
+   * Most soil inorganic colloids carry **negative charges**.
+   * Some, particularly **Fe and Al oxides**, can develop either positive or negative charges depending on soil pH.
+   * Charge is responsible for `attracting ions from the soil solution`.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/inorganic-prop-1.jpeg)
+:::
+:::
+</md></sn><sn><md>:::.row
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/inorganic-prop-2.jpeg)
+:::
+
+:::.col-12 .col-md-6
+4. **Cation exchange capacity (CEC)**
+
+   * Negatively charged colloids `( - attract + )` and hold positively charged ions such as:
+
+     * $Ca^{2+}$
+     * $Mg^{2+}$
+     * $K^+$
+     * $NH_4^+$
+   * This property is called **cation exchange capacity**.
+
+5. **Anion exchange capacity (AEC)**
+
+   * Positively charged colloids can (+ attract -) anions such as:
+
+     * $Cl^-$
+     * $NO_3^-$
+     * $SO_4^{2-}$
+   * `Fe and Al oxides` are particularly important in anion adsorption.
+
+6. **Adsorption capacity**
+
+   * Inorganic colloids adsorb `ions, water, organic molecules, and other substances` on their surfaces.
+   * Adsorption strongly affects `nutrient availability and pollutant behavior`.
+
+:::
+:::
+</md></sn><sn><md>:::.row
+:::.col-12 .col-md-6
+7. **Hydration**
+
+   * Colloidal particles can attract and hold water around their surfaces.
+   * This affects soil swelling, shrinkage, and water retention.
+
+8. **Swelling and shrinkage**
+
+   * Some clay minerals, especially **smectite**, absorb water and expand.
+   * They shrink when water is removed.
+   * Kaolinite shows very little swelling and shrinkage.
+
+9. **Plasticity and stickiness**
+
+   * Clay colloids contribute greatly to the plastic and sticky behavior of wet soils.
+   * These properties influence soil tillage and workability.
+
+10. **Flocculation and dispersion**
+
+* Colloids can either come together (**flocculation**) or become separated (**dispersion**).
+* Electrolytes and polyvalent cations such as $Ca^{2+}$ promote flocculation.
+* High concentrations of $Na^+$ generally promote dispersion.
+:::
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/inorganic-prop-3.jpeg)
+:::
+:::
+</md></sn><sn><md>:::.row
+
+:::.col-12 .col-md-6
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20and%20Enviromental%20Chemistry/01.Concept%20of%20Soil%20and%20Enviromental%20Chemistry/assets/inorganic-prop-4.jpeg)
+:::
+
+:::.col-12 .col-md-6
+11. **Buffering capacity**
+
+* Colloids can resist sudden changes in soil chemical conditions, particularly **pH**.
+* Clay minerals and oxide surfaces therefore contribute to soil buffering.
+
+12. **Surface reactivity**
+
+* Their surfaces contain reactive sites where adsorption, ion exchange, protonation, and other chemical reactions occur.
+
+13. **Effect on nutrient availability**
+
+* Colloids retain plant nutrients and prevent their immediate loss through leaching.
+* However, strongly adsorbed nutrients may become less available to plants.
+:::
+
+:::
+</md></sn><sn><md>### Summary
+
+* Soil inorganic colloids are mainly clay minerals and Fe/Al oxide minerals.
+* Their very small size gives them a **large specific surface area**.
+* Their electrical charges control **cation and anion exchange**.
+* They are important for **nutrient retention, adsorption, water retention, buffering, and soil structure**.
+* Their behavior includes **flocculation, dispersion, swelling, and shrinkage**.
+</md></sn>
