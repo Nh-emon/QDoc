@@ -38,7 +38,7 @@ There are several factors that affect plant growth. Specialists have identified 
     <tags>#factor affecting plant growth and movement of ions in soil</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 04 2026 19:35:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 04 2026 19:41:48 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OJQv9eyXBm</id>
     <duration></duration>
   </config>
@@ -86,12 +86,8 @@ Ion absorption by plant roots requires direct contact between the ion and the ro
 3. **Diffusion**
 </md></sn><sn><md>### Root Interception
 
-**Definition**
 
 Root interception represents the `exchange of ions` through physical contact between the `root and mineral surfaces`. The quantity of nutrients intercepted is roughly equal to the `soil volume occupied by roots` (typically **1–3% of the soil volume**). Consequently, about **1% of available nutrients** in the soil are taken up via root interception.
-
-
-**Mechanism**
 
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/mechanism-of-root-interception.jpeg)
 
@@ -144,4 +140,35 @@ $$Q = V \times C$$
 2. **Water Flow Rate / Plant Consumption ($V$ or $WU$):** Higher `transpiration rates` increase water movement toward the roots.
 3. **Soil Moisture Content:** Reduced `soil moisture` (higher soil moisture tension) restricts water transport, decreasing mass flow.
 4. **Temperature:** Low `soil temperatures` reduce transpiration demand and surface evaporation, thereby decreasing mass flow.
-</md></sn><sn></sn>
+</md></sn><sn><md>### Diffusion
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/diffusion-diagram.jpeg)
+
+* **Definition:** Diffusion occurs when an `ion moves along a concentration gradient` from an area of higher concentration to an area of lower concentration.
+* **Mechanism:** As roots absorb nutrients from the surrounding soil solution, the local nutrient concentration at the root surface drops below that of the "bulk" soil solution. This creates a concentration gradient driving ions toward the root surface.
+* **Key Nutrients:** Most phosphorus ($\text{P}$) and potassium ($\text{K}$) reach roots via diffusion.
+* **Importance:** Diffusion `complements mass flow`. Together, mass flow and diffusion account for approximately `99% of nutrient movement` to root surfaces.
+
+---
+
+##### **Principal Soil Factors Influencing Diffusion**
+
+1. **Diffusion Coefficient ($D_w$):** The inherent rate at which a specific nutrient diffuses in water.
+2. **Soil Water Content ($\theta$):** Higher volumetric water percentage increases diffusion paths and rates.
+3. **Buffering Capacity ($b$):** The soil's ability to replenish dissolved nutrients from adsorbed phases. Higher adsorption capacity increases buffer capacity, which decreases the rate of diffusion:
+
+$$\text{Diffusion} \propto \frac{\text{Water Content}}{\text{Buffering Capacity}}$$
+
+##### Fick's Law of Diffusion
+
+To account for these soil factors, Fick's Law of Diffusion defines the **Effective Diffusion Coefficient ($D_e$)** as:
+
+$$D_e = D_w \cdot \theta \cdot f \cdot \frac{1}{b}$$
+
+Where:
+
+* $D_e$ = Effective diffusion coefficient in soil
+* $D_w$ = Diffusion coefficient for the specific nutrient in water
+* $\theta$ = Volumetric water percentage
+* $f$ = Tortuosity factor (accounting for path windingness in soil pores)
+* $b$ = Soil buffering capacity</md></sn>
