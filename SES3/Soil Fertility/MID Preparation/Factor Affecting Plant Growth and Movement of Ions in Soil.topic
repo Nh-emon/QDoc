@@ -38,7 +38,7 @@ There are several factors that affect plant growth. Specialists have identified 
     <tags>#factor affecting plant growth and movement of ions in soil</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 04 2026 16:39:33 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 04 2026 19:35:28 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OJQv9eyXBm</id>
     <duration></duration>
   </config>
@@ -75,4 +75,73 @@ Temperature is one of the important factors that affect plant growth.
 - Some plants flower when the light period is long and the dark period is short.
 - Some plants flower when the light period is short and the dark period is long.
 - Sunlight is a very important factor for plant growth and flowering.
-- For some plants, the light period is critical; for others, the dark period is critical.</md></sn>
+- For some plants, the light period is critical; for others, the dark period is critical.</md></sn><sn><md>### Movement of Ions from Soils to Roots
+
+Ion absorption by plant roots requires direct contact between the ion and the root surface. Nutrients reach the root surface primarily through three distinct mechanisms:
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/movement-of-icon-diagram.jpeg)
+
+1. **Root Interception**
+2. **Mass Flow**
+3. **Diffusion**
+</md></sn><sn><md>### Root Interception
+
+**Definition**
+
+Root interception represents the `exchange of ions` through physical contact between the `root and mineral surfaces`. The quantity of nutrients intercepted is roughly equal to the `soil volume occupied by roots` (typically **1–3% of the soil volume**). Consequently, about **1% of available nutrients** in the soil are taken up via root interception.
+
+
+**Mechanism**
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/mechanism-of-root-interception.jpeg)
+
+* As roots develop and exploit more soil volume, soil solution and soil surfaces retaining adsorbed `ions are exposed` to the expanding root mass.
+* Ions such as $\text{H}^+$ adsorbed to the surface of root hairs exchange with ions held on the surface of clays and organic matter (OM) due to `intimate contact`.
+* Ions held by electrostatic forces at these sites `oscillate` within a specific volume. When the oscillation volumes of two ions (e.g., $\text{H}^+$ and $\text{K}^+$) overlap, **ion exchange occurs**.
+* Through this mechanism, cations like $\text{Ca}^{2+}$ on a clay surface are exchanged, absorbed by the root, and utilized by the plant.
+
+**Factors Enhancing Root Interception**
+
+* **Increasing Root Mass:** Absorption is enhanced by increasing the quantity of active absorbing roots within a given soil volume.
+* **Mycorrhizal Symbiosis:** Root interception is significantly enhanced by `mycorrhizae—symbiotic` associations between `fungi and plant roots` that expand the effective surface area.
+
+</md></sn><sn><md>### Mass Flow
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/mass-flow-diagram.jpeg)
+
+Mass flow is a `convection process` wherein ions dissolved in the `soil solution` are transported toward the `root surface` driven by `water movement`—primarily driven by plant transpiration (water uptake), soil surface evaporation, and water percolation through the soil profile.
+
+**Mathematical Representation**
+The contribution of mass flow to nutrient movement is represented by:
+
+$$MF = C \times WU$$
+
++++ Where:
+
+* $MF$ = Contribution to ion uptake by mass flow
+* $C$ = Solution concentration of a given ion
+* $WU$ = Total water uptake by the plant
+
++++ 
+
+Alternatively, the total quantity of solute moved ($Q$) can be expressed as:
+
+$$Q = V \times C$$
+
++++ Where:
+
+* $Q$ = Quantity of solute (ion) moved
+* $V$ = Volume of water flow
+* $C$ = Solute concentration in the soil solution
+
++++
+
+---
+
+**Factors Affecting Mass Flow**
+
+1. **Solute Concentration ($C$):** Higher `nutrient concentration` in the soil solution increases the quantity delivered per unit volume of water.
+2. **Water Flow Rate / Plant Consumption ($V$ or $WU$):** Higher `transpiration rates` increase water movement toward the roots.
+3. **Soil Moisture Content:** Reduced `soil moisture` (higher soil moisture tension) restricts water transport, decreasing mass flow.
+4. **Temperature:** Low `soil temperatures` reduce transpiration demand and surface evaporation, thereby decreasing mass flow.
+</md></sn><sn></sn>
