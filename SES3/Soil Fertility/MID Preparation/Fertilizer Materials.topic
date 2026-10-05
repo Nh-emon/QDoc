@@ -9,7 +9,7 @@
     <tags>#fertilizer materials</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 05 2026 10:06:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 05 2026 10:17:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vMmWHqNsvu</id>
     <duration></duration>
   </config>
@@ -22,4 +22,64 @@
 - Subsequently, `fertilizers containing essential plant nutrients` were manufactured and applied to soils to increase fertility.
 - By **1855**, researchers at the `Rothamsted Agricultural Experiment Station`, near London, England, declared that `soil fertility could be maintained` permanently with mineral fertilizers.
 
-</md></sn><sn></sn>
+</md></sn><sn><md>:::.row
+:::.col-12 .col-lg-4
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/fertilizer-grade.jpeg)
+:::
+
+:::.col-12 .col-lg-8
+### Fertilizer Grade
+
+- An expression that indicates the `guaranteed minimum percentage of plant nutrients` in a mixed fertilizer containing two or three of the fertilizer elements.
+- Order: N, P (expressed as P₂O₅), and K (expressed as K₂O) → **[N–P₂O₅–K₂O]**
+- Example: Grade **27-3-9** contains:
+  - 27% nitrogen
+  - Phosphorus equivalent to 3% P₂O₅
+  - Potassium equivalent to 9% K₂O
+:::
+:::
+</md></sn><sn><md>### Fertilizer Ratio
+- The `relative proportions of primary nutrients` in a fertilizer grade `divided by the highest denominator` for that grade.
+- Example: A **27-3-9** fertilizer has a ratio of **9-1-3**.
+  - High in nitrogen
+  - Low in phosphorus
+  - Moderate in potassium (relatively speaking)
+
+</md></sn><sn><md>### Fertilizer Materials
+
+- Fertilizers that contain `only one compound` and supply one or two plant nutrients are called **fertilizer materials** or **carriers**.
+- The first fertilizer material was manufactured when `ground bones were treated with sulfuric acid` to increase the solubility (availability) of phosphorus.
+  - Occurred in England around **1830**
+  - Marked the beginning of the modern fertilizer industry
+- This was followed by:
+  - Development of **potassium materials** from dried sea deposits (late 19th century)
+  - Manufacture of **nitrogen materials** from the `fixation of atmospheric N₂` (early 20th century)
+</md></sn><sn><md>### Filler
+- A substance added to fertilizer materials to:
+  - Provide `bulk`
+  - Prevent `caking`
+  - Serve `some purpose` other than providing essential plant elements
+- It makes up the difference between the weight of an added ingredient required and the total fertilizer that should be made according to the fertilizer formula.
+
+:::.row
+:::.col-12 .col-lg-4
+Common filler materials:
+  - Sand
+  - Dolomitic limestone
+  - Gypsum
+  - Furfural
+  - Vermiculite
+  - Rock salt
+  - Coal ashes
+  - Chalk grit
+  - Spent foundry sand
+  - Peanut hulls
+  - Saw dust
+  - Rice husk
+:::
+
+:::.col-12 .col-lg-8
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/common-filler-materials.jpeg)
+:::
+:::
+</md></sn>
