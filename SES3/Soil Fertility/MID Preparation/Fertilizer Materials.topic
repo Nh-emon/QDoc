@@ -9,7 +9,7 @@
     <tags>#fertilizer materials</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 05 2026 14:06:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 05 2026 17:13:31 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vMmWHqNsvu</id>
     <duration></duration>
   </config>
@@ -184,4 +184,64 @@ Biofertilizers are mainly of **two types**:
 - Help counter:
   - Increased soil salinity
   - Chemical run-off from agricultural fields
-</md></sn><sn></sn>
+</md></sn><sn><md>### Fertilizer Guarantee
+
+- Guarantee of fertilizer relates to the **qualitative and quantitative characteristics** that a product must comply with to fulfil **contractual or legal requirements**.
+- They stipulate that a `product must comply with all legal or contractual requirements under` International Standards Organization (`ISO`).
+- Plant nutrients, compounds, and allied substances guaranteed are liable for **inspection and analysis** in accordance with the methods and regulations prescribed by the **country's regulatory authority**.
+
+</md></sn><sn><md>### Sources and Manufacture of Major Fertilizer Materials
+
+**Historical Development**
+- The **first fertilizer material** was manufactured when **ground bones were treated with sulfuric acid** to increase the solubility (availability) of phosphorus.
+  - Occurred in **England around 1830**
+  - Marked the **beginning of the modern fertilizer industry**
+- This was followed by:
+  - Development of **potassium materials** from dried sea deposits (late 19th century)
+  - Manufacture of **nitrogen materials** from the fixation of atmospheric N₂ (early 20th century)
+
+</md></sn><sn><md>### Sources and Manufacture of N Fertilizer Materials
+
+- Both **organic and inorganic N sources** supply the N required for optimum crop growth.
+- The commonly available N sources used in agricultural production systems and their reactions with soil are presented below.
+
+Inorganic N Sources
+
+- **Manufactured fertilizers** are the most important sources of N to plants.
+- **Anhydrous NH₃** is the basic building block for almost all chemically derived N fertilizer materials.
+- NH₃ is manufactured using the **Haber-Bosch reaction**:
+  - N₂ from the air
+  - H₂ produced from natural gas (CH₄)
+- For convenience, the various N compounds are grouped into **three categories**:
+  1. Ammoniacal
+  2. Nitrate
+  3. Slowly available
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/haber-bosch-reaction.jpeg)
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/nitrogen-from-ammonia.jpeg)
+</md></sn><sn><md>### Composition of Some Common Soluble Fertilizer N Sources
+
+| S/L | N Source | Nutrient Content (%) | Category |
+|-----|----------|----------------------|----------|
+|  |  | `NH₄⁺ forming` |  |
+| 1 | Anhydrous ammonia | 82 | NH₄⁺ forming |
+| 2 | Ammonium nitrate | 33–34 | NH₄⁺ forming |
+| 3 | Ammonium sulfate | 21 | NH₄⁺ forming |
+| 4 | Aqua ammonia | 20–25 | NH₄⁺ forming |
+| 5 | Urea | 45–46 | NH₄⁺ forming |
+| 6 | Urea-sulfate | 30–40 | NH₄⁺ forming |
+| 7 | Ammonium bicarbonate | 21–23 | NH₄⁺ forming |
+| 8 | Ammonium chloride | 25–26 | NH₄⁺ forming |
+| 9 | Ammonium thiosulfate | 12 | NH₄⁺ forming |
+| 10 | Calcium ammonium nitrate | 15–27 | NH₄⁺ forming |
+| 11 | Ammonium polyphosphate | 10–11 | NH₄⁺ forming |
+| 12 | Diammonium phosphate | 18–21 | NH₄⁺ forming |
+| 13 | Monoammonium phosphate | 11 | NH₄⁺ forming |
+| 14 | Urea-ammonium nitrate | 28–32 | NH₄⁺ forming |
+| 15 | Urea-ammonium phosphate | 21–38 | NH₄⁺ forming |
+| 16 | Urea phosphate | 17 | NH₄⁺ forming |
+|  |  | `NO₃⁻ forming` |  |
+| 17 | Calcium nitrate | 15 | NO₃⁻ forming |
+| 18 | Potassium nitrate | 13 | NO₃⁻ forming |
+| 19 | Sodium nitrate | 16 | NO₃⁻ forming |
+</md></sn>
