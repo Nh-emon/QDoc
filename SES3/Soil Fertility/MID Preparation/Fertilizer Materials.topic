@@ -9,7 +9,7 @@
     <tags>#fertilizer materials</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 05 2026 10:17:23 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 05 2026 13:59:27 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-vMmWHqNsvu</id>
     <duration></duration>
   </config>
@@ -82,4 +82,100 @@ Common filler materials:
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/MID%20Preparation/assets/common-filler-materials.jpeg)
 :::
 :::
-</md></sn>
+</md></sn><sn><md>Classes of Fertilizers
+
+### Straight Fertilizer
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/straight-fertilizer.jpeg)
+
+- Fertilizers containing `only one primary nutrient`.
+- Also called **single fertilizer**.
+- Examples:
+  - Urea
+  - Rock phosphate
+  - Ammonia
+  - Muriate of potash
+- Occasionally, straight fertilizers may comprise a `mixture of ingredients` and may still supply only one nutrient.
+  - Example: Some ++phosphatic fertilizers++ contain a mixture of `water-soluble` and `water-insoluble phosphate` but still supply only phosphorus.
+
+</md></sn><sn><md>### Compound Fertilizers or Mixed Fertilizer
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/Compound-Fertilizer.jpeg)
+
+- Fertilizers formulated with `two or more plant nutrients`.
+- Defined as a `homogenous product` containing two or more of the following plant nutrients:
+  - Nitrogen
+  - Phosphorus
+  - Potassium
+  - Magnesium
+- Forms: Granules, pellets, prills, or crystals.
+- Characteristics:
+  - Free flowing
+  - Contain micronutrients
+- Example: Compound phosphatic fertilizer
+</md></sn><sn><md>### Complex Fertilizer
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/complex-fertilizer.jpeg)
+
+- Contains **more than two plant nutrients**, of which `at least two major nutrients are in a chemical combination`.
+- Each granule contains **all the nutrients** of the fertilizer.
+- Generally granulated, free flowing, and can easily be applied uniformly.
+- Examples:
+  - Ammonium phosphates
+  - Nitrophosphates
+  - NPK complex
+- Many crops need N, P, and K at the same time, so a wide range of complex fertilizers containing all three primary nutrients are produced for this purpose.
+</md></sn><sn><md>### Organic Fertilizer
+
+![organic-fertilizer](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/organic-fertilizer.jpeg)
+
+- By-product from the processing of **animal or vegetable substances** that contain sufficient plant nutrients to be of value as fertilizers.
+- Examples:
+  - Composted cow manure
+  - Cottonseed meal
+  - Fish emulsion and fish meal
+  - Hoof and horn meal
+  - Kelp meal
+  - Liquid seaweed
+
+Advantages of Organic Fertilizer
+- Slow release of available `water-insoluble` nitrogen and phosphate.
+- Slow release minimizes the `leaching of nutrients`.
+- Contain `no soluble salts` (like inorganic fertilizers) and can be applied in large quantities without damaging crops.
+</md></sn><sn><md>### Biofertilizer
+- A biofertilizer or `bioinoculant` is a substance which contains `living microorganisms` which, when applied to seeds, plant surfaces, or soil:
+  - `Colonize the rhizosphere` or the interior of the plant
+  - Promote growth by `increasing` the supply or availability of `primary nutrients` to the host plant
+
+![img](https://binary.pensoft.net/fig/1159459/oo/file.jpg)
+
+##### Types of Biofertilizers
+Biofertilizers are mainly of **two types**:
+
+:::.row
+:::.col-12 .col-lg-6
+#### a) Nitrogen Fixers
+- Crops inoculated with nitrogen-fixing bioinoculant fix atmospheric nitrogen.
+- Example: **Rhizobia** fix atmospheric nitrogen and make a symbiotic association with leguminous plants.
+  - Rhizobia supply nitrogen to plants.
+  - Receive photoassimilated carbon from the legume.
+:::
+
+:::.col-12 .col-lg-6
+#### b) Phosphate Solubilizers
+- A few heterotrophic bacteria and fungi, also called **phosphate solubilizing microorganisms**, solubilize inorganic phosphorus.
+- The symbiotic relationship of plant roots and fungi, like **arbuscular mycorrhizae** or **vesicular arbuscular mycorrhizae**, mobilize phosphate ions.
+:::
+:::
+
+##### Advantages of Biofertilizers
+- Slow-release character is their major advantage.
+- Other benefits:
+  - Plant nutrition
+  - Disease resistance
+  - Soil fertility
+  - Tolerance to adverse soil or climatic conditions
+- Help counter:
+  - Increased soil salinity
+  - Chemical run-off from agricultural fields
+</md></sn><sn></sn>
