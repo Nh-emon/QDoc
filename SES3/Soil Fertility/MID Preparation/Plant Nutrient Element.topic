@@ -1,10 +1,61 @@
 
-  <sn></sn>
+  <sn><md>### Essential Elements in Plant Nutrition
+
+A chemical element is considered **essential** for plant growth when:
+1. The plant is `unable to complete its life cycle` without it.
+2. No other element can `!take its place`.
+3. The element is `directly involved` in the plant's nutrition.
+
+These criteria were proposed by **Arnon and Stout (1939)**.
+</md></sn>
   <config>
     <tags>#plant nutrient element</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Oct 06 2026 05:56:52 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Oct 06 2026 06:14:02 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-YuF13l91UU</id>
     <duration></duration>
   </config>
+<sn><md>### Types of Essential Elements
+
+- Non-Mineral
+- Mineral
+- Quasi-Essential
+
+**Total: 17 elements** are considered essential to plant growth.
+</md></sn><sn><md>#### 1. Non-Mineral Elements (Most Abundant)
+- Carbon (C)
+- Hydrogen (H)
+- Oxygen (O)
+
+`CHO`
+
+*Note: These are not considered mineral nutrients but are the most abundant elements in plants.*
+</md></sn><sn><md>#### 2. Mineral Nutrients (14 elements)
+The remaining 14 essential elements are classified by their `relative abundance` in plants:
+
+| Category | Definition | Examples |
+|---|---|---|
+| **Macronutrients** | Used in `relatively large amounts` (&gt;0.1% of dry plant tissue) | `OKaHaLowMaPotaNaiSafKa` Nitrogen (N), Phosphorus (P), Potassium (K), Calcium (Ca), Magnesium (Mg), Sulfur (S) |
+| **Micronutrients** | Used in `smaller amounts` (&lt;0.1% of dry plant tissue) | `JiMaMoliboClock` Iron (Fe), Manganese (Mn), Zinc (Zn), Copper (Cu), Boron (B), Molybdenum (Mo), Chlorine (Cl), Nickel (Ni) |
+
+&gt; **Important Note:** Micronutrients are often called "minor elements," but this does **not** mean they are `!less important` than macronutrients. Micronutrient deficiency or toxicity can reduce plant yield just as macronutrient deficiency or toxicity does.
+</md></sn><sn><md>#### Quasi-Essential / Beneficial Elements
+
+These elements are:
+- Required for **some** plants, but not all, to complete their life cycle.
+- Capable of boosting plant `growth and productivity`.
+
+**Examples:**
+
+| Element | Role / Essential For |
+|---|---|
+| **Silicon (Si)** | Used in large amounts by most plants; considered a beneficial element. Proven essential only for `diatoms` and plants in the `Equisetaceae` family. |
+| **Cobalt (Co)** | Proven essential only for `Leguminosae` when in symbiosis with nitrogen-fixing bacteria. |
+| **Sodium (Na)** | Essential in small amounts for plants using the `C4 photosynthesis pathway` (mainly tropical grasses). |
+</md></sn><sn><md>### Classification of Plant Nutrient
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Fertility/assets/soil-nutrient-element-table.png)
+
+Primary macronutrients are nutrients that the plant needs huge amounts of. Secondary macronutrients are still needed in large quantities, but not as much as the primary macronutrients.
+</md></sn>
