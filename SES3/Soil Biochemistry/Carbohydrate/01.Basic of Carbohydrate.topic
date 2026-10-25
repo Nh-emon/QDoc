@@ -13,7 +13,7 @@ Introduction &amp; Definition
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 19:11:23 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 19:23:14 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
@@ -46,19 +46,27 @@ Carbohydrates are classified into `four primary categories` based on the number 
 ![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/classification_of_carbohydrates.jpeg)
 
 +++ view
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/classification_of_carbohydrates.png)
+
 ```
                      Carbohydrates
                           │
      ┌────────────────────┼────────────────────┬────────────────────┐
 Monosaccharides     Disaccharides        Oligosaccharides     Polysaccharides
    (1 Unit)           (2 Units)           (3–10 Units)         (&gt;10 Units)
-+++   
+  
 ```
++++
 </md></sn><sn><md>### Monosaccharides 
 
 Simple Sugars
 
 * **Definition:** The simplest group of carbohydrates consisting of a `single` polyhydroxy aldehyde or ketone unit. They **cannot be further hydrolyzed** into smaller carbohydrates.
+
+  +++ ...
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/family_of_monosacarrides.yt.png)
+  +++
 
 * **Classification by Functional Group**:
   * `Aldoses`: Contain an `aldehyde` functional group (e.g., *Glyceraldehyde, Erythrose, Ribose, Glucose, Galactose*).
@@ -100,6 +108,12 @@ Simple Sugars
 
 * **Glycosidic Bond:** The `covalent linkage` formed between the hydroxyl groups of two sugar units (e.g., $1\to 4$ or $1\to 2$ linkages).
 [glycosidic bond.diagram](https://sciencequery.com/wp-content/uploads/2022/12/Glycosidic-bond-structure-1.png)
+
++++ ...
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/disaccarides.yt.png)
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/maltose_sucrose_lactose.yt.png)
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/maltose_sucrose_lactose_diff.yt.png)
++++
 </md></sn><sn><md>### Oligosaccharides
 
 * **Definition:** Carbohydrates consisting of `3 to 10` monosaccharide units joined by *glycosidic bonds*.
