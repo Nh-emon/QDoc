@@ -13,7 +13,7 @@ Introduction &amp; Definition
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 18:28:00 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 18:48:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
@@ -24,10 +24,10 @@ Carbohydrates contain specific functional groups attached to a long carbon chain
 
 :::.row
 :::.col-12 .col-lg-6
-* **Polyhydroxy Aldehyde:** A long carbon chain attached to an **aldehyde group** -$\text{CHO}$. 
+* **Polyhydroxy Aldehyde:** A long carbon chain attached to an `aldehyde group` -$\text{CHO}$. 
   * *Example:* **Glucose** $\text{C}_6\text{H}_{12}\text{O}_6$ — an *Aldohexose*.
 
-* **Polyhydroxy Ketone:** A long carbon chain attached to a **ketone group** &gt;$\text{C}=\text{O}$. 
+* **Polyhydroxy Ketone:** A long carbon chain attached to a `ketone group` &gt;$\text{C}=\text{O}$. 
   * *Example:* **Fructose** $\text{C}_6\text{H}_{12}\text{O}_6$ — a *Ketohexose*.
 
 * **Identification:** To qualify as a carbohydrate, a chemical structure must contain both a carbonyl group (aldehyde or ketone) and hydroxyl $-\text{OH}$ groups.
@@ -39,4 +39,48 @@ Carbohydrates contain specific functional groups attached to a long carbon chain
 :::
 :::
 
+</md></sn><sn><md>### Classification
+
+Carbohydrates are classified into `four primary categories` based on the number of sugar units they contain:
+
+![diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/classification_of_carbohydrates.jpeg)
+
++++ view
+```
+                     Carbohydrates
+                          │
+     ┌────────────────────┼────────────────────┬────────────────────┐
+Monosaccharides     Disaccharides        Oligosaccharides     Polysaccharides
+   (1 Unit)           (2 Units)           (3–10 Units)         (&gt;10 Units)
++++   
+```
+</md></sn><sn><md>### Monosaccharides 
+
+Simple Sugars
+
+* **Definition:** The simplest group of carbohydrates consisting of a `single` polyhydroxy aldehyde or ketone unit. They **cannot be further hydrolyzed** into smaller carbohydrates.
+
+* **Classification by Functional Group**:
+  * `Aldoses`: Contain an `aldehyde` functional group (e.g., *Glyceraldehyde, Erythrose, Ribose, Glucose, Galactose*).
+  * `Ketoses`: Contain a `ketone` functional group (e.g., *Dihydroxyacetone, Erythrulose, Ribulose, Fructose, Sedoheptulose*).
+
+* **Classification by Carbon Count**:
+  +++view
+  | Carbon Count | Aldoses (Aldehyde Group) | Ketoses (Ketone Group) |
+  | --- | --- | --- |
+  | **Trioses (3C)** | Glyceraldehyde | Dihydroxyacetone |
+  | **Tetroses (4C)** | Erythrose | Erythrulose |
+  | **Pentoses (5C)** | Ribose | Ribulose |
+  | **Hexoses (6C)** | Glucose, Galactose | Fructose |
+  | **Heptoses (7C)** | - | Sedoheptulose |
+  +++
+
+* **Key Monosaccharides Compared**:
+  +++ view
+  ![diagram](https://bio.libretexts.org/@api/deki/files/925/Figure_03_02_02.jpg?revision=1)
+  ![diff.diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/sucrose_galactose_fructose_diff_diagram.jpeg)
+  +++
+  * **Glucose:** The `primary energy source` for the body $1\text{ molecule} \rightarrow 36\text{–}38\text{ ATP }$; present in `blood` and tested in blood sugar panels.
+  * **Galactose:** Derived from `lactose breakdown`; found predominantly in `dairy products`.
+  * **Fructose:** The `sweetest natural sugar`; found in `fruits` and present in the `sperm head` as an *energy fuel* for motility.
 </md></sn>
