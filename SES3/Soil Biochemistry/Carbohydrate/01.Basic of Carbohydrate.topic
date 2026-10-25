@@ -13,7 +13,7 @@ Introduction &amp; Definition
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 19:03:19 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 19:09:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
@@ -114,4 +114,33 @@ Simple Sugars
   
 **Biological Significance:** Found in plant foods like `legumes, vegetables, and whole grains`. 
   They resist upper GI digestion and pass into the colon, where gut bacteria (`Bifidobacterium`, `Lactobacillus`) ferment them into **Short-Chain Fatty Acids (SCFAs)** and gases. They act as `prebiotics`.
+</md></sn><sn><md>### Polysaccharides 
+
+Complex Carbohydrates
+
+* **Definition:** High molecular weight carbohydrates made of `more than 10 monosaccharide units` linked by glycosidic bonds.
+
+* **1. Homopolysaccharides** 
+  Composed of identical monosaccharide units:
+  | Polysaccharide | Constituent Units | Primary Biological Role | Key Location / Occurrence |
+  | --- | --- | --- | --- |
+  | **Starch** | Glucose units | Energy storage | Plants |
+  | **Glycogen** | Glucose units | Energy storage | Animals |
+  | **Cellulose** | Glucose units | Structural support | Plant cell walls |
+  | **Chitin** | *N-acetylglucosamine* units | Structural support &amp; protection | Insect exoskeletons and fungal cell walls |
+
+* **2. Heteropolysaccharides** 
+  Composed of two or more different types of monosaccharides:
+  * **Hyaluronic Acid:** Made of alternating `Glucuronic acid` and `N-acetylglucosamine`; abundant in **connective tissue**.
+  * **Heparin:** An `anticoagulant` agent.
+  * **Agar:** Composed of galactose units and other sugar derivatives; derived from `seaweed` and used as a solidifying agent in microbiology culture media.
+
+</md></sn><sn><md>### Summary Table
+
+| Category | Sugar Units | Key Examples | Biological Role / Source |
+| :--- | :--- | :--- | :--- |
+| **Monosaccharides** | 1 | Glucose, Fructose, Galactose | Primary cellular fuel (36–38 ATP), semen fuel, milk derivative |
+| **Disaccharides** | 2 | Sucrose, Lactose, Maltose | Table sugar, milk sugar, malt sugar |
+| **Oligosaccharides** | 3–10 | Raffinose, Stachyose, Verbascose | Prebiotics, fermented by gut microbiota |
+| **Polysaccharides** | &gt;10 | Starch, Glycogen, Cellulose, Chitin, Hyaluronic Acid, Agar | Energy storage, structural support, connective tissue, culture media |
 </md></sn>
