@@ -1,10 +1,40 @@
 
-  <sn></sn>
+  <sn><md>#### Carbohydrates
+
+Introduction &amp; Definition
+
+* **Chemical Composition:** Carbohydrates are organic compounds composed of `CHO` **Carbon (C)**, **Hydrogen (H)**, and **Oxygen (O)**. Because of this composition, they are often referred to as `hydrates of carbon`.
+* **Exact Definition:** Carbohydrates are defined as `polyhydroxy aldehydes` or `polyhydroxy ketones`, or substances that yield these compounds upon hydrolysis (breakdown with water).
+[view](https://i.ytimg.com/vi/hWmnXbfBnhc/maxresdefault.jpg)
+* **Empirical Formula:** Many carbohydrates follow the general formula $\text{C}_n(\text{H}_2\text{O})_n$, though some may also contain `Nitrogen, Phosphorus, or Sulfur`.
+* **Nomenclature:** Carbohydrates are also called `saccharides`, derived from the Greek word *sakkcharon*, meaning sugar or sweet.
+</md></sn>
   <config>
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 17:32:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 17:40:44 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
+<sn><md>### Structural Features
+
+Functional Groups
+Carbohydrates contain specific functional groups attached to a long carbon chain:
+
+:::.row
+:::.col-12 .col-lg-6
+* **Polyhydroxy Aldehyde:** A long carbon chain attached to an `aldehyde group` -$\text{CHO}$. 
+  * *Example:* **Glucose** $\text{C}_6\text{H}_{12}\text{O}_6$ — an *Aldohexose*.
+
+* **Polyhydroxy Ketone:** A long carbon chain attached to a `ketone group` &gt;$\text{C}=\text{O}$. 
+  * *Example:* **Fructose** $\text{C}_6\text{H}_{12}\text{O}_6$ — a *Ketohexose*.
+
+* **Identification:** To qualify as a carbohydrate, a chemical structure must contain both a carbonyl group (aldehyde or ketone) and hydroxyl $-\text{OH}$ groups.
+:::
+
+:::.col-12 .col-lg-6
+![img](https://chem.libretexts.org/@api/deki/files/402142/structures_of_polyhydroxy_aldehyde_and_polyhydroxy_ketone.png?revision=1)
+:::
+:::
+</md></sn>
