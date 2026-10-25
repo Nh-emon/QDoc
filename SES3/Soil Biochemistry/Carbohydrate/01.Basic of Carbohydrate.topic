@@ -13,7 +13,7 @@ Introduction &amp; Definition
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 18:57:39 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 19:03:19 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
@@ -100,4 +100,18 @@ Simple Sugars
 
 * **Glycosidic Bond:** The `covalent linkage` formed between the hydroxyl groups of two sugar units (e.g., $1\to 4$ or $1\to 2$ linkages).
 [glycosidic bond.diagram](https://sciencequery.com/wp-content/uploads/2022/12/Glycosidic-bond-structure-1.png)
-</md></sn><sn></sn>
+</md></sn><sn><md>### Oligosaccharides
+
+* **Definition:** Carbohydrates consisting of `3 to 10` monosaccharide units joined by *glycosidic bonds*.
+
+* **Key Examples**:
+  | Oligosaccharide | Category | Unit Count | Monosaccharide Composition |
+  | --- | --- | --- | --- |
+  | **Raffinose** `gGf` | Trisaccharide | 3 | Galactose + Glucose + Fructose |
+  | **Stachyose** `2gGF` | Tetrasaccharide | 4 | 2 Galactose + Glucose + Fructose |
+  | **Verbascose** `3gGf` | Pentasaccharide | 5 | 3 Galactose + Glucose + Fructose |* 
+  [Raffinose](https://www.nutrientsreview.com/wp-content/uploads/2014/08/Oligosaccharides.jpg)
+  
+**Biological Significance:** Found in plant foods like `legumes, vegetables, and whole grains`. 
+  They resist upper GI digestion and pass into the colon, where gut bacteria (`Bifidobacterium`, `Lactobacillus`) ferment them into **Short-Chain Fatty Acids (SCFAs)** and gases. They act as `prebiotics`.
+</md></sn>
