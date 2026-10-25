@@ -13,7 +13,7 @@ Introduction &amp; Definition
     <tags>#01.basic of carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Oct 25 2026 18:48:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Oct 25 2026 18:57:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-47mcgDsHGF</id>
     <duration></duration>
   </config>
@@ -83,4 +83,21 @@ Simple Sugars
   * **Glucose:** The `primary energy source` for the body $1\text{ molecule} \rightarrow 36\text{–}38\text{ ATP }$; present in `blood` and tested in blood sugar panels.
   * **Galactose:** Derived from `lactose breakdown`; found predominantly in `dairy products`.
   * **Fructose:** The `sweetest natural sugar`; found in `fruits` and present in the `sperm head` as an *energy fuel* for motility.
-</md></sn>
+</md></sn><sn><md>### Disaccharides
+
+* **Definition:** Composed of `two monosaccharide units` linked together by a `glycosidic bond`. They are 
+  - crystalline, 
+  - water-soluble, and 
+  - sweet-tasting.
+
+* **Major Examples &amp; Digestive Enzymes**:
+
+  | Disaccharide | Monosaccharide Components  | Common Name | Hydrolyzing Enzyme | Clinical / Biological Note |
+  | --- | --- | --- | --- | --- |
+  | **Sucrose** | `Glucose + Fructose`  | Cane / Table Sugar | *Sucrase* | — |
+  | **Lactose** | `Glucose + Galactose`  | Milk Sugar  | *Lactase* | Deficiency in lactase leads to **lactose intolerance** |
+  | **Maltose** | `Glucose + Glucose`  | Malt Sugar  | *Maltase* | — |
+
+* **Glycosidic Bond:** The `covalent linkage` formed between the hydroxyl groups of two sugar units (e.g., $1\to 4$ or $1\to 2$ linkages).
+[glycosidic bond.diagram](https://sciencequery.com/wp-content/uploads/2022/12/Glycosidic-bond-structure-1.png)
+</md></sn><sn></sn>
