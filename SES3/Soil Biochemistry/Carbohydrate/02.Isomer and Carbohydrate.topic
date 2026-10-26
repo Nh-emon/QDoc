@@ -1,10 +1,32 @@
 
-  <sn></sn>
+  <sn><md>### Introduction to Carbohydrate Isomerism
+
+Except for **dihydroxyacetone** (ketoses), all monosaccharides contain one or more asymmetric or **chiral carbon atoms**. Because of these chiral carbons, monosaccharides exist in `optically active isomeric` forms.
+
+We will discuss
+- Stereoisomers
+- D- and L-isomer
+- Racemic mixture
+- Epimers
+- Enantiomers
+- Anomers
+- Tautomerization
+</md></sn>
   <config>
     <tags>#02.isomer and carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 08:53:04 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 08:53:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iX5uxGhOqk</id>
     <duration></duration>
   </config>
+<sn><md>### Chiral Carbon Asymmetric Carbon
+
+* **Definition**: A carbon atom that is bonded to `four completely different atoms or groups` of atoms.
+* **Carbon Numbering Convention**: Numbering starts(1) at the carbon closest to or part of the functional group (C1).
+* **Identification in Glucose $C_6H_{12}O_6$**:
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/chiral_carbon_in_glucose.jpeg)
+  * **C1**: Not chiral (double-bonded to oxygen in the aldehyde group).
+  * **C2, C3, C4, C5**: **Chiral carbons** (each attached to four unique atomic groups).
+  * **C6**: Not chiral (bonded to two identical hydrogen atoms).
+</md></sn>
