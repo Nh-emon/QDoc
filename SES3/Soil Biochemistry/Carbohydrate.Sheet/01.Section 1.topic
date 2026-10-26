@@ -1,10 +1,67 @@
 
-  <sn></sn>
+  <sn><md>### CARBOHYDRATES
+
+**Occurrences**
+
+Carbohydrates are the `most abundant organic compounds` in the plant world. They act as 
+- `storehouses of chemical energy` (glucose, starch, glycogen); 
+- are the `components of supportive structures` in plants (cellulose), 
+- `crustacean shells` (chitin) and `connective tissues`  in animals (acidic polysaccharides) and are 
+- essential `components of nucleic acids` (D-ribose and 2-deoxy-D-ribose). 
+- Carbohydrates make up about `three fourths` of the dry weight of plants.
+
+</md></sn>
   <config>
     <tags>#01.section 1</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 15:36:28 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 16:01:20 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-lynQXwVK4R</id>
     <duration></duration>
   </config>
+<sn><md>#### The Nature of Carbohydrates
+
+Carbohydrates are compounds of great importance in both the biological and commercial world. They are used as a source of energy in all organisms and as structural materials in membranes, cell walls and the exoskeletons of many arthropods. Hydrates of carbon. All carbohydrates contain the elements carbon (C), hydrogen (H) and oxygen (O) `CHO` with the hydrogen and oxygen being present in a `H:O=2:1` ratio.
+
+</md></sn><sn><md>### Carbohydrates are usually defined as
+
+&gt; "`Polyhydroxy aldehydes or ketones`, or substances that hydrolyze to yield polyhydroxy aldehydes or ketones". (Or) Aldehyde or Ketone derivatives of polyhydroxy alcohols.
+
+Carbohydrates are aldehyde or ketone compounds with multiple `OH` hydroxyl groups.
+**General molecular formula:** $\text{C}_n(\text{H}_2\text{O})_n$
+
+The term —carbohydrate comes from the observation that `when you heat sugars`, you get `carbon and water` (hence, hydrate of carbon).
+</md></sn><sn><md>### Functions of carbohydrates
+
+Main sources of **ENERGY** in body (4 kcal/g)
+
+* `RBCs and Brain` cells have an absolute requirement of carbohydrates
+* `Storage form` of energy (starch and glycogen)
+* Excess carbohydrate is `converted to fat`
+* Glycoproteins and glycolipids are components of `cell membranes and receptors`
+* `Structural basis` of many organisms, e.g., 
+     ++Cellulose++ in `plants`, 
+     ++exoskeleton++ of `insects`, 
+     ++cell wall++ of `microbes`
+* `Muco-poly-saccharides` and ground substance in higher organisms
+[diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate.Sheet/assets/func_of_carbohydrate.jpeg)
+</md></sn><sn><md>#### Classification of Carbohydrates
+
+*They are classified according to the number of structural units into:*
+
+```text
+                           Carbohydrates
+                                │
+   ┌──────────────────┬─────────┴──────────────┬─────────────────┐
+   │                  │                        │                 │
+Monosaccharides    Disaccharides        Oligosaccharides   Polysaccharides
+ 1 sugar unit      2 sugar units           3-9 units            &gt;10
+ e.g., Glucose,    e.g., Sucrose        e.g., Maltotriose        │
+ fructose etc                                                    ├────────────────┐
+                                                                 │                │
+                                                           Homoglycans      Heteroglycans
+                                                           e.g., starch,    e.g., GAGs or
+                                                           glycogen         glycosaminoglycans
+
+```
+</md></sn>
