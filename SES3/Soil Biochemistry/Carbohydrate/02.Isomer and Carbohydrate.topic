@@ -16,7 +16,7 @@ We will discuss
     <tags>#02.isomer and carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 08:53:39 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 09:03:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iX5uxGhOqk</id>
     <duration></duration>
   </config>
@@ -29,4 +29,13 @@ We will discuss
   * **C1**: Not chiral (double-bonded to oxygen in the aldehyde group).
   * **C2, C3, C4, C5**: **Chiral carbons** (each attached to four unique atomic groups).
   * **C6**: Not chiral (bonded to two identical hydrogen atoms).
+</md></sn><sn><md>### Epimers and Epimerization
+
+* **Epimers**: Stereoisomers that differ in configuration `around only one specific chiral carbon` atom.
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/epimers_example.png)
+  * **D-Galactose vs. D-Glucose**: Differing configuration specifically at **C-4**.
+  * **D-Glucose vs. D-Mannose**: Differing configuration specifically at **C-2**.
+
+* **Epimerization**: The chemical process of `interconverting one epimer into another` (e.g., Glucose -&gt; Galactose or Glucose -&gt; Mannose).
+
 </md></sn>
