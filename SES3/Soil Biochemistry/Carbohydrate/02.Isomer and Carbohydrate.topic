@@ -16,7 +16,7 @@ We will discuss
     <tags>#02.isomer and carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 09:03:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 09:22:46 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iX5uxGhOqk</id>
     <duration></duration>
   </config>
@@ -38,4 +38,28 @@ We will discuss
 
 * **Epimerization**: The chemical process of `interconverting one epimer into another` (e.g., Glucose -&gt; Galactose or Glucose -&gt; Mannose).
 
+</md></sn><sn><md>### Enantiomers 
+
+D/L Sugar Notation
+
+* **Enantiomers**: A special class of stereoisomers that are non-superimposable `mirror images` of each other.
+
+* **D and L Designation**: Determined by the orientation of the $-OH$ group on the reference chiral carbon:
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/LandD_glucose_example.png)
+  * **D-Sugar**: $-OH$ group is positioned on the `right side`.
+  * **L-Sugar**: $-OH$ group is positioned on the `left side`.
+
+* **Optical Activity**:
+  * **Dextrorotatory $D$ or $+$**: Rotates plane-polarized `light to the `right (clockwise).
+  * **Levorotatory $L$ or $-$**: Rotates plane-polarized `light to the `left` (counter-clockwise).
+</md></sn><sn><md>#### Racemic Mixture 
+
+DL Mixture
+
+A **racemic mixture** is a ++solution++ containing `equal concentrations` (equimolar amounts) of both `D- and L-isomers`. 
+Because the opposite optical rotations cancel each other out, the overall mixture exhibits `no net optical activity`.
+</md></sn><sn><md>### Epimers vs. Enantiomers
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/epimers_vs_enantiomer.png)
+* **Epimers**: Differ `at only one chiral center`, while the rest of the molecule remains identical.
+* **Enantiomers**: Differ `at all chiral centers` because the entire molecules are mirror images of each other.
 </md></sn>
