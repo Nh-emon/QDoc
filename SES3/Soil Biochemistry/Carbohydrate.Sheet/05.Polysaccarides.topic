@@ -1,10 +1,113 @@
 
-  <sn></sn>
+  <sn><md>### Polysaccharides
+
+- Polysaccharides are large polymers of the monosaccharides(&gt;10). 
+- Unlike monosaccharides and disaccharides, polysaccharides are either `insoluble` or form `colloidal suspensions`. 
+- The polysaccharides found in nature either serve a `structural` function (**structural polysaccharides**) or play a role as a `stored form of energy` (**storage polysaccharides**).
+
+**Storage Polysaccharides** (Digestible Polysaccharides)
+
+The principal storage polysaccharides are `STARCH(P) AND GLYCOGEN(A)`. 
+Starch is a polymer of alpha glucose and is, in fact, a mixture of two different polysaccharides – `AMYLOSE AND AMYLOPECTIN`.
+</md></sn>
   <config>
     <tags>#05.polysaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 16:51:43 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 17:51:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-lVvFSqusrh</id>
     <duration></duration>
   </config>
+<sn><md>#### Starch
+
+The principal `food-reserve polysaccharide` in the plant kingdom is starch. It forms the major source of carbohydrate in the human diet. 
+- Starch has been found in some `protozoa, bacteria, and algae`. But the major source is `plants`, where it occurs in the `seeds, fruits, leaves, tubers, and bulbs` in varying amounts from a few percent to over `74%`. 
+- Starch is an `alpha-glucan` that has structurally distinct components called `amylose and amylopectin`. A third component referred to as the intermediate fraction has also been identified in some starches. 
+- Starch molecules are organized into **semicrystalline macromolecular aggregates** called `granules`. The shape of the granules are characteristics of the source of the starch. 
+- The two components, amylose and amylopectin, vary in amount among the different sources from less than **2%** of amylose in waxy rice or waxy maize to about **80%** amylose in amylomaize. The majority of starches contain  `15 to 35%` of amylose.
+
+[starch-food](https://spacgroup.com/wp-content/uploads/2024/12/Staerke_mit_Schale.webp)
+
+**Starch Classification Breakdown**
+
+```
+              ┌──&gt; AMYLOSE (long unbranched chain of glucose units)
+STARCH ───────┤
+              └──&gt; AMYLOPECTIN (highly branched polymer of glucose units)
+
+```
+</md></sn><sn><md>#### Amylose
+
+long unbranched chain of glucose units
+
+```bash
+               OH            OH            OH            OH
+               |             |             |             |
+        H──C───C───O     H──C───C───O  H──C───C───O  H──C───C───O
+          /     \ / \      /     \ / \   /     \ / \   /     \ / \
+        O        CH  O───O        CH  O─O       CH  O─O       CH  O
+         \      /          \      /       \     /       \     /
+          C────C            C────C         C───C         C───C
+         /      \          /      \       /     \       /     \
+      CH₂OH     OH      CH₂OH     OH   CH₂OH    OH   CH₂OH    OH
+
+        [ α-D-Glucose units connected via α(1→4) glycosidic bonds ]
+
+```
+
+**Structure / Description:**
+
+Amylose is formed by a *series of condensation reactions* that bond `alpha glucose molecules together into a long chain` forming many glycosidic bonds. Amylose is made up of **α-D-glucose units** linked mostly in a linear way by **α 1-4 linkages**.
+
+*Handwritten note:*
+
+* $\alpha$ - OH group on carbon-1 position points downward
+* $\beta$ - upward
+
+
+It has a molecular weight of `150,000 to 1,000,000` depending on its biological origin. It consists of a mixture of linear molecules with limited, long-chain branching involving `α 1-6 linkages`. Amylose gives a **characteristic blue color with iodine** due to the ability of the iodine to occupy a position in the interior of a helical coil of glucose units.
+
+</md></sn><sn><md>### Amylopectin
+
+Amylopectin consists of a **straight chain of alpha glucose units** with branch points occurring at approximately **every twelfth glucose unit** along the straight chain. The branch points form when **carbon 6** of a glucose molecule in the straight chain forms a glycosidic bond with **carbon 1** of a glucose molecule positioned above the chain.
+
+#### Chemical Structure Diagram
+
+```
+                 CH₂OH                       CH₂OH
+                 |                           |
+            HO───C───────O              HO───C───────O
+                / \     / \                 / \     / \
+               C   C───O   C               C   C───O   C─────── Branch point:
+              /     \     /               /     \     /         1 → 6 α-glycosidic bond
+             OH      C───C               OH      C───C
+                    /     \                     /     \
+                α-GLUCOSE                    CH₂
+                                              |
+      CH₂OH                       CH₂OH       C───────O
+      |                           |          / \     / \
+ HO───C───────O              HO───C───────O C   C───O   C───O───...
+     / \     / \                 / \     / /     \     /
+    C   C───O   C               C   C───O OH      C───C
+   /     \     /               /     \           /     \
+  OH      C───C               OH      C───C   α-GLUCOSE
+         /     \                     /     \
+     α-GLUCOSE                   α-GLUCOSE
+
+   └───────────────────── α(1→4) chain ─────────────────────────┘
+
+```
+
+This highly branched `amylopectin` molecule is `wrapped around the amylose` to make up the final starch molecule. This large **insoluble molecule** with ++branch points++ that allow for `easy access for enzymes` when breaking down the molecule, makes starch an ideal food storage compound.
+
+- Amylopectin is a `branched, water-insoluble` polymer comprised of `thousands of D-glucose residues`. 
+- It contains `94–96%` α 1-4 and `4–6% α 1-6 linkages`. 
+- The molecular weight of amylopectin is in the order of **$10^7 - 10^8$** (printed as 107 - 108). The amylopectin molecule is **100 - 150 Å** in diameter and **1200 - 4000 Å long**.
+</md></sn><sn><md>##### Reaction Between Starch and Iodine Solution
+
+**When iodine solution is added to a suspension of starch, the iodine molecules pack inside the amylose helix to give a blue-black colour.** 
+```
+Iodine+Starch = blue-black colour
+```
+**When iodine reacts with the starch in a piece of bread, the bread itself develops the blue-black colour.**
+N.B. Iodine is `sparingly soluble in water` – Iodine Solution is really iodine dissolved in an aqueous solution of Potassium Iodide.</md></sn>
