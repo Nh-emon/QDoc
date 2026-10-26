@@ -16,7 +16,7 @@ We will discuss
     <tags>#02.isomer and carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 09:33:53 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 12:01:16 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iX5uxGhOqk</id>
     <duration></duration>
   </config>
@@ -79,4 +79,34 @@ In *aqueous solution*, monosaccharides undergo ++internal++ reactions between th
 
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/pyran-furan.png)
 
+</md></sn><sn><md>### Anomers 
+
+$\alpha$ and $\beta$ Forms
+
+Upon ring closure, the carbonyl carbon becomes a new chiral center called the **anomeric carbon** (C1 in aldoses).
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/annomer_example.png)
+* **$\alpha$-Anomer**: The $-OH$ group on C1 points `downward` (below the plane of the ring).
+* **$\beta$-Anomer**: The $-OH$ group on C1 points `upward` (above the plane of the ring).
+</md></sn><sn><md>### Mutarotation
+
+**Mutarotation** is the change in specific optical rotation that results from the continuous interconversion between $\alpha$ and $\beta$ anomers of D-glucose through an open-chain intermediate until equilibrium is reached.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/mutarotation.png)
+
+* **Equilibrium Mixture Composition**:
+  * **$\beta$-Anomer**: ~63%
+  * **$\alpha$-Anomer**: ~36%
+  * **Open-Chain Form**: ~1%
+</md></sn><sn><md>### Tautomerization 
+
+Enolization
+
+* **Definition**: A chemical process involving the `shifting/migration of a hydrogen atom` from one carbon atom to another, producing an `intermediate enediol` (enol) structure.
+
+* **Conditions**: Occurs in `alkaline solutions` in sugars that possess an *anomeric carbon*.
+
+* **Mechanism**: The hydroxyl group (such as at C5) attacks the functional carbonyl carbon (C1), accompanied by hydrogen migration, facilitating enolization and cyclic interconversions.
+
+[teutomarization](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/teutomarization.jpeg)
 </md></sn>
