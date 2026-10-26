@@ -16,7 +16,7 @@ We will discuss
     <tags>#02.isomer and carbohydrate</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 09:22:46 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Oct 26 2026 09:33:53 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-iX5uxGhOqk</id>
     <duration></duration>
   </config>
@@ -62,4 +62,21 @@ Because the opposite optical rotations cancel each other out, the overall mixtur
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/epimers_vs_enantiomer.png)
 * **Epimers**: Differ `at only one chiral center`, while the rest of the molecule remains identical.
 * **Enantiomers**: Differ `at all chiral centers` because the entire molecules are mirror images of each other.
+</md></sn><sn><md>#### Diastereomers
+
+**Diastereomers** are stereoisomers that are **not mirror images** of each other.
+</md></sn><sn><md>### Cyclic Ring Formation
+
+Hemiacetals and Hemiketals
+
+In *aqueous solution*, monosaccharides undergo ++internal++ reactions between their `hydroxyl groups and functional groups` to form cyclic ring structures:
+
+* **Hemiacetal Formation**: Occurs when a hydroxyl group (e.g., at C5) reacts with an `aldehyde group` (at `C1`), creating a `6-membered` `pyranose ring` (e.g., in glucose).
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/D-glucose-projection.png) 
+
+* **Hemiketal Formation**: Occurs when a hydroxyl group reacts with a `ketone group` (e.g., at `C2`), creating a `5-membered` **furanose ring** (e.g., in fructose).
+  ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/D-fructose-projection.png)
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Carbohydrate/assets/pyran-furan.png)
+
 </md></sn>
