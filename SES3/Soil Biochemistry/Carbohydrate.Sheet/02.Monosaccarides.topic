@@ -17,7 +17,7 @@
     <tags>#02.monosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Oct 31 2026 19:25:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 19:50:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OTnf2ntkvm</id>
     <duration></duration>
   </config>
@@ -178,4 +178,16 @@ HO-C-H
 When an aldehyde or a ketone group is present in a molecule that also possesses hydroxyl groups, an intramolecular arrangement may occur to form a hemiacetal or a hemiketal, respectively. This intramolecular `hemiacetal or hemiketal` is the basis for the cyclic structure of the sugars. Hence, [Haworth](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1hbWA0pE7QGOCSDHLWF0p_iUxMf17NVZ3tswqAfXNYzeogv2PO1qn3Rp&amp;s=10) (an English chemist) proposed a cyclic hemiacetal structure that accounts completely for its chemical properties.
 
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/glucose_structure_diagram.jpeg)
-</md></sn><sn></sn>
+</md></sn><sn><md>### Hemiacetals or Hemiketals
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/hemicetal_hemiketal_reaction_diagram.png)
+
+An aldehyde or ketone can react with an alcohol in a 1:1 ratio to yield a hemiacetal or hemiketal, respectively, creating a new chiral center at the carbonyl carbon.
+
+Two types of ring structures are possible, the five-membered furanose and the six membered pyranose ring if the carbonyl group interact with hydroxyl group. These names are derived from the parent compounds 'furan' and 'pyran'. The most common ring structure for aldohexoses is the pyranose ring structure that involves the first carbonyl carbon and the hydroxyl group attached to the fifth carbon. The furanose ring structure is formed by interaction of carbonyl carbon with the hydroxyl group attached to the fourth carbon. This furanose form is less stable than the pyranose structure and is not very common among Aldohexose.
+
+
+</md></sn><sn><md>#### Cyclization Mechanism
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/cyclization_mechanism.jpeg)
+</md></sn>
