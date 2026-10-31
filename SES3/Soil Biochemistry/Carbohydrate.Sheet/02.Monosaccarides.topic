@@ -1,10 +1,55 @@
 
-  <sn></sn>
+  <sn><md>### CLASSIFICATION OF CARBOHYDRATES
+
+| Feature | Saccharides (Sugars) | Polysaccharides (Complex sugars) |
+| --- | --- | --- |
+| **Physical Properties** | • Low molecular weight<br>• Soluble in water<br>• Sweet to taste | • High molecular weight<br>• Insoluble in water<br>• Tasteless |
+| **Composition** | **Monosaccharides:** Simple sugars<br>**Disaccharides:** Double sugars | **Multiple sugars** |
+| **Diagrammatic Representation** | [Monosaccharide/Disaccharide representation] | [Polysaccharide representation] |
+| **General Formula** | $(CH_2O)_n$ (when $n = 3$ to $7$) | $C_x(H_2O)_n$ |
+| **Common Examples** | • Glyceraldehyde, Glucose, Fructose, Galactose, Ribose sugar *(Monosaccharides)*<br>• Maltose, Sucrose, Lactose *(Disaccharides)* | Starch, Glycogen, Cellulose, Lignin, Chitin |
+
+*Note on Disaccharides Formula:* $C_{12}H_{22}O_{11}$
+*Note on Structure:* The bond linking disaccharides/polysaccharides together is called a `Glycosidic bond`.
+
+</md></sn>
   <config>
     <tags>#02.monosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 16:50:51 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 18:57:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OTnf2ntkvm</id>
     <duration></duration>
   </config>
+<sn><md>#### MONOSACCHARIDES
+
+* **Definition:** They are the `simplest carbohydrate units` which cannot be `!hydrolysed` to a simpler form.
+* **Classification:** They are classified into:
+1. Simple monosaccharides
+2. Derived monosaccharides
+
+:::.row
+:::.col-12 .col-lg-6
+**Simple Monosaccharides:**
+Simple monosaccharides are sub-classified according to:
+
+1. The number of carbon atoms present in their molecule.
+2. The type of carbonyl group they contain.
+:::
+
+:::.col-12 .col-lg-6
+**Derived Monosaccharides:**
+Include derivatives of simple monosaccharides such as:
+
+* Oxidation products
+* Reduction products
+* Substitution products
+* Esters
+:::
+:::
+</md></sn><sn><md>#### Nomenclature
+
+According to the active group in the sugar:
+
+* **Aldose:** If the monosaccharide contains an aldehyde group ($-\text{CHO}$).
+* **Ketose:** If it contains a ketone group ($-\text{C}=\text{O}$).</md></sn>
