@@ -17,7 +17,7 @@
     <tags>#02.monosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Oct 31 2026 19:04:13 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 19:25:22 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OTnf2ntkvm</id>
     <duration></duration>
   </config>
@@ -95,4 +95,87 @@ Five Carbon (Pentoses)
 Six Carbon (Hexoses)
 - **Aldose:** D-Glucose
 - **Ketose:** D-Fructose
-- **Other Hexose Examples:** Glucose, Fructose, Galactose, Mannose</md></sn>
+- **Other Hexose Examples:** Glucose, Fructose, Galactose, Mannose</md></sn><sn><md>#### Derived Sugars Table
+
+**Derived**
+
+| Category | Carbon Atoms | Name | Notes / Function |
+| :--- | :--- | :--- | :--- |
+| **Deoxysugar** | 5 | 2-Deoxyribose | DNA |
+| **Aminosugar** | 6 | L-Rhamnose | Component of cell wall |
+| | 6 | D-Glucosamine | A major component of polysaccharide found in insects and crustaceans (chitin) |
+| **Polyol** | 6 | Sorbitol | Berries |
+| | 6 | Mannitol | Commercially prepared from mannose and fructose |
+| **Aldonic acid** | 6 | Gluconic acid | - |
+| **Uronic acid** | 6 | Glucuronic acid | Constituent of chondroitin sulfate |
+| | 6 | Galacturonic acid | Constituent of pectin |
+| **Aldaric acid (Saccharic acid)** | 6 | Glucaric acid | Oxidation product of glucose |
+| | 6 | Mucic acid | Oxidation product of galactose |
+</md></sn><sn><md>### GLUCOSE
+
+:::.row
+:::.col-12 .col-lg-8
+**Diagram Description:**
+A straight-chain representation of the glucose molecule showing carbon atoms numbered 1 through 6.
+*   **Carbon 1:** Has a double bond to Oxygen (C=O) and a single bond to Hydrogen (H). This is labeled the **ALDEHYDE GROUP**.
+*   **Carbon 2:** Has an -OH group and -H.
+*   **Carbon 3:** Has an -OH group (highlighted in red) and -H.
+*   **Carbon 4:** Has an -OH group and -H.
+*   **Carbon 5:** Has an -OH group and -H.
+*   **Carbon 6:** Has an -OH group and two -H atoms.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vPd4zxnv-1QQhYjkxJyUWJLkBLlnZCZsbq6Nc2XgZLS_yHHobYXU3Uwn&amp;s=10)
+:::
+:::
+</md></sn><sn><md>### MONOSACCHARIDE STRUCTURES
+
+The simplest monosaccharide that possesses a hydroxyl group and a carbonyl group is the aldotriose - glyceraldehyde. (Reference carbohydrates)
+
+:::.row
+:::.col-12 .col-lg-9
+&gt; The asymmetric carbon atom is the one to which `four different groups or atoms` are attached to it. The carbon atom is said to be asymmetric if four different groups or atoms are attached to it. The carbon is also called as a chiral center.
+
+Glyceraldehyde is considered as a reference compound and it exists in two optically active forms, D and L. A chiral object cannot be superimposed on its mirror image. A chiral carbon (Asymmetric carbon) is one that has four different groups attached to it.
+:::
+
+:::.col-12 .col-lg-3
+**Diagram:**
+```text
+      H
+      |
+HO - C - OH
+      |
+    CH2OH
+```
+:::
+:::
+
+#### Straght Chain
+
+**The straight-chain (open chain) structural formula**
+Aldohexose: an account for some of the properties of glucose, but cannot explain some Reaction
+D-glucose
+
+**Diagram:**
+```text
+   CHO
+   |
+ H-C-OH
+   |
+HO-C-H
+   |
+ H-C-OH
+   |
+ H-C-OH
+   |
+  CH2OH
+```
+
+#### Cyclic structure
+
+When an aldehyde or a ketone group is present in a molecule that also possesses hydroxyl groups, an intramolecular arrangement may occur to form a hemiacetal or a hemiketal, respectively. This intramolecular `hemiacetal or hemiketal` is the basis for the cyclic structure of the sugars. Hence, [Haworth](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1hbWA0pE7QGOCSDHLWF0p_iUxMf17NVZ3tswqAfXNYzeogv2PO1qn3Rp&amp;s=10) (an English chemist) proposed a cyclic hemiacetal structure that accounts completely for its chemical properties.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/glucose_structure_diagram.jpeg)
+</md></sn><sn></sn>
