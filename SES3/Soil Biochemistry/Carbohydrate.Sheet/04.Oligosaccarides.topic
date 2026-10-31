@@ -23,7 +23,7 @@ Maltose `GG` = Glucose + Glucose
     <tags>#04.oligosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Oct 26 2026 19:27:48 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 10:52:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-FB2dNfxfSg</id>
     <duration></duration>
   </config>
@@ -53,22 +53,93 @@ SUCROSE  = GLUCOSE + FRUCTOSE
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cwToobBRkMvfkNTxxYGb6qUlGb7-_HzQ_DuHoDnlDgJ3a1P4xJD8BK8&amp;s=10)
 
 +++ ...
-```
-       CH₂OH                                CH₂OH
-       |                                    |
-  OH───C───────O                       HO───C───────O
-      / \     / \                          / \     / \
-     C   C───O   C────O                   C   C───O   C───OH
-    /     \     / \    \                 /     \     /
-   H       C───C   H    \               H       C───C
-          /     \        \                     /     \
-         H       OH       C───────────────────C       H
-                          |                   |
-                     β-Galactose           Glucose
 
-                     [ α- and β-Lactose ]
+### ল্যাকটোজ (Lactose) কেন বিজারক শর্করা (Reducing Sugar)?
 
-```
+ল্যাকটোজ একটি বিজারক শর্করা (Reducing Sugar)। কেন এটি বিজারক শর্করা, তা বোঝার জন্য প্রথমে এর গঠন এবং রাসায়নিক বন্ধন বুঝতে হবে।
+
+#### ১. ল্যাকটোজ কী দিয়ে তৈরি?
+
+ল্যাকটোজ হলো একটি ডাইস্যাকারাইড (Disaccharide)। এটি দুটি মনোস্যাকারাইডের সমন্বয়ে গঠিত:
+
+- গ্লুকোজ (Glucose)
+- গ্যালাক্টোজ (Galactose)
+
+এই দুটি অণু একটি β-1,4 গ্লাইকোসাইডিক বন্ধন (β-1,4 Glycosidic Bond) দ্বারা যুক্ত থাকে।
+
+![Bioquímica: Carbohidratos](https://images.openai.com/static-rsc-4/wxmWCcTRA7M6E5fNavD8s_HP_d_cAa6AeJzgRVZ29_eKLr06ZGIaiIR88k8_R17bq34tJ9LPIQl3wio_4d6nnqml8xbP5A0VmJiRE-s0nZnkiueVbRPVM5to8d5V3fj9nhnuNBIrASO3Xnx62uxSzQ1cWPXL3HxRk4idEwkwfwk?purpose=inline)
+![ibcbioquimica.blogspot.com](https://ibcbioquimica.blogspot.com/2012/03/carbohidratos.html?utm_source=chatgpt.com)
+
+#### ২. ল্যাকটোজ কেন বিজারক শর্করা?
+
+এটি বোঝার জন্য আমাদের জানতে হবে, বিজারক শর্করা কাকে বলে।
+
+যেসব শর্করার অণুতে মুক্ত অ্যানোমেরিক কার্বন (Free Anomeric Carbon) থাকে এবং যা দ্রবণে মুক্ত অ্যালডিহাইড বা কিটোন গ্রুপ তৈরি করতে পারে, তাদের বিজারক শর্করা বলে।
+
+এখন ল্যাকটোজের ক্ষেত্রে বিষয়টি দেখি।
+
+ল্যাকটোজে দুটি মনোস্যাকারাইড আছে:
+
+1. গ্যালাক্টোজ
+2. গ্লুকোজ
+
+এদের মধ্যে β-1,4 গ্লাইকোসাইডিক বন্ধন তৈরি হওয়ার সময়:
+
+- গ্যালাক্টোজের অ্যানোমেরিক কার্বন (C1) বন্ধন তৈরিতে অংশগ্রহণ করে।
+- কিন্তু গ্লুকোজের অ্যানোমেরিক কার্বন (C1) বন্ধন তৈরিতে অংশগ্রহণ করে না।
+
+ফলে গ্লুকোজের অ্যানোমেরিক কার্বনটি মুক্ত অবস্থায় থেকে যায়।
+
+1[PPT - Glycobiology PowerPoint Presentation, free download - ID:8936501](https://images.openai.com/static-rsc-4/cjNuD8Ewh_6oFXU78pbXlnBzw5yD_0u9A-wkDkgsXxPzNaRdfzDrU-RYegpMds7_-exed08vbeHiXPYY26ALhS_XtfWvRsoM3fijqsxF1hTBBjieVvuZSy3yjaYfvn_f6KJX8WDJWlAXaxC_GAQk_UVirXhv5Oy8zlSvq8qVDEA?purpose=inline)
+![slideserve.com](https://www.slideserve.com/mbrock/glycobiology-powerpoint-ppt-presentation?utm_source=chatgpt.com)
+
+এই মুক্ত অ্যানোমেরিক কার্বনই ল্যাকটোজকে বিজারক শর্করায় পরিণত করে।
+
+#### ৩. মুক্ত অ্যানোমেরিক কার্বন কীভাবে বিজারণ ঘটায়?
+
+ল্যাকটোজের মুক্ত অ্যানোমেরিক কার্বনযুক্ত গ্লুকোজ অংশটি রিং আকার থেকে ওপেন-চেইন (Open-chain) আকারে পরিবর্তিত হতে পারে।
+
+এই ওপেন-চেইন অবস্থায় গ্লুকোজের অ্যালডিহাইড গ্রুপ (–CHO) তৈরি হয়।
+
+এই অ্যালডিহাইড গ্রুপ অন্য পদার্থকে বিজারিত করতে পারে।
+
+যেমন:
+
+- Benedict's reagent-কে বিজারিত করে Cu²⁺ থেকে Cu₂O তৈরি করতে পারে।
+- Fehling's solution-এর নীল Cu²⁺ আয়নকে ইটের মতো লাল Cu₂O অধঃক্ষেপে পরিণত করতে পারে।
+
+অর্থাৎ ল্যাকটোজ Benedict's test এবং Fehling's test-এ পজিটিভ ফলাফল দেয়।
+
+#### ৪. তাহলে সুক্রোজ কেন অবিজারক শর্করা?
+
+এবার ল্যাকটোজ ও সুক্রোজের পার্থক্য দেখো।
+
+![Reducing vs Non-reducing Sugar - GeeksforGeeks](https://images.openai.com/static-rsc-4/6UXpGlG7PedxcsmRhgAkCrkV2M-VEf-HLPbOY-tWPGItPOehoVr8h3xSS19CIPaCmqzN11Q5KTwfEYNue0tvQIUlklVbXxtFws4JmYRK3qPBsNCMyeHjmalZ3eBrKAg2gKtGRfVyu_YLt73fYqAlZldWiiOyEe7Oh8LCnlzaR14?purpose=inline)
+
+[geeksforgeeks.org](https://www.geeksforgeeks.org/biology/reducing-vs-non-reducing-sugar/?utm_source=chatgpt.com)
+
+| বৈশিষ্ট্য                | ল্যাকটোজ              | সুক্রোজ             |
+| ------------------------ | --------------------- | ------------------- |
+| গঠন                      | গ্লুকোজ + গ্যালাক্টোজ | গ্লুকোজ + ফ্রুক্টোজ |
+| গ্লাইকোসাইডিক বন্ধন      | β-1,4                 | α1↔β2               |
+| মুক্ত অ্যানোমেরিক কার্বন | ১টি                   | ০টি                 |
+| বিজারক শর্করা            | হ্যাঁ                 | না                  |
+
+মূল পার্থক্য:
+
+- ল্যাকটোজে একটি অ্যানোমেরিক কার্বন মুক্ত থাকে, তাই এটি বিজারক শর্করা।
+- সুক্রোজে উভয় মনোস্যাকারাইডের অ্যানোমেরিক কার্বন বন্ধনে অংশগ্রহণ করে, তাই কোনো মুক্ত অ্যানোমেরিক কার্বন থাকে না। এজন্য এটি অবিজারক শর্করা।
+
+##### পরীক্ষার জন্য সংক্ষিপ্ত উত্তর
+
+প্রশ্ন: ল্যাকটোজ কেন বিজারক শর্করা?
+
+উত্তর: ল্যাকটোজ গ্যালাক্টোজ ও গ্লুকোজের সমন্বয়ে গঠিত একটি ডাইস্যাকারাইড। এদের মধ্যে β-1,4 গ্লাইকোসাইডিক বন্ধন গঠিত হয়। এই বন্ধন গঠনের সময় গ্যালাক্টোজের অ্যানোমেরিক কার্বন অংশগ্রহণ করলেও গ্লুকোজের অ্যানোমেরিক কার্বন মুক্ত থাকে। ফলে ল্যাকটোজ রিং থেকে ওপেন-চেইন গঠনে পরিবর্তিত হয়ে মুক্ত অ্যালডিহাইড গ্রুপ তৈরি করতে পারে এবং অন্য পদার্থকে বিজারিত করতে পারে। তাই ল্যাকটোজ একটি বিজারক শর্করা (Reducing Sugar)।
+
+&gt; মনে রাখার সহজ নিয়ম
+&gt; মুক্ত অ্যানোমেরিক কার্বন থাকলে → সাধারণত Reducing Sugar।
+&gt; কোনো মুক্ত অ্যানোমেরিক কার্বন না থাকলে → Non-reducing Sugar।
+
 +++
 </md></sn><sn><md>### Maltose 
 
