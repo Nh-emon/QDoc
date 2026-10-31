@@ -23,7 +23,7 @@ Maltose `GG` = Glucose + Glucose
     <tags>#04.oligosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Oct 31 2026 16:21:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 16:27:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-FB2dNfxfSg</id>
     <duration></duration>
   </config>
@@ -83,57 +83,17 @@ Maltose is a disaccharide made up of **two glucose residues** joined by a **glyc
 
 `Sucrose = Glucose+Fructose`
 
-**Sucrose is formed when glucose forms a glycosidic bond with fructose.**
-
+Sucrose is formed when glucose forms a glycosidic bond with fructose.
 ![img](https://cdn1.byjus.com/wp-content/uploads/2019/03/structural-formula-of-sucrose.png)
 
 +++ ...
-
-Ring &amp; Fischer Projections of Sucrose
-
-```
-  Ring Structure:                            Fischer Projection (Fructose):
-      CH₂OH                                               H
-      |                                                   |
-  H───C────────O   H                                 H───C───O───H
-     / \      / \ /                                       |
-    C   C────O   C (1)                              (2) C ═ O  &lt;── The anomeric carbon
-   /     \      / \                                       |        atom for fructose is carbon 2
-  OH      C────C   O ─── Glycosidic                 H───O─C───H
-         /      \  |     bond                             |
-        H        OH|                                H───C───O───H
-                   |                                      |
-  CH₂OH            |                                H───C───O───H
-  |                |                                      |
-  C────────O       |                                H───C───O───H
- / \      / \      |                                      |
-C   C────O   C (2)─┘                                      H
- \ /      \ / \
-  C────────C   CH₂OH                                Fischer Projection (Glucose):
-  |        |                                        (1) C ═ O  &lt;── The anomeric carbon
-  HO       H                                              |        atom for glucose is carbon 1
-  [ SUCROSE ]                                       H───C───O───H
-                                                          |
-                                                    H───O─C───H
-                                                          |
-                                                    H───C───O───H
-                                                          |
-                                                    H───C───O───H
-                                                          |
-                                                    H───C───O───H
-                                                          |
-                                                          H
-
-```
-
+![img](https://biologydictionary.net/wp-content/uploads/2018/08/Sucrose-condensation.jpg)
 +++
 
 As both the anomeric carbon atoms are involved in forming the glycosidic bond when glucose and fructose join, there are no potentially free anomeric carbon atoms available to reduce Benedict's solution.
 
 
 ##### SUCROSE IS A NON-REDUCING SUGAR
-
----
 
 **Description &amp; Properties of Sucrose**
 
