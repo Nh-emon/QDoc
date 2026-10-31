@@ -17,7 +17,7 @@
     <tags>#02.monosaccarides</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sat Oct 31 2026 18:57:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sat Oct 31 2026 19:04:13 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-OTnf2ntkvm</id>
     <duration></duration>
   </config>
@@ -47,9 +47,52 @@ Include derivatives of simple monosaccharides such as:
 * Esters
 :::
 :::
-</md></sn><sn><md>#### Nomenclature
+
+
+#### Nomenclature
 
 According to the active group in the sugar:
 
 * **Aldose:** If the monosaccharide contains an aldehyde group ($-\text{CHO}$).
-* **Ketose:** If it contains a ketone group ($-\text{C}=\text{O}$).</md></sn>
+* **Ketose:** If it contains a ketone group ($-\text{C}=\text{O}$).</md></sn><sn><md>#### Classification According to the Number of Carbon Atoms ($n$)
+
+If a sugar contains a specific number of carbon atoms, it is named accordingly:
+
+- **3 Carbons:** Triose *(Example: Glyceraldehyde)*
+- **4 Carbons:** Tetrose *(Example: Erythrose)*
+- **5 Carbons:** Pentose *(Example: Ribose)*
+- **6 Carbons:** Hexose *(Examples: Glucose, Fructose)*
+- **7 Carbons:** Heptose
+
+#### Combination of the Two Methods (Aldose vs. Ketose)
+
+By combining the two classification methods (number of carbons + active group), we get the following categories:
+
+| Carbon Count | Aldose (Aldo-sugar) | Ketose (Keto-sugar) |
+| --- | --- | --- |
+| **3-Carbon** | 3c-Aldotriose | Ketotriose |
+| **4-Carbon** | 4c-Aldotetrose | Ketotetrose |
+| **5-Carbon** | 5c-Aldopentose | Ketopentose |
+| **6-Carbon** | 6c-Aldohexose | Ketohexose |
+
+
+#### Examples of Monosaccharide Structures by Carbon Number
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/monosaccharides_diff_structure_example.jpeg)
+
+Three Carbon (Trioses)
+- **Aldose:** D-Glyceraldehyde
+- **Ketose:** Dihydroxyacetone
+
+Four Carbon (Tetroses)
+- **Aldose:** D-Erythrose
+- **Ketose:** D-Erythrulose
+
+Five Carbon (Pentoses)
+- **Aldose:** D-Ribose, D-Xylose
+- **Ketose:** D-Ribulose, Xylulose
+
+Six Carbon (Hexoses)
+- **Aldose:** D-Glucose
+- **Ketose:** D-Fructose
+- **Other Hexose Examples:** Glucose, Fructose, Galactose, Mannose</md></sn>
