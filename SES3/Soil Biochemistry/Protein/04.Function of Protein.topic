@@ -75,7 +75,7 @@ There are **four layer** of protien structure
     <tags>#04.function of protein</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 19:52:54 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 21:45:01 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2R0YIZYQ8l</id>
     <duration></duration>
   </config>
@@ -96,6 +96,7 @@ There are **four layer** of protien structure
 
 :::.row
 :::.col-12 .col-lg-9
+* Polypedtide chain is linked by peditide bond as well as `H bond`.
 * Refers to local `folding or coiling` of the polypeptide backbone, stabilized by `hydrogen bonds` formed between ++nearby amino acids++.
 * **Two major forms:**
   * $\alpha$-Helix:** A `right-handed clockwise` coil common in structural proteins like ++keratin++ (found in hair and nails).
@@ -126,7 +127,7 @@ There are **four layer** of protien structure
 
 :::.row
 :::.col-12 .col-lg-8
-* The `spatial arrangement` and assembly of `two or more polypeptide chains (subunits)` forming a single functional protein complex.
+* Assembly or aggregation of `two or more polypeptide chains (subunits)` forming a single functional protein complex.
 * Held together by the `same non-covalent and covalent` interactions found in tertiary structures.
 * **Key Examples:**
   * **Hemoglobin:** Composed of **4 subunits** $2\alpha$ chains and $2\beta$ chains).
