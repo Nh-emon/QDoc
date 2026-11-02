@@ -1,8 +1,8 @@
 
   <sn><md>### Amino Acid
 +++ read
-
-* **Definition:** An amino acid is an organic compound containing both a basic **amino group $-NH_2$** and an acidic **carboxylic group $-COOH$**.
+* Structural `Unit` of Protein
+* **Definition:** An amino acid is an organic compound containing both a ++basic++ **amino group $-NH_2$** and an ++acidic++ **carboxylic group $-COOH$**.
 
 * **Basic Components:** Every standard amino acid contains 
    :::.row
@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 10:14:26 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 10:17:10 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
