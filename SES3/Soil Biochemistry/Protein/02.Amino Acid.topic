@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:54:07 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 10:14:26 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
@@ -133,4 +133,171 @@ Each amino acid (except `proline`) has:
     *   Structure: COOH top, H-C-NH₂ middle, CH₂OH bottom.
 *   *(A reversible reaction arrow is shown between the two structures).*
 
-</md></sn>
+</md></sn><sn><md>### **III- Nutritional Classification:**
+
+**1- Essential amino acids:**
+These amino acids `can't be formed in the body` and so, it is essential to be taken in diet. Their deficiency affects growth, health and protein synthesis.
+
+**2- Semi essential amino acids:**
+These are formed in the body but not `in sufficient amount` for body requirements especially in children.
+
+**Summary of essential and semi essential amino acids:**
+*Mnemonic:* **Villa HM = Ten Thousands Pound**
+
+*   **V** = valine
+*   **i** = isoleucine
+*   **l** = lysine
+*   **l** = leucine
+*   **A** = arginine*
+*   **H** = histidine*
+*   **M** = methionine
+*   **T** = tryptophan
+*   **Th** = threonine
+*   **P** = phenyl alanine
+
+*\* = arginine and histidine are semi essential*
+
+**3- Non essential amino acids:**
+These are the rest of amino acids that are `formed in the body` in amount enough for adults and children. They are the remaining 10 amino acids.
+
+---
+
+##### **IV- Metabolic classification:**
+According to `metabolic or degradation products` of amino acids they may be:
+
+**1- `Ketogenic` amino acids:**
+Which give `ketone` bodies. ++Lysine and Leucine++ are the only pure ketogenic amino acids.
+
+**2- Mixed ketogenic and glucogenic amino acids:**
+Which give `both ketone bodies and glucose`. These are: ++isoleucine, phenyl alanine, tyrosine and tryptophan++.
+
+**3- Glucogenic amino acids:**
+Which give `glucose`. They include the ++rest of amino acids++. These amino acids by catabolism yields products that enter in glycogen and glucose formation.
+
+---
+
+##### **Amphoteric properties of amino acids:**
+
+That is they `have both basic and acidic groups` and so can act as base or acid.
+
+++Neutral amino acids++ (monobasic, monocarboxylic) exist in aqueous solution as `Zwitter ion` i.e. contain both positive and negative charge. Zwitter ion is `electrically neutral` and `can't migrate into electric field`.
+
+**Isoelectric point (IEP)** = is the **pH** at which the `Zwitter ion is formed`. e.g. IEP of alanine is `6`.
+
+---
+
+#### **Chemical properties of amino acids:**
+
+**1- Reactions due to COOH group:**
+- Salt formation with alkalis, 
+- ester formation with alcohols, 
+- amide formation with amines and decarboxylation.
+
+**2- Reactions due to NH₂ group:**
+Deamination and reaction with `Ninhydrin reagent`.
+Ninhydrin reagent reacts with amino group of amino acid yielding [blue colored product]{.fg-blue}. The intensity of blue color indicates quantity of amino acids present. Ninhydrin can react with amino acid like `proline and hydroxy proline` but gives [yellow]{.fg-orange} colour.
+
+**3. Reaction due to side chain (R)**
+*   **a) Million reaction:** for ++Tyrosine++ it gives [red colour]{.fg-red}
+*   **b) Rosenheim reaction:** for tryptophan, it gives [violet ring]{.fg-violet}
+*   **c) Pauly reaction:** for imidazole ring of histidine, give yellow to reddish product
+*   **d) Sakaguchi test:** for guanido group of arginine and gives red colour
+*   **e) Lead sulphide test (sulfur test):** sulfur containing amino acid gives brown colour</md></sn><sn><md>**Amino acids can be classified in 4 ways:**
+1. Based on structure
+2. Based on the side chain characters
+3. Based on nutritional requirements
+4. Based on metabolic fate
+
+**Based On Structure**
+
++++ ...
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/amino_acid_classification_diagram1.jpeg)
++++
+
+**① Aliphatic amino acids**
+
+They are classified in three broad categories:
+
+**A- Monobasic, monocarboxylic amino acids** i.e. neutral or uncharged:
+*They are further subdivided in 5 groups:*
+
+*   **a. Simple amino acids** - example: glycine, alanine
+    *   *(Image shows structure of Glycine: H - CH - COO⁻ with NH₃⁺ attached to the central C)*
+*   **b. Branched chain amino acids** - e.g.: valine, leucine, isoleucine
+    *   *(Image shows structural formula for a branched-chain amino acid)*
+*   **c. Hydroxyl group containing amino acids** - e.g.: serine, threonine
+    *   *(Image shows structure of Serine: CH₂ - CH - COO⁻ with OH attached to one C and NH₃⁺ to the other)*
+*   **d. Sulphur containing amino acids** - e.g.: cysteine, cystine, methionine
+    *   *(Image shows structure of Cysteine: CH₂ - CH - COO⁻ with SH attached to one C and NH₃⁺ to the other)*
+*   **e. Amide group containing amino acids** - e.g.: asparagine, glutamine
+    *   *(Image shows structure of Asparagine: H₂N - C - CH₂ - CH - COO⁻ with an O double-bonded to the first C, and NH₃⁺ attached to the third C)*
+
+**B) Mono amino dicarboxylic acid**
+*   Example: aspartic acid, glutamic acid
+    *   *(Image shows structure of Aspartate (Asp, D))*
+    *   *(Image shows structure of Glutamate (Glu, E))*
+
+**C) Di/poly amino mono carboxylic acid**
+*   Example: lysine, arginine
+    *   *(Image shows structure of Arginine)*
+    *   *(Image shows structure of Lysine)*
+
+---
+
+**② Aromatic amino acids**
+*   Phenyl alanine and tyrosine
+    *   *(Image shows structure of Tyrosine)*
+    *   *(Image shows structure of Phenyl alanine)*</md></sn><sn><md><pre class="d-none data">+++ ...
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/amino_acid_polarity_diagram.jpeg)
++++</pre><temp><dl>
+<p><img src="https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/amino_acid_polarity_diagram.jpeg" alt="img"></p>
+</dl>
+</temp>++ ...
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/amino_acid_polarity_diagram.jpeg)
++++</md></sn><sn><md>#### QN :  Describe amino acid classification with one example in each group
+
+
+**On the basis of the composition of the side chain or R group**
+
+| Category | Description / Key Feature | Examples |
+| :--- | :--- | :--- |
+| **1) Simple amino acids** | No functional group in the side chain | Glycine, alanine |
+| **2) Hydroxy amino acids** | Contain a hydroxy group in their side chain | Serine, Threonine |
+| **3) S containing amino acids** | Possess a sulfur atom in the side chain | Methionine, Cystine |
+| **4) Acidic amino acids** | Have a carboxyl group in the side chain | Aspartic acid, glutamic acid |
+| **5) Amino acid amides** | Derivatives of acidic amino acids in which one of the carboxyl groups has been transformed into an amide group | Asparagine, Glutamine |
+| **6) Basic amino acids** | Possess an amino group in the side chain | Lysine, arginine |
+| **7) Heterocyclic amino acids** | Side chain is a ring which possesses at least one atom other than carbon | Tryptophan, Histidine |
+| **8) Aromatic amino acid** | Have a benzene ring in the side chain | Phenylalanine, Tyrosine |
+
+---
+
+**On the basis of number of amino and carboxylic group**
+
+| Category | Description | Examples |
+| :--- | :--- | :--- |
+| **1) Mono amino-mono carboxylic amino acid** | Contains one amino group and one carboxylic group | Glycine, alanine |
+| **2) Mono amino dicarboxylic amino acid** | Contains one amino group and two carboxylic groups | Aspartic acid, glutamic acid |
+| **3) Diamino mono carboxylic amino acid** | Contains two amino groups and one carboxylic group | Lysine, arginine |
+
+---
+
+**On the basis of the polarity of the side chain or R group**
+
+| Category | Description / Key Feature | Examples |
+| :--- | :--- | :--- |
+| **1) Amino acid with non-polar R group** | Includes five amino acids with aliphatic R groups, two with aromatic rings, and one S-containing amino acid. The R group is hydrocarbon in nature, hence hydrophobic. | Alanine, valine, leucine, isoleucine, Proline, Phenylalanine, Tryptophan, Methionine |
+| **2) Amino acids with polar but uncharged R group** | R groups are more soluble in water (hydrophilic). Polarity may be due to a hydroxyl group, a sulfide group, or an amide group. Includes 7 amino acids. | Glycine, serine, Threonine, tyrosine, cysteine, asparagines, glutamine |
+| **3) Amino acids with positively charged R groups** | Diamino mono carboxylic acids; their side chain contains an extra amino group which imparts basic properties to them. | Lysine, arginine, Histidine |
+
+---
+
+**On the basic of Nutrition**
+
+| Category | Count | Amino Acids | Notes |
+| :--- | :--- | :--- | :--- |
+| **Essential Amino Acids** | 10 | Lysine, Valine, Isoleucine, Threonine, Tryptophan, Histidine, Arginine, Leucine, Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
+| **Semi-Essential Amino Acids** | 2 | Arginine, Histidine | Required in higher amounts during specific developmental stages (e.g., infancy). |
+| **Non-Essential Amino Acids** | 10 | Alanine, Glycine, Cysteine, Asparagine, Glutamine, Tyrosine, Proline, Glutamic acid, Aspartic acid, Serine | Can be synthesized by the body; dietary intake is not mandatory. |
+
+*Note: Arginine and Histidine appear in both the Essential and Semi-Essential categories depending on the classification system used.*</md></sn>
