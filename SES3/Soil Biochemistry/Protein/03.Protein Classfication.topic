@@ -59,7 +59,174 @@ Proteins are classified into the following types based on their functions:
     <tags>#03.protein classfication</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 15:53:27 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 16:21:06 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kEdfZG34D1</id>
     <duration></duration>
   </config>
+<sn><md>#### **Function**
+*   Structural
+*   Enzyme or catalytic
+*   Transport
+*   Hormonal
+*   Contractile
+*   Storage
+*   Genetic
+*   Defence
+*   Receptor
+
+#### **Nutritional Importance**
+*   Complete
+*   partially incomplete
+*   Incomplete
+
+</md></sn><sn><md>### Classification of proteins according to their solubility and composition
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/classification_of_protiens.jpeg)
+</md></sn><sn><md>### Simple Proteins
+
+Definition: On ++hydrolysis++, they `produce only amino acids`.
+
+Examples: Albumins, Globulins, Prolamins, Glutelins, Histones, Protamines and Albuminoids.
+
+1. Albumins
+
+    - `Soluble in water`, dilute acids and alkalies.
+    - `Coagulated by heat`.
+    - Deficient in `glycine`.
+    - `Precipitated` by `high salt concentration` (salting out).
+    - Examples: Serum albumin, Ovalbumin (++egg white++).
+
+2.Globulins
+
+    - `Insoluble` or slightly soluble in water.
+    - Solubility increases with `neutral salts`.
+    - Coagulated by `heat`.
+    - Deficient in `methionine`.
+    - Examples: Serum globulin, Fibrinogen, `Myosin`.
+
+3.Prolamins
+
+    - `Insoluble` in water but soluble in `70–80% alcohol`.
+    - Rich in *proline*.
+    - Deficient in `lysine`.
+    - Examples: Gliadin (`wheat`), Zein (corn).
+
+4. Glutelins
+
+    - `Insoluble` in water and `absolute alcohol`.
+    - Soluble in dilute acids and alkalies.
+    - Examples: `Glutenin` (wheat).
+
+5. Histones
+
+    - `Small`, stable and basic proteins.
+    - Rich in *histidine*.
+    - `Soluble` in water.
+    - Not easily `!coagulated` by heat.
+    - Found in `nucleoproteins`.
+
+6. Protamines
+
+    - `Simplest` and basic proteins.
+    - Rich in *arginine*.
+    - Soluble in `water`.
+    - Not coagulated by `!!heat`.
+    - Found in `fish sperm` cells.
+    - Usually lack *tyrosine and tryptophan*.
+
+7. Albuminoids (Scleroproteins)
+
+    - Fibrous and `insoluble` in water and salt solutions.
+    - Highly stable and `resistant to enzymes`.
+    - Form supporting `structures of animals`.
+    - Examples: `Hair, nails, horns`.
+
+| Protein     | Remember in one line                              |
+| ----------- | ------------------------------------------------- |
+| Albumins    | Water soluble + Glycine deficient                 |
+| Globulins   | Salt soluble + Methionine deficient               |
+| Prolamins   | Alcohol soluble + Proline rich + Lysine deficient |
+| Glutelins   | Acid/alkali soluble                               |
+| Histones    | Histidine rich                                    |
+| Protamines  | Arginine rich + Fish sperm                        |
+| Albuminoids | Fibrous + Hair, nails, horns                      |
+
+Memory trick for solubility:
+
+- Albumins → Water
+- Globulins → Salt
+- Prolamins → Alcohol
+- Glutelins → Acid &amp; Alkali
+- Histones → Water
+- Protamines → Water
+- Albuminoids → Insoluble
+</md></sn><sn><md>### Conjugated or Compound Proteins
+
+Definition: Simple proteins +  combined with ++non-protein substances++ called `prosthetic groups`.
+
+Six types:
+
+1\. Phosphoproteins: Protein + `Phosphate`. Examples: `Casein` (milk), Vitellin (egg yolk).
+2\. Lipoproteins: Protein + `Lipid`. Functions: **Lipid transport** in blood and cell membrane formation.
+3\. Glycoproteins: Protein + `Carbohydrate`. Examples: `Mucin`, Erythropoietin.
+4\. Nucleoproteins: Protein + `Nucleic acid` (DNA/RNA). Examples: `Chromosomes, Ribosomes`.
+5\. Chromoproteins: Protein + `Coloured group`. Examples: `Haemoglobin, Cytochromes`.
+6\. Metalloproteins: Protein + `Metal ions`. Examples: Iron (Fe), Zinc (Zn), Copper (Cu).
+</md></sn><sn><md>### Derived Proteins
+
+Definition: ++Denatured or degraded++ `products of simple or conjugated proteins` by acids, alkalies or enzymes.
+Two types:
+
+:::.row
+:::.col-12 .col-lg-6
+#### A. Primary Derived Proteins
+
+Formed by `denaturation or initial hydrolysis`.
+
+1. Coagulated proteins: Produced by `heat, acids and alkalies`.
+2. *Proteans*: `Earliest products` of protein hydrolysis.
+3. *Metaproteins*: Formed by `further treatment` with slightly stronger acids or alkalies; insoluble in water.
+:::
+
+:::.col-12 .col-lg-6
+#### B. Secondary Derived Proteins
+
+Formed by further hydrolysis of proteins.
+
+1. ++Proteoses++: Formed by partial hydrolysis of `proteins`.
+2. ++Peptones++: Formed by further hydrolysis of `proteoses`; **soluble in water**.
+3. ++Peptides++: Formed by further hydrolysis of `peptones`.
+4. ++Amino acids++: `Final products` of hydrolysis.
+
+Hydrolysis Sequence (Important for Exam)
+:::
+:::
+
+**Hydrolysis Sequence:**
+
+```bash
+Protein → Protean → Metaprotein → Proteoses → Peptones → Peptides → amino acids
+```
+</md></sn><sn><md>#### Quick Revision Table
+
+| Type            | Remember this key point |
+| --------------- | ----------------------- |
+| Albumins        | Water soluble           |
+| Globulins       | Salt soluble            |
+| Prolamins       | Alcohol soluble         |
+| Glutelins       | Acid/alkali soluble     |
+| Histones        | Rich in histidine       |
+| Protamines      | Rich in arginine        |
+| Albuminoids     | Fibrous, insoluble      |
+| Phosphoproteins | Phosphate               |
+| Lipoproteins    | Lipid                   |
+| Glycoproteins   | Carbohydrate            |
+| Nucleoproteins  | DNA/RNA                 |
+| Chromoproteins  | Coloured group          |
+| Metalloproteins | Metal ions              |
+
+Exam tip: Remember the six conjugated proteins by their combinations:
+
+P – L – G – N – C – M
+
+Phosphate, Lipid, Glycoprotein, Nucleic acid, Chromoprotein, Metal.</md></sn>
