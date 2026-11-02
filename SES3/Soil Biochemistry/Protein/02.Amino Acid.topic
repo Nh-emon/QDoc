@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 10:17:10 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 10:26:12 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
@@ -40,7 +40,7 @@
 
 | Category | Count | Amino Acids | Notes |
 | :--- | :--- | :--- | :--- |
-| **Essential Amino Acids** | 10 | Lysine, Valine, Isoleucine, Threonine, Tryptophan, Histidine, Arginine, Leucine, Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
+| **Essential Amino Acids** | 10 | Lysine,leucine,Isoleucine<br> Valine,histidine,Arginine<br>Threonine, Tryptophan<br> Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
 | **Semi-Essential Amino Acids** | 2 | Arginine, Histidine | Required in higher amounts during specific developmental stages (e.g., infancy). |
 | **Non-Essential Amino Acids** | 10 | Alanine, Glycine, Cysteine, Asparagine, Glutamine, Tyrosine, Proline, Glutamic acid, Aspartic acid, Serine | Can be synthesized by the body; dietary intake is not mandatory. |
 
