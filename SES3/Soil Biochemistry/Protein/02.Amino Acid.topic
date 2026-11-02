@@ -1,10 +1,50 @@
 
-  <sn></sn>
+  <sn><md>### Amino Acid
++++ read
+
+* **Definition:** An amino acid is an organic compound containing both a basic **amino group $-NH_2$** and an acidic **carboxylic group $-COOH$**.
+
+* **Basic Components:** Every standard amino acid contains 
+   :::.row
+   :::.col-12 .col-lg-8
+   - an $\alpha$-carbon attached to an amino group, 
+   - a carboxylic acid group, 
+   - a hydrogen atom, and 
+   - a variable side chain represented as the **$R$ group**.
+   :::
+
+   :::.col-12 .col-lg-4
+   ![img](https://bio.libretexts.org/@api/deki/files/8209/aminoacid.png?revision=1&amp;size=bestfit&amp;width=550&amp;height=543)
+   :::
+   :::
+
+* **Standard Amino Acids:** Although over *300 amino acids* exist in nature, `20 standard amino acids` form proteins.
+
+* **Zwitterion:** In ++aqueous environments++, amino acids exist in a stable dipolar form called a `zwitterion`. 
+
+   In this state, the amino group accepts a proton $-NH_3^+$ while the carboxyl group donates a proton $-COO^-$, making the molecule `overall electrically neutral` despite possessing both positive and negative charges.
+   ![img](https://sciencequery.com/wp-content/uploads/2021/06/zwitterion.png)
+
++++</md></sn>
   <config>
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:21:19 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 09:25:23 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
+<sn><md>### Amino Acid Classification
+
++++ read
+
+| Category | Count | Amino Acids | Notes |
+| :--- | :--- | :--- | :--- |
+| **Essential Amino Acids** | 10 | Lysine, Valine, Isoleucine, Threonine, Tryptophan, Histidine, Arginine, Leucine, Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
+| **Semi-Essential Amino Acids** | 2 | Arginine, Histidine | Required in higher amounts during specific developmental stages (e.g., infancy). |
+| **Non-Essential Amino Acids** | 10 | Alanine, Glycine, Cysteine, Asparagine, Glutamine, Tyrosine, Proline, Glutamic acid, Aspartic acid, Serine | Can be synthesized by the body; dietary intake is not mandatory. |
+
+*Note: Arginine and Histidine appear in both the Essential and Semi-Essential categories depending on the classification system used.*
+
+
++++</md></sn>
