@@ -1,10 +1,67 @@
 
-  <sn></sn>
+  <sn><md>### Protein
+
+:::.row
+:::.col-12 .col-lg-9
+* **Origin of the Word:** The term **protein** originates from the Greek word `Proteos`, which means **"prime"** or ++most important++.
+* **Biological Importance:** Proteins are `essential` for almost every function in living organisms, including 
+   - building cell structures, 
+   - driving enzymatic reactions (enzymes are made of protein), 
+   - mounting immune responses (via antibodies), and 
+   - transmitting signals.
+* **Definition:** A protein is a `complex macromolecule` (or biomolecule) composed of one or more `long chains of amino acids` linked together by `peptide bonds`.
+* **Alpha Amino Acids:** Proteins are built specifically from **$\alpha$-amino acids**, where the central carbon $\alpha$-carbon) is bonded to `four distinct functional groups`.
+:::
+
+:::.col-12 .col-lg-3
+![img](https://bio.libretexts.org/@api/deki/files/8209/aminoacid.png?revision=1&amp;size=bestfit&amp;width=550&amp;height=543)
+:::
+:::
+</md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 06:01:15 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 06:18:37 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kqF8ZvpPOj</id>
     <duration></duration>
   </config>
+<sn><md>### Elemental Composition of Proteins
+
+Proteins are composed of **five major elements**: `CHONS`
+
+| Element | Percentage Range |
+| :--- | :--- |
+| **Carbon** | 50–55% |
+| **Hydrogen** | 6–7.3% |
+| **Oxygen** | 19–24% |
+| **Nitrogen** | 13–19% |
+| **Sulfur** | 0–4% |
+
+In addition to these five core elements, some proteins may also contain trace elements such as **phosphorus, iron, copper, iodine, magnesium, manganese, or zinc**.
+
+</md></sn><sn><md>### Amino Acid
+
+* **Definition:** An amino acid is an organic compound containing both a basic **amino group $-NH_2$** and an acidic **carboxylic group $-COOH$**.
+
+* **Basic Components:** Every standard amino acid contains 
+   :::.row
+   :::.col-12 .col-lg-8
+   - an $\alpha$-carbon attached to an amino group, 
+   - a carboxylic acid group, 
+   - a hydrogen atom, and 
+   - a variable side chain represented as the **$R$ group**.
+   :::
+
+   :::.col-12 .col-lg-4
+   ![img](https://bio.libretexts.org/@api/deki/files/8209/aminoacid.png?revision=1&amp;size=bestfit&amp;width=550&amp;height=543)
+   :::
+   :::
+
+* **Standard Amino Acids:** Although over *300 amino acids* exist in nature, `20 standard amino acids` form proteins.
+
+* **Zwitterion:** In ++aqueous environments++, amino acids exist in a stable dipolar form called a `zwitterion`. 
+
+   In this state, the amino group accepts a proton $-NH_3^+$ while the carboxyl group donates a proton $-COO^-$, making the molecule `overall electrically neutral` despite possessing both positive and negative charges.
+   ![img](https://sciencequery.com/wp-content/uploads/2021/06/zwitterion.png)
+</md></sn>
