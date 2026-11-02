@@ -22,7 +22,7 @@
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 13:14:45 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 13:17:17 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kqF8ZvpPOj</id>
     <duration></duration>
   </config>
@@ -40,40 +40,44 @@ Proteins are composed of **five major elements**: `CHONS`
 
 In addition to these five core elements, some proteins may also contain trace elements such as **phosphorus, iron, copper, iodine, magnesium, manganese, or zinc**.
 
-</md></sn><sn><md>### Amino Acid
+</md></sn><sn><md>**PROTEINS**
 
-* **Definition:** An amino acid is an organic compound containing both a basic **amino group $-NH_2$** and an acidic **carboxylic group $-COOH$**.
+The word "Protein" was coined by J.J. Berzelius in 1838 and was derived from the Greek word "Proteios" meaning the 'first rank'.
 
-* **Basic Components:** Every standard amino acid contains 
-   :::.row
-   :::.col-12 .col-lg-8
-   - an $\alpha$-carbon attached to an amino group, 
-   - a carboxylic acid group, 
-   - a hydrogen atom, and 
-   - a variable side chain represented as the **$R$ group**.
-   :::
+**Introduction:**
+*   Most `abundant organic molecules` of the living system
+*   Its fundamental basis of structures and function of life.
+*   `50 %` of dry weight of every cell
+*   It's a polymer of` L α-amino acids`.
+*   300 different amino acids occur in nature –only 20 as standard amino acids.
+*   21st amino acid added - `Seleno cysteine`
 
-   :::.col-12 .col-lg-4
-   ![img](https://bio.libretexts.org/@api/deki/files/8209/aminoacid.png?revision=1&amp;size=bestfit&amp;width=550&amp;height=543)
-   :::
-   :::
+**Definition**
+Proteins are organic complex nitrogenous compounds of high molecular weight, formed of C, H, O, N [N= 16%].
+They are formed of a number of amino acids linked together by `peptide linkage` [-CO-NH-]. The carboxylic group of the first amino acid units with the amino group of the second amino acid and so on.
 
-* **Standard Amino Acids:** Although over *300 amino acids* exist in nature, `20 standard amino acids` form proteins.
+**General Properties of Proteins**
+*   Proteins are substances of high molecular weight.
+*   Proteins form colloidal solution and having its same properties as: Tyndall effect &amp; Brownian movement
+*   Proteins are non-dialyzable due to their large molecules.
+*   Proteins are amphoteric which liable to react with acid and alkali.
+*   Each protein has its own isoelectric point.
+*   Protein acts as a buffer solution which resists the change of its pH by addition of acid or alkali.
+*   Denaturation
 
-* **Zwitterion:** In ++aqueous environments++, amino acids exist in a stable dipolar form called a `zwitterion`. 
+**Biological Importance of Proteins**
+*   They provide the body with nitrogen, sulfur, and some vitamins.
+*   Formation of enzymes and protein hormones.
+*   Formation of supporting structures in the body as bone, cartilage, skin, nails, hair and muscles.
+*   They enter in the formation of buffer system of the blood.
+*   They enter in the formation of haemoglobin
+*   They include plasma proteins, which carry hormones, minerals and lipids (in the form of lipoprotein complex).
+*   They enter in formation of antibodies (immunoglobulins
 
-   In this state, the amino group accepts a proton $-NH_3^+$ while the carboxyl group donates a proton $-COO^-$, making the molecule `overall electrically neutral` despite possessing both positive and negative charges.
-   ![img](https://sciencequery.com/wp-content/uploads/2021/06/zwitterion.png)
-</md></sn><sn><md>### Amino Acid Classification
-
-| Category | Count | Amino Acids | Notes |
-| :--- | :--- | :--- | :--- |
-| **Essential Amino Acids** | 10 | Lysine, Valine, Isoleucine, Threonine, Tryptophan, Histidine, Arginine, Leucine, Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
-| **Semi-Essential Amino Acids** | 2 | Arginine, Histidine | Required in higher amounts during specific developmental stages (e.g., infancy). |
-| **Non-Essential Amino Acids** | 10 | Alanine, Glycine, Cysteine, Asparagine, Glutamine, Tyrosine, Proline, Glutamic acid, Aspartic acid, Serine | Can be synthesized by the body; dietary intake is not mandatory. |
-
-*Note: Arginine and Histidine appear in both the Essential and Semi-Essential categories depending on the classification system used.*
-</md></sn><sn><md>Four Hierarchical Levels of 
+**CLASSIFICATION OF PROTEINS**
+Proteins are classified on the basis of
+– Chemical nature and solubility
+    *   Simple • Conjugates • Derived</md></sn><sn><md>Four Hierarchical Levels of 
 ####  **Protein Structure**
 Protein structures are complex and organized into `four hierarchical levels`:
 
@@ -137,6 +141,20 @@ Protein structures are complex and organized into `four hierarchical levels`:
 
 
 
+</md></sn><sn><md>**Properties of Protein**
+**Physical**
+*   Pure proteins are generally tasteless, though the predominant taste of protein hydrolysates is bitter.
+*   Pure proteins are odourless.
+*   Because of the large size of the molecules, proteins exhibit many properties that are colloidal in nature.
+*   Proteins, like amino acids, are amphoteric and contain both acidic and basic groups.
+*   They possess electrically charged groups and hence migrate in an electric field.
+*   Many proteins are labile and readily modified by alterations in pH, UV radiation, heat and by many organic solvents
+*   The absorption spectrum of protein is maximum at 280 nm due to the presence of tyrosine and tryptophan, which are the strongest chromophores in that region
+
+**Denaturation of Protein**
+*   The comparatively weak forces responsible for maintaining secondary, tertiary and quaternary structure of proteins are readily disrupted with resulting loss of biological activity.
+*   This disruption of native structure is termed denaturation
+*   it is a change in native state (physical, chemical, and biological properties) of proteins without destruction of their peptide linkages, but destruction of secondary bonds leading to unfolding protein molecule
 </md></sn><sn><md>#### Proteins
 
 **functions**
@@ -617,59 +635,4 @@ Amino acid + Amino acid → Dipeptide + H₂O.
 | 9   | Salt formation         | Forms salts with acids and bases      |
 | 10  | Peptide bond formation | Amino acids join together             |
 
-</md></sn><sn><md>**Properties of Protein**
-**Physical**
-*   Pure proteins are generally tasteless, though the predominant taste of protein hydrolysates is bitter.
-*   Pure proteins are odourless.
-*   Because of the large size of the molecules, proteins exhibit many properties that are colloidal in nature.
-*   Proteins, like amino acids, are amphoteric and contain both acidic and basic groups.
-*   They possess electrically charged groups and hence migrate in an electric field.
-*   Many proteins are labile and readily modified by alterations in pH, UV radiation, heat and by many organic solvents
-*   The absorption spectrum of protein is maximum at 280 nm due to the presence of tyrosine and tryptophan, which are the strongest chromophores in that region
-
-**Denaturation of Protein**
-*   The comparatively weak forces responsible for maintaining secondary, tertiary and quaternary structure of proteins are readily disrupted with resulting loss of biological activity.
-*   This disruption of native structure is termed denaturation
-*   it is a change in native state (physical, chemical, and biological properties) of proteins without destruction of their peptide linkages, but destruction of secondary bonds leading to unfolding protein molecule
-</md></sn><sn><md>Based on the fourth image provided, here is the text content arranged in a readable format:
-
-***
-
-**PROTEINS**
-
-The word "Protein" was coined by J.J. Berzelius in 1838 and was derived from the Greek word "Proteios" meaning the 'first rank'.
-
-**Introduction:**
-*   Most abundant organic molecules of the living system
-*   Its fundamental basis of structures and function of life.
-*   50 % of dry weight of every cell
-*   It's a polymer of L α-amino acids.
-*   300 different amino acids occur in nature –only 20 as standard amino acids.
-*   21st amino acid added - Seleno cysteine
-
-**Definition**
-Proteins are organic complex nitrogenous compounds of high molecular weight, formed of C, H, O, N [N= 16%].
-They are formed of a number of amino acids linked together by peptide linkage [-CO-NH-]. The carboxylic group of the first amino acid units with the amino group of the second amino acid and so on.
-
-**General Properties of Proteins**
-*   Proteins are substances of high molecular weight.
-*   Proteins form colloidal solution and having its same properties as: Tyndall effect &amp; Brownian movement
-*   Proteins are non-dialyzable due to their large molecules.
-*   Proteins are amphoteric which liable to react with acid and alkali.
-*   Each protein has its own isoelectric point.
-*   Protein acts as a buffer solution which resists the change of its pH by addition of acid or alkali.
-*   Denaturation
-
-**Biological Importance of Proteins**
-*   They provide the body with nitrogen, sulfur, and some vitamins.
-*   Formation of enzymes and protein hormones.
-*   Formation of supporting structures in the body as bone, cartilage, skin, nails, hair and muscles.
-*   They enter in the formation of buffer system of the blood.
-*   They enter in the formation of haemoglobin
-*   They include plasma proteins, which carry hormones, minerals and lipids (in the form of lipoprotein complex).
-*   They enter in formation of antibodies (immunoglobulins
-
-**CLASSIFICATION OF PROTEINS**
-Proteins are classified on the basis of
-– Chemical nature and solubility
-    *   Simple • Conjugates • Derived</md></sn>
+</md></sn>
