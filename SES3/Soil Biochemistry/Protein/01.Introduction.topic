@@ -22,7 +22,7 @@
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 06:18:37 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 06:36:08 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kqF8ZvpPOj</id>
     <duration></duration>
   </config>
@@ -64,4 +64,77 @@ In addition to these five core elements, some proteins may also contain trace el
 
    In this state, the amino group accepts a proton $-NH_3^+$ while the carboxyl group donates a proton $-COO^-$, making the molecule `overall electrically neutral` despite possessing both positive and negative charges.
    ![img](https://sciencequery.com/wp-content/uploads/2021/06/zwitterion.png)
+</md></sn><sn><md>### Amino Acid Classification
+
+| Category | Count | Amino Acids | Notes |
+| :--- | :--- | :--- | :--- |
+| **Essential Amino Acids** | 10 | Lysine, Valine, Isoleucine, Threonine, Tryptophan, Histidine, Arginine, Leucine, Methionine, Phenylalanine | Cannot be synthesized by the body; must be obtained through diet. Mnemonic: **L VITTAL MP** |
+| **Semi-Essential Amino Acids** | 2 | Arginine, Histidine | Required in higher amounts during specific developmental stages (e.g., infancy). |
+| **Non-Essential Amino Acids** | 10 | Alanine, Glycine, Cysteine, Asparagine, Glutamine, Tyrosine, Proline, Glutamic acid, Aspartic acid, Serine | Can be synthesized by the body; dietary intake is not mandatory. |
+
+*Note: Arginine and Histidine appear in both the Essential and Semi-Essential categories depending on the classification system used.*
+</md></sn><sn><md>Four Hierarchical Levels of 
+####  **Protein Structure**
+Protein structures are complex and organized into `four hierarchical levels`:
+
+#### Primary Structure $1^\circ$:
+
+:::.row
+:::.col-12 .col-lg-8
+* Represents the `linear sequence of amino acids` connected by ++peptide bonds++ within a *polypeptide chain*.
+* It possesses an `N-terminus` (amino end) and a `C-terminus` (carboxyl end).
+* The `precise sequence` dictates the **identity and function** of the protein; altering even a single amino acid can change the entire protein's function.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9gvxB00rlUeVCrIYZnue-YR8wkP7Fq7DMz_2X2YoscC2jnWI7M8osBRb&amp;s=10)
+:::
+:::
+</md></sn><sn><md>### **Secondary Structure $2^\circ$:**
+
+:::.row
+:::.col-12 .col-lg-9
+* Refers to local `folding or coiling` of the polypeptide backbone, stabilized by `hydrogen bonds` formed between ++nearby amino acids++.
+* **Two major forms:**
+  * $\alpha$-Helix:** A `right-handed clockwise` coil common in structural proteins like ++keratin++ (found in hair and nails).
+  * $\beta$-Pleated Sheet:** Polypeptide chains `running side-by-side in parallel` or anti-parallel orientations, joined by `hydrogen bonds` (found in silk protein, **fibroin**).
+:::
+
+:::.col-12 .col-lg-3
+![img](https://microbenotes.com/wp-content/uploads/2023/10/Secondary-Structure-of-Protein.jpeg)
+:::
+:::
+</md></sn><sn><md>### Tertiary Structure $3^\circ$
+
+:::.row
+:::.col-12 .col-lg-8
+* The overall **three-dimensional (3D) shape** of a single polypeptide chain formed by `folding and bending`.
+* Determined by `interactions between the R` side chains.
+* Governs the `biological activity` of the protein and determines whether it is `fibrous or globular`.
+* **Bonds involved:** 
+ Hydrogen bonds, ionic bonds, disulfide bridges, hydrophobic interactions, and Van der Waals forces.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://studymind.co.uk/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-12.52.48-PM.png)
+:::
+:::
+</md></sn><sn><md>#### Quaternary Structure $4^\circ$
+
+:::.row
+:::.col-12 .col-lg-8
+* The `spatial arrangement` and assembly of `two or more polypeptide chains (subunits)` forming a single functional protein complex.
+* Held together by the `same non-covalent and covalent` interactions found in tertiary structures.
+* **Key Examples:**
+  * **Hemoglobin:** Composed of **4 subunits** $2\alpha$ chains and $2\beta$ chains).
+  * **Insulin:** Composed of **2 subunits** (A and B chains) linked by disulfide bridges.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://themedicalbiochemistrypage.org/wp-content/uploads/2020/04/hemoglobin.jpg)
+:::
+:::
+
+
+
 </md></sn>
