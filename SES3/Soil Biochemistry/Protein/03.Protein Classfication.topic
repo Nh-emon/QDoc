@@ -1,10 +1,65 @@
 
-  <sn></sn>
+  <sn><md>#### Based on function
+
+Proteins perform various important functions, including growth, repair, transport, protection, movement, and regulation of body activities.
+
++++ summary
+
+::: .box .border
+
+Proteins are classified into the following types based on their functions:
+
+1\. Structural Proteins: Provide `support and strength` to cells and tissues. Example: ++Collagen, Keratin++.
+
+2\. Enzymatic Proteins: Act as `biological catalysts` and speed up chemical reactions. Example: `Amylase, Pepsin`.
+
+3\. Transport Proteins: `Carry substances` from one part of the body to another. Example: `Haemoglobin`.
+
+4\. Storage Proteins: `Store` nutrients and essential substances. Example: `Ferritin, Casein`.
+
+5\. Hormonal Proteins: `Regulate` various body functions and metabolic activities. Example: `Insulin, Glucagon`.
+
+6\. Contractile Proteins: Help in `muscle contraction` and movement. Example: `Actin, Myosin`.
+
+7\. Defensive Proteins: `Protect the body` against infections and foreign substances. Example: `Antibodies` (Immunoglobulins).
+
+8\. Receptor Proteins: `Receive signals` and help cells respond to them. Example: `Insulin receptor`.
+
+9\. Blood Clotting Proteins: Help in `blood coagulation` to prevent excessive bleeding. Example: `Fibrinogen, Thrombin`.
+
+10\. Toxic Proteins: Produce `harmful effects` in other organisms. Example: `Snake venom proteins`.
+
+:::
+
++++
+
+**Catalytic protein - Enzymes**
+*   The most striking characteristic feature of these proteins is their ability to function within the living cells as biocatalysis.
+*   These biocatalysts are called as enzymes.
+*   Enzymes represent the largest class.
+*   Nearly `2000 different kinds of enzymes` are known, each catalyzing a different kind of reaction.
+*   They enhance the reaction rates a million fold.
+
+**Regulatory proteins - Hormones**
+*   These are polypeptide and small proteins found in relatively lower concentrations in animal kingdom but play highly important regulatory role in maintaining order in complex metabolic reactions e.g., growth hormone, insulin etc.
+
+**Protective proteins - Antibodies**
+*   These proteins have protective defense function.
+*   These proteins combine with foreign protein and other substances and fight against certain diseases.
+*   e.g., immunoglobulins.
+*   These proteins are produced in the spleen and lymphatic cells in response to foreign substances called antigen.
+*   The newly formed protein is called antibody which specifically combines with the antigen which triggered its synthesis thereby prevents the development of diseases.
+
+**Storage proteins**
+*   Form present in the blood is also a protective protein
+*   It is a major class of proteins which has the function of `storing amino acids as nutrients` and as `building blocks for the growing embryo`.
+*   Storage proteins are `source of essential amino acids`, which cannot be synthesized by human beings.
+*   The major storage protein in pulses is globulins and Prolamins in cereals. In rice the major storage protein is glutelins. Albumin of egg and casein of milk are also storage proteins.</md></sn>
   <config>
     <tags>#03.protein classfication</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:21:34 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 15:53:27 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kEdfZG34D1</id>
     <duration></duration>
   </config>
