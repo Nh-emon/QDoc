@@ -26,12 +26,56 @@ There are **four layer** of protien structure
 - Secondary
 - Tertiary
 - Quternary
-</md></sn>
+
+
++++ Peptide Bond
+
+#### √ Peptides and Proteins
+
+- `20 amino acids` are commonly found in protein.
+- These 20 amino acids are linked together through "peptide bond forming peptides and proteins (what's the difference?).
+- The chains containing `less than 50 amino` acids are called ++peptides++, 
+- while those containing `greater than 50` amino acids are called ++proteins++.
+
+
+---
+
+#### **Peptide bond formation:**
+
+α-carboxyl group of one amino acid (with side chain R1) forms a `covalent peptide bond` with α-amino group of another amino acid (with the side chain R2) by removal of a molecule of water. The result is : `Dipeptide` (i.e. Two amino acids linked by one peptide bond). By the same way, the dipeptide can then forms a second peptide bond with a third amino acid (with side chain R3) to give `Tripeptide`. Repetition of this process generates a `polypeptide or protein` of specific amino acid sequence.
+
+**Peptide bond formation:**
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/peptide_bond_formation_diagram.jpeg)
+
+*(Diagram showing the chemical structure of two amino acids joining to form a dipeptide with the release of H2O. Labels on the diagram include: Peptide bond, Side chains, Back-bone, Amino end (N-terminus), Carboxyl end (C-terminus).)*
+
+- Each polypeptide chain starts on the `left side by free amino group` of the first amino acid enter in chain formation. It is termed (N- terminus).
+- Each polypeptide chain `ends on the right side by free COOH group` of the last amino acid and termed (C-terminus).
+
+
+---
+
+**Examples on Peptides:**
+
+**1- Dipeptide** (two amino acids joined by one peptide bond);
+**Example:** ++Aspartame++ which acts as `sweetening` agent being used in replacement of cane sugar. It is composed of `aspartic acid and phenyl alanine`.
+
+**2- Tripeptides** (3 amino acids linked by two peptide bonds).
+**Example:** ++GSH++ which is formed from 3 amino acids: `glutamic acid, cysteine and glycine`. It helps in absorption of amino acids, protects against hemolysis of RBC by breaking H2O2 which causes cell damage.
+
+**3- octapeptides:** (8 amino acids)
+**Examples:** Two hormones; `oxytocin and vasopressin` (ADH).
+
+**4- polypeptides:** 10- 50 amino acids: e.g. `Insulin hormone`
+
+
++++</md></sn>
   <config>
     <tags>#04.function of protein</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 19:34:27 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 19:52:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2R0YIZYQ8l</id>
     <duration></duration>
   </config>
