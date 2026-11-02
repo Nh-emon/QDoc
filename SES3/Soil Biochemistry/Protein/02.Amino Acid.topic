@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:40:34 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 09:54:07 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
@@ -86,4 +86,51 @@ Each amino acid (except `proline`) has:
 
 **The Alpha Carbon &amp; R Group:**
 *   The alpha carbon will have at its fourth bonding site a **side chain**, or `R group`, which ++gives the amino acid its unique structure and properties++.
-*   There are **20+ different amino acids** in protein. All have a common structure except for the R group.</md></sn>
+*   There are **20+ different amino acids** in protein. All have a common structure except for the R group.</md></sn><sn><md>### **Properties of Amino Acids**
+
+**Physical Properties**
+*   Amino acids are `white crystalline` substances.
+*   Most of them are `soluble in water` and `insoluble in non-polar` organic solvents (e.g., chloroform and ether).
+*   Aliphatic and aromatic amino acids, particularly those *having several carbon atoms*, have `limited solubility` in water but are `readily soluble in polar` organic solvents.
+*   They have `high melting points` varying from **200–300°C** or even more.
+*   They are `tasteless, sweet, or bitter`.
+*   Some have a good flavor. ++Sodium glutamate++ is a valuable `flavoring agent` and is used in the preparation of certain dishes and sauces.
+
+
+---
+
+**Amphoteric Nature of Amino Acids**
+*   Amino acids are `amphoteric compounds`, as they contain `both` acidic (`COOH`) and basic (`NH₂`) groups.
+*   They can `react with both` alkalis and acids to form salts.
+*   In ++acid solution++, amino acids `carry positive charges` and hence they move towards the **cathode** in an electric field.
+*   In ++alkaline solution++, the amino acids `carry negative charges` and therefore move towards the **anode**.
+*   When an amino acid is ++dissolved in water++, it exists as an **inner salt** `carrying + -` both positive and negative charges.
+    This occurs as a result of dissociation of the carboxyl group to release the **H⁺ ion**, which passes from the carboxyl to the amino group.
+* 
+*   The amino acids `possessing both positive and negative` charges are called ++Zwitter ions++.
+*   The zwitterion reacts ++as an acid++` with a base by liberating a proton (H⁺) from the NH₃⁺ group and as a result possesses a `net negative charge`.
+*   On the other hand, zwitterions react with an acid ++as a base++, combining with the proton (H⁺) of the acid resulting in the formation of a compound having a `net positive charge`.
+*   These reactions are **reversible**.
+* 
+*   The pH at which the amino acid `has no tendency to move either towards the positive or negative electrode` is called the ++isoelectric pH++ or **isoelectric point**.
+*   At ++isoelectric pH++, the amino acid molecule bears a `net charge of zero`.
+
+
+
+**Isomerism**
+*   All amino acids ++except proline++, found in protein, are `α-amino acids` because the NH₂ group is attached to the α-carbon atom, which is next to the COOH group.
+*   Examination of the structure of amino acids reveals that ++except glycine++, all other amino acids possess an `asymmetric carbon atom` at the alpha position.
+   Because of the presence of an ++asymmetric carbon atom++, amino acids exist in `optically active forms`.
+
++++ ...
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/Soil%20Biochemistry/Protein/assets/D_and_L_serine_diagram.png)
++++
+
+**Diagram: Structure of D- and L-Serine**
+*   **L-Serine:** Shows the NH₂ group on the left side of the central carbon.
+    *   Structure: COOH top, H₂N-C-H middle, CH₂OH bottom.
+*   **D-Serine:** Shows the NH₂ group on the right side of the central carbon.
+    *   Structure: COOH top, H-C-NH₂ middle, CH₂OH bottom.
+*   *(A reversible reaction arrow is shown between the two structures).*
+
+</md></sn>
