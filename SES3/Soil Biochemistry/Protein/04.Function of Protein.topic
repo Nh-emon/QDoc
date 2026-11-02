@@ -1,10 +1,97 @@
 
-  <sn></sn>
+  <sn><md>### Amino Acid Structure
+
+![img](https://www.reagent.co.uk/wp-content/uploads/Amin/-A/Amino-Acid-Structure-1.png)
+
+
+- **R** : is the variable group.It determine protiens function and type.
+- **Except R** : all the part is constant for all amino acid.It is called the backbone of amino acid.
+
+Now,
+
+```
+protein =  A----A----A----A----...
+A = amino acid
+---- = peptide bond
+A ---- A = dipeptide + H20 
+```
+
+**raction between two amino acids**
+![img](https://cdn.storymd.com/optimized/pqDDbwhPqa/original.jpg)
+
+There are **four layer** of protien structure
+- Primary
+- Secondary
+- Tertiary
+- Quternary
+</md></sn>
   <config>
     <tags>#04.function of protein</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:21:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 19:26:15 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2R0YIZYQ8l</id>
     <duration></duration>
   </config>
+<sn><md>#### Primary Structure $1^\circ$:
+
+:::.row
+:::.col-12 .col-lg-8
+* Represents the `linear sequence of amino acids` connected by ++peptide bonds++ within a *polypeptide chain*.
+* It possesses an `N-terminus` (amino end) and a `C-terminus` (carboxyl end).
+* The `precise sequence` dictates the **identity and function** of the protein; altering even a single amino acid can change the entire protein's function.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9gvxB00rlUeVCrIYZnue-YR8wkP7Fq7DMz_2X2YoscC2jnWI7M8osBRb&amp;s=10)
+:::
+:::
+</md></sn><sn><md>### **Secondary Structure $2^\circ$:**
+
+:::.row
+:::.col-12 .col-lg-9
+* Refers to local `folding or coiling` of the polypeptide backbone, stabilized by `hydrogen bonds` formed between ++nearby amino acids++.
+* **Two major forms:**
+  * $\alpha$-Helix:** A `right-handed clockwise` coil common in structural proteins like ++keratin++ (found in hair and nails).
+  * $\beta$-Pleated Sheet:** Polypeptide chains `running side-by-side in parallel` or anti-parallel orientations, joined by `hydrogen bonds` (found in silk protein, **fibroin**).
+:::
+
+:::.col-12 .col-lg-3
+![img](https://microbenotes.com/wp-content/uploads/2023/10/Secondary-Structure-of-Protein.jpeg)
+:::
+:::
+
+</md></sn><sn><md>### Tertiary Structure $3^\circ$
+
+:::.row
+:::.col-12 .col-lg-8
+* The overall **three-dimensional (3D) shape** of a single polypeptide chain formed by `folding and bending`.
+* Determined by `interactions between the R` side chains.
+* Governs the `biological activity` of the protein and determines whether it is `fibrous or globular`.
+* **Bonds involved:** 
+ Hydrogen bonds, ionic bonds, disulfide bridges, hydrophobic interactions, and Van der Waals forces.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://studymind.co.uk/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-12.52.48-PM.png)
+:::
+:::
+</md></sn><sn><md>#### Quaternary Structure $4^\circ$
+
+:::.row
+:::.col-12 .col-lg-8
+* The `spatial arrangement` and assembly of `two or more polypeptide chains (subunits)` forming a single functional protein complex.
+* Held together by the `same non-covalent and covalent` interactions found in tertiary structures.
+* **Key Examples:**
+  * **Hemoglobin:** Composed of **4 subunits** $2\alpha$ chains and $2\beta$ chains).
+  * **Insulin:** Composed of **2 subunits** (A and B chains) linked by disulfide bridges.
+:::
+
+:::.col-12 .col-lg-4
+![img](https://themedicalbiochemistrypage.org/wp-content/uploads/2020/04/hemoglobin.jpg)
+:::
+:::
+
+
+
+</md></sn>
