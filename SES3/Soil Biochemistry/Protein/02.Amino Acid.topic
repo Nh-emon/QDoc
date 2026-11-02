@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:25:23 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 02 2026 09:40:34 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
@@ -47,4 +47,43 @@
 *Note: Arginine and Histidine appear in both the Essential and Semi-Essential categories depending on the classification system used.*
 
 
-+++</md></sn>
++++</md></sn><sn><md>### AMINO ACID Structure
+
+**General Structure of Amino Acid**
+Each amino acid (except `proline`) has:
+1.  A **carboxyl group**
+2.  An **amino group**
+3.  A distinctive **side chain** bonded to the alpha carbon atom.
+4. And a H atom
+
+*At physiological pH:*
+*   The **carboxyl group** is `dissociated` forming the negatively charged carboxylate ion (**-COO⁻**).
+*   The **amino group** is protonated forming the positively charged ion (**-NH₃⁺**).
+
+**Diagram Components:**
+*   **Central Carbon (Alpha Carbon):** bonded to a Hydrogen atom.
+*   **Amino Group:** Located on one side.
+*   **Carboxyl Group:** Located on the other side.
+*   **Variable Group (R Group):** The distinctive side chain.
+
+![img](https://www.reagent.co.uk/wp-content/uploads/Amin/-A/Amino-Acid-Structure-1.png)
+
+
+---
+
+#### **Amino Acids Details**
+
+*   Amino acids contain `CHONS` **Carbon, Hydrogen, Oxygen, Nitrogen**, and sometimes **Sulfur**.
+*   Amino acids have `two function groups` (both of which are typically in the ionized form).
+
+**Key Functional Groups:**
+1.  **1-NH₂ Amino functional group**
+2.  **2-COOH Carboxyl functional group**
+
+**Structure Notes:**
+*   Both functional groups attach to a specific carbon, the `alpha α carbon`, of the carbon chain.
+*   The third bonding site of the alpha carbon is typically Hydrogen.
+
+**The Alpha Carbon &amp; R Group:**
+*   The alpha carbon will have at its fourth bonding site a **side chain**, or `R group`, which ++gives the amino acid its unique structure and properties++.
+*   There are **20+ different amino acids** in protein. All have a common structure except for the R group.</md></sn>
