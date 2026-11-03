@@ -30,7 +30,7 @@
     <tags>#02.amino acid</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 10:26:12 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 03 2026 07:55:52 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-R3IfrIBUYh</id>
     <duration></duration>
   </config>
@@ -202,7 +202,42 @@ Ninhydrin reagent reacts with amino group of amino acid yielding [blue colored p
 *   **b) Rosenheim reaction:** for tryptophan, it gives [violet ring]{.fg-violet}
 *   **c) Pauly reaction:** for imidazole ring of histidine, give yellow to reddish product
 *   **d) Sakaguchi test:** for guanido group of arginine and gives red colour
-*   **e) Lead sulphide test (sulfur test):** sulfur containing amino acid gives brown colour</md></sn><sn><md>**Amino acids can be classified in 4 ways:**
+*   **e) Lead sulphide test (sulfur test):** sulfur containing amino acid gives brown colour
+
+
++++ Chemical Reactions of Amino Acids
+
+*   **b) Reaction with alcohol (Esterification):** Proteins reacts with alcohol to form corresponding esters. These esters are volatile than amino acid.
+    `R-CHNH2-COOH + C2H5OH → R-CHNH2-COO.C2H5 + H2O`
+
+*   **c) Reaction with amines:** Amino acid reacts with amines to form amides.
+    `R-CHNH2-COOH + NH2-R' → R-CHNH2-CO-NH-R' + H2O`
+
+*   **3) Reaction involving amino group:**
+    *   **a) Reaction with mineral acids (Salt formation):** When free amino acids or proteins are treated with mineral acids like HCl, the acid salts are formed.
+        `R-CHNH2-COOH + HCl → R-CH-COOH`
+        `|`
+        `NH2.HCl`
+    *   **b) Reaction with formaldehyde:** With formaldehyde, the hydroxy-methyl derivatives are formed. These derivatives are insoluble in water and resistant to microbial attack.
+        `R-CHNH2-COOH + H-CH=O → R-CHNH-CH2OH-COOH (N monomethylol derivatives)`
+        `R-CHNH-CH2OH-COOH + H-C-H=O → R-CHN(CH2OH)2-COOH (N dimethylol derivatives)`
+    *   **c) Reaction with benzaldehyde (Schiff's base are formed):**
+        `R-CH-COOH + C6H5-CHO → R-CH-COOH + H2O`
+        `|`                      `|`
+        `NH2`                    `N=HC-C6H5`
+    *   **d) Reaction with nitrous acid:** The amino acids react with HNO2 to liberate N2 and to produce the corresponding α-hydroxy alcohol.
+        `R-CH-COOH + HNO2 → R-CH-COOH + N2 + H2O`
+        `|`                      `|`
+        `NH2`                    `OH`
+    *   **f) Reaction with acylating agents (acylation):** Acylation is brought about by many acid chlorides.
+        `R-CH-COOH + CH3COCl → R-CH-COOH + N2 + HCl`
+        `|`                        `|`
+        `NH2`                      `NH-COCH3`
+
+*   **4) Reaction involving both COOH and NH2 groups:**
+    *   **a) Ninhydrin test:** It is powerful oxidizing agent and causes oxidative decarboxylation of α-amino acids producing CO2, NH3 and aldehyde with one less carbon atom than the parent amino acids. The reduced Ninhydrin then react with the liberated NH3 forming blue colored complex.
+
++++</md></sn><sn><md>**Amino acids can be classified in 4 ways:**
 1. Based on structure
 2. Based on the side chain characters
 3. Based on nutritional requirements
