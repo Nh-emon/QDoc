@@ -1,59 +1,17 @@
 
-  <sn><md>Based on the four images provided, here is the arranged text content, organized logically by topic.
+  <sn><md>#### How Do Proteins Actually Get Degraded?
 
----
+`No protein is made to last forever`. Just as DNA and RNA direct a coordinated process for protein creation, there is also `a process for proteins to be broken down by the cell`. We call this ++proteolysis++ or protein degradation.
 
-### **Part 1: Protein Degradation and Turnover**
-*(From Image 1)*
+Proteins are broken down for a number of reasons. First and foremost, it's a strategy for `quality control`. After a string of protein building blocks are put together, they are bent and folded into a specific shape that allows the protein to interact with other proteins in a useful way. You can think of it like a daisy chain—the stem needs to be carefully folded and tied or the daisy chain falls apart entirely. `Cells have tools to identify misfolded proteins and break them down quickly to prevent problems`.
 
-**How Do Proteins Actually Get Degraded?**
+Even beyond quality control, ++proteins have a certain lifespan++ within the cell. Regular protein `recycling ensures that there is always an available supply of protein building blocks` for the creation of new proteins. Removing older proteins also gives ++cells flexibility in terms of adjusting to environmental changes++.
 
-No protein is made to last forever. Just as DNA and RNA direct a coordinated process for protein creation, there is also a process for proteins to be broken down by the cell. We call this proteolysis or protein degradation.
+There are `two main structures` in the cell that are important for protein degradation. The first is a specialized organelle called the ++lysosome++, which acts as the `trash collector of the cell`. The lysosome is designed to eat and `digest larger things like old organelles`.
 
-Proteins are broken down for a number of reasons. First and foremost, it's a strategy for quality control. After a string of protein building blocks are put together, they are bent and folded into a specific shape that allows the protein to interact with other proteins in a useful way. You can think of it like a daisy chain—the stem needs to be carefully folded and tied or the daisy chain falls apart entirely. Cells have tools to identify misfolded proteins and break them down quickly to prevent problems.
+The second structure responsible for protein degradation is the ++proteasome++, a `large cylindrical complex of proteins` that uses energy to `break apart other proteins`. Proteins destroyed by the proteasome are specifically marked for destruction without being used up or changed in the process. The `protease-associated enzymes`, creatively named `E1, E2, and E3`, work together to `identify proteins with specific characteristics and tag them`. These tags, called *ubiquitin*, are added on one at a time to make a chain that dangles off of the targeted protein. Once a large enough chain is made, the tagged protein is recognized by the proteasome and destroyed.
 
-Even beyond quality control, proteins have a certain lifespan within the cell. Regular protein recycling ensures that there is always an available supply of protein building blocks for the creation of new proteins. Removing older proteins also gives cells flexibility in terms of adjusting to environmental changes.
-
-There are two main structures in the cell that are important for protein degradation. The first is a specialized organelle called the **lysosome**, which acts as the trash collector of the cell. The lysosome is designed to eat and digest larger things like old organelles.
-
-The second structure responsible for protein degradation is the **proteasome**, a large cylindrical complex of proteins that uses energy to break apart other proteins. Proteins destroyed by the proteasome are specifically marked for destruction without being used up or changed in the process. The protease-associated enzymes, creatively named E1, E2, and E3, work together to identify proteins with specific characteristics and tag them. These tags, called **ubiquitin**, are added on one at a time to make a chain that dangles off of the targeted protein. Once a large enough chain is made, the tagged protein is recognized by the proteasome and destroyed.
-
-Beyond these cellular garbage disposals, there are a other types of enzymes called **proteases** that can help to break proteins apart. Proteases, recognize specific characteristics about a protein of interest (shape, sequence, etc.). They use that to help target a protein for breakdown. While both ubiquitin-tagging and protease-targeting are somewhat selective, the protein characteristics that these enzymes recognize tend to be broadly shared by lots of proteins. Thus, by the combination of these systems, the cell can regularly recycle its entire protein population.
-
----
-
-### **Part 2: Chemical Reactions of Amino Acids**
-*(From Image 2)*
-
-*   **b) Reaction with alcohol (Esterification):** Proteins reacts with alcohol to form corresponding esters. These esters are volatile than amino acid.
-    `R-CHNH2-COOH + C2H5OH → R-CHNH2-COO.C2H5 + H2O`
-
-*   **c) Reaction with amines:** Amino acid reacts with amines to form amides.
-    `R-CHNH2-COOH + NH2-R' → R-CHNH2-CO-NH-R' + H2O`
-
-*   **3) Reaction involving amino group:**
-    *   **a) Reaction with mineral acids (Salt formation):** When free amino acids or proteins are treated with mineral acids like HCl, the acid salts are formed.
-        `R-CHNH2-COOH + HCl → R-CH-COOH`
-        `|`
-        `NH2.HCl`
-    *   **b) Reaction with formaldehyde:** With formaldehyde, the hydroxy-methyl derivatives are formed. These derivatives are insoluble in water and resistant to microbial attack.
-        `R-CHNH2-COOH + H-CH=O → R-CHNH-CH2OH-COOH (N monomethylol derivatives)`
-        `R-CHNH-CH2OH-COOH + H-C-H=O → R-CHN(CH2OH)2-COOH (N dimethylol derivatives)`
-    *   **c) Reaction with benzaldehyde (Schiff's base are formed):**
-        `R-CH-COOH + C6H5-CHO → R-CH-COOH + H2O`
-        `|`                      `|`
-        `NH2`                    `N=HC-C6H5`
-    *   **d) Reaction with nitrous acid:** The amino acids react with HNO2 to liberate N2 and to produce the corresponding α-hydroxy alcohol.
-        `R-CH-COOH + HNO2 → R-CH-COOH + N2 + H2O`
-        `|`                      `|`
-        `NH2`                    `OH`
-    *   **f) Reaction with acylating agents (acylation):** Acylation is brought about by many acid chlorides.
-        `R-CH-COOH + CH3COCl → R-CH-COOH + N2 + HCl`
-        `|`                        `|`
-        `NH2`                      `NH-COCH3`
-
-*   **4) Reaction involving both COOH and NH2 groups:**
-    *   **a) Ninhydrin test:** It is powerful oxidizing agent and causes oxidative decarboxylation of α-amino acids producing CO2, NH3 and aldehyde with one less carbon atom than the parent amino acids. The reduced Ninhydrin then react with the liberated NH3 forming blue colored complex.
+Beyond these cellular garbage disposals, there are a other types of enzymes called **proteases** that can help to break proteins apart. Proteases, recognize `specific characteristics` about a protein of interest (shape, sequence, etc.). They `use that to help target a protein` for breakdown. While both ubiquitin-tagging and protease-targeting are somewhat selective, the protein characteristics that these enzymes recognize tend to be broadly shared by lots of proteins. Thus, by the combination of these systems, the cell can regularly recycle its entire protein population.
 
 ---
 
@@ -113,7 +71,7 @@ Indole ring of tryptophan reacts with glacial acetic acid in the presence of con
     <tags>#05.reaction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 03 2026 07:48:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 03 2026 07:54:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-GjTu7nCg5K</id>
     <duration></duration>
   </config>
