@@ -1,10 +1,66 @@
 
-  <sn></sn>
+  <sn><md>#### Pentose Sugar
+A pentose is a `monosaccharide` (simple sugar) `with five carbon` atoms, typically with the formula `C₅H₁₀O₅` . In nucleic acids, two specific pentoses are crucial:
+*   **Ribose**: Found in `RNA`. It `has` a hydroxyl (-OH) group at the ++`2' carbon++ position .
+*   **Deoxyribose**: Found in `DNA`. It `lacks` the hydroxyl group at the 2' position (hence "deoxy"), which makes DNA `more chemically stable` than RNA .
+
+---
+
+#### Phosphoric Acid
+In the context of nucleic acids, phosphoric acid (as a phosphate group) is a `key component of nucleotides`. It links to the `5 carbon of the pentose sugar` . The phosphate groups `form the backbone` of DNA and RNA by creating `phosphodiester bonds` between the sugars of adjacent nucleotides, giving the nucleic acid strand a net negative charge .
+
+---
+
+#### DNA (Deoxyribonucleic Acid)
+DNA is the `hereditary material` in almost all organisms. Its structure is a `double helix`, consisting of `two antiparallel polynucleotide strands` .
+*   **Backbone**: Alternating `deoxyribose sugar and phosphate groups` .
+*   **Base Pairing**: The two strands are held together by hydrogen bonds between complementary bases: Adenine (A) pairs with Thymine (T), a--t g----c and Guanine (G) pairs with Cytosine (C) .
+*   **Function**: It `stores the genetic information` required for the development, functioning, growth, and reproduction of organisms.
+
+---
+
+#### Different Types of RNA (Ribonucleic Acid)
+RNA is typically `single-stranded` and is primarily involved in `protein synthesis` . The main types include:
+*   **mRNA (Messenger RNA)**: `Carries the genetic code` from `DNA to the ribosome`, where it is translated into a protein .
+*   **tRNA (Transfer RNA)**: `Delivers the correct amino acids to the ribosome` during translation. It has an `anticodon that pairs with the mRNA` codon .
+*   **rRNA (Ribosomal RNA)**: The `most abundant RNA`, it `forms the structural and catalytic core of ribosomes`, ensuring proper alignment of mRNA and tRNA and catalyzing peptide bond formation .
+*   **miRNA (MicroRNA)**: `Small non-coding RNAs` that `regulate gene expression by interfering with mRNA translation` or promoting its degradation .
+
+---
+
+#### Chemistry of Nucleotides
+Nucleotides are the `monomeric units` (building blocks) of DNA and RNA . Each nucleotide consists of three components:
+1.  **A Nitrogenous Base**: A purine (Adenine, Guanine) or a pyrimidine (Cytosine, Thymine in DNA, Uracil in RNA) .
+2.  **A Pentose Sugar**: Ribose or Deoxyribose .
+3.  **One or More Phosphate Groups**: Attached to the sugar .
+When the phosphate group is absent, the molecule is called a `nucleoside` .
+
+---
+
+#### DNA vs. RNA Table
+| Feature | DNA (Deoxyribonucleic Acid) | RNA (Ribonucleic Acid) |
+| :--- | :--- | :--- |
+| Type of Protien | Storage | Transport  |
+| **Sugar** | Deoxyribose | Ribose  |
+| **Strandedness** | Double-stranded (usually) | Single-stranded (usually)  |
+| **Bases** | A, T, G, C | A, **U**, G, C  |
+| **Stability** | More stable (due to deoxyribose) | Less stable  |
+| **Function** | `Stores genetic` information | `Transmits information` and synthesizes proteins  |
+
+---
+
+#### Genetic Code
+The genetic code is the `set of rules by which information encoded in genetic material` (DNA or mRNA sequences) is translated into proteins .
+*   **Codons**: A `sequence of three consecutive nucleotides` (a triplet) that specifies a particular amino acid .
+*   **Universality**: The code is nearly `universal across all organisms` .
+*   **Degeneracy**: Most amino acids are `encoded by more than one codon` (e.g., Leucine has 6 codons) .
+*   **Start and Stop**: ++AUG++ is the start codon (coding for Methionine). ++UAA, UAG, and UGA++ are stop codons that signal the end of translation .
+</md></sn>
   <config>
     <tags>#06.dna rna</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:22:35 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 03 2026 08:15:43 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-MgxLYtyByH</id>
     <duration></duration>
   </config>
