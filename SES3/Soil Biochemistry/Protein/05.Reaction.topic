@@ -15,22 +15,26 @@ Beyond these cellular garbage disposals, there are a other types of enzymes call
 
 ---
 
-### **Part 3: Factors Affecting Protein Stability**
-*(From Image 3)*
+#### Factors Affecting Protein Stability
 
-Proteins are relatively fragile molecules that are susceptible to denaturation (loss of structure due to unfolding) during characterization and purification. Main factors that affect protein stability include:
+Proteins are relatively `fragile molecules` that are *susceptible to denaturation* (loss of structure due to unfolding) during characterization and purification. Main factors that affect protein stability include:
 
-1.  **High temperature** – Higher temperatures increase kinetic energy, which causes molecules to vibrate rapidly and forcefully. This results in a disruption of the hydrogen bonds and other nonpolar hydrophobic interactions, leading to the denaturation of the protein. Maintaining optimum temperature can keep proteins stable and minimize temperature-induced denaturation.
-2.  **Protease Activity** – Proteolytic enzymes known as proteases are released into the buffer environment during cellular disruption. These proteases cleave the protein, resulting in loss of stability and protein denaturation. Protease activity can be reduced and protein stability can be maintained by using rapid purification procedures, keeping the protein solutions on ice or adding protease inhibitors to the buffer.
-3.  **Freeze-Thaw** – When the solution is frozen for storage and then thawed for use, the freeze-thawing causes multiple disturbances. It disrupts the natural conformation of protein. It also interferes with the precipitation and pH variation of buffer components. All of these factors contribute to loss of stability and protein denaturation. Adding glycerol to the buffer and storing in aliquots can help.
-4.  **Presence of heavy metals** – Heavy metal salts are ionic. They interfere with salt bridges in protein and react with proteins resulting in insoluble metal protein salt. Including EDTA buffers reduces the denaturation of proteins by containing the heavy metals, preventing them from coming in contact with proteins.
-5.  **Oxidation** – Proteins become unstable when they are oxidized. Adding strong reducing agents such as DTT in buffers can help prevent protein denaturation due to oxidation.
-6.  **Dilution Effects** – Diluting the solution can affect protein stability. Dilution induced denaturation can be prevented by maintaining protein concentrations at &gt; 1 mg/ml.
+1.  **High temperature** – Higher temperatures `increase kinetic energy`, which causes `molecules to vibrate rapidly and forcefully`. This results in a `disruption of the hydrogen bonds` and other nonpolar hydrophobic interactions, leading to the `denaturation of the protein`. Maintaining `optimum temperature` can keep proteins stable and minimize temperature-induced denaturation.
+
+2.  **Protease Activity** – `Proteolytic enzymes known as proteases` are released into the `buffer environment during cellular disruption`. These proteases `cleave the protein`, resulting in `loss of stability and protein denaturation`. Protease activity can be reduced and protein `stability can be maintained` by using ++rapid purification procedures++, keeping the `protein solutions on ice or adding protease inhibitors` to the buffer
+.
+3.  **Freeze-Thaw** – When the solution is frozen for storage and then thawed for use, the `freeze-thawing causes multiple disturbances`. It disrupts the natural conformation of protein. It also interferes with the precipitation and pH variation of buffer components. All of these factors contribute to loss of stability and protein denaturation. Adding ++glycerol to the buffer++ and ++storing in aliquots++ can help.
+
+4.  **Presence of heavy metals** – Heavy metal `salts are ionic`. They `interfere with salt bridges in protein` and react with proteins `resulting in insoluble metal protein salt`. Including ++EDTA buffers reduces++ the denaturation of proteins by containing the heavy metals, preventing them from coming in contact with proteins.
+
+5.  **Oxidation** – Proteins become unstable when they are `oxidized`. Adding ++strong reducing agents such as `DTT` in buffers++ can help prevent protein denaturation due to oxidation.
+
+6.  **Dilution Effects** – `Diluting the solution` can affect protein stability. Dilution induced denaturation can be prevented by ++maintaining protein concentrations at &gt; 1 mg/ml++.
 
 ---
 
-### **Part 4: Denaturation and Chemical Properties**
-*(From Image 4)*
+#### Denaturation and Chemical Properties
+
 
 **Denaturing agents:**
 *   **Physical:** High temperature, high pressure, X-ray, ultraviolet rays-mechanical agitation.
@@ -38,27 +42,26 @@ Proteins are relatively fragile molecules that are susceptible to denaturation (
 
 **Results of denaturation**
 *   **Physical:**
-    *   Decrease solubility, increase viscosity and can not be crystallized.
+    *   `Decrease solubility`, `increase viscosity` and can not be `crystallized`.
 *   **Chemical:**
-    *   Unfolding of the protein molecule.
-    *   Destruction of some subsidiary hydrogen bonds.
-    *   Exposure of some groups as (SH) of cystiene.
+    *   `Unfolding` of the protein molecule.
+    *   Destruction of some `subsidiary hydrogen bonds`.
+    *   Exposure of some groups as` (SH) of cystiene`.
 *   **Biological:**
-    *   Loss of activity, if it is hormone or enzyme.
-    *   Loss of antigen antibody reaction (allergic manifestation). Easily digested.
+    *   Loss of `activity`, if it is hormone or enzyme.
+    *   Loss of `antigen antibody reaction` (allergic manifestation). `Easily digested`.
 
 **Chemical properties**
 **Colour reactions of proteins**
 1.  The colour reactions of proteins are of importance in the qualitative detection and quantitative estimation of proteins and their constituent amino acids.
-2.  Biuret test is extensively used as a test to detect proteins in biological materials.
+2.  `Biuret test` is extensively used as a test to detect proteins in biological materials.
 
 **Biuret reaction**
-A compound, which is having more than one peptide bond when treated with Biuret reagent, produces a violet colour.
-This is due to the formation of coordination complex between four nitrogen atoms of two polypeptide chains and one copper atom.
-*(Note: Diagram shows "Violet coloured coordination complex" with Copper atom and peptide bonds)*
+A compound, which is having more than one peptide bond when treated with Biuret reagent, produces a `violet colour`.
+This is due to the `formation of coordination complex between four nitrogen atoms of two polypeptide chains and one copper atom`.
 
 **Xanthoproteic reaction**
-Addition of concentrated nitric acid to protein produces yellow colour on heating, the colour changes to orange when the solution is made alkaline. This is due to the nitration of the phenyl rings of aromatic amino acids.
+Addition of `concentrated nitric acid` to protein produces yellow colour on heating, the colour changes to orange when the solution is made alkaline. This is due to the `nitration of the phenyl rings of aromatic amino acids`.
 
 **Hopkins-Cole reaction**
 Indole ring of tryptophan reacts with glacial acetic acid in the presence of concentrated sulphuric acid and forms a purple coloured product.
@@ -71,7 +74,7 @@ Indole ring of tryptophan reacts with glacial acetic acid in the presence of con
     <tags>#05.reaction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 03 2026 07:54:59 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 03 2026 08:04:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-GjTu7nCg5K</id>
     <duration></duration>
   </config>
