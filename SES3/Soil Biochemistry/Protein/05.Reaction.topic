@@ -1,10 +1,119 @@
 
-  <sn></sn>
+  <sn><md>Based on the four images provided, here is the arranged text content, organized logically by topic.
+
+---
+
+### **Part 1: Protein Degradation and Turnover**
+*(From Image 1)*
+
+**How Do Proteins Actually Get Degraded?**
+
+No protein is made to last forever. Just as DNA and RNA direct a coordinated process for protein creation, there is also a process for proteins to be broken down by the cell. We call this proteolysis or protein degradation.
+
+Proteins are broken down for a number of reasons. First and foremost, it's a strategy for quality control. After a string of protein building blocks are put together, they are bent and folded into a specific shape that allows the protein to interact with other proteins in a useful way. You can think of it like a daisy chain—the stem needs to be carefully folded and tied or the daisy chain falls apart entirely. Cells have tools to identify misfolded proteins and break them down quickly to prevent problems.
+
+Even beyond quality control, proteins have a certain lifespan within the cell. Regular protein recycling ensures that there is always an available supply of protein building blocks for the creation of new proteins. Removing older proteins also gives cells flexibility in terms of adjusting to environmental changes.
+
+There are two main structures in the cell that are important for protein degradation. The first is a specialized organelle called the **lysosome**, which acts as the trash collector of the cell. The lysosome is designed to eat and digest larger things like old organelles.
+
+The second structure responsible for protein degradation is the **proteasome**, a large cylindrical complex of proteins that uses energy to break apart other proteins. Proteins destroyed by the proteasome are specifically marked for destruction without being used up or changed in the process. The protease-associated enzymes, creatively named E1, E2, and E3, work together to identify proteins with specific characteristics and tag them. These tags, called **ubiquitin**, are added on one at a time to make a chain that dangles off of the targeted protein. Once a large enough chain is made, the tagged protein is recognized by the proteasome and destroyed.
+
+Beyond these cellular garbage disposals, there are a other types of enzymes called **proteases** that can help to break proteins apart. Proteases, recognize specific characteristics about a protein of interest (shape, sequence, etc.). They use that to help target a protein for breakdown. While both ubiquitin-tagging and protease-targeting are somewhat selective, the protein characteristics that these enzymes recognize tend to be broadly shared by lots of proteins. Thus, by the combination of these systems, the cell can regularly recycle its entire protein population.
+
+---
+
+### **Part 2: Chemical Reactions of Amino Acids**
+*(From Image 2)*
+
+*   **b) Reaction with alcohol (Esterification):** Proteins reacts with alcohol to form corresponding esters. These esters are volatile than amino acid.
+    `R-CHNH2-COOH + C2H5OH → R-CHNH2-COO.C2H5 + H2O`
+
+*   **c) Reaction with amines:** Amino acid reacts with amines to form amides.
+    `R-CHNH2-COOH + NH2-R' → R-CHNH2-CO-NH-R' + H2O`
+
+*   **3) Reaction involving amino group:**
+    *   **a) Reaction with mineral acids (Salt formation):** When free amino acids or proteins are treated with mineral acids like HCl, the acid salts are formed.
+        `R-CHNH2-COOH + HCl → R-CH-COOH`
+        `|`
+        `NH2.HCl`
+    *   **b) Reaction with formaldehyde:** With formaldehyde, the hydroxy-methyl derivatives are formed. These derivatives are insoluble in water and resistant to microbial attack.
+        `R-CHNH2-COOH + H-CH=O → R-CHNH-CH2OH-COOH (N monomethylol derivatives)`
+        `R-CHNH-CH2OH-COOH + H-C-H=O → R-CHN(CH2OH)2-COOH (N dimethylol derivatives)`
+    *   **c) Reaction with benzaldehyde (Schiff's base are formed):**
+        `R-CH-COOH + C6H5-CHO → R-CH-COOH + H2O`
+        `|`                      `|`
+        `NH2`                    `N=HC-C6H5`
+    *   **d) Reaction with nitrous acid:** The amino acids react with HNO2 to liberate N2 and to produce the corresponding α-hydroxy alcohol.
+        `R-CH-COOH + HNO2 → R-CH-COOH + N2 + H2O`
+        `|`                      `|`
+        `NH2`                    `OH`
+    *   **f) Reaction with acylating agents (acylation):** Acylation is brought about by many acid chlorides.
+        `R-CH-COOH + CH3COCl → R-CH-COOH + N2 + HCl`
+        `|`                        `|`
+        `NH2`                      `NH-COCH3`
+
+*   **4) Reaction involving both COOH and NH2 groups:**
+    *   **a) Ninhydrin test:** It is powerful oxidizing agent and causes oxidative decarboxylation of α-amino acids producing CO2, NH3 and aldehyde with one less carbon atom than the parent amino acids. The reduced Ninhydrin then react with the liberated NH3 forming blue colored complex.
+
+---
+
+### **Part 3: Factors Affecting Protein Stability**
+*(From Image 3)*
+
+Proteins are relatively fragile molecules that are susceptible to denaturation (loss of structure due to unfolding) during characterization and purification. Main factors that affect protein stability include:
+
+1.  **High temperature** – Higher temperatures increase kinetic energy, which causes molecules to vibrate rapidly and forcefully. This results in a disruption of the hydrogen bonds and other nonpolar hydrophobic interactions, leading to the denaturation of the protein. Maintaining optimum temperature can keep proteins stable and minimize temperature-induced denaturation.
+2.  **Protease Activity** – Proteolytic enzymes known as proteases are released into the buffer environment during cellular disruption. These proteases cleave the protein, resulting in loss of stability and protein denaturation. Protease activity can be reduced and protein stability can be maintained by using rapid purification procedures, keeping the protein solutions on ice or adding protease inhibitors to the buffer.
+3.  **Freeze-Thaw** – When the solution is frozen for storage and then thawed for use, the freeze-thawing causes multiple disturbances. It disrupts the natural conformation of protein. It also interferes with the precipitation and pH variation of buffer components. All of these factors contribute to loss of stability and protein denaturation. Adding glycerol to the buffer and storing in aliquots can help.
+4.  **Presence of heavy metals** – Heavy metal salts are ionic. They interfere with salt bridges in protein and react with proteins resulting in insoluble metal protein salt. Including EDTA buffers reduces the denaturation of proteins by containing the heavy metals, preventing them from coming in contact with proteins.
+5.  **Oxidation** – Proteins become unstable when they are oxidized. Adding strong reducing agents such as DTT in buffers can help prevent protein denaturation due to oxidation.
+6.  **Dilution Effects** – Diluting the solution can affect protein stability. Dilution induced denaturation can be prevented by maintaining protein concentrations at &gt; 1 mg/ml.
+
+---
+
+### **Part 4: Denaturation and Chemical Properties**
+*(From Image 4)*
+
+**Denaturing agents:**
+*   **Physical:** High temperature, high pressure, X-ray, ultraviolet rays-mechanical agitation.
+*   **Chemical:** Strong acids, strong alkalies organic solvents, heavy metals
+
+**Results of denaturation**
+*   **Physical:**
+    *   Decrease solubility, increase viscosity and can not be crystallized.
+*   **Chemical:**
+    *   Unfolding of the protein molecule.
+    *   Destruction of some subsidiary hydrogen bonds.
+    *   Exposure of some groups as (SH) of cystiene.
+*   **Biological:**
+    *   Loss of activity, if it is hormone or enzyme.
+    *   Loss of antigen antibody reaction (allergic manifestation). Easily digested.
+
+**Chemical properties**
+**Colour reactions of proteins**
+1.  The colour reactions of proteins are of importance in the qualitative detection and quantitative estimation of proteins and their constituent amino acids.
+2.  Biuret test is extensively used as a test to detect proteins in biological materials.
+
+**Biuret reaction**
+A compound, which is having more than one peptide bond when treated with Biuret reagent, produces a violet colour.
+This is due to the formation of coordination complex between four nitrogen atoms of two polypeptide chains and one copper atom.
+*(Note: Diagram shows "Violet coloured coordination complex" with Copper atom and peptide bonds)*
+
+**Xanthoproteic reaction**
+Addition of concentrated nitric acid to protein produces yellow colour on heating, the colour changes to orange when the solution is made alkaline. This is due to the nitration of the phenyl rings of aromatic amino acids.
+
+**Hopkins-Cole reaction**
+Indole ring of tryptophan reacts with glacial acetic acid in the presence of concentrated sulphuric acid and forms a purple coloured product.
+
+**Hydrolysis:**
+*   **a) By acidic agents-** Proteins up on hydrolysis with concentrated HCl at 100- 110°C for 6 to 20 hours yield amino acid in the form of their hydrochlorides.
+*   **b) By alkaline agents –** Proteins may also be hydrolyzed by 2N NaOH.
+*   **c) By proteolytic enzymes-** Certain proteolytic enzymes like pepsin and trypsin hydrolyze the proteins under certain conditions of temperature and acidity.</md></sn>
   <config>
     <tags>#05.reaction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 02 2026 09:22:05 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 03 2026 07:48:20 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-GjTu7nCg5K</id>
     <duration></duration>
   </config>
