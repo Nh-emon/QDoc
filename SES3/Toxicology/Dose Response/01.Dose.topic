@@ -3,33 +3,50 @@
 
 The science of toxicology is based on the principle that there is a ++relationship++ between a `toxic reaction` (*the response*) and the `amount of poison received` (*the dose*).
 
-&gt; #### "The right dose differentiates a poison from a remedy."
+&gt; #### The right dose differentiates a poison from a remedy.
 &gt; *Paracelsus*
 
-:::.box bg-red .my-2
-**What Is a Dose?**
-In toxicology, a dose refers to the `quantity of a substance` that an `organism is exposed` to. 
-:::
-
-- But simply saying "10 milligrams of chemical X" doesn't tell us much on its own. A 10 mg exposure will affect a mouse very differently than a human adult. That's why dose is almost always `expressed relative to body weight` – most commonly as `milligrams of substance per kilogram of body weight` (++mg/kg++).
- [see](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose_diff_in_organism.png)
-
-- **Important Assumptions in the Dose-Response Relationship**
-	1. There is always a ++dose below++ which `no response occurs` or can be measured.
-	2. Once a ++maximum response++ is reached, any `further increases` in the dose will not result in any increased effects.
-    [see](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose-response-graph1.png)
-
-- **Dose-Response Connection**
-	A basic idea in toxicology and pharmacology, the dose-response connection denotes the `quantitative link between an organism's biological response and the dose of a drug` that is supplied or encountered.Knowing the dose-response connection is crucial for 
-	- evaluating risks, 
-	- establishing exposure limits, and 
-	- directing regulatory choices, regardless of whether one is examining the toxicity of environmental contaminants or the therapeutic efficacy of pharmaceuticals.
 </md></sn>
   <config>
     <tags>#01.dose</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 08 2026 19:06:36 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Sun Nov 08 2026 19:40:03 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-uhtgY17A5k</id>
     <duration></duration>
   </config>
+<sn><md>#### What Is a Dose?
+
+&gt; In toxicology, a dose refers to the `quantity of a substance` that an `organism is exposed` to. 
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose_diff_in_organism.png)
+
+But simply saying "10 milligrams of chemical X" doesn't tell us much on its own. A 10 mg exposure will affect a mouse very differently than a human adult. That's why dose is almost always `expressed relative to body weight` – most commonly as `milligrams of substance per kilogram of body weight` (++mg/kg++).
+
+</md></sn><sn><md>#### Important Assumptions in the Dose-Response Relationship
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose-response-graph1.png)
+
+1. There is always a ++dose below++ which `no response occurs` or can be measured.
+2. Once a ++maximum response++ is reached, any `further increases` in the dose will not result in any increased effects.
+</md></sn><sn><md>### Dose-Response Connection
+A basic idea in toxicology and pharmacology, the dose-response connection denotes the `quantitative link between an organism's biological response and the dose of a drug` that is supplied or encountered.Knowing the dose-response connection is crucial for 
+- evaluating `risks`, 
+- establishing `exposure limits`, and 
+- directing regulatory choices, regardless of whether one is examining the toxicity of environmental contaminants or the therapeutic efficacy of pharmaceuticals.
+</md></sn><sn><md>### Expressing Dose 
+
+**LD50**
+
+The LD50, for instance, is expressed as the `weight of chemical` administered `per kilogram body weight` of the test animal, along with the species and route of exposure used. So an LD50 (oral, rat) of **5 mg/kg** means that 5 milligrams per kilogram of body weight `caused death in half the tested rat population`.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/ld50_diagram.png)
+</md></sn><sn><md>### Types of Dose
+
+It's important to distinguish between different types of dose:
+
+- **Administered dose** – the `total amount` of a substance given to an organism.
+- **Absorbed dose** – the `portion` that `actually enters` the bloodstream and reaches target tissues.
+- **Total dose** – the quantity of a substance administered to an individual `over a period of time` or in several individual doses, which is particularly important when `evaluating cumulative poisons`.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/types_of_dose_diagram.png)</md></sn>
