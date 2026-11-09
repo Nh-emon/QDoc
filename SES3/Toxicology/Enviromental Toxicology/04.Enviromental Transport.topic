@@ -9,12 +9,12 @@ Environmental transport determines the `spatial distribution and movement` of to
 
 2. **Aquatic Transport:** Water-soluble contaminants migrate through `surface runoff`, `leaching` into groundwater, and `advective flow` in rivers and oceans. Aquatic partitioning depends heavily on `water solubility` and `suspended sediment binding`.
 
-3. **Terrestrial &amp; Sediment Partitioning:** Hydrophobic toxicants adsorb tightly to soil organic carbon and sediment matrices, serving as long-term reservoirs for benthic and soil-dwelling organisms.</md></sn>
+3. **Terrestrial &amp; Sediment Partitioning:** ++Hydrophobic toxicants++ adsorb tightly to `soil organic carbon` and sediment matrices, `serving as long-term reservoirs` for benthic and soil-dwelling organisms.</md></sn>
   <config>
     <tags>#04.enviromental transport</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 18:45:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 19:01:32 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-c2COV5eRon</id>
     <duration></duration>
   </config>
