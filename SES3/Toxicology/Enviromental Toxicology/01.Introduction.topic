@@ -1,10 +1,74 @@
 
-  <sn></sn>
+  <sn><md>### Environmental Toxicology
+
+Environmental toxicology is a multidisciplinary science concerned with the study of the `adverse effects of chemical, physical, and biological` agents on living organisms, human health, and the structure and function of ecosystems.
+
+It represents a hybrid of:
+- Pharmacology
+- Biochemistry
+- Ecology
+- Analytical chemistry
+- Pathology
+
+Its aim is to quantify health-threatening effects in order to detect, treat, and prevent ecological and human health damage.
+</md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 12:51:22 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 14:19:18 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-kRqDrJ9FSD</id>
     <duration></duration>
   </config>
+<sn><md>### Historical Background
+- Toxicology dates back to ancient studies of `poisons`.
+- **Modern environmental toxicology** emerged in the `mid-20th` century.
+- [Rachel Carson](https://upload.wikimedia.org/wikipedia/commons/f/f4/Rachel-Carson.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original) is widely regarded as the `pioneer of environmental toxicology` following the publication of her seminal 1962 book *Silent Spring*, which detailed the catastrophic ecological impacts of unregulated pesticide use (drawing heavily on Lucille Farrier Stickel's pioneering research on DDT).
+
+</md></sn><sn><md>### Scope of Environmental Toxicology
+The primary scope encompasses:
+
+I. Characterizing the environmental `fate, transport, and transformation` of contaminants.
+II. Evaluating `biological impacts` across hierarchical levels (from molecular lesions to whole ecosystems).
+III. Providing objective scientific data to guide `environmental management, risk assessment, exposure limits, and regulatory policy`.
+
+</md></sn><sn><md>### Core Principles and Concepts
+
+Several foundational principles govern environmental toxicology:
+
+1. **Hazard vs. Risk**
+   - *Hazard*: the `intrinsic physical or chemical capability of a substance` to cause harm, inherent to its chemical structure.
+   - *Risk*: the probability that `harm will manifest under specific environmental` exposure conditions; depends on exposure duration, dose, and biological susceptibility.
+
+2. **Ecosystem Health and Displacement**
+   - **Ecosystem integrity** is evaluated through `taxonomic diversity, productivity, and nutrient cycling`.
+   - Environmental impact occurs when `anthropogenic stress displaces an ecosystem's structure or function` permanently or beyond its normal range of recovery.
+
+3. **Lab-to-Field Dilemma**
+   - One of the main methodological challenges in ecotoxicology is translating reproducible, standardized, single-species `laboratory data into accurate predictions of complex effects` in natural ecosystems, where temporal, spatial, and biotic variations exist.
+
+4. **Safety Factors and Extrapolation**
+   - Because human testing of environmental toxins is `unethical, safety factors` (typically a default interspecies factor of 0.1 × 10 times) are applied to extrapolate laboratory animal data (e.g., EC50 or NOAEL) to safe human exposure thresholds.
+
+
++++ read in bengali
+
+পরিবেশগত টক্সিকোলজি (Environmental Toxicology)-এর মূল নীতি ও ধারণাগুলোর একটি সহজ ও সংক্ষিপ্ত সারসংক্ষেপ নিচে দেওয়া হলো:
+১. বিপদ (Hazard) বনাম ঝুঁকি (Risk)
+
+* **Hazard:** কোনো পদার্থের ক্ষতি করার অন্তর্নিহিত রাসায়নিক বা শারীরিক ক্ষমতা।
+* **Risk:** নির্দিষ্ট পরিবেশগত পরিস্থিতিতে সেই ক্ষতি বাস্তবে ঘটার সম্ভাবনা, যা মূলত সংস্পর্শের সময়কাল, মাত্রা (dose) এবং জৈবিক সংবেদনশীলতার ওপর নির্ভর করে।
+
+২. পরিবেশতন্ত্রের স্বাস্থ্য ও পরিবর্তন (Ecosystem Health and Displacement)
+
+* পরিবেশতন্ত্রের অখণ্ডতা (integrity) ট্যাক্সোনমিক বৈচিত্র্য, উৎপাদনশীলতা এবং পুষ্টি চক্রের মাধ্যমে মূল্যায়ন করা হয়।
+* মানুষের কারণে সৃষ্ট চাপ যখন পরিবেশতন্ত্রের স্বাভাবিক গঠন বা কার্যকারিতাকে তার স্বাভাবিক পুনরুদ্ধার ক্ষমতার বাইরে স্থায়ীভাবে বদলে দেয়, তখনই পরিবেশগত বিপর্যয় ঘটে।
+
+৩. ল্যাব থেকে মাঠ পর্যায়ের চ্যালেঞ্জ (Lab-to-Field Dilemma)
+
+* পরীক্ষাগারের নিয়ন্ত্রিত ও একক প্রজাতির ডেটাকে প্রাকৃতিক পরিবেশের জটিল, পরিবর্তনশীল এবং বহুমাত্রিক পরিস্থিতিতে নিখুঁতভাবে অনুমান করা ecotoxicology-র অন্যতম প্রধান চ্যালেঞ্জ।
+
+৪. নিরাপত্তা ফ্যাক্টর ও এক্সট্রাপোলেশন (Safety Factors and Extrapolation)
+* মানুষের ওপর বিষাক্ত পদার্থের পরীক্ষা চালানো অনৈতিক হওয়ায়, ল্যাবরেটরির প্রাণীর ডেটা (যেমন- EC50 বা NOAEL) থেকে মানুষের জন্য নিরাপদ মাত্রা নির্ধারণে নির্দিষ্ট 'নিরাপত্তা ফ্যাক্টর' ব্যবহার করা হয়।
+
++++</md></sn>
