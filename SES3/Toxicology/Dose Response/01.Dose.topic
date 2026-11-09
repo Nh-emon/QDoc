@@ -15,7 +15,7 @@ quote
     <tags>#01.dose</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 08:42:45 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 09:12:51 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-uhtgY17A5k</id>
     <duration></duration>
   </config>
@@ -46,7 +46,8 @@ A basic idea in toxicology and pharmacology, the dose-response connection denote
 
 **LD50**
 
-The LD50, for instance, is expressed as the `weight of chemical` administered `per kilogram body weight` of the test animal, along with the species and route of exposure used. So an LD50 (oral, rat) of **5 mg/kg** means that 5 milligrams per kilogram of body weight `caused death in half the tested rat population`.
+- The LD50, for instance, is expressed as the `weight of chemical` administered `per kilogram body weight` of the test animal, along with the ++species++ and ++route++ of exposure used. 
+- So an LD50 (oral, rat) of **5 mg/kg** means that 5 milligrams per kilogram of body weight `caused death in half the tested rat population`.
 
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/ld50_diagram.png)
 </md></sn><sn><md>### Types of Dose
@@ -57,4 +58,5 @@ It's important to distinguish between different types of dose:
 - **Absorbed dose** – the `portion` that `actually enters` the bloodstream and reaches target tissues.
 - **Total dose** – the quantity of a substance administered to an individual `over a period of time` or in several individual doses, which is particularly important when `evaluating cumulative poisons`.
 
-![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/types_of_dose_diagram.png)</md></sn>
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/types_of_dose_diagram.png)
+[diagram](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/types_of_dose_flowchart.jpeg)</md></sn>
