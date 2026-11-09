@@ -3,15 +3,19 @@
 
 The science of toxicology is based on the principle that there is a ++relationship++ between a `toxic reaction` (*the response*) and the `amount of poison received` (*the dose*).
 
-&gt; #### The right dose differentiates a poison from a remedy.
+&gt; #### The *right dose* differentiates a `poison` from a `remedy`.
 &gt; *Paracelsus*
 
+```
+toxicology = dose + response relationship
+quote
+```
 </md></sn>
   <config>
     <tags>#01.dose</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Sun Nov 08 2026 19:40:03 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 08:42:45 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-uhtgY17A5k</id>
     <duration></duration>
   </config>
@@ -23,14 +27,18 @@ The science of toxicology is based on the principle that there is a ++relationsh
 
 But simply saying "10 milligrams of chemical X" doesn't tell us much on its own. A 10 mg exposure will affect a mouse very differently than a human adult. That's why dose is almost always `expressed relative to body weight` – most commonly as `milligrams of substance per kilogram of body weight` (++mg/kg++).
 
-</md></sn><sn><md>#### Important Assumptions in the Dose-Response Relationship
+```
+dose = quantity of substance
+same dose diff effect on diff organsim
+expressed relative to body weight mg/kg
+```</md></sn><sn><md>#### Important Assumptions in the Dose-Response Relationship
 
 ![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose-response-graph1.png)
 
 1. There is always a ++dose below++ which `no response occurs` or can be measured.
 2. Once a ++maximum response++ is reached, any `further increases` in the dose will not result in any increased effects.
 </md></sn><sn><md>### Dose-Response Connection
-A basic idea in toxicology and pharmacology, the dose-response connection denotes the `quantitative link between an organism's biological response and the dose of a drug` that is supplied or encountered.Knowing the dose-response connection is crucial for 
+A basic idea in toxicology and pharmacology, the dose-response connection denotes the ++quantitative link++ between an `organism's biological response and the dose of a drug` that is supplied or encountered.Knowing the dose-response connection is crucial for 
 - evaluating `risks`, 
 - establishing `exposure limits`, and 
 - directing regulatory choices, regardless of whether one is examining the toxicity of environmental contaminants or the therapeutic efficacy of pharmaceuticals.
