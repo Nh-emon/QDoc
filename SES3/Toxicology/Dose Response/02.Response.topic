@@ -1,10 +1,108 @@
 
-  <sn></sn>
+  <sn><md>### What is a Response?
+
+A toxic effect is `any change from the normal state`. Responses can be described along several independent
+axes:
+
+- **Level**: molecular, cellular, organ or organism level
+- **Site**: local or systemic
+- **Reversibility**: reversible or irreversible
+- **Onset**: immediate or delayed
+- **Measurement**: graded or quantal
+</md></sn>
   <config>
     <tags>#02.response</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 09:35:47 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 09:59:59 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-xeIQkZLDK6</id>
     <duration></duration>
   </config>
+<sn><md>### Types of Dose-Response Relationships
+
+There are **two main types** of dose-response relationships:
+
++++ bengali
+
+ফার্মাকোলজি বা ঔষধবিজ্ঞানে **ডোজ-রেসপন্স সম্পর্ক (Dose-Response Relationship)** হলো ওষুধের মাত্রা (Dose) এবং এর ফলে শরীরে তৈরি হওয়া জৈবিক প্রতিক্রিয়ার (Response) মধ্যকার সম্পর্ক। এটি মূলত দুই প্রধান ভাগে বিভক্ত: **গ্রেডেড (Graded)** এবং **কোয়ান্টাল (Quantal)** ডোজ-রেসপন্স।
+
+নিচে এদের বিস্তারিত ব্যাখ্যা দেওয়া হলো:
+
+---
+
+##### ১. গ্রেডেড ডোজ-রেসপন্স (Graded Dose-Response)
+
+**সংজ্ঞা:**
+গ্রেডেড ডোজ-রেসপন্স হলো এমন একটি সম্পর্ক যেখানে ওষুধের মাত্রা (Dose) বৃদ্ধির সাথে সাথে কোনো একক ব্যক্তি বা টিস্যুতে প্রতিক্রিয়ার মাত্রা (Magnitude of response) ক্রমান্বয়ে বা ক্রমাগত (continuously) বৃদ্ধি পেতে থাকে।
+
+**প্রধান বৈশিষ্ট্যসমূহ:**
+
+* **একক সত্তাভিত্তিক:** এটি সাধারণত একজন ব্যক্তি, একটি অঙ্গ (Organ) বা একটি বিচ্ছিন্ন টিস্যুর ওপর পরীক্ষা করা হয়।
+* **অবিচ্ছিন্ন পরিবর্তন:** প্রতিক্রিয়াটি ক্রমাগত পরিবর্তনশীল। যেমন—রক্তচাপ কত মিলিমিটার মার্কারি কমল, বা হৃদস্পন্দন প্রতি মিনিটে কতটা বাড়ল বা কমল তা মাপা যায়।
+* **মূল প্যারামিটারসমূহ:**
+* **$E_{max}$ (Maximum Effect):** ওষুধের সর্বোচ্চ কার্যকারিতা বা মাত্রা। এরপরে ডোজ বাড়ালেও আর বেশি প্রতিক্রিয়া পাওয়া যায় না।
+* **$EC_{50}$ (Effective Concentration 50%):** যে পরিমাণ ঘনত্বে বা ডোজে সর্বোচ্চ প্রতিক্রিয়ার অর্ধেক (৫০%) অর্জিত হয়।
+
+
+
+---
+
+##### ২. কোয়ান্টাল ডোজ-রেসপন্স (Quantal Dose-Response)
+
+**সংজ্ঞা:**
+কোয়ান্টাল ডোজ-রেসপন্স হলো এমন একটি সম্পর্ক যা একটি নির্দিষ্ট **জনগোষ্ঠী বা পপুলেশনের** ওপর ওষুধের প্রভাব মূল্যায়ন করে। এটি "সব বা কিছুই নয়" (All-or-none) নীতির ওপর ভিত্তি করে তৈরি—অর্থাৎ নির্দিষ্ট মাত্রার ওষুধে কোনো কাঙ্ক্ষিত প্রভাব (যেমন নিরাময়) ঘটেছে কি না, কিংবা বিষক্রিয়া বা মৃত্যু ঘটেছে কি না (হ্যাঁ বা না)।
+
+**প্রধান বৈশিষ্ট্যসমূহ:**
+
+* **জনগোষ্ঠীভিত্তিক:** এটি পুরো জনসংখ্যার ওপর ওষুধের শতকরা হার বা সম্ভাব্যতা (Probability) প্রকাশ করে।
+* **বাইনারি ফলাফল:** প্রতিক্রিয়াটি গ্রেডেড বা ক্রমবর্ধমান নয়; রোগী সুস্থ হয়েছে অথবা হয়নি—এমন দ্বিমুখী ফলাফলের ভিত্তিতে এটি পরিসংখ্যানগতভাবে মাপা হয়।
+* **মূল প্যারামিটারসমূহ:**
+* **$ED_{50}$ (Median Effective Dose):** যে মাত্রায় ৫০% জনসংখ্যার মধ্যে কাঙ্ক্ষিত থেরাপিউটিক বা উপকারী প্রভাব দেখা যায়।
+* **$LD_{50}$ (Median Lethal Dose):** যে মাত্রায় পরীক্ষামূলক প্রাণীর ৫০% মারা যায় (বিষাক্ততার ক্ষেত্রে ব্যবহৃত হয়)।
+* **থেরাপিউটিক ইনডেক্স (Therapeutic Index - TI):** ওষুধের নিরাপত্তা পরিমাপের সূচক, যা সাধারণত $LD_{50}$ এবং $ED_{50}$ এর অনুপাত ($\frac{LD_{50}}{ED_{50}}$) দিয়ে হিসাব করা হয়।
+
+
+
+---
+
+##### এক নজরে তুলনা
+
+| বৈশিষ্ট্য | গ্রেডেড ডোজ-রেসপন্স (Graded) | কোয়ান্টাল ডোজ-রেসপন্স (Quantal) |
+| --- | --- | --- |
+| **পর্যবেক্ষণ ক্ষেত্র** | একক ব্যক্তি, টিস্যু বা কোষ | একটি সম্পূর্ণ জনগোষ্ঠী বা পপুলেশন |
+| **প্রতিকryার প্রকৃতি** | অবিচ্ছিন্ন ও পরিমাপযোগ্য (Continuous) | "সব বা কিছুই নয়" বা হ্যাঁ/না (All-or-none) |
+| **মূল প্রশ্ন** | ওষুধের মাত্রা বাড়লে প্রতিক্রিয়া কতটা বাড়ে? | কত শতাংশ মানুষের ওপর ওষুধটি কাজ করল বা পার্শ্বপ্রতিক্রিয়া দেখাল? |
+| **উদাহরণ** | রক্তচাপ হ্রাস, পেশীর সংকোচন | নিরাময় বনাম অনিরাময়, খিঁচুনি হওয়া বা না হওয়া |
+
++++
+
+:::.row
+:::.col-12 .col-lg-6
+**Graded Dose-Response**
+- Measures the `increasing intensity of effect` within a **single organism or biological system** as the ++dose rises++.
+- **Example:** Progressively higher doses of a muscle relaxant produce progressively greater relaxation in a single tissue sample.
+- Frequently used to determine the `mechanism of interaction` between the *chemical and the biological* system.
+:::
+
+:::.col-12 .col-lg-6
+**Quantal Dose-Response**
+- Measures the `percentage of a population` that exhibits a specific **all-or-nothing response** (such as death or convulsion) at each dose level.
+- Describes the `distribution of responses` in a population of individuals given different doses.
+- Can also be used to `detect genetic variations` in response.
+:::
+:::
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/graded_and_quantal_response.png)
+
+</md></sn><sn><md>#### Critical Values Derived from Dose-Response Data
+
+From dose-response data, toxicologists derive several critical values:
+
+| Value | Definition |
+|-------|------------|
+| **ED50** | The dose that produces the **desired effect** in 50% of the test population |
+| **LD50** | The dose **lethal** to 50% of the test population |
+
+**Notes on LD50:**
+- Usually expressed in **milligrams of chemical per kilogram of body weight (mg/kg)**
+- A chemical with a **small LD50** (e.g., 5 mg/kg) is considered **very highly toxic**</md></sn>
