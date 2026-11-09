@@ -1,10 +1,93 @@
 
-  <sn></sn>
+  <sn><md>### Classification and Sources of Toxic Substances
+
+Introduction
+- **Toxic agents** are substances that can have a `negative biological effect` and can be **biological, physical, or chemical**.
+- They can be classified based on the classifier's `interests and needs`; the best rating system may be a **combination of categorization systems** based on diverse features.
+- **Exposure characteristics** are also useful in toxicology, as they can be classified in various ways, including biological, physical, or chemical.
+- Therefore, **no single classification system** can cover the entire range of dangerous compounds.
+</md></sn>
   <config>
     <tags>#02.classification and sources</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 12:51:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 15:31:20 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-MxkAaL31Zc</id>
     <duration></duration>
   </config>
+<sn><md>#### Based on `Sources`
+
+![toxicant_based_on_source](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_source.jpeg)
+
+- Plant toxins
+- Animal toxicants
+- Mineral toxicants
+- Synthetic toxicants
+- Physical or mechanical agents
+
+</md></sn><sn><md>#### Based on Physical State
+
+![toxicant_based_on_state](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_state.jpeg)
+
+- Gaseous toxicants
+- Liquid toxicants
+- Solid toxicants
+- Dust toxicants
+</md></sn><sn><md>#### Based on Target Organ
+
+![toxicant_based_on_organ](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_organ.jpeg)
+
+- Neurotoxicants
+- Hepatotoxicants
+- Nephrotoxicants
+- Pulmotoxicants
+- Hematotoxicants
+- Dermatotoxicants
+- Development and reproductive toxicants
+</md></sn><sn><md>#### Based on Chemical Nature/Structure
+
+![toxicant_based_on_chemical_nature](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_chemical_nature.jpeg)
+
+- Metals
+- Nonmetals
+- Organic toxicants (carbon compounds other than oxides of carbon, the carbonates, and metallic carbides and cyanides)
+</md></sn><sn><md>#### Based on Analytical Behavior
+
+![toxicant_based_on_analytical_behavior](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_analytical_behavior.jpeg)
+
+- Volatile toxicants
+- Extractive toxicants
+- Metals and metalloids
+</md></sn><sn><md>#### Based on Type
+
+![toxicant_based_on_level](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_level.jpeg)
+
+- Acute
+- Subacute
+- Chronic
+</md></sn><sn><md>#### Based on Toxic Effects
+
+![toxicant_based_on_effect](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_effect.jpeg)
+
+- Carcinogens
+- Mutagens
+- Teratogens
+- Clastogens
+</md></sn><sn><md>#### Based on Their Uses
+
+![toxicant_based_on_usage](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_usage.jpeg)
+
+- Insecticides
+- Fungicides
+- Herbicides
+- Rodenticides
+- Food additives
+</md></sn><sn><md>#### Based on Symptoms Produced
+
+![toxicant_based_on_symptoms](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/toxicant_based_on_symptoms.jpeg)
+
+- Corrosive poisons
+- Irritant poisons
+- Systemic poisons
+- Miscellaneous poisons
+</md></sn>
