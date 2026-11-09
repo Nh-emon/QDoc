@@ -1,10 +1,17 @@
 
-  <sn></sn>
+  <sn><md>### Xenobiotics and Endogenous Substances
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/xenobiotics.jpeg)
+
+**Xenobiotics:** Any `foreign chemical compound` introduced into an organism that is ++not naturally produced or expected++ to be present within its normal metabolic pathways (e.g., synthetic pesticides, halogenated industrial solvents, microplastics).
+
+**Endogenous Substances:** Molecules that are `naturally synthesized` within the biological system (e.g., hormones, neurotransmitters, metabolic substrates like glutamate). 
+Endogenous molecules can ++elicit++ toxicity if their `internal concentrations are dysregulated` or if endocrine-disrupting xenobiotics mimic their molecular structures and bind to their natural physiological receptors.</md></sn>
   <config>
     <tags>#05.xenobiotics and endogenous substances</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 12:52:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Mon Nov 09 2026 19:10:03 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-d4kzdHUAVn</id>
     <duration></duration>
   </config>
