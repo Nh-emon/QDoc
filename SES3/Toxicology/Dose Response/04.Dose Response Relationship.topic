@@ -1,10 +1,54 @@
 
-  <sn></sn>
+  <sn><md>### Dose–Response Relationship
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/dose_response_graph.jpeg)
+
+**What a dose–response graph shows**
+A dose–response graph shows how `a measured drug effect changes as the dose changes`.
+
+- **X-axis:** `Dose`, often shown on a `logarithmic scale` such as **log₁₀ dose**
+- **Y-axis:** `Measured response`  
+
+Because ++drug effects++ depend on both `dose and time`, the relationship is usually assessed at a `fixed time or under stable conditions`. The effect may be measured when it reaches `its peak` or, for example, during a continuous intravenous infusion.
+
+Drug effects can be assessed at the `molecular, cellular, tissue, organ, organ-system, or whole-organism` level.
+
+
+---
+
+#### Main features of a dose–response curve
+
+- **Potency:** The `dose needed to produce a particular response`. It is reflected by the curve’s position along the dose axis.
+- **Maximal efficacy:** The `greatest response` the drug can produce, also called the `ceiling effect`.
+- **Slope:** How much the `response changes for a given change in dose`. delta y/x
+
+A typical `curve rises as the dose increases` and eventually `levels off at the maximal` response. The shape and features of dose–response curves can vary.
+
+---
+
+#### Biological variation
+
+People in the `same population may respond differently to the same dose` of a drug. Comparing dose–response curves for `different medicines under the same conditions` can help evaluate their pharmacological characteristics.
+
+---
+
+#### Dose–toxicity relationship
+A relationship between `dose and toxicity` is expected, but it can be complex and may not always be obvious. It depends on the `processes involved` and on how `sensitive adverse effects are` to drug concentration and exposure time.
+
+Medicines and chemicals can cause harm in many settings, including:
+
+- Workplace exposure
+- Drug addiction
+- Acute overdose
+- Unintentional poisoning
+- Routine therapeutic use
+
+Under `well-controlled` conditions, dose–toxicity relationships for particular side effects can often be established. These assessments are an important part of early evaluation of new treatments and clinical trials. Broader clinical experience can also inform treatment guidelines, including guidance for very old patients.</md></sn>
   <config>
     <tags>#04.dose response relationship</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 10 2026 08:24:32 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 08:35:39 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-7wcWaz6FtO</id>
     <duration></duration>
   </config>
