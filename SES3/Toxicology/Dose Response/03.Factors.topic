@@ -1,39 +1,35 @@
 
-  <sn><md>### Factors Influencing Dose-Response
+  <sn><md>### Factors Influencing the Dose–Response Relationship
 
-Several factors influence the `shape, magnitude, and variability` of the dose-response relationship:
+Several factors can affect the **shape, magnitude, and variability** of a dose–response relationship.
 
-- chemical properties of the substance
-- route of exposure
+- chemical properties of the substances
+- routes of exposure
 - duration and frequency of exposure
-- metabolic actication and biotransformation
-- individual `succeptibility and variability`
+- metabolic activiation and biotranformation
+- individual susceptibility and variability
 
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/factor_affecting_dose_response_relationship.jpeg)
 
-##### 1. Chemical Properties of the Substance
-*   The absorption, distribution, metabolism, and elimination kinetics of a substance can be influenced by its physicochemical qualities, such as `molecular size, polarity, solubility, stability, and bioavailability`.
-*   These characteristics may also have an effect on the dose-response relationship.
+1. **Chemical Properties of the Substance**  
+   Physicochemical properties—such as `molecular size, polarity, solubility, stability, and bioavailability`—can influence a substance’s `absorption, distribution, metabolism, and elimination`. These properties may therefore affect the dose–response relationship.
 
-##### 2. Route of Exposure
-*   The `exposure route` determines where a chemical `enters` the body, where it is `absorbed, distributed, and metabolized`.
-*   Different exposure routes, such as `parenteral` administration, `cutaneous` contact, `inhalation`, or `oral` ingestion, may result in varying dose-response profiles and systemic effects.
+2. **Route of Exposure**  
+   The route determines how a substance enters the body and can influence where it is `absorbed, distributed, and metabolized`. `Parenteral administration, skin contact, inhalation, and oral ingestion` may produce different dose–response `patterns and systemic effects`.
 
-##### 3. Duration and Frequency of Exposure
-*   The `cumulative dose`, the `temporal pattern` of exposure, and the possibility of adaptive or compensatory responses are all determined by exposure duration and frequency.
-*   Intermittent or short-term exposures may have an impact on the dose-response relationship because they elicit different reactions than continuous or long-term exposures.
+3. **Duration and Frequency of Exposure**  
+   Exposure duration and frequency affect cumulative dose, the timing of exposure, and the possibility of `adaptive or compensatory responses`. Intermittent or `short-term exposure` may produce different effects from `continuous or long-term exposure`.
 
-##### 4. Metabolic Activation and Biotransformation
-*   Phase *I and II* enzymes can change a `drug's toxicity and bioavailability` via metabolic activation or detoxification.
-*   The dose-response relationship may change if metabolites have differing `pharmacokinetic and pharmacodynamic properties` from the parent substance.
+4. **Metabolic Activation and Biotransformation**  
+   Phase I and Phase II enzymes can activate a substance or detoxify it, changing its `toxicity and bioavailability`. The dose–response relationship may also change when metabolites have different `pharmacokinetic or pharmacodynamic properties` from the original substance.
 
-##### 5. Individual Susceptibility and Variability
-*   Individual sensitivity to the chemical can vary depending on `heredity, age, gender, nutritional state, health status, and environmental factors`.
-*   Certain people may be more sensitive or resistant to the substance's effects due to `previous exposures, pre-existing conditions, or genetic polymorphisms`.</md></sn>
+5. **Individual Susceptibility and Variability**  
+   Sensitivity can vary according to `heredity, age, sex, nutritional state, health status, and environmental factors`. Previous exposure, pre-existing conditions, and genetic polymorphisms may also make some people more sensitive or more resistant to a substance.</md></sn>
   <config>
     <tags>#03.factors</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 12:22:34 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 09:32:38 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-6TisfudfIe</id>
     <duration></duration>
   </config>
