@@ -1,10 +1,40 @@
 
-  <sn></sn>
+  <sn><md>### Classification of Chemical Carcinogens
+
+Chemical carcinogens are broadly classified as **genotoxic** or **non-genotoxic**, based on how they `contribute to cancer development`.
+
+- Genotoxic
+- Non-genotoxic
+</md></sn>
   <config>
     <tags>#03. classification of chemical carcinogenesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 10 2026 10:52:25 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 10:58:55 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-2rDJpfyQbN</id>
     <duration></duration>
   </config>
+<sn><md>#### Genotoxic Carcinogens
+
+Genotoxic carcinogens `damage genetic material`, either directly or after metabolic activation.
+
+- They can `cause mutations` and `alter genes` involved in cell proliferation, cell death, and DNA repair.
+- Some form `DNA adducts`—chemical attachments to DNA—which can `lead to mutations` if the damage is not repaired.
+- They can act as `initiators` in carcinogenesis.
+
+**Examples:** `DNA-reactive chemicals`.
+
+&gt; **Note:** Some genotoxic carcinogens can act as `complete carcinogens`, but not all do. A complete carcinogen can contribute to both the `initiation and promotion stages`.
+
+</md></sn><sn><md>#### Non-Genotoxic Carcinogens
+
+Non-genotoxic carcinogens generally `do not react directly with DNA` and usually do not form DNA adducts. They may *promote cancer development* by affecting `cell growth, cell death, receptor-mediated responses, or causing chronic tissue injury`.
+
+##### a. Mitogenic carcinogens
+- `Stimulate cell proliferation`, often through interactions with specific cellular receptors.
+- **Examples:** Phorbol esters, dioxins, and phenobarbital.
+
+##### b. Cytotoxic carcinogens
+- `Cause cell injury or death`.
+- The resulting tissue damage may trigger compensatory cell proliferation, known as ++hyperplasia++.
+- **Example:** Chloroform.</md></sn>
