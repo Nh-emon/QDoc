@@ -1,10 +1,30 @@
 
-  <sn></sn>
+  <sn><md>#### Environmental Cancer
+
+Environmental cancer studies the relationship between `environmental factors and cancer`. Key topics include:
+
+1. `Causes` of cancer  
+2. `Stages` in the development of cancer  
+3. `Classification` of carcinogens  
+4. `Metabolism` of chemical carcinogens  
+</md></sn>
   <config>
     <tags>#01.intorudction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 10 2026 10:01:20 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 10:05:33 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-pJzW6hkygJ</id>
     <duration></duration>
   </config>
+<sn><md>### Carcinogenesis
+
+**Carcinogenesis** is the *process* by which `normal cells transform into cancerous cells`. 
+It involves `cellular, genetic, and epigenetic` changes that can lead to tumor formation.
+
+Carcinogenesis occurs in three stages:
+
+1. **Initiation**
+2. **Promotion**
+3. **Progression**
+
+**Carcinogens** are `agents that can induce tumor` formation.</md></sn>
