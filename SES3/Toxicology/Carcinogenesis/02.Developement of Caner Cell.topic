@@ -1,10 +1,63 @@
 
-  <sn></sn>
+  <sn><md>### Development of Cancer Cells
+
+![Stages of carcinogenesis](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/stages_of_carcinogenesis.jpeg)
+
+Cancer develops through three main stages: 
+- initiation 
+- promotion and 
+- progression
+</md></sn>
   <config>
     <tags>#02.developement of caner cell</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 10 2026 10:21:30 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 10:31:42 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-ymYRodGQnU</id>
     <duration></duration>
   </config>
+<sn><md>### Initiation
+
+Initiation begins when a `carcinogen` or a spontaneous event `damages DNA`.
+
+- If the damage is `not repaired before the cell divides`, it may become a ++permanent mutation++.
+- The mutation may `affect genes` that regulate:
+  - Cell proliferation, such as **proto-oncogenes**
+  - Apoptosis (programmed cell death)
+  - DNA repair
+  - Cell differentiation
+- The altered cell is called an ++initiated cell++. It is `not yet` a cancer cell, but it `has taken the first step` toward cancer development.
+
+```
+Sequence:
+Normal cell → DNA damage → permanent mutation → **initiated cell**
+```
+</md></sn><sn><md>### Promotion
+
+During promotion, agents `stimulate the growth` of initiated cells.
+
+- Promoting agents generally do `not directly interact with DNA`.
+- They can `increase cell proliferation` and may `reduce normal apoptosis`.
+- This allows `abnormal cells to multiply` and form a ++preneo-plastic lesion++.
+
+```
+Sequence:
+Initiated cell → increased proliferation and/or reduced apoptosis → clonal expansion → **preneoplastic lesion**
+```
+</md></sn><sn><md>### Progression
+
+During progression, preneoplastic cells acquire `features of malignancy`.
+
+- `Genetic instability` and additional genetic or epigenetic changes develop.
+- Cells may `proliferate` more rapidly and become `less dependent on the original growth stimulus`.
+- They acquire abnormal biochemical, metabolic, and structural characteristics.
+- They may develop the ability to:
+  - `Invade surrounding tissues`
+  - Stimulate `angiogenesis` (formation of new blood vessels)
+  - `Enter the blood or lymphatic system` and spread to other parts of the body (**metastasis**)
+
+```
+Sequence:  
+Preneoplastic cells → further changes → malignant cells → invasion → metastasis
+**Normal cell → Initiation → Promotion → Progression → Malignant tumor**
+```</md></sn>
