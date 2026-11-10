@@ -1,10 +1,34 @@
 
-  <sn></sn>
+  <sn><md># Metabolism of Carcinogens: Brief Summary
+
+1. **Absorption and distribution**  
+   Carcinogens enter through routes such as ingestion, inhalation, or skin contact, then travel to tissues. Their route of entry and chemical properties affect their distribution.
+
+2. **Direct-acting carcinogens**  
+   These can damage DNA directly and do not need metabolic activation.
+
+3. **Indirect-acting carcinogens (procarcinogens)**  
+   These chemicals must be metabolized in the body before they can become carcinogenic.
+
+4. **Biotransformation and activation**  
+   Enzymes—mainly in the liver—can convert procarcinogens into reactive compounds. This can also happen in other tissues.
+
+5. **Proximate and ultimate carcinogens**  
+   A procarcinogen may first become a **proximate carcinogen**, then a highly reactive **ultimate carcinogen**, which can damage DNA.
+
+6. **Activation or detoxification**  
+   Metabolism may activate a chemical or make it safer and easier to eliminate. Cancer risk depends partly on the balance between these processes.
+
+7. **DNA adducts and mutations**  
+   Reactive carcinogens can bind to DNA and form adducts. If the damage is not repaired, it may cause mutations that contribute to cancer.
+
+8. **Individual differences**  
+   Genetic variation can affect how people activate or detoxify carcinogens, leading to differences in susceptibility. Metabolism may also differ between humans and experimental animals.</md></sn>
   <config>
     <tags>#04.metabolism of carcinogen</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Tue Nov 10 2026 11:19:36 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 11:19:46 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-BgjuhLlD3n</id>
     <duration></duration>
   </config>
