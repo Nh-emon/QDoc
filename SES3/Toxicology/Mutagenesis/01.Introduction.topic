@@ -1,10 +1,37 @@
 
-  <sn></sn>
+  <sn><md>### Mutagenesis
+
++++ bn
+
+#### মিউটাজেনেসিস
+
+মিউটাজেনেসিস হলো সেই জৈবিক প্রক্রিয়া, যার মাধ্যমে কোনো জীবের জিনগত উপাদানে স্থায়ী ও বংশগত পরিবর্তন ঘটে। এই পরিবর্তনকে **মিউটেশন** বা পরিব্যক্তি বলা হয়। মিউটেশনের ফলে ডিএনএ-এর ক্রমে পরিবর্তন আসে। এটি স্বতঃস্ফূর্তভাবে ঘটতে পারে, পরিবেশগত কারণে হতে পারে অথবা গবেষণাগারে ইচ্ছাকৃতভাবে ঘটানো যেতে পারে।
+
+রাসায়নিক পদার্থ বা বিকিরণ ব্যবহার করে মিউটেশন ঘটানো যায়। টিস্যু কালচারের সময়ও জিনগত বৈচিত্র্য দেখা দিতে পারে, যাকে **সোমাক্লোনাল ভ্যারিয়েশন** বলা হয়। জীবের মধ্যে নতুন বৈশিষ্ট্য সৃষ্টির জন্য জৈবপ্রযুক্তিতে এসব প্রক্রিয়া ব্যবহার করা হয়।
+
+জিনতত্ত্ব, আণবিক জীববিজ্ঞান এবং চিকিৎসাবিজ্ঞানে মিউটাজেনেসিস একটি গুরুত্বপূর্ণ ধারণা। এটি ক্যানসারের মতো রোগ বুঝতে গবেষকদের সাহায্য করে এবং জৈবপ্রযুক্তি গবেষণার অগ্রগতিতে অবদান রাখে।
+
++++
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAyDELEjKSFk3cABuytcR7R3d8WBUKIZxpjPIc3wxui7aH9NFNx1nUu8&amp;s=10)
+
+- Mutagenesis is the *biological process* through which the `genetic material` of an organism undergoes a `permanent, heritable change` known as a **mutation**. 
+
+- These changes `affect the DNA sequence` and may occur 
+  - `spontaneously`, 
+  - be `triggered by environmental factors`, 
+  - or be `deliberately induced in a laboratory`.
+
+- Mutations can be ++induced++ using `chemicals or radiation`. 
+
+- ++Genetic variation++ can also arise during `tissue culture`, a phenomenon known as **somaclonal variation**. These processes are used in *biotechnology* to `develop new characteristics` in organisms.
+
+- Mutagenesis is a ++central concept++ in `genetics, molecular biology, and medicine`. It helps researchers understand diseases such as `cancer` and supports advances in `biotechnological research`.</md></sn>
   <config>
     <tags>#01.introduction</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:36:06 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 06:32:54 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-eVKCVW4WR5</id>
     <duration></duration>
   </config>
