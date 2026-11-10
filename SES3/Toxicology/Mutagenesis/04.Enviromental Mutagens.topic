@@ -1,10 +1,33 @@
 
-  <sn></sn>
+  <sn><md>### Environmental Mutagens
+
+Environmental mutagens are `agents in the environment` that can `induce mutations by damaging DNA` or disrupting genetic stability. They include chemicals, radiation, and certain biological agents, and may affect public health.
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/classification_of_mutagens.png)
+</md></sn>
   <config>
     <tags>#04.enviromental mutagens</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:36:54 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 07:40:47 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-bpkTc3uyeI</id>
     <duration></duration>
   </config>
+<sn><md>#### Chemical Mutagens
+
+- **Polycyclic aromatic hydrocarbons (PAHs) and heterocyclic amines:** Found in `combustion products, vehicle exhaust, and some charbroiled or smoked foods`. Some are `metabolized into compounds that bind to DNA` and form bulky structures called DNA adducts.
+- **Tobacco smoke:** Contains many `chemicals that can damage DNA` and contribute to cancer.
+- **Heavy metals and metalloids:** `Lead, cadmium, arsenic, and nickel` can `induce oxidative stress` and interfere with DNA repair.
+- **Base analogs and intercalating agents:** Base analogs such as `5-bromouracil resemble normal DNA bases`. Intercalating agents such as ethidium bromide insert between DNA base pairs, potentially causing replication errors.
+
+</md></sn><sn><md>#### Physical Mutagens
+
+- **Ultraviolet (UV) radiation:** `UV light from sunlight` can cause adjacent pyrimidine bases, such as thymine, to link together. These `pyrimidine dimers distort DNA` and interfere with replication.
+- **Ionizing radiation:** `X-rays and gamma rays` can cause `DNA strand breaks`, including double-strand breaks, and chromosomal damage.
+
+</md></sn><sn><md>#### Biological Agents
+
+- **Infectious pathogens:** Certain viruses, such as `human papillomavirus` (HPV), can `integrate into the host genome` and disrupt normal gene regulation.
+</md></sn><sn><md>#### Reactive Oxygen Species
+
+**Reactive oxygen species (ROS)** are reactive molecules produced naturally during metabolism or in response to pollutants. They can `cause oxidative stress` and modify DNA bases, for example by forming 8-oxoguanine (8-oxoG).</md></sn>
