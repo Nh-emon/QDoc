@@ -1,10 +1,24 @@
 
-  <sn></sn>
+  <sn><md>### Induced Mutation
+
+##### Definition
+An **induced mutation** is a change in DNA caused by an `external agent`, known as a ++mutagen++. Mutagens may be `physical, chemical, or biological`, and can `alter the structure of DNA or its bases`.
+
+##### Key Points
+- Induced mutations result from `exposure to mutagens`.
+- They may occur `accidentally` through environmental exposure or be `deliberately` produced for research.
+- Researchers use them to `study gene function` and `create genetic variation`.
+- Unlike **spontaneous mutations**, which occur naturally without an external cause, induced mutations `result from external factors`.
+
+##### Example
+Exposure to ultraviolet (`UV`) light can `cause mutations in bacterial DNA`. Researchers can study these mutations to learn about `DNA repair mechanisms`.
+
+**In summary:** An induced mutation is a `change in the DNA sequence caused by an external physical, chemical, or biological agent`.</md></sn>
   <config>
     <tags>#06.induced mutation</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:37:31 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 08:16:34 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-Xc07CNE7nj</id>
     <duration></duration>
   </config>
