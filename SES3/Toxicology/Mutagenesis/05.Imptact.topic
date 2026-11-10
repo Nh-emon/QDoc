@@ -1,10 +1,30 @@
 
-  <sn></sn>
+  <sn><md>### Ecological and Environmental Impacts
+
+| Impact | What happens | Possible result |
+|---|---|---|
+| `DNA damage` | Pollutants damage DNA directly or produce harmful molecules called reactive oxygen species. | Cells may not function or divide normally. |
+| `Poor wildlife health` | Exposure can cause DNA and chromosome abnormalities and weaken immune systems. | Animals may become more vulnerable to disease. |
+| `Reproductive problems` | DNA damage and hormone disruption can interfere with reproduction. | Animals may have fewer offspring or offspring with developmental abnormalities. |
+| `Population decline` | Illness and reduced reproduction affect the number of organisms. | Wildlife populations may decrease. |
+| `Loss of biodiversity` | Sensitive species may disappear from polluted areas. | Fewer species remain in the ecosystem. |
+| `Tumors in wildlife` | Unrepaired DNA damage can cause cells to grow uncontrollably. | Tumors may develop and sometimes cause death. |
+
+</md></sn>
   <config>
     <tags>#05.imptact</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:37:15 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 07:55:56 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-JukIDQXXnb</id>
     <duration></duration>
   </config>
+<sn><md>### Human Health Consequences of Mutagenic Pollutants
+
+| Health consequence | What happens | Possible result |
+|---|---|---|
+| `Cancer risk` | Long-term exposure to certain mutagens in air or water can damage DNA in body cells. | Increased risk of cancers, including lung, skin, liver, and bladder cancer, depending on the pollutant and exposure. |
+| `Heritable genetic defects` | Mutations in germ cells—sperm or eggs—can be passed to offspring. | Offspring may inherit genetic changes that can cause metabolic or developmental disorders. |
+| `Neurological and hormonal disruption` | Some pollutants, including heavy metals and certain organic chemicals, can damage the nervous system or interfere with hormones. | Problems with brain function, development, or hormone regulation. |
+
+**Note:** Neurological and hormonal effects are not necessarily caused by mutations; pollutants can also produce them through other mechanisms.</md></sn>
