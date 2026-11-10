@@ -1,10 +1,37 @@
 
-  <sn></sn>
+  <sn><md>### Mechanisms of DNA Change
+- Point
+- Chromosomal
+- Genomic
+
+![img](https://raw.githubusercontent.com/Nh-emon/QDoc/main/SES3/media/toxicology/mechanism_of_dna_change.webp)
+
+
+Mutations can occur at different levels of the genome:
+
+#### Point Mutations
+
+- A single ++DNA base pair++ is `substituted, inserted, or deleted`. 
+- This may alter the `protein encoded` by the affected gene.
+
+#### Chromosomal Mutations
+
+Larger segments of a chromosome are changed or rearranged through:
+
+- **Deletions:** Loss of a chromosome segment
+- **Duplications:** Copying of a segment
+- **Inversions:** Reversal of a segment
+- **Translocations:** Movement of a segment to another chromosome
+
+##### Genomic Mutations
+
+The `number of chromosomes` or chromosome `sets changes`. 
+For example, `trisomy 21` (Down syndrome) results from an `extra copy of chromosome 21`.</md></sn>
   <config>
     <tags>#03.mechanism of dna change</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:36:40 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 07:18:57 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-0sZp2uo1ve</id>
     <duration></duration>
   </config>
