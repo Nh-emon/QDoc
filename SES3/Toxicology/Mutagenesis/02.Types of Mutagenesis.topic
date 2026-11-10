@@ -1,10 +1,39 @@
 
-  <sn></sn>
+  <sn><md>#### Types of Mutagenesis
+
+- Spontaneous
+- Induced
+- Site-Directed
+</md></sn>
   <config>
     <tags>#02.types of mutagenesis</tags>
     <thumbnail></thumbnail>
     <heading></heading>
-    <udate>Mon Nov 09 2026 19:36:27 GMT+0600 (Bangladesh Standard Time)</udate>
+    <udate>Tue Nov 10 2026 06:53:34 GMT+0600 (Bangladesh Standard Time)</udate>
     <id>article-XBLO5hTIrN</id>
     <duration></duration>
   </config>
+<sn><md>### Spontaneous Mutagenesis
+
+Spontaneous mutations `arise naturally without an external trigger`. They may result from:
+
+- Errors during `DNA replication`
+- `Chemical instability` of DNA bases
+- `Random biochemical reactions` within cells
+
+Cells have `repair mechanisms` that correct most of these errors. However, `some` changes `may persist and become permanent` mutations.
+
+</md></sn><sn><md>### Induced Mutagenesis
+
+Induced mutagenesis occurs when *external agents*, known as ++mutagens++, `cause DNA damage`. Mutagens are classified into *three main* categories:
+
+- **Physical mutagens:** ++Ionizing radiation++, such as `X-rays` and `gamma` rays, and ultraviolet (`UV`) radiation can cause DNA strand breaks or chemical changes to DNA bases.
+
+- **Chemical mutagens:** Substances such as ++polycyclic aromatic hydrocarbons++ found in `tobacco` smoke, `alkylating agents`, and `nitrosamines` can modify DNA or interfere with its replication.
+
+- **Biological mutagens:** `Certain viruses` can insert their `genetic material into a host’s genome`, causing insertional mutations. Some `bacterial toxins` can also damage DNA.
+
+</md></sn><sn><md>### Site-Directed Mutagenesis
+
+- *Site-directed* mutagenesis is a `laboratory technique` used to introduce `specific, targeted changes` into a DNA sequence. 
+- It is valuable for studying the `functions of genes and proteins` and has applications in `drug development and genetic engineering`.</md></sn>
